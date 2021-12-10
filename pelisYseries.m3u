@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1  group-title="Pelis" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png",Pelis 1
+http://tecnomasterapp.myartsonline.com/peliculas2021.m3u
+#EXTINF:-1  group-title="Pelis" tvg-logo="https://sdmedia.los40.com.mx/los40mexico/imagenes/201812/20/20181220215109_1545339168_still.png",Pelis 2
+http://tecnomasterapp.myartsonline.com/pelis1.m3u
+#EXTINF:-1  group-title="Pelis" tvg-logo="https://numerocero.es/wp-content/uploads/2019/04/Plataformas-de-pago-online.jpg",Pelis 3
+http://tecnomasterapp.myartsonline.com/pelis2.m3u
+#EXTINF:-1  group-title="Pelis" tvg-logo="https://w7.pngwing.com/pngs/298/685/png-transparent-movies-logo-backsheet-hand-painted-practical.png",Pelis 4
+http://tecnomasterapp.myartsonline.com/pelis3.m3u
+#EXTINF:-1  group-title="TV" tvg-logo="https://image.similarpng.com/very-thumbnail/2020/12/Televection-logo-design-on-transparent-background-PNG.png",TV
+https://iptvfree-latino008.blogspot.com
+#EXTINF:-1  group-title="Pelis" tvg-logo="https://thumbs.dreamstime.com/z/un-logotipo-de-la-pel%C3%ADcula-35102546.jpg",Pelis 6
+http://tecnomasterapp.myartsonline.com/pelis5.m3u
+#EXTINF:-1  group-title="Series" tvg-logo="https://andromedanautica.com/wp-content/uploads/2019/12/logo-series.png",Series 1
+http://tecnomasterapp.myartsonline.com/series2021.m3u
