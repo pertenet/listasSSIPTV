@@ -1,11 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Name" tvg-id="id" group-title="Covid" tvg-logo="https://www.kabul.es/wp-content/uploads/2020/11/covid-19_-_teaser.jpg",Coronavirus Pandemic: Real Time Dashboard, World Maps, Charts, News
+#EXTINF:-1  tvg-id="id" group-title="Covid",News
 https://www.youtube.com/watch?v=NMre6IAAAiU
-#EXTINF:-1 tvg-name="Name" tvg-id="id" group-title="Live" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/LogoNasaSpotB-1200x675.jpg",Nasa Live Stream - Earth From Space : Live Views from the ISS
+#EXTINF:-1  tvg-id="id" group-title="Live",Nasa Live Stream - Earth From Space : Live Views from the ISS
 https://www.youtube.com/watch?v=86YLFOog4GM
-#EXTINF:-1 tvg-name="Name" tvg-id="id" group-title="En directo" tvg-logo="https://fotos01.noticiasdenavarra.com/2020/02/01/690x278/eladio-jareno.jpeg",EN DIRECTO 🔴 La LAVA del volcán de LA PALMA cae al MAR y forma otra FAJANA cerca de TAZACORTE |RTVE
+#EXTINF:-1  tvg-id="id" group-title="Volcán La Palma",EN DIRECTO 🔴 La LAVA del volcán de LA PALMA cae al MAR y forma otra FAJANA cerca de TAZACORTE |RTVE
 https://www.youtube.com/watch?v=GW7SrK3V6OE
-#EXTINF:-1 tvg-name="Name" tvg-id="id" group-title="En directo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/TV_Canaria.jpg",DIRECTO | Erupción del volcán en La Palma
+#EXTINF:-1  tvg-id="id" group-title="Volcán La Palma",DIRECTO | Erupción del volcán en La Palma
 https://www.youtube.com/watch?v=pqkX3emfMMo
-#EXTINF:-1 tvg-name="Name" tvg-id="id" group-title="Xiaomi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Xiaomi_logo.svg/1024px-Xiaomi_logo.svg.png",Cómo DESBLOQUEAR BOOTLOADER Xiaomi 2021
+#EXTINF:-1  tvg-id="id" group-title="Volcán La Palma",EN DIRECTO 🔴 VOLCÁN en LA PALMA: Sigue la erupción declarada en la CUMBRE VIEJA
+https://www.youtube.com/watch?v=4S6zsl5pm-4
+#EXTINF:-1  tvg-id="id" group-title="Volcán La Palma",Craziest Volcano in SPAIN 🌋 La Palma Volcano Eruption. Cumbre Vieja
+https://www.youtube.com/watch?v=xR6TITT-9fA
+#EXTINF:-1  tvg-id="id" group-title="Volcán La Palma",LIVE: La Palma Volcano Eruption in the Canary Islands
+https://www.youtube.com/watch?v=8pNY87VYmI8
+#EXTINF:-1  tvg-id="id" group-title="Volcán La Palma",LIVE: La Palma Volcanic Eruption, Ocean Entry
+https://www.youtube.com/watch?v=awdf0PgfUnk
+#EXTINF:-1  tvg-id="id" group-title="Volcán La Palma",Volcanoes Live, Worldwide.
+https://www.youtube.com/watch?v=ErOgd4eXT1k
+#EXTINF:-1  tvg-id="id" group-title="Volcán La Palma",Último hora! canal 24 horas del volcán de la isla de La Palma CAMARA 2
+https://www.youtube.com/watch?v=DZyi6YwxvjE
+#EXTINF:-1  tvg-id="id" group-title="Volcán La Palma",LIVE: La Palma Volcano Eruption in the Canary Islands (Feed #2)
+https://www.youtube.com/watch?v=Fg7zu2NNunc
+#EXTINF:-1  tvg-id="id" group-title="Volcán La Palma",TELEVISIÓN CANARIA EN DIRECTO
+https://www.youtube.com/watch?v=wq07ZDT9vZM
+#EXTINF:-1  tvg-id="id" group-title="Xiaomi",Cómo DESBLOQUEAR BOOTLOADER Xiaomi 2021
 https://www.youtube.com/watch?v=uRKZnV_bGxE
+#EXTINF:-1  tvg-id="id" group-title="Xiaomi",Redmi Note 4 : Unlock Bootloader + Install TWRP + Root - YouTube
+https://www.youtube.com/watch?v=LQFhR0d1b20
+#EXTINF:-1  tvg-id="id" group-title="Xiaomi",Cómo Hacer una Copia de Seguridad & Restauración de la Carpeta "EFS" en Android - YouTube
+https://www.youtube.com/watch?v=H05f3xp3AMw
+#EXTINF:-1  tvg-id="id" group-title="Xiaomi",Tutoriales XIAOMI REDMI NOTE 4 - YouTube
+https://www.youtube.com/playlist?list=PLVAFndjbfAl03lto9LM9RE3RUqADovn_Z
