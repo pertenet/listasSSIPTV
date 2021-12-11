@@ -9,5 +9,7 @@ http://tecnomasterapp.myartsonline.com/pelis2.m3u
 http://tecnomasterapp.myartsonline.com/pelis3.m3u
 #EXTINF:-1  group-title="Pelis" tvg-logo="https://thumbs.dreamstime.com/z/un-logotipo-de-la-pel%C3%ADcula-35102546.jpg",Pelis 5
 http://tecnomasterapp.myartsonline.com/pelis5.m3u
+#EXTINF:-1  group-title="Pelis" tvg-logo="https://t4.ftcdn.net/jpg/03/54/98/47/360_F_354984781_y61LJvrAl1bL0c8DkisoEhtQHQFyOv2C.jpg",Pelis 6
+https://raw.githubusercontent.com/pertenet/listasSSIPTV/main/peliculas.m3u
 #EXTINF:-1  group-title="Series" tvg-logo="https://andromedanautica.com/wp-content/uploads/2019/12/logo-series.png",Series 1
 http://tecnomasterapp.myartsonline.com/series2021.m3u
