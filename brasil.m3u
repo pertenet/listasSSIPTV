@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Name" tvg-id="id" group-title="Listas" tvg-logo="https://static.wixstatic.com/media/0b936c_3fb14ddd6f944d82b03c81d834a5f2a8~mv2.png/v1/fill/w_149,h_149,al_c,q_85,usm_0.66_1.00_0.01/0b936c_3fb14ddd6f944d82b03c81d834a5f2a8~mv2.webp",Lista001
+#EXTINF:-1  tvg-id="id" group-title="Listas" tvg-logo="https://static.wixstatic.com/media/0b936c_8241ffff02df4ebcbfb6a3dfd65048db~mv2.png/v1/fill/w_150,h_150,al_c,q_85,usm_0.66_1.00_0.01/0b936c_8241ffff02df4ebcbfb6a3dfd65048db~mv2.webp",Lista001
 https://raw.githubusercontent.com/pertenet/listasSSIPTV/main/brasil01.m3u
-#EXTINF:-1 tvg-name="Name" tvg-id="id" group-title="Listas" tvg-logo="https://static.wixstatic.com/media/0b936c_3fb14ddd6f944d82b03c81d834a5f2a8~mv2.png/v1/fill/w_149,h_149,al_c,q_85,usm_0.66_1.00_0.01/0b936c_3fb14ddd6f944d82b03c81d834a5f2a8~mv2.webp",Lista002
+#EXTINF:-1  tvg-id="id" group-title="Listas" tvg-logo="https://static.wixstatic.com/media/0b936c_9e3a50bca7094f05a27e50effa5dc223~mv2.png/v1/fill/w_150,h_150,al_c,q_85,usm_0.66_1.00_0.01/0b936c_9e3a50bca7094f05a27e50effa5dc223~mv2.webp",Lista002
 https://raw.githubusercontent.com/pertenet/listasSSIPTV/main/brasil02.m3u
-#EXTINF:-1 tvg-name="Name" tvg-id="id" group-title="Listas" tvg-logo="https://static.wixstatic.com/media/0b936c_3fb14ddd6f944d82b03c81d834a5f2a8~mv2.png/v1/fill/w_149,h_149,al_c,q_85,usm_0.66_1.00_0.01/0b936c_3fb14ddd6f944d82b03c81d834a5f2a8~mv2.webp",Lista003
+#EXTINF:-1  tvg-id="id" group-title="Listas" tvg-logo="https://static.wixstatic.com/media/0b936c_c370deb6dd6c4fa9bd38e8baa4bfe910~mv2.png/v1/fill/w_150,h_150,al_c,q_85,usm_0.66_1.00_0.01/0b936c_c370deb6dd6c4fa9bd38e8baa4bfe910~mv2.webp",Lista003
 https://raw.githubusercontent.com/pertenet/listasSSIPTV/main/brasil03.m3u
