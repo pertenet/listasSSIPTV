@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1  group-title="Pelis",Pelis 1
+http://tecnomasterapp.myartsonline.com/peliculas2021.m3u
+#EXTINF:-1  group-title="Pelis",Pelis 2
+http://tecnomasterapp.myartsonline.com/pelis1.m3u
+#EXTINF:-1  group-title="Pelis",Pelis 3
+http://tecnomasterapp.myartsonline.com/pelis2.m3u
+#EXTINF:-1  group-title="Pelis",Pelis 4
+http://tecnomasterapp.myartsonline.com/pelis3.m3u
+#EXTINF:-1  group-title="Pelis",Pelis 5
+http://tecnomasterapp.myartsonline.com/pelis5.m3u
+#EXTINF:-1  group-title="Pelis",Pelis 6
+https://raw.githubusercontent.com/pertenet/listasSSIPTV/main/pelis%206.m3u
+#EXTINF:-1  group-title="Pelis",Pelis 7
+https://raw.githubusercontent.com/pertenet/listasSSIPTV/main/pelis%207.m3u
+#EXTINF:-1  group-title="Pelis",Pelis 8
+http://bit.ly/m3ufilmss
+#EXTINF:-1  group-title="Pelis",Pelis 9
+http://bit.ly/PelisHDAlterna
+#EXTINF:-1  group-title="Series",Series 1
+http://tecnomasterapp.myartsonline.com/series2021.m3u
+#EXTINF:-1  group-title="Series",Series 2
+https://raw.githubusercontent.com/pertenet/listasSSIPTV/main/series%202.m3u
+#EXTINF:-1  group-title="Series",Series 3
+https://raw.githubusercontent.com/pertenet/listasSSIPTV/main/series%203.m3u
