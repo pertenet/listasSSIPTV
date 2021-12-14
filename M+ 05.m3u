@@ -1,0 +1,373 @@
+#EXTM3U
+#EXTINF:0,***** SPAIN *****
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/0.ts
+#EXTINF:0,ES: #0
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2105.ts
+#EXTINF:0,ES: #0 HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2566.ts
+#EXTINF:0,ES: 24 Horas
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2492.ts
+#EXTINF:0,ES: A3S Atreseries HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/3787.ts
+#EXTINF:0,ES: A3SERIES FHD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/8849.ts
+#EXTINF:0,ES: AMC HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2742.ts
+#EXTINF:0,ES: ANTENNA 3
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/1117.ts
+#EXTINF:0,ES: ANTENNA 3 HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/5142.ts
+#EXTINF:0,ES: AXN HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/971.ts
+#EXTINF:0,ES: AXN White HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/970.ts
+#EXTINF:0,ES: AXN White FHD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/8848.ts
+#EXTINF:0,ES: BABY TV
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/3790.ts
+#EXTINF:0,ES: BARCA TV
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/1673.ts
+#EXTINF:0,ES: Boing
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2186.ts
+#EXTINF:0,ES: C & I
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2496.ts
+#EXTINF:0,ES: Calle 13 FHD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/1676.ts
+#EXTINF:0,ES: CANAL COCINA
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/3188.ts
+#EXTINF:0,ES: CAZA Y PESCA
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2503.ts
+#EXTINF:0,ES: #VAMOS
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/3789.ts
+#EXTINF:0,ES: #Vamos
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/8996.ts
+#EXTINF:0,ES: #VAMOS FHD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/8543.ts
+#EXTINF:0,ES: Clan HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2745.ts
+#EXTINF:0,ES: COMEDY CENTRAL
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2451.ts
+#EXTINF:0,ES: COSMO
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2450.ts
+#EXTINF:0,ES: CUATRO
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2091.ts
+#EXTINF:0,ES: CUATRO HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/4966.ts
+#EXTINF:0,ES: Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/3256.ts
+#EXTINF:0,ES: Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2183.ts
+#EXTINF:0,ES: Disney Jr.
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2106.ts
+#EXTINF:0,ES: DISNEY +
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/3190.ts
+#EXTINF:0,ES: Divinity
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/4109.ts
+#EXTINF:0,ES: Energy
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2191.ts
+#EXTINF:0,ES: EXTREMA TV HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/8169.ts
+#EXTINF:0,ES: EUROSPORT 1 HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/3189.ts
+#EXTINF:0,ES: EUROSPORT 2
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/4338.ts
+#EXTINF:0,ES: FDF
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2743.ts
+#EXTINF:0,ES: Fox HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2454.ts
+#EXTINF:0,ES: Fox Life HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/1024.ts
+#EXTINF:0,ES: GOL TV
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/3930.ts
+#EXTINF:0,ES: HISTORIA
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2090.ts
+#EXTINF:0,ES: HOLLYWOOD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/1032.ts
+#EXTINF:0,ES: LA 1
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2744.ts
+#EXTINF:0,ES: LA 1 HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2088.ts
+#EXTINF:0,ES: LA 2
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2089.ts
+#EXTINF:0,ES: LA SEXTA
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2620.ts
+#EXTINF:0,ES: LA SEXTA HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/1670.ts
+#EXTINF:0,ES: M  Seriesmania HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/6385.ts
+#EXTINF:0,ES: M Accion
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/3257.ts
+#EXTINF:0,ES: M Accion HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/1675.ts
+#EXTINF:0,ES: M Cine espanol
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2447.ts
+#EXTINF:0,ES: M CineDoc&Roll
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2494.ts
+#EXTINF:0,ES: M Comedia
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/1072.ts
+#EXTINF:0,ES: M Comedia HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2504.ts
+#EXTINF:0,ES: M Dcine HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/889.ts
+#EXTINF:0,ES: M Drama HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2490.ts
+#EXTINF:0,ES: M Estrenos
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2493.ts
+#EXTINF:0,ES: M Estrenos HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/1672.ts
+#EXTINF:0,ES: M Partidazo
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2179.ts
+#EXTINF:0,ES: M Series HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2453.ts
+#EXTINF:0,ES: M Series XTRA HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/1671.ts
+#EXTINF:0,ES: M XTRA HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2176.ts
+#EXTINF:0,ES: MEGA HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2873.ts
+#EXTINF:0,ES: Nat Geo Wild
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/1023.ts
+#EXTINF:0,ES: NATIONAL GEOGRAPHIC
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/1674.ts
+#EXTINF:0,ES: NEOX
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2582.ts
+#EXTINF:0,ES: NON STOP PEOPLE
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2449.ts
+#EXTINF:0,ES: Nova
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2502.ts
+#EXTINF:0,ES: Odisea
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2495.ts
+#EXTINF:0,ES: PARAMOUNT
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2448.ts
+#EXTINF:0,ES: REAL MADRID TV
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/3191.ts
+#EXTINF:0,ES: SYFY HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2092.ts
+#EXTINF:0,ES: TAQUILLA 1
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/3211.ts
+#EXTINF:0,ES: TAQUILLA 2
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/3219.ts
+#EXTINF:0,ES: TAQUILLA 3
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/3218.ts
+#EXTINF:0,ES: TAQUILLA 4
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/3217.ts
+#EXTINF:0,ES: TAQUILLA 5
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/3216.ts
+#EXTINF:0,ES: TAQUILLA 6
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/3215.ts
+#EXTINF:0,ES: TAQUILLA 7
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/3214.ts
+#EXTINF:0,ES: TAQUILLA 8
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/3213.ts
+#EXTINF:0,ES: TAQUILLA 9
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/3212.ts
+#EXTINF:0,ES: TAQUILLA 10
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/3220.ts
+#EXTINF:0,ES: TEN
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/8211.ts
+#EXTINF:0,ES: TCM
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2185.ts
+#EXTINF:0,ES: Telecinco HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2104.ts
+#EXTINF:0,ES: Teledeporte
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2180.ts
+#EXTINF:0,ES: TNT FHD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2280.ts
+#EXTINF:0,ES: Toros
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/709.ts
+#EXTINF:0,ES: BE MAD HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2372.ts
+#EXTINF:0,ES: VIAJAR HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2452.ts
+#EXTINF:0,***** SPAIN - PACK SPORT*****
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/0.ts
+#EXTINF:0,ES: Bein La Liga FHD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/4337.ts
+#EXTINF:0,ES: Bein Sports FHD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2184.ts
+#EXTINF:0,ES: DAZN 1
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/8165.ts
+#EXTINF:0,ES: DAZN 2
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/8166.ts
+#EXTINF:0,ES: DAZN 24/7
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/8196.ts
+#EXTINF:0,ES: DAZN 3
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/8197.ts
+#EXTINF:0,ES: DAZN 4
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/8198.ts
+#EXTINF:0,ES: DAZN FHD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/3154.ts
+#EXTINF:0,ES: EUROSPORT 1 HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/3189.ts
+#EXTINF:0,ES: EUROSPORT 2
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/4338.ts
+#EXTINF:0,ES: La LIGA HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/890.ts
+#EXTINF:0,ES: M DEPORTES 1
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2178.ts
+#EXTINF:0,ES: M DEPORTES 2 HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2177.ts
+#EXTINF:0,ES: M Formula 1 HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2181.ts
+#EXTINF:0,ES: M Futbol
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2491.ts
+#EXTINF:0,ES: M Futbol HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2175.ts
+#EXTINF:0,ES: M Golf
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/710.ts
+#EXTINF:0,ES: M LaLiga HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/8189.ts
+#EXTINF:0,ES: M Liga De Campeones 1 HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2456.ts
+#EXTINF:0,ES: M Liga de Campeones 2 HD (Only Event)
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/8199.ts
+#EXTINF:0,ES: M Liga de Campeones 3 HD (Only Event)
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/8200.ts
+#EXTINF:0,ES: M Liga de Campeones 4 HD  (Only Events)
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/8201.ts
+#EXTINF:0,ES: M Liga de Campeones 5 HD  (Only Events)
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/8202.ts
+#EXTINF:0,ES: M Liga de Campeones 6 HD  (Only Events)
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/8203.ts
+#EXTINF:0,ES: M Liga de Campeones 7 HD  (Only Events)
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/8204.ts
+#EXTINF:0,ES: M Liga de Campeones 8 HD  (Only Events)
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/8205.ts
+#EXTINF:0,ES: M Liga de Campeones 9 HD  (Only Events)
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/8206.ts
+#EXTINF:0,ES: M. DEPORTES 2
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2692.ts
+#EXTINF:0,ES: M+ LIGATV BAR FHD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/8190.ts
+#EXTINF:0,ES: La Liga BAR FHD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/8191.ts
+#EXTINF:0,ES: LALIGA TV BAR
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/8192.ts
+#EXTINF:0,ES: MOVISTAR LALIGA HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/4409.ts
+#EXTINF:0,ES: Movistar MotoGP
+#EXTVLCOPT:network-caching=1000
+http://iptv.csserv.co:8000/live/clientr725/631739/2182.ts
