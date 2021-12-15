@@ -1,45 +1,316 @@
 #EXTM3U
-#EXTINF:-1 ,N/A
-http://bgaddon.xyz/play/gorda-255.php?&user=tg0rd4&c=2
-#EXTINF:-1 ,N/A
-http://bgaddon.xyz/play/gorda-255.php?&user=tg0rd4&c=4
-#EXTINF:-1 ,N/A
-http://bgaddon.xyz/play/gorda-255.php?&user=tg0rd4&c=6
-#EXTINF:-1 ,N/A
-http://bgaddon.xyz/play/gorda-255.php?&user=tg0rd4&c=17
-#EXTINF:-1 ,N/A
-http://bgaddon.xyz/play/gorda-255.php?&user=tg0rd4&c=21
-#EXTINF:-1 ,N/A
-http://bgaddon.xyz/play/gorda-255.php?&user=tg0rd4&c=24
-#EXTINF:-1 ,N/A
-http://bgaddon.xyz/play/gorda-255.php?&user=tg0rd4&c=25
-#EXTINF:-1 ,N/A
-http://bgaddon.xyz/play/gorda-255.php?&user=tg0rd4&c=33
-#EXTINF:-1 ,N/A
-http://bgaddon.xyz/play/gorda-255.php?&user=tg0rd4&c=34
-#EXTINF:-1 ,N/A
-http://bgaddon.xyz/play/gorda-255.php?&user=tg0rd4&c=35
-#EXTINF:-1 ,N/A
-http://bgaddon.xyz/play/gorda-255.php?&user=tg0rd4&c=36
-#EXTINF:-1 ,N/A
-http://bgaddon.xyz/play/gorda-255.php?&user=tg0rd4&c=39
-#EXTINF:-1 ,N/A
-http://bgaddon.xyz/play/gorda-255.php?&user=tg0rd4&c=40
-#EXTINF:-1 ,N/A
-http://bgaddon.xyz/play/gorda-255.php?&user=tg0rd4&c=57
-#EXTINF:-1 ,N/A
-http://bgaddon.xyz/play/gorda-255.php?&user=tg0rd4&c=43
-#EXTINF:-1 ,N/A
-http://bgaddon.xyz/play/gorda-255.php?&user=tg0rd4&c=44
-#EXTINF:-1 ,N/A
-http://bgaddon.xyz/play/gorda-255.php?&user=tg0rd4&c=51
-#EXTINF:-1 ,N/A
-http://bgaddon.xyz/play/gorda-255.php?&user=tg0rd4&c=72
-#EXTINF:-1 ,N/A
-http://bgaddon.xyz/play/gorda-255.php?&user=tg0rd4&c=76
-#EXTINF:-1 ,N/A
-http://bgaddon.xyz/play/gorda-255.php?&user=tg0rd4&c=75
-#EXTINF:-1 ,N/A
-http://bgaddon.xyz/play/gorda-255.php?&user=tg0rd4&c=88
-#EXTINF:-1 ,N/A
-http://bgaddon.xyz/play/gorda-255.php?&user=tg0rd4&c=108
+#EXTINF:0,SP: ES: M. Liga de Campeones
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBJKAoV_zWnarbj4sZpsfyNxnYWkbvTk-PGJ0V-mkDN2/ts
+#EXTINF:0,SP: ES: M. Liga De Campeones HD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBJKAoV_zWnarbj4sZpsfyN6xE7OTZLeocjTRVqyHDNZ/ts
+#EXTINF:0,SP: ES: M. Liga de Campeones FHD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBJKAoV_zWnarbj4sZpsfyO0QrbTQW4zyoDF5eaDcSWJ/ts
+#EXTINF:0,SP: ES: M. LaLiga
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBJKAoV_zWnarbj4sZpsfyMuJp7_n63IyRj2ttH6r3c5/ts
+#EXTINF:0,SP: ES: M. LaLiga HD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBJKAoV_zWnarbj4sZpsfyPkFIiCjGtY-C1lYxdJhYV5/ts
+#EXTINF:0,SP: ES: M. LaLiga FHD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBJKAoV_zWnarbj4sZpsfyMa3LdR2Pv-rgmB0f3fyYXh/ts
+#EXTINF:0,SP: ES: LaLiga TV Bar
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBJKAoV_zWnarbj4sZpsfyOSQFEq3r0mjzozAR3otdAU/ts
+#EXTINF:0,SP: ES: LaLiga TV Bar HD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBJKAoV_zWnarbj4sZpsfyPVIxZhKgW-6k2FETDz69_C/ts
+#EXTINF:0,SP: ES: LaLiga TV Bar FHD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJS23ybKcYtN31xiCwuWmJPRmXyB9O92Y5A6Ls9wtvYw/ts
+#EXTINF:0,SP: ES: M. LaLiga 1
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJS23ybKcYtN31xiCwuWmJMnmI2LQx-syEFnwJWar951/ts
+#EXTINF:0,SP: ES: M. LaLiga 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJS23ybKcYtN31xiCwuWmJN8ZnUpEzHOwHOdfn_dNWHT/ts
+#EXTINF:0,SP: ES: M. LaLiga 2
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJS23ybKcYtN31xiCwuWmJNbCT-meRNgTcz0henPZ7K5/ts
+#EXTINF:0,SP: ES: M. LaLiga 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJS23ybKcYtN31xiCwuWmJN1KS6jc4lVuAcIJRmvstmV/ts
+#EXTINF:0,SP: ES: M. LaLiga 3
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJS23ybKcYtN31xiCwuWmJOqaKvB5s_iYgZ9e8jmSZFx/ts
+#EXTINF:0,SP: ES: M. LaLiga 3 FHD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJS23ybKcYtN31xiCwuWmJOgYtIrL7jsVT6Yxb0N49O0/ts
+#EXTINF:0,SP: ES: M. Liga de Campeones 1
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJS23ybKcYtN31xiCwuWmJMAuXACBx_vg6m52rOaE1jH/ts
+#EXTINF:0,SP: ES: M. Liga de Campeones 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJS23ybKcYtN31xiCwuWmJNFsfZOR-TFtHGtQpPbWMwm/ts
+#EXTINF:0,SP: ES: M. Liga de Campeones 2
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJS23ybKcYtN31xiCwuWmJN-GddifYWO1RbetdkussEw/ts
+#EXTINF:0,SP: ES: M. Liga de Campeones 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbH1b8bFFT93j7eNhwS6lbZwTUQqGWU-HYHQDcRGbr0DS/ts
+#EXTINF:0,SP: ES: M. Liga de Campeones 3
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbH1b8bFFT93j7eNhwS6lbZwSFkzH4YI6-EC8Th-Vmae-/ts
+#EXTINF:0,SP: ES: M. Liga de Campeones 3 FHD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbH1b8bFFT93j7eNhwS6lbZxssdATLq4ZxBCM_5S84RnV/ts
+#EXTINF:0,SP: ES: M. Liga de Campeones 4
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbH1b8bFFT93j7eNhwS6lbZzrnk2JZYF3Jq4EdqPItD1Z/ts
+#EXTINF:0,SP: ES: M. Liga de Campeones 5
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbH1b8bFFT93j7eNhwS6lbZyUvCtx0b9Q7T6yW3ebtzX1/ts
+#EXTINF:0,SP: ES: M. Liga de Campeones 6
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbH1b8bFFT93j7eNhwS6lbZzae-1wohjr42ZUyN9c5gqD/ts
+#EXTINF:0,SP: ES: M. Liga de Campeones 7
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbH1b8bFFT93j7eNhwS6lbZxR9ErDmMGVXAsdwqxzIDIj/ts
+#EXTINF:0,SP: ES: M. Liga de Campeones 8
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbH1b8bFFT93j7eNhwS6lbZzb46qdg-vPvIJmdtKiJRr2/ts
+#EXTINF:0,SP: ES: Barça TV
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbH1b8bFFT93j7eNhwS6lbZzcfrHaKv6We-ElJHlvvhHx/ts
+#EXTINF:0,SP: ES: Barça TV FHD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbH1b8bFFT93j7eNhwS6lbZzlesUIGHCWoGYcQHB1Kwoe/ts
+#EXTINF:0,SP: ES: Real Madrid TV
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPwUFESCpCqUQdOjJwoj4af1QsvlWXlBb_N1sw0-vRjm/ts
+#EXTINF:0,SP: ES: Real Madrid TV HD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPwUFESCpCqUQdOjJwoj4acCVJdv0mmsQuIhhhUxXCFo/ts
+#EXTINF:0,SP: ES: Real Madrid TV FHD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPwUFESCpCqUQdOjJwoj4ac9ZPPNmktQZFnxPQQLhSDz/ts
+#EXTINF:0,SP: ES: #Vamos
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPwUFESCpCqUQdOjJwoj4adhit7xacdTzicjsO68iruk/ts
+#EXTINF:0,SP: ES: #Vamos HD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPwUFESCpCqUQdOjJwoj4acZezdaOsZ1boMrwCucikd9/ts
+#EXTINF:0,SP: ES: #Vamos FHD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPwUFESCpCqUQdOjJwoj4acVhiTX4zOFnAt8qRnGByBa/ts
+#EXTINF:0,SP: ES: GOL
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPwUFESCpCqUQdOjJwoj4afwHovuMZc9g80ELy29MOR0/ts
+#EXTINF:0,SP: ES: GOL HD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPwUFESCpCqUQdOjJwoj4adsrpK2s2cb52MvJGJpLKeR/ts
+#EXTINF:0,SP: ES: GOL FHD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPwUFESCpCqUQdOjJwoj4aciM1oAawQ3KvBhi3O2SJHb/ts
+#EXTINF:0,SP: ES: Movistar F1
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPwUFESCpCqUQdOjJwoj4afoseo7S0If40sXSlwocNby/ts
+#EXTINF:0,SP: ES: Movistar F1 HD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKwTcuIW-XGcondM9ZLOeiIsUz6Q_m2K_MEu-TtVI9R2/ts
+#EXTINF:0,SP: ES: Movistar F1 FHD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKwTcuIW-XGcondM9ZLOeiJX9Nb8c_xAJLr_9bnEwlUo/ts
+#EXTINF:0,SP: ES: Movistar Golf
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKwTcuIW-XGcondM9ZLOeiLzOshE_6cFs4Dvr7vGS6ek/ts
+#EXTINF:0,SP: ES: Movistar Golf HD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKwTcuIW-XGcondM9ZLOeiJCcah-WIie8a3QmRvbSQm-/ts
+#EXTINF:0,SP: ES: Movistar Golf FHD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKwTcuIW-XGcondM9ZLOeiLYIhEMORM3nODUaKKUf3g-/ts
+#EXTINF:0,SP: ES: Movistar Deportes
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKwTcuIW-XGcondM9ZLOeiJdclOyMBlczZM4_2YsxiJ8/ts
+#EXTINF:0,SP: ES: Movistar Deportes HD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKwTcuIW-XGcondM9ZLOeiLQDOztN7wISxvIjLcKsUIM/ts
+#EXTINF:0,SP: ES: Movistar Deportes FHD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKwTcuIW-XGcondM9ZLOeiKbLZyPbiebgvzOVeB_yYJW/ts
+#EXTINF:0,SP: ES: Eurosport 1
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKwTcuIW-XGcondM9ZLOeiI3MxHBKiWotSHDgkKhs9Ov/ts
+#EXTINF:0,SP: ES: Eurosport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKwTcuIW-XGcondM9ZLOeiIagTqBNsgutjEJTHW1zwqj/ts
+#EXTINF:0,SP: ES: Eurosport 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbC6IG5Cfx3iWHbwLjX_AseYlsyZ9eOE8OvKEpULMcRxs/ts
+#EXTINF:0,SP: ES: Eurosport 2
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbC6IG5Cfx3iWHbwLjX_AseYng442yYmn4m-RaQiimOe4/ts
+#EXTINF:0,SP: ES: Eurosport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbC6IG5Cfx3iWHbwLjX_AseZ98gE2zzZ-D-oUgPj6LlWc/ts
+#EXTINF:0,SP: ES: Teledeporte
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbC6IG5Cfx3iWHbwLjX_AseazBfx7hbJhLWvy_8Ji5DFe/ts
+#EXTINF:0,SP: ES: Teledeporte FHD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbC6IG5Cfx3iWHbwLjX_AsebJbbMdl67TIlzZae_DlUkj/ts
+#EXTINF:0,SP: ES: Dazn 01 (Eventos)
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbC6IG5Cfx3iWHbwLjX_Asea5JcyNz-GxCwlCI91XDroG/ts
+#EXTINF:0,SP: ES: Dazn 02 (Eventos)
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbC6IG5Cfx3iWHbwLjX_Asea2nkm_itO3bPzm6CNicOz6/ts
+#EXTINF:0,SP: ES: Dazn 03 (Eventos)
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbC6IG5Cfx3iWHbwLjX_AseaFs9LkxFlg7bzdDVAfr9Yl/ts
+#EXTINF:0,SP: ES: Dazn 04 (Eventos)
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbC6IG5Cfx3iWHbwLjX_AseajwRvF1M7iiKAPbbZlesVO/ts
+#EXTINF:0,SP: ES: Dazn 05 (Eventos)
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbC6IG5Cfx3iWHbwLjX_AseZ3qVfCiMvpRGTY3P7Ku0Nd/ts
+#EXTINF:0,SP: ES: Dazn 06 (Eventos)
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOTLCt1R1BGdjrlLEhVdux87LOCHnoT5y_m3PCXx56eh/ts
+#EXTINF:0,SP: ES: Dazn 07 (Eventos)
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOTLCt1R1BGdjrlLEhVdux8vksuyr-GegzCRSeoyiF21/ts
+#EXTINF:0,SP: ES: Dazn 08 (Eventos)
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOTLCt1R1BGdjrlLEhVdux9rURmjdmxycvyhnba8MS0K/ts
+#EXTINF:0,SP: ES: Dazn 09 (Eventos)
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOTLCt1R1BGdjrlLEhVdux_miSe4HyJ-CgjsCnLtJJtI/ts
+#EXTINF:0,SP: ES: Dazn 10 (Eventos)
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOTLCt1R1BGdjrlLEhVdux8aX-boS0IJMLCXswWv9Clk/ts
+#EXTINF:0,SP: ES: Dazn 11 (Eventos)
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOTLCt1R1BGdjrlLEhVdux_EDvkagMJjmNDEFKalwcHP/ts
+#EXTINF:0,SP: ES: Dazn 12 (Eventos)
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOTLCt1R1BGdjrlLEhVdux_Efp7ErROIaLG9w8VZFnLF/ts
+#EXTINF:0,SP: ES: Dazn 13 (Eventos)
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOTLCt1R1BGdjrlLEhVdux_-axXeCjFfvTrZy9rGJtjx/ts
+#EXTINF:0,SP: ES: Dazn 14 (Eventos)
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOTLCt1R1BGdjrlLEhVdux_OUSe5VTL-QJ_MYkuyS1D5/ts
+#EXTINF:0,SP: ES: Dazn 16 (Eventos)
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOTLCt1R1BGdjrlLEhVdux8xrS1N560NhOXTgYChxHDm/ts
+#EXTINF:0,SP: ES: Dazn 17 (Eventos)
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbElaHEpMpY5srq2gSw9nYSIPUTHwe6C2xJYGWCUWHXm5/ts
+#EXTINF:0,SP: ES: Dazn 18 (Eventos)
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbElaHEpMpY5srq2gSw9nYSLnWKS--BHjxpg_ZZaiKCxf/ts
+#EXTINF:0,SP: ES: Dazn 19 (Eventos)
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbElaHEpMpY5srq2gSw9nYSLMmiygQ9HrZhy5txZw_Hlr/ts
+#EXTINF:0,SP: ES: Dazn 20 (Eventos)
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbElaHEpMpY5srq2gSw9nYSLxIqB8XRXk6ejjr5RJ69xh/ts
+#EXTINF:0,SP: ES: Dazn 21 (Eventos)
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbElaHEpMpY5srq2gSw9nYSICxpBGJumd2DWl4vORFWwp/ts
+#EXTINF:0,SP: ES: Dazn 22 (Eventos)
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbElaHEpMpY5srq2gSw9nYSKnM5V9fHpkgibecP3tk9GC/ts
+#EXTINF:0,SP: Sky Sports Liga Española HD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbElaHEpMpY5srq2gSw9nYSIPuUqHB8hUyu9aOh7ZfwNM/ts
+#EXTINF:0,SP: Sky Sports Latino (MOVIL)
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbElaHEpMpY5srq2gSw9nYSI9_9u3h3kHI3rxDcdM6DR9/ts
+#EXTINF:0,SP: Sky Sports Latino HD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbElaHEpMpY5srq2gSw9nYSLFMKvzTkQZcr4I1w06N-7Z/ts
+#EXTINF:0,SP: BEIN Sports N (MOVIL)
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbElaHEpMpY5srq2gSw9nYSK2RyOH1RBjcNsAleScfZl9/ts
+#EXTINF:0,SP: BEIN Sports N
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbACH6o3b164GqGjE_mywIbqXON8x1jzk5lcW_YVsc7VG/ts
+#EXTINF:0,SP: BEIN Sports N FHD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbACH6o3b164GqGjE_mywIboC6AzQlWz12A6bWpqKuUzb/ts
+#EXTINF:0,SP: Fox Sports 1 Sur
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbACH6o3b164GqGjE_mywIbqiBExFr5rDblYfKuM-F29O/ts
+#EXTINF:0,SP: Fox Sports 1 Sur HD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbACH6o3b164GqGjE_mywIbrZQ1bqMLSUZ3twZjxhmrHj/ts
+#EXTINF:0,SP: Fox Sports 1 Sur Full HD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbACH6o3b164GqGjE_mywIbpsPt0TVEncESfscUZcQ5Zm/ts
+#EXTINF:0,SP: Fox Sports 2 Sur
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbACH6o3b164GqGjE_mywIbqQeFUm7sKEdksbJdX0Xb4G/ts
+#EXTINF:0,SP: Fox Sports 2 Sur HD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbACH6o3b164GqGjE_mywIbpem-zdSoaKij3ZBjZFEyR5/ts
+#EXTINF:0,SP: Fox Sports 2 Sur Full HD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbACH6o3b164GqGjE_mywIbrZCwSeaHi4H8QbN1c2mKR_/ts
+#EXTINF:0,SP: Fox Sports 3 Sur
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbACH6o3b164GqGjE_mywIbpULzcuRF4aAuE49RcwFmBj/ts
+#EXTINF:0,SP: Fox Sports 3 Sur HD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbACH6o3b164GqGjE_mywIbojKecmlo7uNKoyWQgs8WIR/ts
+#EXTINF:0,SP: Fox Sports 3 Sur Full HD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIJNnNDxNUV2-4du7vimabzQLCPVLiRlVtwagPhZiV2q/ts
+#EXTINF:0,SP: Espn 1 Sur (MOVIL)
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIJNnNDxNUV2-4du7vimabyTXaXtGJGz26-RGuIikTFg/ts
+#EXTINF:0,SP: Espn 1 Sur
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIJNnNDxNUV2-4du7vimabziNY0wE3WtfTWzFdr5zReC/ts
+#EXTINF:0,SP: Espn 1 Sur HD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIJNnNDxNUV2-4du7vimabxx9I6KdwhP8GD_VbCY6odY/ts
+#EXTINF:0,SP: Espn 1 Sur Full HD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIJNnNDxNUV2-4du7vimabwnxCCXWhDRjAOS5XRDMmai/ts
+#EXTINF:0,SP: Espn 2 Sur (MOVIL)
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIJNnNDxNUV2-4du7vimabxbo20w0nI5iiTMs0S7urT0/ts
+#EXTINF:0,SP: Espn 2 Sur
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIJNnNDxNUV2-4du7vimabweQPHQ12fDeNTHNAyDnUUX/ts
+#EXTINF:0,SP: Espn 2 Sur HD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIJNnNDxNUV2-4du7vimabyJQyulgSG85Kz7eV1udx-o/ts
+#EXTINF:0,SP: Espn 2 Sur Full HD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIJNnNDxNUV2-4du7vimabw46bsaF9Bv-z5Yhvv27V7M/ts
+#EXTINF:0,SP: Espn 3 Sur
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIJNnNDxNUV2-4du7vimabwESHtfjEO2XX32-IjPK177/ts
+#EXTINF:0,SP: Espn 3 Sur HD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCDLtg1-ZSccpYcONvrbwiRk3k12lCaPoZImqAnDSgAU/ts
+#EXTINF:0,SP: Espn 3 Sur Full HD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCDLtg1-ZSccpYcONvrbwiRHA9p0RoSSzX4T6r8gG95j/ts
+#EXTINF:0,SP: Espn Plus Sur
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCDLtg1-ZSccpYcONvrbwiRbl_H5bzg11KscjLqKUc7u/ts
+#EXTINF:0,SP: Espn Plus Sur HD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCDLtg1-ZSccpYcONvrbwiT8cSSDTe_-TvYfO0h6I8Bk/ts
+#EXTINF:0,SP: Espn Plus Sur Full HD
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCDLtg1-ZSccpYcONvrbwiQyv0ePyh0OAw59CU8mecYE/ts
+#EXTINF:0,SP: GOL TV (MOVIL)
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCDLtg1-ZSccpYcONvrbwiSRPVsRKEBukeFV5wV6RrXg/ts
+#EXTINF:0,SP: GOL TV
+#EXTVLCOPT:network-caching=1000
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCDLtg1-ZSccpYcONvrbwiRDzMg0GA98tzcD_Ld-bQry/ts
