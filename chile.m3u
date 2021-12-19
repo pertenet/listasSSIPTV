@@ -1,0 +1,365 @@
+#EXTM3U
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Radio Fiessta  | CL
+https://unlimited10-cl.dps.live/fiesstatv/fiesstatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Estacion TV  | CL
+http://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Canal VTV Los Andes - San Felipe  | CL
+https://unlimited10-cl.dps.live/vtv/vtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Hito Cero TV * | CL
+https://streaming10.zglobalhost.com:1936/8018/8018/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",TV UCT * | CL
+https://unlimited1-cl-movistar.dps.live/uct/uct.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Cultura Online * | CL
+https://5eae379fb77bb.streamlock.net:443/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Radio Under * | CL
+https://eu1.servers10.com:8081/8140/index.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",TV Educa Chile * | CL
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",XTV Music * | CL
+https://tls.cdnz.cl:443/xtvmusic/xtvmusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Mundo de la Musica TV * | CL
+https://tv.streamingchilenos.com:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Radioteca WebStereo * | CL
+https://tvstreaming.cl:1936/8042/8042/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Awka * | AR
+https://stmv1.questreaming.com/awkasonido/awkasonido/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Zee Mundo * | CL
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Mix 24-7 Baladas * | CL
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Mix 24-7 Retro * | CL
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CSTV * | CL
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",El Chavo TV * | CL
+https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Mix 24-7 Pop * | CL
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Re7 * | CL
+https://vdo.mivideo.pro:3725/stream/play.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Tributo Valentina * | CL
+https://tvstreaming.cl:1936/8124/8124/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",EvaStream  | CL
+https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Etc TV  | CL
+https://unlimited1-cl-movistar.dps.live/etctv/etctv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Pintana TV  | CL
+https://tls.cdnz.cl/lapintana/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",El 3 de Conce  | CL
+https://mediacpstreamchile.com:1936/3deconce/3deconce/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Pichilemu TV  | CL
+http://play.streaminghd.cl:80/roberto886/roberto886/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",G Vision  | CL
+https://tls.cdnz.cl/escgabrielamistral/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Mega  | CL
+http://unlimited1-cl.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",TVN  | CL
+https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHV  | CL
+http://unlimited2-cl.dps.live/cnnprensa/cnnprensa.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Canal 13  | CL
+https://cl-canal13-13now-live.ned.media/live.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",La Red  | CL
+https://unlimited1-cl-movistar.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",TV+ Diferido  | CL
+https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",TVU  | CL
+https://unlimited2-cl.dps.live/tvu/tvu.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Universidad Autonoma TV  | CL
+https://unlimited2-cl.dps.live/uatv/uatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",UMAG TV  | CL
+https://tls.cdnz.cl/tser5/ngrp:live_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",UesTV  | CL
+https://tls.cdnz.cl/uestv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Campo Abierto TV  | CL
+https://v2.tustreaming.cl/campoabierto/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",LosDesterrados.cl  | CL
+https://5e3483cba9114.streamlock.net/losdesterrados.cl/losdesterrados.cl/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",TV Pop  | CL
+https://v1.tustreaming.cl:19360/radiopoptv/radiopoptv.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Chile Channel  | CL
+https://v2.tustreaming.cl/chilechannel/live1/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",FashionTV New York  | US
+http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",FashionTV Paris  | US
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Telet�n TV  | CL
+https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Teatro del Lago  | CL
+https://mdstrm.com/live-stream-playlist/5eee24e3ed5b6d0761a11a31.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CEAC TV  | CL
+https://videostreaming.cloudserverlatam.com:443/ceactv/ceactv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Arab TV  | CL
+https://5e36c064a2f6a.streamlock.net:1936/8614/8614/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Camara de Diputados  | CL
+https://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",La Tercera TV 2  | CL
+https://unlimited10-cl.dps.live/lt3/lt3.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CNN Chile  | CL
+https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",La Tercera TV  | CL
+https://unlimited2-cl.dps.live/lttv/lttv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Arcatel  | CL
+https://unlimited10-cl.dps.live/arcatel/arcatel.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Arica TV  | CL
+https://5d1ca66d2d698.streamlock.net:1936/8002/8002/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Cappissima Multimedial TV  | CL
+http://cl.streaminghd.cl/cappissima/cappissima/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Puerta Norte  | CL
+https://593b04c4c5670.streamlock.net/8170/8170/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Enfoque Digital TV  | CL
+https://Stmv1.zcastbr.com/edtvchile/edtvchile/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Canal Costa TV  | CL
+https://stmv1.zcastbr.com/dvjvonsho/dvjvonsho/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",La Popular TV  | CL
+https://5d1ca66d2d698.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",ThemaTV  | CL
+https://unlimited2-cl.dps.live/thema/thema.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",TV Elqui  | CL
+https://593b04c4c5670.streamlock.net:443/8116/8116/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",VoxPopuli Chile  | CL
+https://unlimited6-cl.dps.live/vox/vox.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Frecuencia 7 Aconcagua  | CL
+https://5eae379fb77bb.streamlock.net:443/8048/8048/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Plaza TV  | CL
+https://tvstreaming.cl:1936/8158/8158/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",TVR  | CL
+https://unlimited1-cl.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Tendencias TV  | CL
+https://v2.tustreaming.cl/tendenciastv/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",GTV  | CL
+http://play.streaminghd.cl/fabian591/fabian591/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",TVO San Vicente  | CL
+http://wow2.cl.digitalproserver.com/tvo/tvovivo/tvo.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Sextavision  | CL
+https://5eae379fb77bb.streamlock.net:443/8042/8042/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Telecanal Talca  | CL
+https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",VLTV  | CL
+https://5d1ca66d2d698.streamlock.net:1936/8096/8096/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",TV Maulinos  | CL
+https://5eae379fb77bb.streamlock.net:443/8054/8054/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Contivision  | CL
+https://unlimited2-cl.dps.live/contivision/contivision.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",TV 5 Linares  | CL
+https://unlimited2-cl.dps.live/tv5/tv5.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",UTV San Clemente  | CL
+https://v2.tustreaming.cl/utvsc/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Nativa TV  | CL
+https://mediacpstreamchile.com:1936/nativa3/ngrp:nativa3_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Canal 21 Chill�n  | CL
+https://tls.cdnz.cl/canal21tv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Belevision  | CL
+http://v2.tustreaming.cl/belevision/index.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Teleangol Radio  | CL
+http://unlimited10-cl.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Pucon TV  | CL
+http://unlimited2-cl.dps.live/pucontv/pucontv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Temuco TV  | CL
+https://5d1ca66d2d698.streamlock.net:1936/8038/8038/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",T-Vinet  | CL
+http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Canal 2 Quellon  | CL
+https://unlimited1-cl.dps.live/tvquellon/tvquellon.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Canal Survision Alerce  | CL
+http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Canal 10 ARTV  | CL
+https://mediacpstreamchile.com:1936/canal10artv/canal10artv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Canal Chilote  | CL
+http://hd.chileservidores.cl:8080/reseller/chiloe2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Chiloe Red 25  | CL
+https://v2.tustreaming.cl/chiloered/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Santa Maria TV  | CL
+https://unlimited1-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Canal 11 TV Aysen  | CL
+https://v2.tustreaming.cl/canal11aysen/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Soberania Radio  | CL
+https://tls.cdnz.cl/iflexus/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",ITV Patagonia  | CL
+https://unlimited1-cl-movistar.dps.live/itv/itv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Canal Sur Patagonia  | CL
+https://v2.tustreaming.cl/canalsurpatagonia/index.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",TV Chile  | CL
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",DJ Loncho TV  | CL
+https://srv2.zcast.com.br/djlonchotv/djlonchotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",RCKStudio  | CL
+https://inliveserver.com:1936/11530/11530/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",TuTv Quillota  | CL
+https://tvstreaming.cl:1936/tutv/tutv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Mix 24-7 Puro Rock  | CL
+http://159.69.56.148:25461/live/PuroRock/PuroRock24-7.com/25.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Mix 24-7 Top 100  | CL
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Mix 24-7 Tropical  | CL
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Mix 24-7 Conciertos Live  | CL
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/7.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Natural TV  | CL
+http://srv1.zcast.com.br/miguel/miguel/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",On Radio Kpop  | CL
+https://tls.cdnz.cl/onradio4/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Carolina TV  | CL
+http://unlimited1-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Retro Music Television  | CZ
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",The Retro Channel  | PR
+https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Radio Mas  | CL
+http://unlimited1-cl.dps.live/radiomas/radiomas.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Radio Hoy  | CL
+https://593b04c4c5670.streamlock.net:443/8104/8104/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CCP Radio  | CL
+https://tls.cdnz.cl:443/ccpradio/ccpradio/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",ChocolateFM  | CL
+https://paneltv.online:1936/8106/8106/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Radio Lado Oscuro TV  | CL
+https://tv.streamingchilenos.com:1936/8020/8020/playlist.m3u?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Radio Tazmania Hit  | CL
+https://paneltv.online:1936/8054/8054/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",On Radio Chile  | CL
+https://tls.cdnz.cl/onradio3/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Radio X  | CL
+https://v2.tustreaming.cl/radiox/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Radio Touch  | CL
+https://593b04c4c5670.streamlock.net:443/8042/8042/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Mi Radio TV  | CL
+https://v2.tustreaming.cl/miradiotv/live1/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Radio Via Libre  | CL
+https://panel.livetvvideo.net:1936/8006/8006/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Radio Corporacion  | CL
+https://v2.tustreaming.cl/corporacion/s1-500k/index.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",El Sembrador  | CL
+https://5d1ca66d2d698.streamlock.net:1936/8064/8064/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Radio Polar  | CL
+http://video.mediostream.cl/radiopolar/live1/rewind-999999.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",AncoaTV  | CL
+http://v2.tustreaming.cl:80/radioancoa/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",AE Radio  | CL
+https://tls.cdnz.cl/aeradio/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",InterRadio TV  | CL
+https://v2.tustreaming.cl/interradiotv/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Preludio TV  | CL
+https://5d1ca66d2d698.streamlock.net:1936/8068/8068/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Radio Las Nieves  | CL
+https://v2.tustreaming.cl/rln/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Radio Genial TV  | CL
+https://v2.tustreaming.cl/genialtv/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Radio Presidente Iba�ez  | CL
+https://ibanez.servercl.com/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Radio Sabor Tropical  | CL
+https://v2.tustreaming.cl/sabortv/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Radio Rancagua  | CL
+https://5d1ca66d2d698.streamlock.net:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Pura Noticia  | CL
+https://mediaserver5.janus.cl/puranoticia/en-vivo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Beat TV  | CL
+https://5eae379fb77bb.streamlock.net/juan61/juan61/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",El Conquistador TV  | CL
+http://v3.tustreaming.cl/conquistadorcc/live1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Bio Bio TV  | CL
+https://unlimited1-cl-movistar.dps.live/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Cooperativa  | CL
+https://unlimited1-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Radio Infinita  | CL
+http://unlimited2-cl.dps.live/infinitatv/infinitatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Radio Portales  | CL
+https://stream2.polarhost.cl/show/portales2.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Canal 33  | CL
+https://590c5dc5c3271.streamlock.net/eduardo555/eduardo555/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Radio Vida Curico  | CL
+http://v2.tustreaming.cl/radiovidacurico/live1/rewind-999999.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Televida HD  | CL
+https://tls.cdnz.cl/televida/ngrp:live_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",TNE  | CL
+https://v2.tustreaming.cl/tnetv/live1/tracks-v1a1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Unidad Evang�lica Radio DIFERIDO  | CL
+http://v2.tustreaming.cl/ueradiorec/index.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Unidad Evang�lica RADIO Live  | CL
+http://v2.tustreaming.cl/ueradiolive/index.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Unidad Evangelica TV  | CL
+https://v2.tustreaming.cl/unidadevangelica/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Vida TV  | CL
+http://45.225.94.51:90/vidatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Voz de Poder Televisi�n  | CL
+https://v2.tustreaming.cl/vozdepoder/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Radio Unido Al Cielo  | CL
+https://stmv.panel.mivideo.pro/unidoalcielo/unidoalcielo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - TVN HD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/2151
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - TVN
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3592
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - TNT SPORTS HD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3586
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - TNT SPORTS FHD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/54717
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - TNT SPORTS 2 HD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/1068348
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - TNT SPORTS 2
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/1117657
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - TNT SPORTS
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/16138
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - TELETRAK
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3854
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - TELECANAL HD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/44631
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - REC TV
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/2024
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - NTV HD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/27103
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - NTV
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/2047
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - MEGA HD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/2148
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - MEGA
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3343
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - LA RED HD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/51823
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - LA RED
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/51824
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - CNN CHILE
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3749
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - CHILEVISION  HD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/2147
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - CHILEVISION
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3591
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - CDO PREMIUM HD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3608
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - CDO BASICO
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3607
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - CANAL 13 HD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/6847
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - CANAL 13
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3853
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - 24 HORAS
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/23237
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - 13C HD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/1091369
+#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - 13C
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/1091370
+#EXTINF:-1  group-title="Chile" tvg-logo="ozCnnDg.png",TV Senado | HD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+#EXTINF:-1  group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Tvn.png",TVN SERVICIOS 3
+http://mdstrm.com/live-stream-playlist/5a0471c2f8692a092d436768.m3u8
+#EXTINF:-1  group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Tvn.png",TVN SERVICIOS 4
+http://mdstrm.com/live-stream-playlist/5a047aaeb9d0b50a8d1c36a6.m3u8
+#EXTINF:-1  group-title="Chile" tvg-logo="https://i.imgur.com/pe9zky9.jpg",TecTV (Opt-1)
+http://190.107.176.55:1935/live/tec-tv/chunklist_w1055014753.m3u8?fluxustv.m3u8
+#EXTINF:-1  group-title="Chile" tvg-logo="https://i.imgur.com/pe9zky9.jpg",TecTV (Opt-2)
+http://evo.eltelon.com:1935/live/tec-tv/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1  group-title="Chile" tvg-logo="https://i.imgur.com/L1AkNUo.jpg",VC Online HD
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
+#EXTINF:-1  group-title="Chile" tvg-logo="https://i.imgur.com/c3FpQAc.png",VTV Aconcagua (Opt-1)
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+#EXTINF:-1  group-title="Chile" tvg-logo="https://i.imgur.com/c3FpQAc.png",VTV Aconcagua (Opt-2)
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
+#EXTINF:-1  group-title="Chile" tvg-logo="https://i.imgur.com/c3FpQAc.png",VTV Viña del Mar
+http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
+#EXTINF:-1  group-title="Chile" tvg-logo="http://www.ufromedios.cl/wp-content/uploads/2015/06/medios_02.png",Ufrovision
+http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8?fluxustv.m3u8
+#EXTINF:-1  group-title="Chile" tvg-logo="http://www.graciatv.com/wp-content/uploads/2018/07/gif-gracia.gif",Gracia TV
+http://v3.tustreaming.cl/graciatv/live1/index.m3u8?fluxustv.m3u8
+#EXTINF:-1  group-title="Chile" tvg-logo="http://www.cronicadigital.cl/imagenes/noticias/2014/09/canal-senado1.jpeg",Tv Senado 2 SD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
+#EXTINF:-1  group-title="Chile" tvg-logo="f41IHoB.png",TVN Señal de Pruebas | HD
+http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8

@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Honduras" tvg-logo="N/A",HON - UNE TV
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/51388
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Honduras" tvg-logo="N/A",HON - TSI
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/28573
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Honduras" tvg-logo="N/A",HON - TIGO SPORTS
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/51390
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Honduras" tvg-logo="N/A",HON - TEN CANAL 10
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/28569
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Honduras" tvg-logo="N/A",HON - TELECANDENA
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/51385
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Honduras" tvg-logo="N/A",HON - SITV
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/16720
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Honduras" tvg-logo="N/A",HON - HCH
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/28572
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Honduras" tvg-logo="N/A",HON - GLOBO TV
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/28576
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Honduras" tvg-logo="N/A",HON - CHTV
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/51389
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Honduras" tvg-logo="N/A",HON - CANAL 5
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/28571
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Honduras" tvg-logo="N/A",HON - CANAL 11
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/16721
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Honduras" tvg-logo="N/A",HON - CAMPUS TV
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/28575
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Honduras" tvg-logo="https://i.imgur.com/TgSeikY.png",TEN Honduras | HD
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Honduras" tvg-logo="https://i.imgur.com/qzGYOCp.png",Cholusat Sur 36
+http://audiotvserver.net:1935/livemedia/cholusat/chunklist_w1981374450.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Honduras" tvg-logo="https://i.imgur.com/C7YTIB6.png",Sercano TV
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w330137931_b1848000.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Honduras" tvg-logo="http://live.campushd.tv/wp-content/uploads/2017/04/LOGO-CAMPUS.png",Campus HD
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8

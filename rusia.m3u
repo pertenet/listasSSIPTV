@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rusia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/K1_62014.jpg",K1
+http://109.68.40.67/life/k1.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rusia" tvg-logo="https://i.imgur.com/yStKJJr.png",Novyj Mir
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rusia" tvg-logo="https://i.imgur.com/CrFWXTD.png",Mir
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rusia" tvg-logo="https://i.imgur.com/CrFWXTD.png",Mir (+4)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rusia" tvg-logo="https://i.imgur.com/CrFWXTD.png",Mir HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rusia" tvg-logo="https://i.imgur.com/6gVDM9S.jpg",Luxury HD
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rusia" tvg-logo="https://hh.ru/employer-logo/2417062.png",Izvestia
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rusia" tvg-logo="https://cdn-st1.rtr-vesti.ru/lrt_cdn/i/logo/ch-logo-3.png",Russia-24
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rusia" tvg-logo="http://www.radostmoya.ru/uploads/images/videoPreview/Logo.jpg",Radost' Moja
+http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rusia" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/05/RBC-TV1.jpg",RBC (Opt-1)
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rusia" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/05/RBC-TV1.jpg",RBC (Opt-3)
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rusia" tvg-logo="http://ugramediaperson.ru/upload/resize_cache/iblock/24a/176_176_2/24ad91471767088bb863f20ebc50e5fa.jpg",Ugra TV
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rusia" tvg-logo="http://s1.vcdn.biz/static/f/564914211/image.jpg",CP Info
+http://109.68.40.67/life/magnolia.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rusia" tvg-logo="http://online-red.com/images/tv/rline.png",Krasnaja Linija
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rusia" tvg-logo="http://online-red.com/images/tv/one-hd.png",First Music (Opt-1)
+http://rtmp.one.by:2300/
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rusia" tvg-logo="http://online-red.com/images/tv/one-hd.png",First Music (Opt-2)
+http://rtmp.one.by:1300/
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rusia" tvg-logo="http://online-red.com/images/tv/krik-tv.png",Krik TV
+http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rusia" tvg-logo="http://online-red.com/images/tv/education.png",Prosveshhenie
+http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rusia" tvg-logo="http://k-telecom.org/uploadedFiles/images/logo/k_logo_colorblack_RGB.jpg",Kalejdoskop TV (Opt-1)
+http://cdn-01.bonus-tv.ru:8080/Kaleidoskop_edge/index.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rusia" tvg-logo="http://gtrksmolensk.ru/media/channel/R1_b_648.jpg",Russia-1 (Opt-1)
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rusia" tvg-logo="http://freerutube.com/wp-content/uploads/2016/10/current-time-tv.jpg",Nastoyashcheye Vremya
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rusia" tvg-logo="http://freerutube.com/wp-content/uploads/2016/10/current-time-tv.jpg",Nastoyashcheye Vremya (Opt-2)
+https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-p.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rusia" tvg-logo="http://freerutube.com/wp-content/uploads/2016/10/current-time-tv.jpg",Nastoyashcheye Vremya (Opt-3)
+https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8

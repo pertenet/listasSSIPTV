@@ -1,0 +1,131 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Planeta Junior  | ES
+https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",324 Catalunya  | ES
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist_b1296000_DVR.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Bon Dia  | ES
+https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist_b1296000.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Canal 4 Television Baleares  | ES
+http://149.202.68.178:1935/live/peprecasens/chunklist_w194306632.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Canal Costa  | ES
+http://stream.canalcostatv.es:1935/web/IKbtqOuj/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Canal Sur Andalucia  | ES
+https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/chunklist_b2200000_DVR.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Cazavision  | ES
+https://cdn039.fractalmedia.es/hls/caz_es_high.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",El 33  | ES
+http://directes-tv-int.ccma.cat/int/ngrp:c33_web/chunklist_b1296000_DVR.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",El Toro  | ES
+https://live-edge-bhs-1.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/live-1000/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",La Otra  | ES
+http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_2.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Onda Mezquita  | ES
+https://593fa17dec176.streamlock.net//mezquita/mezquita/chunklist_w1592524042.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Radio Television Ceuta  | ES
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Radiotelevision del Principado de Asturias  | ES
+https://cdnlive.shooowit.net/rtpalive/directo.smil/chunklist_b1500000.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Real Madrid TV (English)  | ES
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Real Madrid TV HD  | ES
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Telemadrid  | ES
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Television Municipal de Cordoba  | ES
+http://teledifusion.tv/cordoba/cordobalive/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Travel TV  | ES
+http://194.179.53.124:1935/live/traveltv/chunklist_w706671974.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",TV3 Television de Catalunya  | ES
+http://directes-tv-int.ccma.cat/int/ngrp:tvi_web/chunklist_b1296000_DVR.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Eurolatina TV  | ES
+https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Urban TV  | ES
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",7TV Andalucia
+https://d3e0aduzg5hw8g.cloudfront.net/out/v1/7c917096d3a54e72bd4a6aa85494c8f3/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",7TV Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Canal 33 Madrid
+https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Canal Parlamento - Madrid
+http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Castilla-La Mancha Media
+http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Cristiana TV
+https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Cultura 365
+http://cultural-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Espn Plus Sur Full HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCDLtg1-ZSccpYcONvrbwiQyv0ePyh0OAw59CU8mecYE/ts
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",ETB
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",ETB SAT Pais Vasco
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Eurosport 1 FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbC6IG5Cfx3iWHbwLjX_AseYlsyZ9eOE8OvKEpULMcRxs/ts
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Euskal Telebista 1 Pais Vasco
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8?sd=8&rebase=on&PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Extremadura
+https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist_b1500000_DVR.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",GOL TV
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCDLtg1-ZSccpYcONvrbwiRDzMg0GA98tzcD_Ld-bQry/ts
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Ibiza Global TV
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",La 1
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0650_av-p.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",La 2
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on&PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",LaLiga TV Bar FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJS23ybKcYtN31xiCwuWmJPRmXyB9O92Y5A6Ls9wtvYw/ts
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",LaLiga TV Bar HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBJKAoV_zWnarbj4sZpsfyPVIxZhKgW-6k2FETDz69_C/ts
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Lancelot TV Canarias
+http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Levante TV
+https://i.imgur.com/Cc1CypC.mp4?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",M. LaLiga
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBJKAoV_zWnarbj4sZpsfyMuJp7_n63IyRj2ttH6r3c5/ts
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",M. LaLiga 3 FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJS23ybKcYtN31xiCwuWmJOgYtIrL7jsVT6Yxb0N49O0/ts
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",M. Liga de Campeones
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBJKAoV_zWnarbj4sZpsfyNxnYWkbvTk-PGJ0V-mkDN2/ts
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",M. Liga de Campeones 2 FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbH1b8bFFT93j7eNhwS6lbZwTUQqGWU-HYHQDcRGbr0DS/ts
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",M. Liga de Campeones 3
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbH1b8bFFT93j7eNhwS6lbZwSFkzH4YI6-EC8Th-Vmae-/ts
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",M. Liga de Campeones 4
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbH1b8bFFT93j7eNhwS6lbZzrnk2JZYF3Jq4EdqPItD1Z/ts
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Momentos G
+http://momentog-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Movistar F1 FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKwTcuIW-XGcondM9ZLOeiJX9Nb8c_xAJLr_9bnEwlUo/ts
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Onda Algeciras
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Pequeradio TV *
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",RTVE1
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Sky Sports Liga Espa�ola HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbElaHEpMpY5srq2gSw9nYSIPuUqHB8hUyu9aOh7ZfwNM/ts
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",TBN Espa�a
+https://5e4e2e0bb2914.streamlock.net/live/ngrp:tbnlive_srt.stream_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",TV Galicia America
+http://america-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",TV Galicia Europa
+http://europa-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",TVE 24H
+https://rtvelivestream.akamaized.net/24h_dvr_4000.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",Xabarin TV
+http://infantil-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",ES: Alternativa TV
+http://tvpremiumhd.club/lista-gratuita/154109/on/lives.php?id=www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",ES: Distrito TV
+http://tvpremiumhd.club/lista-gratuita/154109/on/lives.php?id=cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",ES: interalmer�a HD
+http://tvpremiumhd.club/lista-gratuita/154109/on/live.php?id=interalmeria.tv/directo/live.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",ES: Telearanda
+http://tvpremiumhd.club/lista-gratuita/154109/on/lives.php?id=cdn01.yowi.tv/BBBBBBBBBB/master.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="España" tvg-logo="N/A",ES: TV MANA
+http://tvpremiumhd.club/lista-gratuita/154109/on/live.php?id=c2.manasat.com:1935/iglesia-online/espanhol3/playlist.m3u8

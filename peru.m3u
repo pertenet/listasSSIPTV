@@ -1,0 +1,133 @@
+#EXTM3U
+#EXTINF:-1 ,Best Cable Sports  | PE
+https://live.siete.us:1991/bestcablesports/bestcablesports/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Best Cable Music  | PE
+https://live.siete.us/bestcablemusic/bestcablemusic/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Hatun TV  | PE
+https://live.siete.us/bestcablehatuntv/bestcablehatuntv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Karibe�a TV  | PE
+https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Mas Cumbia  | PE
+https://live.siete.us/mascumbiatvonline/mascumbiatvonline/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,TOP Latino TV  | PE
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Turbo Mix TV  | PE
+http://167.114.116.212:1935/tvmb/turbomix/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Cine Club  | PE
+https://Stmv.panel.mivideo.pro/cineclubtv/cineclubtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Best Cable TV  | PE
+https://live.siete.us/bestcable/bestcable/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,BHTV  |
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Exitosa  | PE
+https://cu.onliv3.com/livevd1/user2.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Inkavision  | PE
+http://167.114.116.212:1935/inkavision/myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,JN19  | PE
+https://mediastreamm.com:19360/jn19tv/jn19tv.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Mega TV  | PE
+https://cp.sradiotv.com:1936/Stream/Stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Monterrico TV  | PE
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,TV Cosmos  | PE
+https://59d39900ebfb8.streamlock.net:443/str15live/str15live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Canal IPE  | PE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Via Television Tarapoto  | PE
+https://5ee0faac3bbae.streamlock.net:443/viatv2021/viatv2021/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,TV Peru Noticias  | PE
+https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,UCI Noticias 1  | PE
+http://168.205.133.38:80/uci1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,UCI Noticias 2  | PE
+http://168.205.133.38:80/uci2/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Vision Noticias Peru  | PE
+https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Central TV Chosica  | PE
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Cultura 24 TV  | PE
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Hechicera TV  | PE
+https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Ovacion  | PE
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Pax TV  | PE
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,TVperuanisima  | PE
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Unitel  | PE
+https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Vision TV  | PE
+https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,IPe
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 ,BHTV (Opt-1)
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 ,BHTV (Opt-2)
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 ,Cultura 24 (Opt-1)
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
+#EXTINF:-1 ,Cultura 24 (Opt-2)
+http://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/chunklist_w1999901240.m3u8
+#EXTINF:-1 ,TV Peru (Opt-2)
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 ,Panamericana TV
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 ,TVPeru Noticias
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1 ,PERU- LATINA FHD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/1087195
+#EXTINF:-1 ,PERU- AMERICA TV FHD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/1087194
+#EXTINF:-1 ,PERU - TV PLUS
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/54853
+#EXTINF:-1 ,PERU - TV PERU
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/2169
+#EXTINF:-1 ,PERU - PERU MAGICO
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/8323
+#EXTINF:-1 ,PERU - PANAMERICANA
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/2171
+#EXTINF:-1 ,PERU - MOVISTAR PLUS
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3398
+#EXTINF:-1 ,PERU - MOVISTAR DEPORTES HD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3606
+#EXTINF:-1 ,PERU - MOVISTAR DEPORTES FHD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/1092642
+#EXTINF:-1 ,PERU - LATINA SD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/2165
+#EXTINF:-1 ,PERU - LATINA HD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/56273
+#EXTINF:-1 ,PERU - GOL TV PERU
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3605
+#EXTINF:-1 ,PERU - GOL PERU SD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/8329
+#EXTINF:-1 ,PERU - CAPITAL TV
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/2172
+#EXTINF:-1 ,PERU - CANAL N
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/7825
+#EXTINF:-1 ,PERU - ATV PLUS
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/7449
+#EXTINF:-1 ,PERU - ATV
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/8333
+#EXTINF:-1 ,PERU - AMERICA TV SD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/1068850
+#EXTINF:-1 ,PERU - AMERICA TV HD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/2174
+#EXTINF:-1 ,PE: Tv Peru HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGDdaMkASseae948c0heNhSdwOIKrINKkZh2c8vUHeoc/ts
+#EXTINF:-1 ,PE: Peru Magico
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGDdaMkASseae948c0heNhScHCVdWsw8NLwF1sBRAD-c/ts
+#EXTINF:-1 ,PE: Panamericana
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGDdaMkASseae948c0heNhTJl78Cl7aRPenprZ_z3t7R/ts
+#EXTINF:-1 ,PE: Movistar Plus
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGDdaMkASseae948c0heNhQt1_1YokIUautGHhVRNBMs/ts
+#EXTINF:-1 ,PE: Movistar Deportes
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGDdaMkASseae948c0heNhS61v2GClvGL-qmIV3jIcL5/ts
+#EXTINF:-1 ,PE: Latina .
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKwQDcwi0lFDwx1j_10h9-k7MkiR3N9ECf0_X1QKOoQe/ts
+#EXTINF:-1 ,PE: Golperu HD.
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKwQDcwi0lFDwx1j_10h9-mpUPhKcsk-c4PoU-czk9h9/ts
+#EXTINF:-1 ,PE: America TV
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbC66lzS8EhjW3rqEGMcPj2vG2g_juvyuI1YZLaO_AlV2/ts
+#EXTINF:-1 ,PE - WILLAX TELEVISI�N SD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/1105664

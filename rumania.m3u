@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:-1 ,TVR 2 SD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbI553IhagSJd_dtCPkCpQLDgNTXf3E_MkGHQG6jkmFq3/ts
+#EXTINF:-1 ,Iasi TV Life
+http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
+#EXTINF:-1 ,TVPlus Suceava
+http://85.186.146.34:8080
+#EXTINF:-1 ,TV Kit
+http://webmobile.xdev.ro:81/tv9/playlist.m3u8
+#EXTINF:-1 ,B1
+http://stream.adunity.com/b1/b1.m3u8
+#EXTINF:-1 ,Alfa Omega TV
+http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262
+#EXTINF:-1 ,Cromtel TV
+http://webmobile.xdev.ro:81/tv7/playlist.m3u8?time=1463062060161
+#EXTINF:-1 ,TVR International
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLwi1CeMgRY3PNqdeYjTmZ1uPw43HMvACRskdxBYSrgd/ts
+#EXTINF:-1 ,B1 TV SD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOfKHdJlbDFCh2Ute9Icq1OepbwWAlkUON0IBNJpc98B/ts
+#EXTINF:-1 ,RO: TRINITAS TV SD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbM81A54zn-tVetp21fPJDXji-GaoLoXiWCEK4KVZk_I3/ts
+#EXTINF:-1 ,RO: TRAVEL CHANNEL SD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOQHK0p75sMvADoO9ql4r2lZzxQfT_y96-eyXOP08wM3/ts
+#EXTINF:-1 ,RO: TRAVEL CHANNEL FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOCVHHDaXxeiJ34jB4j6wBiMdnTYcHIGYN4k0tdpOKWi/ts
+#EXTINF:-1 ,RO: TELEKOM SPORT 4 FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLJxDOJC8fDnRj1Ishe6OEqN1lCnFqDWhXpqrysnTQzk/ts
+#EXTINF:-1 ,RO: PRO GOLD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPAvGy3fH_Bfeu04oBYAm8YC4axClLhQUBg-cx3WUv93/ts
+#EXTINF:-1 ,RO: PARAMOUNT CHANNEL SD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMSQ1rybLU8tkqwweWB0U7RDjK8JxjxAu8yZhHusVwzZ/ts
+#EXTINF:-1 ,RO: NAT GEO WILD FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOLqNlgqV2Wl2mC_gCjbun21NS8C7il2JeMLKuiG6YTw/ts
+#EXTINF:-1 ,RO: E! FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbACwp733on6TzAtcmmwzqyAd9S3t3wSGAXDwb9pzSxB2/ts
+#EXTINF:-1 ,RO: DISCOVERY TURBO XTRA FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFH333pE2OFNJKRMbx9c4WTwiKdatZ6HDt5H20sjKyui/ts
+#EXTINF:-1 ,RO: DISCOVERY SHOWCASE FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNgFKFNRpy4w-RKiuxbb34tMfp4OCjjnmxHrt8QISEyb/ts
+#EXTINF:-1 ,RO: DIGI LIFE SD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHc51P6KDdFvnmZsH4eoOd0w20x20FVeeVBmATXDfRtu/ts
+#EXTINF:-1 ,RO: Crime & Investigation
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKcV4q9WMKVn_-wdOo10br8PC3uB7INDm5ogJTIOfFZa/ts
+#EXTINF:-1 ,RO: Bollywood TV
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPPvvto1fuEjrl1PDdO30MJruRK8Xdub9w0SCaUCq4iD/ts
+#EXTINF:-1 ,RO(L): VIASAT HISTORY SD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFKZ6-VyisN3iZdtvVqdn5Vvt-XaR28eaBNOfedYOcO4/ts
+#EXTINF:-1 ,RO(L): VIASAT HISTORY FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbH3fqqvDJdI4bAcwoofeUc0B0QDekrjtWiXe5VpTzIS0/ts
+#EXTINF:-1 ,RO(L): VIASAT EXPLORE SD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCoVzJ9e5VVz45sUO4fKxRA6yC23E5D7OoKQ_A5gXn1n/ts
+#EXTINF:-1 ,RO(L): TRAVEL MIX SD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbM6dcdei7-5vjXK5RIr5saUYyadoaTa3P67TSXsWr0lu/ts
+#EXTINF:-1 ,RO(L): Travel MIX FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNYXzwld8GzmF6CjrwbA3yVUkorEFRBEkRW_FcTBpB6O/ts
+#EXTINF:-1 ,RO(L): TELEKOM SPORT 1 FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEjELQVGjrGMFZD7uHYiYX0iH6g6UF_W-3JPhof55vuA/ts
+#EXTINF:-1 ,RO(L): SPERANTA TV SD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbO4xcpyQaf5JQmF9rRnBtE5eAXnVDHwBcrboVcfXNlJd/ts
+#EXTINF:-1 ,RO(L): PRO TV SD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJ3jxbAPaUN5j9m7NKYNxf-Q5Sf_ENGo5SXSHuVtm7Kz/ts
+#EXTINF:-1 ,RO(L): NATIONAL GEOGRAPHIC
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPpqOs0z0MN3xP8FWfDuhGjhzrFEM3xgvVcxwbCXZWEp/ts
+#EXTINF:-1 ,RO(L): MTV LIVE FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbC0Er8A36q0XKKwaXebdNwAz01tRfaxMabfvO-n7X_c7/ts
+#EXTINF:-1 ,RO(L): MOOZ FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIpqMvdfTpuRWH0oDcHEJ0PUARdS1DjGWVInOPHAz27N/ts
+#EXTINF:-1 ,RO(L): Mooz Dance
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAl-WiE3tXsGnRvIWwvGwAP4eayx1R3iKaXAMddJekFL/ts
+#EXTINF:-1 ,RO(L): KANAL D SD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDIJw2XZSNp5_31RbdTGXelIk6tK-cPLUa5wQOpC7ySM/ts
+#EXTINF:-1 ,RO(L): KANAL D FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPF4xkXyGEQONaFWwmfVENCHwKkSQPmgq-rGoOwl8iaJ/ts
+#EXTINF:-1 ,RO(L): Jim Jam
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFYnVR0tr2nwBUsF7O0mt_pdD8mO97G-9-eBgGYNtObv/ts
+#EXTINF:-1 ,RO(L): HISTORY CHANNEL FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPT75zTUNPamfaJ6mYXXlCKJGFXTiTRt-t_TbYPV61MW/ts
+#EXTINF:-1 ,RO(L): HBO FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbF4w-Mzay_nkIJiCBTPfUtE2YSYjK_9RWG0PBvrW8Rho/ts
+#EXTINF:-1 ,RO(L): HBO 3 FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDCxZhC2sJUVe5p5vnNhp2Q1I7vwE1GA4ImDyYb3vk89/ts
+#EXTINF:-1 ,RO(L): FISHING AND HUNTING SD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJNe3wXG5yUJL3uQXGxuLxNlC8TBmNbadoIy6V9Hx1FU/ts
+#EXTINF:-1 ,RO(L): FilmBox Premium
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbP5MHZ4w9yEIN0AN3Lj4z2kT2_bgVgMRdyE7ASycAefY/ts
+#EXTINF:-1 ,RO(L): FilmBox Extra HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOtOZo95Z_HJZE1pw2nAw7hcUke4hikxaYHd5OIjkDdh/ts
+#EXTINF:-1 ,RO(L): FILM NOW FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOrHpAIISKBXj8U0hVlbondLFitHFUxNNvDdLTKuVO6u/ts
+#EXTINF:-1 ,RO(L): FASHION TV SD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPjDdmaBcYdFIbeCBoydc6BktvlQMoecDfoIYe9lGRyM/ts
+#EXTINF:-1 ,RO(L): EUROSPORT 2 SD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEEOjogkzEmmMfCJ0cCWfhuBE30CwXyEbM055TLkrx2t/ts
+#EXTINF:-1 ,RO(L): EUROSPORT 2 FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCgftn0MWwbrlp6LoWieb-ulxwZ3AhVJ7a6riJmZBsl1/ts
+#EXTINF:-1 ,RO(L): EUROSPORT 1 FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGp9fPjsgktElLZImuXOQb_t1b8qIv17dXW-pyRoyc7I/ts
+#EXTINF:-1 ,RO(L): EPIC DRAMA FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMaMywpRUU6FyFYaszAtzn2sKHIsss7b4QM5hTXBNbd0/ts
+#EXTINF:-1 ,RO(L): E! ENTERTAINMENT SD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbL00nOU9XPiUY0m-eOBu8H9O8NvrHvcmYg6nxl7eqIRf/ts
+#EXTINF:-1 ,RO(L): DUCK TV SD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbK3Tx62uviuwJliBDDcp4mIxu9fkbngmffBiUaYxGSp3/ts
+#EXTINF:-1 ,RO(L): DISNEY JUNIOR SD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbL-ea5oiiPJLQoUKJ7Q2zbidx7nFsm_fOil-hDuVil1u/ts
+#EXTINF:-1 ,RO(L): DISNEY CHANNEL SD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBp6kTNnqarz4iSE0mGCR7OzakAA9ARMNpxGkUvcSNgz/ts
+#EXTINF:-1 ,RO(L): DIGI LIFE FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbB0xlbwS99NFThLf9gd_y8F0Yr-xx81yDkeEyGSbZlRz/ts
+#EXTINF:-1 ,RO(L): DIGI ANIMAL WORLD FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbF0uW8fq2gr3EQeVqgRUMGwDE3PDHVnGeeqsPaXheptU/ts
+#EXTINF:-1 ,RO(L): COMEDYEST SD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEIeAju_2wrlvW0EDcvHWNeai3tI-SxbqtGI4BPmNvJc/ts
+#EXTINF:-1 ,RO(L): BOLLYWOOD TV HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHLVozs62VUpaPupyZ6-vhHg1BlazEeEqr9BD4cFtg4q/ts
+#EXTINF:-1 ,RO(L): ANTENA 1 FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFmCPPYAihnWauFkhS6_ubTgbejLRI9Q0lmOX66YIuc7/ts

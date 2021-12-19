@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="República Dominicana" tvg-logo="N/A",Orbit TV  | DO
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="República Dominicana" tvg-logo="N/A",TV Exitos  | DO
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rep. Dominicana" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png",Telemicro Canal 5  (Opt-2)
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0005&mode=12
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rep. Dominicana" tvg-logo="https://i.ytimg.com/vi/bhj6YkMyoHo/hqdefault.jpg",MicroVision Canal 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rep. Dominicana" tvg-logo="https://i.imgur.com/ZmYKQxN.png",Info TDN
+http://108.175.14.125:1935/tdn/tdn/chunklist.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rep. Dominicana" tvg-logo="https://i.imgur.com/YhMZXUp.png",Romana TV 42
+http://tv.romanatv42.com/hls/live.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rep. Dominicana" tvg-logo="https://i.imgur.com/Sbv9mq5.png",Microvision 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rep. Dominicana" tvg-logo="https://i.imgur.com/qNl5scQ.png",TV Plata 3
+https://ss6.domint.net:3104/tvp_str/tvplata/master.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rep. Dominicana" tvg-logo="https://i.imgur.com/OKsv5Xd.png",Ame 47
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rep. Dominicana" tvg-logo="https://i.imgur.com/lv0mnMF.png",Onda TV 10
+http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rep. Dominicana" tvg-logo="https://i.imgur.com/iE1xhA5.png",Telenord 10 (Opt-1)
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rep. Dominicana" tvg-logo="https://i.imgur.com/iE1xhA5.png",Telenord 12 (Opt-1)
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rep. Dominicana" tvg-logo="https://i.imgur.com/iE1xhA5.png",Telenord 8 (Opt-1)
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rep. Dominicana" tvg-logo="https://i.imgur.com/E2Mpuoz.png",HM TV 33
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rep. Dominicana" tvg-logo="https://i.imgur.com/CcGzKEz.png",Vallevision TV
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rep. Dominicana" tvg-logo="https://i.imgur.com/bV0oWdW.png",TV Montaña 10
+http://ss6.domint.net:2060/tvm_str/montanatv/master.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rep. Dominicana" tvg-logo="http://www.luperondigital.com/wp-content/uploads/2017/01/digital-15-vivo-Canales-Dominicanos.jpg",Digital 15
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rep. Dominicana" tvg-logo="http://santiagotv36.com/wp-content/uploads/2014/09/Logo-web1.png",Telemilenio Canal 50
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Rep. Dominicana" tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png",Ready TV
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8

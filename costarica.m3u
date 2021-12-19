@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Costa Rica" tvg-logo="N/A",Tele Mas  | CR
+https://cp.sradiotv.com:1936/8064/8064/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Costa Rica" tvg-logo="N/A",CR - TIGO SPORTS
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/18594
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Costa Rica" tvg-logo="N/A",CR - TELETICA 7
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/8148
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Costa Rica" tvg-logo="N/A",CR - REPRETEL 6
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/8151
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Costa Rica" tvg-logo="N/A",CR - REPRETEL 4
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/8150
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Costa Rica" tvg-logo="N/A",CR - REPRETEL 11
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/8149
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Costa Rica" tvg-logo="N/A",CR - MULTIMEDIOS
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/2033
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Costa Rica" tvg-logo="N/A",Telesistema  | CR
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Costa Rica" tvg-logo="N/A",Retro TV Palmares  | CR
+http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Costa Rica" tvg-logo="N/A",Telered  | CR
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Costa Rica" tvg-logo="N/A",Canal 38  | CR
+https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Costa Rica" tvg-logo="N/A",Video Tour Channel  | CR
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Costa Rica" tvg-logo="https://i.imgur.com/Zkfw06k.jpg",Ticavision | SD
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Costa Rica" tvg-logo="https://i.imgur.com/lvdNakJ.png",TeleUno TV
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Costa Rica" tvg-logo="https://i.imgur.com/lC0uliW.png",Anexion TV 36
+http://rtmp.info:8081/anexiontv/envivo/chunks.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Costa Rica" tvg-logo="https://i.imgur.com/Fp9ReNL.png",Telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Costa Rica" tvg-logo="https://i.imgur.com/Da5V8bP.png",Colosal TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Costa Rica" tvg-logo="https://i.imgur.com/6QgGvH7.png",Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Costa Rica" tvg-logo="https://i.imgur.com/0SrZD5r.png",88 Stereo
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 tvg-name="Name" tvg-id="id" group-title="Group Title" tvg-logo="Logo",Name2
+Link

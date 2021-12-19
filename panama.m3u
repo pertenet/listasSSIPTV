@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Panamá" tvg-logo="N/A",VenTV Premium  | PA
+https://5d79ae45bc63b.streamlock.net/natanaeltv/natanaeltv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Panamá" tvg-logo="N/A",PAN- CABLE ONDA SPORTS  FC
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/1078663
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Panamá" tvg-logo="N/A",PAN- CABLE ONDA SPORTS
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/1078662
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Panamá" tvg-logo="N/A",PAN - TVN SD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/7446
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Panamá" tvg-logo="N/A",PAN - TVN HD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/53493
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Panamá" tvg-logo="N/A",PAN - TVN FHD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/53494
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Panamá" tvg-logo="N/A",PAN - TV MAX SD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/53492
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Panamá" tvg-logo="N/A",PAN - TV MAX FHD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/6025
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Panamá" tvg-logo="N/A",PAN - TELEMETRO CANAL 13 SD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/53495
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Panamá" tvg-logo="N/A",PAN - TELEMETRO CANAL 13 HD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/7685
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Panamá" tvg-logo="N/A",PAN - RPC SD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/6024
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Panamá" tvg-logo="N/A",PAN - NEXT TV
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/5476
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Panamá" tvg-logo="N/A",PAN - MAS TV 23 SD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/16718
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Panamá" tvg-logo="N/A",Dreiko TV  | PA
+https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Panamá" tvg-logo="N/A",PAN - ECO TV
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/16719
