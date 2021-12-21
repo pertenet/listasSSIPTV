@@ -1,53 +1,39 @@
 #EXTM3U
-#EXTINF:-1  group-title="N/A",Latino
+#EXTINF:-1 ,Latino
 https://tunota.site/latino.m3u
-#EXTINF:-1  group-title="N/A",Aquí encuentras las listas de España
+#EXTINF:-1 ,Aquí encuentras las listas de España
 https://iptv-org.github.io/iptv/countries/es.m3u
-#EXTINF:-1  group-title="N/A",Tdt
+#EXTINF:-1 ,Tdt
 http://tecnotv.club/dicl7/tdt.m3u
-#EXTINF:-1  group-title="N/A",PlutoTV
+#EXTINF:-1 ,PlutoTV
 http://tecnotv.club/dicl7/plutotv.m3u
-#EXTINF:-1  group-title="N/A",Peliculas
+#EXTINF:-1 ,Peliculas
 http://tecnotv.club/dicl7/peliculas.m3u
-#EXTINF:-1  group-title="N/A",Listal
+#EXTINF:-1 ,Listal
 http://tecnotv.club/dicl7/listal.m3u
-#EXTINF:-1  group-title="N/A",Lista2
+#EXTINF:-1 ,Lista2
 http://tecnotv.club/dicl7/lista2.m3u
-#EXTINF:-1  group-title="N/A",Latinos
+#EXTINF:-1 ,Latinos
 http://tecnotv.club/dicl7/latinos.m3u
-#EXTINF:-1  group-title="N/A",Geomex2
+#EXTINF:-1 ,Geomex2
 http://tecnotv.club/dicl7/geomex2.m3u
-#EXTINF:-1  group-title="N/A",Geomex
+#EXTINF:-1 ,Geomex
 http://tecnotv.club/dicl7/geomex.m3u
-#EXTINF:-1  group-title="N/A",Fta2
+#EXTINF:-1 ,Fta2
 http://tecnotv.club/dicl7/fta2.m3u
-#EXTINF:-1  group-title="N/A",Fta
+#EXTINF:-1 ,Fta
 http://tecnotv.club/dicl7/fta.m3u
-#EXTINF:-1  group-title="N/A",N/A
+#EXTINF:-1 ,N/A
 http://tecnotv.club/dicl7/deportes.m3u
-#EXTINF:-1  group-title="N/A",Aquí encuentras las listas de España
+#EXTINF:-1 ,Aquí encuentras las listas de España
 http://tecnotv.club/dic17/tdt.m3u
-#EXTINF:-1  group-title="N/A",En este parte solo encuentras listas de películas
+#EXTINF:-1 ,En este parte solo encuentras listas de películas
 http://tecnotv.club/dic17/peliculas.m3u
-#EXTINF:-1  group-title="N/A",Lista2
+#EXTINF:-1 ,Lista2
 http://tecnotv.club/dic17/lista2.m3u
-#EXTINF:-1  group-title="N/A",Fta2
+#EXTINF:-1 ,Fta2
 http://tecnotv.club/dic17/fta2.m3u
-#EXTINF:-1  group-title="N/A",Fta
+#EXTINF:-1 ,Fta
 http://tecnotv.club/dic17/fta.m3u
-#EXTINF:-1  group-title="N/A",Series 2021
-http://tecnomasterapp.myartsonline.com/series2021.m3u
-#EXTINF:-1  group-title="N/A",PlutoTV
+#EXTINF:-1 ,PlutoTV
 http://tecnomasterapp.myartsonline.com/Plutotv.m3u
-#EXTINF:-1  group-title="N/A",Pelis 5
-http://tecnomasterapp.myartsonline.com/pelis5.m3u
-#EXTINF:-1  group-title="N/A",Pelis 4
-http://tecnomasterapp.myartsonline.com/pelis4.m3u
-#EXTINF:-1  group-title="N/A",Pelis 3
-http://tecnomasterapp.myartsonline.com/pelis3.m3u
-#EXTINF:-1  group-title="N/A",Pelis 2
-http://tecnomasterapp.myartsonline.com/pelis2.m3u
-#EXTINF:-1  group-title="N/A",Pelis 1
-http://tecnomasterapp.myartsonline.com/pelis1.m3u
-#EXTINF:-1  group-title="N/A",Peliculas 2021
-http://tecnomasterapp.myartsonline.com/peliculas2021.m3u
