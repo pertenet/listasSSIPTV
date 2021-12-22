@@ -1,39 +1,25 @@
 #EXTM3U
-#EXTINF:-1 ,Latino
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Latino
 https://tunota.site/latino.m3u
-#EXTINF:-1 ,Aquí encuentras las listas de España
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Aquí encuentras las listas de España
 https://iptv-org.github.io/iptv/countries/es.m3u
-#EXTINF:-1 ,Tdt
-http://tecnotv.club/dicl7/tdt.m3u
-#EXTINF:-1 ,PlutoTV
-http://tecnotv.club/dicl7/plutotv.m3u
-#EXTINF:-1 ,Peliculas
-http://tecnotv.club/dicl7/peliculas.m3u
-#EXTINF:-1 ,Listal
-http://tecnotv.club/dicl7/listal.m3u
-#EXTINF:-1 ,Lista2
-http://tecnotv.club/dicl7/lista2.m3u
-#EXTINF:-1 ,Latinos
-http://tecnotv.club/dicl7/latinos.m3u
-#EXTINF:-1 ,Geomex2
-http://tecnotv.club/dicl7/geomex2.m3u
-#EXTINF:-1 ,Geomex
-http://tecnotv.club/dicl7/geomex.m3u
-#EXTINF:-1 ,Fta2
-http://tecnotv.club/dicl7/fta2.m3u
-#EXTINF:-1 ,Fta
-http://tecnotv.club/dicl7/fta.m3u
-#EXTINF:-1 ,N/A
-http://tecnotv.club/dicl7/deportes.m3u
-#EXTINF:-1 ,Aquí encuentras las listas de España
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Aquí encuentras las listas de España
 http://tecnotv.club/dic17/tdt.m3u
-#EXTINF:-1 ,En este parte solo encuentras listas de películas
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",En este parte solo encuentras listas de películas
 http://tecnotv.club/dic17/peliculas.m3u
-#EXTINF:-1 ,Lista2
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Lista2
 http://tecnotv.club/dic17/lista2.m3u
-#EXTINF:-1 ,Fta2
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Fta2
 http://tecnotv.club/dic17/fta2.m3u
-#EXTINF:-1 ,Fta
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Fta
 http://tecnotv.club/dic17/fta.m3u
-#EXTINF:-1 ,PlutoTV
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Listas M3U Latino Diciembre 21
+https://iptvfree-latino003.blogspot.com
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Listas M3U Latino Diciembre 21
+http://raw.githubusercontent.com/mortal251/ssiptvarg/main/listagratuita.m3u
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Listas M3U Latino Diciembre 21
+https://raw.githubusercontent.com/LeoLaRata35/IPTVPY/main/PY1.m3u
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Por paises latinos:
+http://tecnotv.club/dic17/latinos.m3u
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",PlutoTV
 http://tecnomasterapp.myartsonline.com/Plutotv.m3u
