@@ -1,121 +1,2371 @@
 #EXTM3U
-#EXTINF:-1  tvg-id="N/A" group-title="Turquia" tvg-logo="data:image/jpeg;base64,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",TV 41 HD
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 100. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2820.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Contagion
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1618.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Night.School.2018.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1163.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] It Chapter Two - O B�l�m 2
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1157.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] A.Cinderella.Story.Christmas.Wish.2019.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1162.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Kiz.Kardesler.2019.WEBRip.1080p.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1144.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Ready.or.Not.2019.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1140.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Overcomer.2019.WEB-DL.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1139.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Atlantique.2019.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1138.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Vallahi.Hortladi.2018.WEB-DL.1080p.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1126.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] The.Irishman.2019.WEB-DL.720p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1125.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Kalpten.Gerdanlik.2019.WEBRip.1080p..x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1124.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Kafalar.Karisik.2018.WEB-DL.1080p.H.264-iTunes
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1123.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] If.Beale.Street.Could.Talk.2018.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1122.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Holiday.Rush.2019.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1121.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Dora.and.the.Lost.City.of.Gold.2019.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1120.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Benden.Hikayesi.2019.WEB-DL.1080p.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1119.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Upgrade.2018.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/914.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Cesedin.Olumu.2019.WEBRip.1080p.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/913.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Bozkir.Kuslara.Bak.Kuslara.2019.WEB-DL.1080p.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/912.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Wounds.2019.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/901.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Tueurs.2017.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/900.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Tremors.A.Cold.Day.in.Hell.2018.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/899.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] The.Snowman.2017.Bluray.720p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/898.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] The.Laundromat.2019.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/897.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] The.King.2019.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/896.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] The.Keeping.Hours.2017.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/895.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] The.Hummingbird.Project.2018.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/894.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] The.Forest.of.Love.2019.WEB-DL.1080p.TRSUB.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/893.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] The.Five.Year.Engagement.2012.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/892.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] The.Boat.2018.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/891.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Tell.Me.Who.I.Am.2019.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/890.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Tales.from.the.Hood.2.2018.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/889.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Stephanie.2017.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/888.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] State.Like.Sleep.2018.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/887.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Siccin.6.2019.WEB-DL.720p.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/886.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Share.2019.WEB-DL.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/885.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Sar.Basa.2019.WEB-DL.720p.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/884.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Safe.House.2012.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/883.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Rob.the.Mob.2014.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/882.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Rattlesnake.2019.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/881.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Ozgur.Dunya.2019.WEB-DL.720p.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/880.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Neulovimye.Jackpot.2016.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/879.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Men.in.Black.International.2019.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/878.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Maine.2018.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/877.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Madelines.Madeline.2018.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/876.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Life.Size.2.2018.WEB-DL.720p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/875.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] La.reina.del.miedo.2018.WEBRip.1080p.TRDUB.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/874.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] La.influencia.2019.WEB-DL.1080p.TRSUB.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/873.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Kopek.Filmi.2019.WEBRip.1080p.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/872.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Kim.Daha.Mutlu.2019.WEB-DL.1080p.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/871.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Jestem.morderca.2016.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/870.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Inkarnacija.2016.WEB-DL.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/869.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Ingrid.Goes.West.2017.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/868.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Identity.Thief.2013.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/867.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Hover.2018.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/866.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Grace.a.Dieu.2018.Bluray.720p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/865.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Ghosts.of.Sugar.Land.2019.WEB-DL.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/864.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Fractured.2019.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/863.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Fire.in.Paradise.2019.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/862.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Exhibition.2013.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/861.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Eli.2019.WEB-DL.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/860.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] El.Camino.A.Breaking.Bad.Movie.2019.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/859.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Drive.2019.WEB-DL.1080p.TRSUB.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/858.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Doomsday.2008.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/857.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Dolemite.Is.My.Name.2019.WEB-DL.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/856.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Delirium.2018.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/855.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Crawl.2019.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/854.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Christmas.in.the.Wild.2019.WEB-DL.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/853.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Born.Racer.2018.WEB-DL.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/852.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] BlacKkKlansman.2018.Bluray.720p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/851.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Banlieusards.2019.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/850.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] American.Son.2019.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/849.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] A.3.Minute.Hug.2019.WEB-DL.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/848.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] 1985.2018.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/847.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] 10.000.Km.2014.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/846.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Zaman.Makinesi.1973.2014.WEB-DL.1080p.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/902.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] A.Bad.Moms.Christmas.2017.Bluray.1080p.DUAL.x264-HDM.mkv
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/845.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Lhomme.fidele.2018
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/840.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Zaman.Makinesi.1973.2014
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/721.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Yuva.2018.WEB-DL.720p.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/839.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Yol.Kenari.2017.WEB-DL.720p.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/838.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Wind.River.2017.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/837.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Turk.Isi.Dondurma.2019.WEB-DL.720p.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/836.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] The.Super.2017.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/835.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] The.Sun.Is.Also.a.Star.2019.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/834.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] The.Strangers.Prey.at.Night.2018.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/833.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] The.Operative.2019.WEB-DL.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/832.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] The.Nanny.2018.WEB-DL.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/831.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] That.Good.Night.2017.WEBRip.1080p.TRDUB.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/830.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Terra.Willy.Planete.inconnue.2019.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/829.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Tall.Girl.2019.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/828.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Suc.Unsuru.2019.WEBRip.1080p.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/827.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Stuber.2019.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/826.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Stickman.2017.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/825.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Spider.Man.Far.from.Home.2019.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/824.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Speed.Kills.2018.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/823.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Snowpiercer.2013.Bluray.720p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/822.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Sibel.2018.WEB-DL.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/821.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Shanghai.Fortress.2019.WEB-DL.1080p.TRSUB.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/820.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Sar.Basa.2019
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/719.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Santa.Jaws.2018.HDTV.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/819.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Saint.Judy.2018.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/818.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Ruzgarda.Salinan.Nilufer.2016.WEB-DL.1080p.H.264-iTunes
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/817.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Reset.2017.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/816.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Ozgur.Dunya.2019
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/718.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Neulovimye.Posledniy.geroy.2015.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/815.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Neulovimye.2015.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/814.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Mou.seung.2018.Bluray.720p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/813.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Mehmet.Salih.2016.WEBRip.1080p.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/812.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Mad.Mom.2019.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/811.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Lost.Found.2016.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/810.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Lean.on.Pete.2017.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/809.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Kopek.Filmi.2019
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/716.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Kim.Daha.Mutlu.2019
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/704.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Kar.Korsanlari.2015.WEB-DL.720p.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/808.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Kapi.2019.WEBRip.1080p.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/807.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] In.the.Shadow.of.the.Moon.2019.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/806.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Furlough.2018.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/805.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Escape.Plan.The.Extractors.2019.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/804.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Enes.Batur.Gercek.Kahraman.2019.WEB-DL.1080p.H.264-BdC
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/803.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Ecinni.Tilsimli.Mezar.2019.WEBRip.1080p.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/802.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Dunya.Hali.2018.WEBRip.1080p.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/801.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Down.a.Dark.Hall.2018.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/800.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Den.skyldige.2018.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/799.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Den.blomstertid.nu.kommer.2018.Bluray.720p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/798.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Dark.Phoenix.2019.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/797.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Crypto.2019.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/796.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Cirkin.Kral.Efsanesi.2017.WEB-DL.1080p.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/795.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Cinar.2018.WEBRip.1080p.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/794.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Blockers.2018.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/793.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Beyaz.Balina.2017.WEB-DL.720p.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/792.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Bal.Kaymak.2018.WEBRip.1080p.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/791.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Aykut.Eniste.2019.WEB-DL.1080p.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/790.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Annabelle.Comes.Home.2019.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/789.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] American.Hangman.2019.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/788.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] American.Animals.2018.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/787.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Aladdin.2019.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/786.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Abracadabra.2017.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/785.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Share.2019
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/720.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Maine.2018
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/717.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Fractured.2019
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/715.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] El.Camino.A.Breaking.Bad.Movie.2019
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/714.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Crawl.2019
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/713.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 119. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2819.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Sesinde.Ask.Var.2019.WEB-DL.1080p.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1386.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Red.Joan.2018.Bluray.1080p.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1385.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Ghost.Stories.2020.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1384.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Demon.Eye.2019.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1383.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Arctic.2018.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1382.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Werk.ohne.Autor.2018.Bluray.720p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1374.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Tout.nous.separe.2017.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1373.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| This.Is.Personal.2019.WEBRip.1080p.TRDUB.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1372.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| The.Wedding.Guest.2018.Bluray.1080.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1371.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| The.Possession.of.Hannah.Grace.2018.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1370.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| The.Other.Guys.2010.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1369.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| The.Kid.2019.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1368.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| The.Change.Up.2011.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1367.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| The.13th.Friday.2017.WEB-DL.720p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1366.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Sorma.Neden.2018.WEB-DL.1080p.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1365.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Santas.Boots.2018.WEB-DL.720p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1364.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Royal.Hearts.2018.WEBRip.1080p.TRDUB.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1363.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Return.to.Christmas.Creek.2018.WEB-DL.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1362.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Radio.Silence.2019.WEBRip.1080p.TRDUB.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1361.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Peel.2019.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1359.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Marriage.Story.2019.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1358.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Ma.revolution.2016.WEBRip.1080p.TRDUB.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1357.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Love.You.To.Death.2019.WEB-DL.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1356.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Los.tiburones.2019.WEBRip.1080p.TRDUB.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1355.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Long.Shot.2019.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1354.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| London.Fields.2018.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1353.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Lets.Dance.2019.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1352.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Ha.roo.2017.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1351.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Good.Boys.2019.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1350.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Gloria.Bell.2018.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1349.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Framed.2017.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1348.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Diqiu.zuihou.de.yewan.2018.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1347.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Christmas.Lost.and.Found.2018.WEB-DL.720p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1346.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Cascos.indomables.2018.WEBRip.1080p.TRDUB.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1345.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Can.You.Keep.a.Secret.2019.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1344.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Burn.2019.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1343.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Behold.My.Heart.2018.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1342.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Eltilerin Savasi
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2129.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Doornroosje
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/616.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Dr Proktors Teletijdtobbe
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/617.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ducktales Het Geheim Van Wonderlamp
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/618.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Dummie De Mummie
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/621.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Dummie De Mummie - En De Sfinx Van Shakaba
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/619.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Dummie De Mummie En De Tombe Van Achnetoet
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/620.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Een Luizenleven
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/622.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Escape From Planet Earth
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/623.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Extreem Sportplezier
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/624.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Fantasia
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/625.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Flits En Het Magische Huis
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/626.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Frank En Frey 2
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/627.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",G-Force
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/629.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Gamba - De Dappere Muis
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/630.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Gnome Alone
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/631.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Het Lied Van De Zee
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/632.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Het Regent Gehaktballen - Cloudy With A Chance Of Meatballs
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/633.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Het Regent Gehaktballen 2 - Cloudy With A Chance Of Meatballs 2
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/634.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hoe Het Begon
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/635.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",DonaldDUCK
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2567.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hotel De Grote L
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/636.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ice Age 2 - The Meltdown
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/637.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ice Age 3 - Dawn Of The Dinosaurs
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/638.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ice Age 4 - Continental Drift
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/639.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ice Age 5 - Collision Course
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/640.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Masa ile Koca AYI
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1033.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sirinler
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1036.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",SevimliDostlarFull
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1208.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",CaillouFULL Video
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1394.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Frozen 2 NL
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1519.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ad.Astra.2019.1080p.WEBRip.x264-RARBG
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1207.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Downton.Abbey.2019.1080p.WEBRip.DD5.1.x264-CM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1217.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Freaks.2018.1080p.BluRay.H264.AAC-RARBG
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1218.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",stockholm.2018.1080p.web.h264-skgtv
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1219.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",CHARLIES.ANGELS.2020
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1501.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",EXTRA.ORDINARY.2020
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1502.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",IP.MAN.4.THE.FINALE.2020
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1503.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",JUMANJI.THE.NEXT.LEVEL.2020
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1504.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",LITTLE.JOE.2020
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1505.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",MAGIC.MOUNTAINS.2020
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1506.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",YOUNG.AHMED.2020
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1507.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",SpiderintheWebNL
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1508.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TO.ALL.THE.BOYS.2020
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1509.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Valhalla
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1510.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",WEB.OF.DREAMS.2020
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1511.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Amoureux.de.ma.femme.2018.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1071.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Diane.2018.WEB-DL.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1072.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Fast.Furious.Presents.Hobbs.Shaw.2019.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1073.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hur.Kole.2019.WEB-DL.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1074.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Let.It.Snow.2019.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1075.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Paradise.Beach.2019.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1076.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",The.Bad.Seed.2018.WEB-DL.720p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1077.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",The.Break.Up.2006.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1078.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",The.Letters.2014.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1079.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",The.Lion.King.2019.Bluray.720p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1080.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Unutursam.Fisilda.2014.WEB-DL.1080p.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1081.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Arizona.2018.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1090.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Conrad.Michelle.If.Words.Could.Kill.2018.WEB-DL.720p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1091.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Duelyant.2016.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1092.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Il.ragazzo.invisibile.2014.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1093.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Il.ragazzo.invisibile.Seconda.generazione.2018.WEB-DL.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1094.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kolej.Havasi.2019.WEBRip.1080p.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1095.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ladies.in.Black.2018.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1096.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sahis.46.2019.WEBRip.1080p.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1097.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",The.Knight.Before.Christmas.2019.WEB-DL.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1098.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yesterday.2019.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1082.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Believe.Me.The.Abduction.of.Lisa.McVey.2018.WEB-DL.720p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1099.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Killer.Under.the.Bed.2018.WEBRip.1080p.TRDUB.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1100.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",and.Mistletoe.2018.WEB-DL.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1360.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai 15.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/500.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kalk Gidelim 80.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/501.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 91.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/503.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Aile Hikayesi 16.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/497.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",ARka Sokaklar 525. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/494.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Vuslat 22.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/611.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Vuslat 23.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/612.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Vuslat 24.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/613.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 71. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/498.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",�ocuk 5.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/615.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 52.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/614.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kuzgun 2. Sezon 20. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/706.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sen Anlat Karadeniz 59.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/707.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 5.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/708.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 39.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/710.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai 16.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/711.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Her Yerde Sen 17.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/712.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Seksenler 1.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/722.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Aile Hikayesi 17.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/724.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",O Ses T�rkiye 1.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/726.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",O Ses T�rkiye 2.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/727.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",O Ses T�rkiye 3.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/728.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zalim Istanbul 14.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/729.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Arka Sokaklar 526. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/730.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Afili Ask 14. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/731.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Afili Ask 15. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/732.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Afili Ask 16. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/733.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kalk Gidelim 81.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/735.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kimse Bilmez 16.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/736.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kimse Bilmez 17.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/739.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",O Ses T�rkiye 4.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/741.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Seksenler 3.B�l�m izle 15 Ekim 2019- Ddizi
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/744.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Seksenler 2.B�l�m izle 14 Ekim 2019- Ddizi
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/743.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kuzgun Final
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/746.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sen Anlat Karadeniz 60.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/749.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 6.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/750.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 40.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/751.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Her Yerde Sen 18.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/753.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai 17.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/754.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 92. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/755.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Arka Sokaklar 527. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/756.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Aile Hikayesi 18.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/758.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",O Ses T�rkiye 5.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/760.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",O Ses T�rkiye 7.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/762.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kalk Gidelim 83. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/763.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Her Yerde Sen 19. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/764.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kimse Bilmez 19.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/774.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",O Ses T�rkiye 8.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/775.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Savasci-79.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/776.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Vuslat 26.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/769.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 54.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/770.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zalim Istanbul 16. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/777.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kadin 69. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/768.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cocuk 7.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/771.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sen Anlat Karadeniz 62.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/780.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 8.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/783.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Arka Sokaklar 259.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/841.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 42. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/842.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai 19. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/843.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 94. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/844.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Her Yerde Sen 20.B�l�m Full izle - Tek Par�a Son B�l�m Ddizi - Tek Par�a
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/905.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kalk Gidelim 84.B�l�m izle - Tek Par�a Son B�l�m Ddizi - 2.Par�a
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/906.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sampiyon 7. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/915.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Vuslat 27.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/916.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 55.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/917.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 74. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/918.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cocuk 8.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/921.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sen Anlat Karadeniz 63.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/925.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 9.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/927.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 43.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/928.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai 20.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/929.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 95.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/930.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Arka Sokaklar 530.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/932.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Her Yerde Sen 21.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/934.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kalk Gidelim 85.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/935.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",O Ses T�rkiye 11.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/937.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sampiyon 8.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/953.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",O Ses T�rkiye 12.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/951.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 56.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1031.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 75.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1032.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cocuk 9.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1038.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sen Anlat Karadeniz 64.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1045.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 10.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1049.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 44.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1051.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai 21.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1052.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 96.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1053.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Arka Sokaklar 531. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1055.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kalk Gidelim 86.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1058.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 76. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1059.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 57.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1060.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zalim Istanbul 19. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1061.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cocuk 10.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1062.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Azize 1.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1065.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kurulus Osman 1. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1066.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 45.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1070.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 11. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1069.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Arka Sokaklar 532. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1083.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai 22.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1086.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kalk Gidelim 87.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1087.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 97.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1088.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sampiyon 10.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1102.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",G�vercin 1.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1103.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zalim Istanbul 20.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1105.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 58. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1106.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Vuslat 30.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1107.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",�ocuk 11.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1110.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Azize 2.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1111.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 12.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1117.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 46.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1118.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Arka Sokaklar 533.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1127.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ferhat ile Sirin 2. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1128.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai 23.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1129.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 98.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1130.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kalk Gidelim 88.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1147.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sampiyon 11.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1165.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kimse Bilmez 24.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1166.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",G�vercin 2.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1167.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Savasci 84. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1168.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Vuslat 31.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1169.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 59.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1171.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zalim Istanbul 21.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1172.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Azize 3. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1173.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cocuk 12. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1177.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 47.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1182.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 13. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1183.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai 24.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1184.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 99.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1186.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kalk Gidelim 89. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1189.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Arka Sokaklar 534.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1190.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",G�vercin 3. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1191.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kimse Bilmez 25. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1192.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sampiyon 12.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1194.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 60.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1195.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 79.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1196.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zalim Istanbul 22.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1197.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",�ocuk 13. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1199.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kadin 75. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1200.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 48. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1206.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 14.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1205.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai 25. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1211.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 100. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1213.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Arka Sokaklar 535.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1214.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 61. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1216.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 80. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1220.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zalim Istanbul 23.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1221.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",cocuk 14. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1230.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hekimoglu 1. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1231.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Vuslat 32. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1235.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 49. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1237.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 15. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1236.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai 26. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1239.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 101. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1240.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Arka Sokaklar 536.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1241.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kalk Gidelim 91. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1245.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Azize 5.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1243.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sampiyon 14. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1253.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",G�vercin 5. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1254.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 62.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1258.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zalim istanbul 24.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1259.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sefirin Kizi 2. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1260.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Vuslat 33. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1261.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",�ocuk 15. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1264.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hekimoglu 2. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1267.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 16. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1272.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 50. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1273.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 102. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1275.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai 27. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1276.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Arka Sokaklar 537.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1277.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Azize 6. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1278.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kalk Gidelim 92. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1280.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Atiye.S01E08.WEB-DL.1080p.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1284.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Atiye.S01E07.WEB-DL.1080p.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1287.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Atiye.S01E06.WEB-DL.1080p.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1286.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Atiye.S01E05.WEB-DL.1080p.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1283.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Atiye.S01E04.WEB-DL.1080p.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1285.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Atiye.S01E03.WEB-DL.1080p.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1282.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Atiye.S01E02.WEB-DL.1080p.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1281.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Atiye.S01E01.WEB-DL.1080p.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1288.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",G�vercin 6. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1375.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kimse Bilmez 27. B�l�m - Final
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1376.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 63. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1379.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zalim Istanbul 25. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1381.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 17. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1389.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Vuslat 35. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1390.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",�ukur 3.Sezon 17.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1395.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Vuslat 37. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1397.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 65. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1398.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",�ocuk 17. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1401.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ramo 2.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1400.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zemheri 2.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1407.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 52. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1408.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 19. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1409.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Babil 2. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1410.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Arka Sokaklar 539. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1420.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai 29. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1411.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 105. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1412.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sampiyon 18. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1415.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 66. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1417.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Vuslat 38. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1419.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",�ukur 3.Sezon 18.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1416.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zalim Istanbul 28. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1421.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cocuk 18.B�l�m Final
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1427.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ramo 3. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1426.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 53. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1435.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 20. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1436.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Babil 3. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1437.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai 30. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1438.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 106. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1439.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Z�mr�d�anka 2. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1444.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Z�mr�d�anka 1. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1443.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",G�vercin 8. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1445.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sampiyon 19. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1447.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 3.Sezon 19.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1449.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 67.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1448.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Vuslat 39. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1451.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zalim Istanbul 29. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1452.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ramo 4.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1455.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Dogdugun Ev Kaderindir 5. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1460.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 21.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1461.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 54. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1462.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai 31.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1463.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Babil 4. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1464.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 107. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1465.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kuzey Yildizi ilk Ask 20. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1466.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sampiyon 20.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1468.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Savasci 92. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1469.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zumruduanka 3. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1467.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Guvercin 9. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1470.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 87.bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1474.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sefirin Kizi 8. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1473.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 68
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1471.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Vuslat 40. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1475.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zalim Istanbul 30. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1476.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Eskiya Dunyaya Hukumdar Olmaz 156. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1477.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ramo 5. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1478.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hekimoglu 7. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1479.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",RadyoVisionTV
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1570.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zemheri 5. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1483.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 55. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1486.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 22.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1485.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Babil 5. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1488.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai 32. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1487.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kalk Gidelim 98. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1490.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Z�mr�d�anka 4. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1492.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Guvercin 10. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1493.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Savasci 93. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1494.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sampiyon 21. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1495.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sefirin Kizi 9. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1496.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 88.bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1497.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Vuslat 41. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1498.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 69.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1499.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zalim Istanbul 31. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1500.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Eskiya Dunyaya Hukumdar Olmaz 157. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1513.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hekimoglu 8. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1514.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ramo 6. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1512.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Dogdugun Ev Kaderindir 7. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1515.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zemheri 6. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1518.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 56. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1521.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize 23. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1520.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Babil 6. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1524.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai 33.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1522.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 109. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1523.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Arka Sokaklar 543. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1525.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Guvercin 11. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1529.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kuzey Yildizi ilk Ask 22. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1527.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zumruduanka 5. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1528.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Savasci 94. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1530.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 89. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1533.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sefirin Kizi 10. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1534.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Vuslat 42. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1536.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 70. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1535.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kalk Gidelim 99. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1537.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zalim Istanbul 32. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1538.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Edho 158. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1541.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ramo 7.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1540.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hekimoglu 9. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1542.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zemheri 7. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1544.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Dogdugun Ev Kaderindir 8. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1546.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 57. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1547.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 24.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1548.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Arka Sokaklar 544. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1551.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai  34.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1550.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 110. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1549.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kuzey Yildizi ilk Ask 23. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1553.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zumruduanka 6. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1552.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sampiyon 22.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1554.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 90.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1555.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sefirin Kizi 11. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1556.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Vuslat 43.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1557.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 71.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1558.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zalim Istanbul 33. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1559.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ramo 8.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1560.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hekimoglu 10. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1561.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cuz30
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2080.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cuz29
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2078.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cuz28
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2077.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cuz27
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2076.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cuz26
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2075.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cuz25
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2074.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cuz24
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2073.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cuz23
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2072.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cuz22
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2071.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cuz21
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2070.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cuz20
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2069.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cuz19
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2067.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cuz18
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2066.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cuz17
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2065.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cuz16
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2064.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cuz15
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2063.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cuz14
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2062.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cuz13
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2061.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cuz12
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2060.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cuz11
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2059.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cuz10
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2058.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cuz9
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2086.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cuz8
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2085.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cuz7
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2084.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cuz6
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2083.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cuz5
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2082.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cuz4
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2081.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cuz3
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2088.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cuz2
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2068.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",cuz1
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2057.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zemheri 8. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1562.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Dogdugun Ev Kaderindir 9. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1564.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 58. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1566.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 25.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1567.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ogretmen 1. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1568.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Arka Sokaklar 545. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1576.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Babil 7. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1573.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai  35.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1574.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 111. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1575.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kalk Gidelim 100. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1584.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Gel Dese Ask 1. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1581.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Guvercin 12. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1580.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hizmetciler 1. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1577.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kuzey Yildizi ilk Ask 24. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1579.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sampiyon 23.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1583.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Savasci 95. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1582.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zumruduanka 7. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1578.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 91. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1585.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sefirin Kizi 12. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1586.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 72.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1587.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zalim Istanbul 34.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1588.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Vuslat 44.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1589.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Eskiya Dunyaya Hukumdar Olmaz 159. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1592.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hekimoglu 11. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1593.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ramo 9. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1594.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Dogdugun Ev Kaderindir 10. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1598.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ogretmen 2. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1595.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zemheri 9. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1596.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 59. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1600.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 26.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1601.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Babil 8. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1604.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai  36.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1606.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 118. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1605.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hizmetciler 2. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1608.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kuzey Yildizi ilk Ask 25. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1609.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zumruduanka 8. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1607.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Gel Dese Ask 2. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1611.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Guvercin 13. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1612.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sampiyon 24.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1614.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Savasci 96. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1613.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kalk Gidelim 101. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1615.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 25. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1619.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 73.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1617.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zalim istanbul 35. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1620.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Baraj 1. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1623.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Eskiya Dunyaya Hukumdar Olmaz 160. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1624.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hekimoglu 12. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1625.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ramo 10. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1627.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ogretmen 3. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1629.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zemheri 10.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1631.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Dogdugun Ev Kaderindir 11. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1633.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 60. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1636.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 27.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1635.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Babil 9. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1638.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai  37.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1637.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 113. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1639.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Arka Sokaklar 547. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1640.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kuzey Yildizi ilk Ask 26. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1642.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zumruduanka 9. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1641.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hizmetciler 3. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1643.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Gel Dese Ask 3. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1644.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sefirin Kizi 14. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1645.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 74.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1646.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zalim Istanbul 36. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1647.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Baraj 2. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1648.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",EDHO 161.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1649.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hekimoglu 13. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1651.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ramo 11.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1650.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ogretmen 4. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1652.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 61. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1656.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 28.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1655.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Babil 10. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1658.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai  38.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1657.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 114. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1659.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sefirin Kizi 15. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1660.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Gel Dese Ask 4. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1661.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Eskiya Dunyaya Hukumdar Olmaz 162. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1662.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 62. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2044.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kuzey Yildizi ilk Ask 27. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2045.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 115. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2046.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sampiyon 25.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2047.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 63. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2049.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Arka Sokaklar 549. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2050.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 116. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2051.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Eskiya Dunyaya Hukumdar Olmaz 163. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2053.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Eskiya Dunyaya Hukumdar Olmaz 164. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2054.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 93. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2055.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Edho 165. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2098.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Alef S01 E05
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2101.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Arka Sokaklar 552.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2105.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kurulus Osman 24.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2109.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kurulus Osman 25.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2111.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kurulus Osman 26.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2113.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sefirin Kizi 16. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2112.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Gencligim Eyvah 1.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2114.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kurulus Osman 27. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2115.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sefirin Kizi 17. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2116.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Gencligim Eyvah 2. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2118.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sampiyon 27.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2117.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sampiyon 26.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2119.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 117. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2120.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 1188. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2121.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Gencligim Eyvah 3.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2122.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bay Yanlis 1.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2123.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kalk Gidelim 105. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2124.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kalk Gidelim 106. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2125.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kalk Gidelim 107. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2126.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kalk Gidelim 108. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2127.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 119. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2131.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bay Yanlis 2.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2135.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bay Yanlis 3.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2136.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Gencligim Eyvah 4.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2132.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sampiyon 29.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2134.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sen Cal Kapimi 1.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2133.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cati Kati Ask 1.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2137.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bay Yanlis 4. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2145.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bay Yanlis 5.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2146.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cati Kati Ask 2.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2143.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cati Kati Ask 3. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2144.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Gencligim Eyvah 5. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2138.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Gencligim Eyvah 6. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2139.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Gencligim Eyvah 7. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2140.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sen Cal Kapimi 2. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2141.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sen Cal Kapimi 3. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2142.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Gencligim Eyvah 10. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2152.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Gencligim Eyvah 11. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2153.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Gencligim Eyvah 12.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2202.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Gencligim Eyvah 13.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2203.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Gencligim Eyvah 8. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2150.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Gencligim Eyvah 9. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2151.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sen Cal Kapimi 4.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2204.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sen Cal Kapimi 5.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2205.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sen Cal Kapimi 6.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2206.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sen Cal Kapimi 7. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2154.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sen Cal Kapimi 8. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2207.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Maria ile Mustafa 1.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2208.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bay Yanlis 6.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2209.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bay Yanlis 7.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2210.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bay Yanlis 8.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2211.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bay Yanlis 9.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2212.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Menajerimi Ara 1.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2215.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Menajerimi Ara 2.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2216.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Baraj 3. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2214.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bay Yanlis 10.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2213.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 75. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2201.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sefirin Kizi 18. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2200.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 94. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2199.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Menajerimi Ara 3.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2217.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Baraj 4. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2218.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sen Cal Kapimi 9.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2219.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 95. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2221.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Maria ile Mustafa 2.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2224.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sefirin Kizi 19. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2223.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 76. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2222.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ariza 1.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2341.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Baraj 5. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2343.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 64.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2345.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Masumlar Apartmani 1.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2344.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Menajerimi Ara 4.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2347.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 29.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2346.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sen Cal Kapimi 10.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2348.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bay Yanlis 11.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2351.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bay Yanlis 12.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2350.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai  39.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2349.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kuzey Yildizi ilk Ask 28. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2363.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kuzey Yildizi ilk Ask 29. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2362.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kuzey Yildizi ilk Ask 30. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2361.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kuzey Yildizi ilk Ask 31. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2360.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kuzey Yildizi ilk Ask 32. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2359.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Iyi Gunde Kotu gunde 2.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2355.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Iyi Gunge Kotu gunde 1.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2354.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Savasci 97. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2364.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Savasci 98. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2358.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zumruduanka 10. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2353.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zumruduanka 11. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2352.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Maria ile Mustafa 3.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2357.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ariza 2.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2356.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Gencligim Eyvah 14.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2367.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Gencligim Eyvah 15.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2366.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 77. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2365.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sefirin Kizi 20. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2368.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 96. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2369.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Baraj 6. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2371.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Menajerimi Ara 5.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2370.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Babil 11. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2372.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Babil 12. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2374.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sen Cal Kapimi 11.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2373.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kirmizi Oda 1.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2429.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kirmizi Oda 2.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2430.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kirmizi Oda 3.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2431.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kirmizi Oda 4.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2432.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Babil 13. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2435.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bay Yanlis 13.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2436.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 65.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2434.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai  40.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2437.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 30.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2433.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Iyi Gunde Kotu gunde 3.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2438.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zumruduanka 12. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2440.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kuzey Yildizi ilk Ask 33. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2439.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Savasci 99. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2443.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Maria ile Mustafa 4.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2441.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ariza 3.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2442.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Gencligim Eyvah 16.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2447.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sefirin Kizi 21. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2446.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 78. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2444.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 97. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2445.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Menajerimi Ara 6.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2448.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Dogdugun Ev Kaderindir 12. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2454.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Dogdugun Ev Kaderindir 13. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2449.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Masumlar Apartmani 2.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2452.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Masumlar Apartmani 3.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2453.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sen Cal Kapimi 12.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2451.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 66.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2455.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Babil 14. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2457.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai  41.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2458.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kirmizi Oda 5.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2459.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zumruduanka 13. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2460.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kuzey Yildizi ilk Ask 34. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2461.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Iyi Gunde Kotu gunde 4.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2462.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ariza 4.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2463.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Maria ile Mustafa 5.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2464.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Uyanis: Buyuk Selcuklu 2.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2466.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 79.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2467.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 98. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2465.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sefirin Kizi 22. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2468.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Baraj 8. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2469.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Edho 166. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2470.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Menajerimi Ara 7.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2471.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Dogdugun Ev Kaderindir 14. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2473.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sen Cal Kapimi 13.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2474.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 67.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2478.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 32.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2477.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Babil 15. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2483.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cocukluk 1.bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2482.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai  42.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2481.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kirmizi Oda 6.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2480.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 120. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2479.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Iyi Gunde Kotu gunde 5.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2484.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zumruduanka 14. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2485.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kuzey Yildizi ilk Ask 35. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2486.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ariza 5.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2488.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Maria ile Mustafa 6.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2487.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ogretmen 5. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2489.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Uyanis: Buyuk Selcuklu 3.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2490.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 80. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2491.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 99. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2492.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sefirin Kizi 23. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2493.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Baraj 9. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2496.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Edho 167. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2494.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Masumlar Apartmani 5.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2497.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Menajerimi Ara 8.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2495.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Dogdugun Ev Kaderindir 15. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2500.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Guvercin 14. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2501.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sadakatsiz 2.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2499.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Seref Sozu 1.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2498.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sen Cal Kapimi 14.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2502.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 68.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2506.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 33.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2505.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Babil 16. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2508.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cocukluk 2.bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2509.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai  43.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2510.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 121. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2507.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kirmizi Oda 7.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2511.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Gonul Dagi 1.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2515.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Iyi Gunde Kotu gunde 6.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2512.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kuzey Yildizi ilk Ask 36. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2513.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zumruduanka 15. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2514.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ariza 6.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2516.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Maria ile Mustafa 7.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2517.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ogretmen 6. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2518.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Menajerimi Ara 9.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2519.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Gencligim Eyvah 17.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2520.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 100. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2521.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sefirin Kizi 24. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2522.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Uyanis: Buyuk Selcuklu 4.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2523.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 81. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2524.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Baraj 10. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2526.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Edho 168. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2525.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Dogdugun Ev Kaderindir 16. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2531.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Guvercin 15. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2528.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sen Cal Kapimi 15.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2530.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Seref Sozu 2.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2529.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Babil 17. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2537.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 69.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2534.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cocukluk 3.bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2536.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kirmizi Oda 8.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2535.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 34.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2533.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 122. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2538.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ramo 17.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2539.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai  44.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2540.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Gonul Dagi 2.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2541.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zumruduanka 16. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2542.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kuzey Yildizi ilk Ask 37. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2543.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sadakatsiz 3.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2544.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ariza 7.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2545.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Maria ile Mustafa 8.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2546.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Menajerimi Ara 10.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2548.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ogretmen 7. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2547.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 101. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2549.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sefirin Kizi 25. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2550.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Uyanis: Buyuk Selcuklu 5.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2551.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 82. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2552.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Baraj 11. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2553.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Edho 169. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2554.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Guvercin 16. Bolum Final
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2556.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Dogdugun Ev Kaderindir 17. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2559.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sen Cal Kapimi 16.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2558.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Seref Sozu 3.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2557.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 70.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2561.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 35.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2560.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kalk Gidelim 124. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2564.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kalk Gidelim 125. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2563.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yeni Hayat 9.Bolum Final
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2565.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cocukluk 4.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2569.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai  45.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2570.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kirmizi Oda 9.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2571.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zumruduanka 17. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2572.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Maria ile Mustafa 9.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2573.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Menajerimi Ara 11.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2574.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 101.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2576.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sefirin Kizi 26. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2577.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Uyanis: Buyuk Selcuklu 6.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2578.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 83.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2579.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Baraj 12. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2588.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Edho 170. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2589.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Dogdugun Ev Kaderindir 18. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2597.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sadakatsiz 5.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2593.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Seref Sozu 4.Bolum FINAL
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2594.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sen Cal Kapimi 17.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2596.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Alev Alev 1.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2598.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 71.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2599.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Babil 18. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2606.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cocukluk 5.bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2605.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai  46.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2603.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kirmizi Oda 10.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2604.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 124. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2607.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kuzey Yildizi ilk Ask 38. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2609.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zumruduanka 18. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2608.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ariza 9.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2618.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Maria ile Mustafa 10.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2617.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Menajerimi Ara 12.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2615.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ogretmen 8. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2616.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 102.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2621.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sefirin Kizi 27. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2622.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Uyanis: Buyuk Selcuklu 7.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2623.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 84.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2624.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Baraj 13. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2626.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Edho 171. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2625.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Dogdugun Ev Kaderindir 19. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2629.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sen Cal Kapimi 18.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2631.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Alev Alev 2.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2633.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 72.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2632.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 37.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2634.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Babil 19. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2640.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cocukluk 6.bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2639.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai  47.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2637.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kirmizi Oda 11.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2638.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 125. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2641.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ariza 10.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2643.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Maria ile Mustafa 11.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2644.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ogretmen 9. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2645.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 103.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2646.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 85. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2649.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sefirin Kizi 28. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2647.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Uyanis: Buyuk Selcuklu 8.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2648.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Baraj 14. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2652.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Edho 172. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2650.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Masumlar Apartmani 10.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2651.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Dogdugun Ev Kaderindir 20. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2653.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sadakatsiz 7.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2655.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Alev Alev 3.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2659.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 73.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2657.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 38.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2658.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Babil 20. Bolum Final
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2665.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cocukluk 7.bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2660.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai  48.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2662.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kirmizi Oda 12.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2661.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sen Cal Kapimi 19.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2664.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kefaret 1.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2666.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ariza 11.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2669.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Maria ile Mustafa 12.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2667.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Menajerimi Ara 13.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2668.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 104. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2670.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sefirin Kizi 29. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2671.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Uyanis: Buyuk Selcuklu 9.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2672.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 86. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2673.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Baraj 15. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2676.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Edho 173. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2674.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Masumlar Apartmani 11.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2675.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Dogdugun Ev Kaderindir 21. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2677.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zumruduanka 20. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2678.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Alev Alev 4.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2681.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 74.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2683.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cocukluk 8.bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2684.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kirmizi Oda 13.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2685.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 39.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2682.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai  49.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2686.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Gonul Dagi 6.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2689.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kuzey Yildizi ilk Ask 41. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2688.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sen Cal Kapimi 20.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2687.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ariza 12.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2692.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kefaret 2.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2690.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Maria ile Mustafa 13.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2693.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Menajerimi Ara 14.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2691.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 105. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2694.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sefirin Kizi 30. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2695.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Uyanis: Buyuk Selcuklu 10.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2696.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Baraj 16. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2697.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Edho 174. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2698.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Dogdugun Ev Kaderindir 22. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2700.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zumruduanka 21. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2701.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Alev Alev 5.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2702.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 75.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2705.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 40.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2704.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sol Yanim 2.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2703.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cocukluk 9.bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2708.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai  50.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2706.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kirmizi Oda 14.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2707.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sen Cal Kapimi 21.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2709.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kuzey Yildizi ilk Ask 42. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2710.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ariza 13.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2714.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kefaret 3.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2712.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Maria ile Mustafa 14.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2715.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Menajerimi Ara 15.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2713.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 106. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2716.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sefirin Kizi 31. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2717.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Uyanis: Buyuk Selcuklu 11.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2718.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 88. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2719.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Baraj 17. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2721.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Edho 175. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2720.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Masumlar Apartmani 13.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2722.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Dogdugun Ev Kaderindir 23. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2725.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sadakatsiz 9.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2726.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zumruduanka 22. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2724.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Alev Alev 6.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2728.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 41.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2729.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sol Yanim 3.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2727.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 76.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2730.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Akrep 1.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2731.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai  51.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2732.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kirmizi Oda 15.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2733.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Payitaht Abd�lhamid 129. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2734.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Gonul Dagi 8.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2735.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kuzey Yildizi ilk Ask 43. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2737.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sen Cal Kapimi 22.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2736.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ariza 14.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2738.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kefaret 4.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2739.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Maria ile Mustafa 15.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2740.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Menajerimi Ara 16.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2741.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 107. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2742.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Uyanis: Buyuk Selcuklu 12.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2744.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sefirin Kizi 32. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2743.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Edho 176. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2745.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Baraj 18. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2746.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Dogdugun Ev Kaderindir 24. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2748.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sadakatsiz 10.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2747.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Alev Alev 7.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2751.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 77.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2752.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sol Yanim 4.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2750.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 42.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2749.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Akrep 2.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2753.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cocukluk 10.bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2756.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai  52.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2754.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kirmizi Oda 16.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2755.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kuzey Yildizi ilk Ask 44. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2760.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Gonul Dagi 9.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2758.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sen Cal Kapimi 23.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2759.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ariza 15.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2761.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kefaret 5.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2762.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Maria ile Mustafa 16.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2763.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Menajerimi Ara 17.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2764.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 109. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2765.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sefirin Kizi 33. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2766.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Yasak Elma 90.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2767.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Baraj 19. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2770.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Edho 177. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2768.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Masumlar Apartmani 15.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2769.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Dogdugun Ev Kaderindir 25. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2771.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Zumruduanka 24. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2774.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Alev Alev 8.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2777.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Bir Zamanlar �ukurova 78.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2776.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Mucize Doktor 43.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2779.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sol Yanim 5.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2778.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Akrep 3.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2780.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cocukluk 11.bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2783.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai  53.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2781.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kirmizi Oda 17.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2782.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kefaret 6.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2784.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 110.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2785.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Edho 178. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2786.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Baraj 20. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2787.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Dogdugun Ev Kaderindir 26. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2789.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Cukur 111. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2790.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Akinci 9.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2801.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Seni �ok Bekledim 5. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2803.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Son Yaz 9. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2804.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",MocroMaffia S03 E05
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2806.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kuzey Yildizi ilk Ask 52. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2814.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kuzey Yildizi ilk Ask 53. Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2808.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sen Cal Kapimi 33.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2809.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Ariza 24.Bolum
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2811.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Hercai  61.B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2812.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Menajerimi Ara 27. B�l�m
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2813.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Back.of.the.Net.2019.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1341.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Astro.Gardener.2019.WEBRip.1080p.TRDUB.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1340.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Assassination.Nation.2018.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1339.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Angel.of.Mine.2019.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1338.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| After.the.Raid.2019.WEB-DL.1080p.DUAL.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1337.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Ad.Astra.2019.Bluray.720p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1336.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Action.Point.2018.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1335.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Abigail.2019.WEBRip.1080p.TRDUB.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1334.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| A.Score.to.Settle.2019.Bluray.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1333.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| 6.Underground.2019.WEB-DL.1080p.DUAL.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1332.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Saf.2018.WEBRip.1080p.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1251.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Ise.Yarar.Bir.Sey.2017.WEBRip.1080p.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1250.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Genis.Aile.Komsu.Kizi.2019.WEB-DL.1080p.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1249.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Firincinin.Karisi.2019.WEB-DL.1080p.H.264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1248.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",|TR| Canakkale.1915.2012.WEB-DL.1080p.x264-HDM
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1247.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Jiang.hu.er.nu.2018
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/703.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] In.the.Tall.Grass.2019
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/702.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Hotel.Mumbai.2018
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/701.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Halloween.2018.Bluray
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/700.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Future.World.2018
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/699.mkv
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Cep Herkulu NAIM SULEYMANOGLU
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2148.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Baba PARASI
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2147.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Karakomik Filmler 2: Deli
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2130.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Yarina Tek Bilet
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2128.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Mucize 2 ASK
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2106.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Recep.Ivedik 6
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/2052.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] 7. Kogustaki Mucize
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1590.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Annem 2020
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1539.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Laz Kit 2020
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1532.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",[TR] Facia UCLU
+http://visionmedaitv.nl:7444/movie/DizifiLmlerKarSki/NuTIkSGXjH/1531.mp4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: beIN SPORTS 1 YEDEK
+http://zero2.site:8080/zero/zero/15
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: HAYRAN TV
+http://zero2.site:8080/zero/zero/14
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: TV8 HD
+http://zero2.site:8080/zero/zero/13
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: STARTV HD
+http://zero2.site:8080/zero/zero/12
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: KANALD HD
+http://zero2.site:8080/zero/zero/11
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: SHOW HD
+http://zero2.site:8080/zero/zero/10
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: FOX HD
+http://zero2.site:8080/zero/zero/9
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: ATV HD
+http://zero2.site:8080/zero/zero/8
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: TRT 1 HD
+http://zero2.site:8080/zero/zero/7
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: beIN SPORTS 4 HD
+http://zero2.site:8080/zero/zero/6
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: beIN SPORTS 3 HD
+http://zero2.site:8080/zero/zero/5
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: beIN SPORTS 2 HD
+http://zero2.site:8080/zero/zero/4
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: beIN SPORTS 1 SD
+http://zero2.site:8080/zero/zero/3
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",ANKA TV
+http://misket.tv:2020/anka-icin-test/fhoPny6SRC/5592
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TURKUVAZ INFO
+http://misket.tv:2020/anka-icin-test/fhoPny6SRC/3685
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",MiSKET TV
+http://misket.tv:2020/anka-icin-test/fhoPny6SRC/3892
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TURKUVAZ WESTERN
+http://misket.tv:2020/anka-icin-test/fhoPny6SRC/5243
+#EXTINF:-1  group-title="Turquia" tvg-logo="data:image/jpeg;base64,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",TV 41 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBTVFKVwSMpJ6EG0YL9PMXRmJ9VmuRCk7giuW0OLQxnv/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: YABAN TV
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: YABAN TV
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPyYyGq65E-woxLfSO1bphBnq62-qbcH2QLLH30ORK74/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: ULKE TV
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: ULKE TV
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAC9Jh6FsgbnJ5h1EsWdZIIBkFWx47CpHmbbmNZo_6Nu/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: TVNET
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: TVNET
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHAClaNX49mHaMlXn50FhHFqe0UhFZ3wfEOTObL_EVay/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: TRT TURK
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: TRT TURK
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLqSf9LRdlwr3D_ApWDiljkEi21aXZVWciNkIEH8YQ4v/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: TRT SPOR 2
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: TRT SPOR 2
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbP97R79ptoLc8Rg6WtJlc4PIX-PceVYoAxLjkFljCI9f/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: TRT SPOR
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: TRT SPOR
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLFkXgYnSaLiIyWdftCpTOGq0MiClOTJNGL1OH4H4er8/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: TRT HABER
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: TRT HABER
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKNziF-aM2f9v_Mhsc8g7Y_qjSEgL6l395JIoo2JzcRc/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: TRT COCUK
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: TRT COCUK
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPTg2O9GJ6kucHimx_3ZVUnHryAMMLNu9DVv-6K0fWGH/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: TRT 4K
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: TRT 4K
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAB4KETqlisKtmc45AkbaJiwuN6UP52J-qAd3teI-xy8/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: TiViBUSPOR 2 HD
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: TiViBUSPOR 2 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDqyq96FnspQ1uF171vd5-2TCqV2ekgzIOBUG__W7ceJ/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: TIVIBUSPOR 2 (Backup)
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: TIVIBUSPOR 2 (Backup)
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEhYMx3KSiGAIE_tTTbbVUIYtn0IaC6KV-aSdWzOrxbj/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: TiViBUSPOR 1 HD
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: TiViBUSPOR 1 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbD57whU6ul9J0Z6kmyj5EMPHtZdwdJYSiNdIV1rgQIRr/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: TIVIBUSPOR 1 (Backup)
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: TIVIBUSPOR 1 (Backup)
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKpzisFbbU2KWDF8pwAjHBfFlOI5dXO8I6bHplXryCZW/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: Ten Ten 1 HD
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: Ten Ten 1 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGmV5QFqRvDMWHzApLOz5yQ7mqRrSRMjba7rQ4t-kBy3/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: TELE 1
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: TELE 1
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbF2RSGKvkkiO593MW1X3pTYhK1vzm4ncCygmBAd9Qnag/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: SPOR SMART HD+
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: SPOR SMART HD+
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbONa1XomLefvkynCH9MSJ0oZRzFwATga8l4MnuSmuzjv/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: SPOR SMART HD
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: SPOR SMART HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDJyxRNcERbdBT_kAJ0zE7EP4jvHRF9D5OC9WiNoTJAv/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: SARAN SPORT 2 HD
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: SARAN SPORT 2 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIGMYhpnIPyc-jNexdxUFPUcSnZ_OZF_w6x6_ABdV0sC/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: SARAN SPORT 1 HD
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: SARAN SPORT 1 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDMXsgO9v9pu_IYohDo-VInbUzHp0vxK-D-Zl9IzzqUs/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: POWER TURK
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: POWER TURK
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbER9ax0D37jcO5mQ6hyyK9Je2b9CkmuqFnMq4gT7RDNS/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: NR1
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: NR1
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbI6UQ2YpPi2wvAR5a3LZ2KmjCspzsSjLdpPbkOVCPQq4/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: NAT GEO WILD
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: NAT GEO WILD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMIbrmPg1VeZLbS3leGWCzjOoho4dDtuREjhKk3DfRDq/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: MOVIESMART PREMIUM
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: MOVIESMART PREMIUM
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbL6fyq5HYL3CqfGuK10pAqoSLN3CjkZscNpx0SBg2la6/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: Movie Smart Gold HD
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: Movie Smart Gold HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLwYxOktqghNVQfBd67z8u6FNBCoGiZBsJzxCPD4CiB6/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: MINIKA COCUK
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: MINIKA COCUK
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOaU3SmxLE36grltxLkazx46njV5YGTZ8gthuDpguzYB/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: KANAL 24
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: KANAL 24
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFTh2zesnZca1lXJaIc1kEZ2oyqAWThFzwCveQgCbFHx/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: HABERTURK
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: HABERTURK
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbM4XnY6ItcA7pmGYxUVqC9WMrv7uXucGVhW0HfNlmDd9/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: GSTV HD
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: GSTV HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGPNqnY85mKIb8ir1o3Bhj5_DQoWQ_nNwXxTLFZM8V2P/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: FX
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: FX
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAg9vQVgJFE7ndqDJvvxC-beYUvqM9jM2kLoGasj3pSt/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: DREAM TV
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: DREAM TV
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbD4GZWLlycQ-KVTwPAFbUi3zYcNUZ3NCNFoSdEKARisz/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: DMAX
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: DMAX
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNKskOsxfwQkXfVnwKYuW5NYwX8jvbkgR82yqutPvcQK/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: DIZI SMART PREMIUM
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: DIZI SMART PREMIUM
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEn4jHMrT9dx6u76MghnZjwAiGbq0osOzX7izz5Pe0Gu/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: DiSNEY XD
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: DiSNEY XD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbATXX0ptCnHHHrG2R-pH1uSf0UMLsYOvllF_iRLEyBE6/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: CARTOON NETWORK
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: CARTOON NETWORK
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNuOGYiHq2cyJ9_mlJuREQCLFAbVbSoqVPWL2RpRK4KM/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS MAX 2 HD
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS MAX 2 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNhbzDGMF8jYrTr1LHjeDNM1F20RwwbYyn56Y0SZ5kXN/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS MAX 2 FHD
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS MAX 2 FHD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDlaa2Zvek4OcRaaD_0Z686kvvv9vsfw2tt-WSbUsjer/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS MAX 1 HD
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS MAX 1 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDXKkEFS4DIShIqq80OQWBqHX1VLJ6x8WjoGtMSEahaC/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS MAX 1 FHD
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS MAX 1 FHD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDbsEhwmwezaH3lYMDZYRepl92CB0RniIJM-A3S4YgGy/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS 4 SD
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS 4 SD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDqM-4nr3_VfRvyRYr3RCgI6Ts0RK-zIq0SM7qAoq3b7/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS 3 SD
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS 3 SD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDVRxr-1rHm7dnjdWF2dlPB2pLZgSPmUuXN4DEheBHk7/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS 3
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS 3
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIrVa_qccitgV649bd7-y6G5cQGt50jGMIj14t3wXTE4/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS 2 SD
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS 2 SD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAsMlunHnyWqKb8rrMOs87EjfebVvhRCtNuiF81zxCEk/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS 2 HD
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS 2 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCEi9p1aJtL1PopgdUS0qqRoi77GtHcy-qcZLK6qeRto/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS 2 FHD
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS 2 FHD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJhj0AuqEl22XBZ4oLN-w8Mqy4YKj7RNwQqkTzMRcKKt/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS 1 UHD ( BACKUP )
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS 1 UHD ( BACKUP )
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJfVbbAxMXRgLlz-mthqS3RLuN0GzOsc3YRSszm4qjV6/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS 1 UHD
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS 1 UHD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIZn6p1p_IO1muUa9DodMA1v8OaXisW9fg1sSl3Sf3n3/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS 1 HD (Backup)
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS 1 HD (Backup)
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLwcmRnE9Xcghwh3n9QWOO3SsXlSRqPOoYnSyDqJwrhM/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS 1 HD ( BACKUP )
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS 1 HD ( BACKUP )
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCoXx0zPpnHe6dqelaeANj8UQ-dJ64rf_AfJEpXeMttI/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS 1 HD
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS 1 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOeMAt65u9z0J70-2dYbdOEp8DLg9AgnufbI_sk95fP2/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS 1 FHD
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: BEIN SPORTS 1 FHD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPBAApCXfv8TSuDwtbdSD2RqRo5Dut4wDP6R7JTQhb3g/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: BEIN SPORT 1 FEED
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: BEIN SPORT 1 FEED
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGK56GgkNTZ7KnIRIPfwIYY3QfMIkDZo18lZ4g0q-trN/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: BEIN SERIES VICE
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: BEIN SERIES VICE
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKd8qSA1PSPwqwhkROgl91Np4yDM3ZA4s0F6Ay-ATzoa/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: BEIN SERIES SCI-FI
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: BEIN SERIES SCI-FI
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFB_w2kREm3qX56vh1Bm6X_tzvXRxThK0XV2t9n0MhjG/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: BEIN SERIES COMEDY
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: BEIN SERIES COMEDY
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCdNVtmhKU5tlYlOFEvfJurKp1kWYQBrYHwc5Fnih0Gv/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: BEIN MOVIES TURK
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: BEIN MOVIES TURK
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbM_knQa02nupz2ihLTSeLpKfXQKbEUrgHJWg8zFD4Yvp/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: BEIN MOVIES PREMIER 2 HD
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: BEIN MOVIES PREMIER 2 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLeDqHA8ZUCoSnk1bvn3sp_5sqOFkEAiT5mLrdX2Gcnt/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: beIN Movies Action 2 HD
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: beIN Movies Action 2 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbF2RSGKvkkiO593MW1X3pTa8unG3qTTqpyeW2nqLH14n/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: BBC Earth
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: BBC Earth
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIyYd4dS8TVFsfI07uTDzpmAaR4d4ca-tOfPBs1gUwCe/ts
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TR: A SPOR
+#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TR: A SPOR
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPXR6AYoEj0dXpxCrQTVXpH4la9mdF8R0aHpPd3rBhm1/ts
