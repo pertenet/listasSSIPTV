@@ -1,131 +1,89 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SRB: RTS ZIVOT
+#EXTINF:-1 ,SRB: RTS ZIVOT
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBOkP2jE5F9HmiaeApl9AvFdO5jVbQP1EAOo5Ilqk_Bq/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SRB: RTS TREZOR
+#EXTINF:-1 ,SRB: RTS TREZOR
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGT3AIugqIDZQ8QQ6YMJI_tYZfM7RDpK5TiJCqu-zNeS/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SRB: RTS DRAMA
+#EXTINF:-1 ,SRB: RTS DRAMA
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOGpqzKS7vQqqXWqgpp62_OlmgLrPchsgMB_BP4EqD1D/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SRB: RTS 1
+#EXTINF:-1 ,SRB: RTS 1
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPi1hRH3KtS8nQZlkNIF98YhAFADyucR1kGfWM0S3lIL/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SRB: PRVA WORLD
+#EXTINF:-1 ,SRB: PRVA WORLD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbL73W5nXdg3afr2JoruKXXuPfdNbI-FcQidPH3JYsDOK/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SRB: PRVA PLUS
+#EXTINF:-1 ,SRB: PRVA PLUS
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBszmEthloh-XB219d42FkrNv4U1nPcnZHIxQPTA0O1d/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SRB: O2 TV
+#EXTINF:-1 ,SRB: O2 TV
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFrFOyiek_lG_2UABzbcaOLhpo_41ERYEI8fa5M63y8i/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE: C More Live 2 HD
+#EXTINF:-1 ,SE: C More Live 2 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDa2dMO3XQxY3zWmqf3M12DhMvYAOH7fwN6daFKrKiqq/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE: C More Fotboll HD
+#EXTINF:-1 ,SE: C More Fotboll HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIt_7IYNd9u-iuCINd33bGC1kOhHkg10cjLksv96BXVX/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: VIASAT SPORT HD
+#EXTINF:-1 ,SE VIP: VIASAT SPORT HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKU4pcZqL_M970er8zhZc8_EYCAQRQO-13bgbKlQ-Fg-/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: Viasat Series HD
+#EXTINF:-1 ,SE VIP: Viasat Series HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKU4pcZqL_M970er8zhZc883MD_b2L9seFhNuBbjsIQr/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: Viasat Football FHD
+#EXTINF:-1 ,SE VIP: Viasat Football FHD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCpduJQCSun2gi-z_2cEOVbJN54wJ_52N5qtnYH2Srp3/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: Viasat Film Premiere HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCpduJQCSun2gi-z_2cEOVY3mUcjmcr1YWWW7Rj90cLW/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: Viasat Film Hits HD
+#EXTINF:-1 ,SE VIP: Viasat Film Hits HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCpduJQCSun2gi-z_2cEOVawehT4WSYLmJu741UGoJaw/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: Viasat Film Action HD
+#EXTINF:-1 ,SE VIP: Viasat Film Action HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNHC36BgKNmYFsckapUNxP9RqIWW2YrPuu4t6FxIobA8/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: VIASAT EXPLORE HD
+#EXTINF:-1 ,SE VIP: VIASAT EXPLORE HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNHC36BgKNmYFsckapUNxP-JqzsAps5fgVbImrhDfbmU/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: TV4 Komedi
+#EXTINF:-1 ,SE VIP: TV4 Komedi
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNHC36BgKNmYFsckapUNxP_FPOI-lMYjQGgpK3cJejxd/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: SVT1 V�rmland
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFWZty6_Gh6TTx8ifMjQqcCpNOnjRsXS2EJqtlZuPZCx/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: SJUAN HD
+#EXTINF:-1 ,SE VIP: SJUAN HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFWZty6_Gh6TTx8ifMjQqcAR4HMOnZt8ovF4VJuo8o_U/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: SF-Kanalen
+#EXTINF:-1 ,SE VIP: SF-Kanalen
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFWZty6_Gh6TTx8ifMjQqcCchjoHG7Uut6DWv_69qNOZ/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: Nicktoons
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFJnwNxyZB45wPKuCzGi9WT_AFfosEnQ9wbPVJkdKsJv/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: NAT GEO Wild HD
+#EXTINF:-1 ,SE VIP: NAT GEO Wild HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFJnwNxyZB45wPKuCzGi9WRDt-cmfYVSgk_k-B227Zc_/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: NAT GEO HD
+#EXTINF:-1 ,SE VIP: NAT GEO HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFJnwNxyZB45wPKuCzGi9WTOTGmy8eOjO4rCb2OkfZv_/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: MTV Hits
+#EXTINF:-1 ,SE VIP: MTV Hits
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFJnwNxyZB45wPKuCzGi9WRWkTWUo1JvJ0KyeH02IKqN/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: MTV HD
+#EXTINF:-1 ,SE VIP: MTV HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLRnstC0zuzDAZ8_nM0m-usyHaAqqjeviiZPPHyP5vxK/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: Kanal 9 HD
+#EXTINF:-1 ,SE VIP: Kanal 9 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLRnstC0zuzDAZ8_nM0m-usG5h0mL1jmKHPsf3a73jk0/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: Kanal 5 HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLRnstC0zuzDAZ8_nM0m-usj6gUqO684xU_BVNzU12T9/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: Kanal 11 HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLRnstC0zuzDAZ8_nM0m-uvzZmexYnpFY_VnGdG8FS7E/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: Investigation Discovery HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLRnstC0zuzDAZ8_nM0m-uvZt3tnGfREz0qoIOOF1BKQ/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: History Channel HD
+#EXTINF:-1 ,SE VIP: History Channel HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbI7bBvUGkJW8RNpjZ8SsobduY_RmO9MI8EfdaVaMsZiA/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: EUROSPORT 2 HD
+#EXTINF:-1 ,SE VIP: EUROSPORT 2 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbI7bBvUGkJW8RNpjZ8SsobexJwsYI8ETvPozOy9o2F3v/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: Disney Jr
+#EXTINF:-1 ,SE VIP: Disney Jr
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGCr4ZJiawC2pl2u1xJeNMoO0kzJNSfsJGPs7_rRfZv4/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: Disney Channel HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGCr4ZJiawC2pl2u1xJeNMov4YS6YMI1E_4mJ7ikm15G/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: CNN
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGCr4ZJiawC2pl2u1xJeNMqT45dWmtPz5JvFmlSBEWvq/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: CNBC
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGCr4ZJiawC2pl2u1xJeNMqbhNvfSojJZP5yRddJCo_K/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: Cartoon Network
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPG4LeC7X2ql9Ydbco4fPmY0qn2V45kOIwjFmCIZcSH0/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: C More Stars HD
+#EXTINF:-1 ,SE VIP: C More Stars HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPG4LeC7X2ql9Ydbco4fPmb11dnTUjT2DqnRx6Ksy99u/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: C More Sport FHD
+#EXTINF:-1 ,SE VIP: C More Sport FHD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPG4LeC7X2ql9Ydbco4fPmZPC4040Tl3qurNTAUUtgkO/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: C More SERIE HD
+#EXTINF:-1 ,SE VIP: C More SERIE HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPG4LeC7X2ql9Ydbco4fPmZL46jx9Mq9bEFoCGTjl5RR/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: C More RIES HD
+#EXTINF:-1 ,SE VIP: C More RIES HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPG4LeC7X2ql9Ydbco4fPmaP6rc2tcr0AW-n_A2MSUQF/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: C More LIVE 3 HD
+#EXTINF:-1 ,SE VIP: C More LIVE 3 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPG4LeC7X2ql9Ydbco4fPmZ0KS_McM4RYaB9rihjO3Xz/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: C More LIVE 2 HD
+#EXTINF:-1 ,SE VIP: C More LIVE 2 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPG4LeC7X2ql9Ydbco4fPmYkgHk6-FT3o7YA_zkPwfP2/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: C More Hits FHD
+#EXTINF:-1 ,SE VIP: C More Hits FHD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFKwuc6VBdxgZYflJ0Mq3akBbGwgGZ_gXisgsOn2Qtl3/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: C More GOLF FHD
+#EXTINF:-1 ,SE VIP: C More GOLF FHD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFKwuc6VBdxgZYflJ0Mq3ak2mfx7MrcD9sq_WDh3eNus/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: C More Fotboll HD
+#EXTINF:-1 ,SE VIP: C More Fotboll HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFKwuc6VBdxgZYflJ0Mq3amXQvjT5Wi13Bi3r27X-1bw/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: C More First HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFKwuc6VBdxgZYflJ0Mq3andgTbp3hzBvW0160-grPf2/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE VIP: C More FIRST
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFKwuc6VBdxgZYflJ0Mq3amRoqiuBeMggfgG83B7xNG0/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE :Viasat Sport HD
+#EXTINF:-1 ,SE :Viasat Sport HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOnbPqwb_oWc1WVEVx5RtbCTuZl4H5I2xxeNokX_B8oC/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE :Viasat Golf
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMeY0hwIayVHulzNhhbV0fKi3Nn-oXtswDuzzcQLQE1y/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE :Viasat Film Premiere HD
+#EXTINF:-1 ,SE :Viasat Film Premiere HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOKJrQLnB_mZx2U-275-uJ8Hr-fskA0prpsixNTsKQ9c/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE :Viasat Film Hits HD
+#EXTINF:-1 ,SE :Viasat Film Hits HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMeeJZpJ57_LmbOAUwnIQb8XUUwHXm7QMreiXEYLHmN3/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE :Viasat Film Family
+#EXTINF:-1 ,SE :Viasat Film Family
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLle7_iZ6oFtkM9lt3YjYBmnP5wf4DInAXfvNA_AJZh4/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE :Viasat Film Action HD
+#EXTINF:-1 ,SE :Viasat Film Action HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFrs-t1Xe5iAocJw1M8_MiY2-KwRx10aF8Xkxb-WJKHI/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE :VH1
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFgm_j_ApB1PvUBV0cjJdKgBdFvG0F2GG6e8mGcymbJ8/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE :TV6 HD
+#EXTINF:-1 ,SE :TV6 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbG8iyLefNp-2i28T_MiKj-tnUVPJ43Ni8tskYu6zrSqx/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE :TV10 HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKs0uTT3-u5KGn42d5yVP_sRWktLlOpHo4px7-7fd8TP/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE :SVT24
+#EXTINF:-1 ,SE :SVT24
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbK2u_JquZ__Ns2PWXZeHTCD8lEKteuwWVapSq5Nvy3s9/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE :SVT2 HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGpluSMNmCLUlswo8Ri6wuk2nf00XrVrVlh7Sr2Wm8ak/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE :SVT1 HD
+#EXTINF:-1 ,SE :SVT1 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJWxjsHtg1sraz_VRIPVNhznQVsPfGvPbWMmBzW5rFKn/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE :Discovery Science
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBsDqXM7SbtsHj6YlqnxCQFB3irVKgmKndFFuaM5nar_/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE :Discovery Channel HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPUg93AedgB5Jh62X4Q8rRZfrt5IBI26L6IdFP2BrVXL/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE :C More Stars FHD
+#EXTINF:-1 ,SE :C More Stars FHD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIC2dAdr_rZXetBncP6sAK1HXSQvdGTCWzR8VRK-_16j/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE :C More Series FHD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCK-kmzrzmIaqUZJObFljwHo6ePoJVlu6rmyWCj-vfXj/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE :C More Hits FHD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJG6B2xUKhNFuz29JQSQ_q4VnU58CTKuBlmWbJNPZSQ4/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SE :Animal Planet
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLDCT0TroYfEuZYellpFFUz7LQByiByWyLxKj3hbCyiz/ts

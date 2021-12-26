@@ -751,8 +751,6 @@ https://legochannel-roku.amagi.tv/playlist.m3u8
 https://legochannel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="Kids" tvg-logo="https://i.imgur.com/Z5t6cCe.jpg",New Kid TV (1080p)
 https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
-#EXTINF:-1  group-title="Kids" tvg-logo="https://static.epg.best/au/Nickelodeon.au.png",Nickelodeon Australia (576p)
-http://c0.cdn.trinity-tv.net/stream/7tsewn83ddjifz69us9je7eftbm5nuausb4dsvz9g5aydin9672n734qbb9jgcfpiqtpwudvs9dpi2udjc3eh4h462eie5azjmfbfgfjeqfuhjmmgx9zuj736ijg7nffhf8rviq5svkgxbp639y9nfgc.m3u8
 #EXTINF:-1  group-title="Kids" tvg-logo="https://i.imgur.com/ambc9le.png",PBS Kids 68.2 Kentucky (KETKY) (720p)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1  group-title="Kids" tvg-logo="https://i.imgur.com/ambc9le.png",PBS Kids Arizona (KAET-DT4) (1080p)
@@ -1137,8 +1135,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1af2ad
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1aeb2fd4b8a00076c2047/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1  group-title="Local" tvg-logo="N/A",Pluto TV CBS News (Denver) (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1b12146cba40007aa7e5d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1  group-title="Local" tvg-logo="N/A",Pluto TV CBS News (Los Angeles) (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc481cda1d430000948a1b4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dc481cda1d430000948a1b4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=207&terminate=false&userId=
 #EXTINF:-1  group-title="Local" tvg-logo="N/A",Pluto TV CBS News New York (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc48170e280c80009a861ab/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dc48170e280c80009a861ab&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=206&terminate=false&userId=
 #EXTINF:-1  group-title="Local" tvg-logo="http://images.pluto.tv/channels/5eb1b0bf2240d8000732a09c/colorLogoPNG.png",Pluto TV CBSN Minnesota (720p)
@@ -1309,8 +1305,6 @@ https://frontdoor.wcat-tv.org:8686/live/live.m3u8
 https://frontdoor.wcat-tv.org:8787/live/live.m3u8
 #EXTINF:-1  group-title="Local" tvg-logo="https://i.imgur.com/11r6tgW.png",WLNG Radio (410p)
 http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
-#EXTINF:-1  group-title="Local" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11462/s51306_h3_aa.png",WPIX 11 (1080p)
-http://71.187.29.220:8000/play/a08o/index.m3u8
 #EXTINF:-1  group-title="Movies" tvg-logo="https://i.imgur.com/yngqRL8.png",AMC Rush (1080p)
 https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  group-title="Movies" tvg-logo="https://i.imgur.com/WUAXiq1.png",American Classics (432p)
@@ -1415,12 +1409,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc287ce3086a20009
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677c0edace7cff8180b16/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7677c0edace7cff8180b16&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=57&terminate=false&userId=
 #EXTINF:-1  group-title="Movies" tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png",Pluto TV Sci-Fi (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1  group-title="Movies" tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png",Pluto TV Sci-Fi (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1  group-title="Movies" tvg-logo="http://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png",Pluto TV Spotlight (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=51&terminate=false&userId=
-#EXTINF:-1  group-title="Movies" tvg-logo="http://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png",Pluto TV Telemundo Telenovelas (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=
 #EXTINF:-1  group-title="Movies" tvg-logo="https://images.pluto.tv/channels/5f914f9dccb4de0007df8bc4/colorLogoPNG.png",Pluto TV Telenovela (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1  group-title="Movies" tvg-logo="http://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png",Pluto TV Terror (720p)
@@ -1441,8 +1431,6 @@ https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8
 https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
 #EXTINF:-1  group-title="Movies" tvg-logo="https://i.imgur.com/RhKSIGQ.jpg",TVS Drive In Movie (360p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
-#EXTINF:-1  group-title="Movies" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png",Warner TV (720p)
-http://203.154.243.89:11205
 #EXTINF:-1  group-title="Movies" tvg-logo="https://i.imgur.com/ylPU4Uf.jpg",Watch It Scream! (720p)
 https://content.uplynk.com/channel/29aff31fecb848ab9044369db2d61642.m3u8
 #EXTINF:-1  group-title="Movies" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/XumoFreeWesterns.png?raw=true",Xumo Free Westerns (540p)
@@ -1881,8 +1869,6 @@ http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR6sEYyiOx5ZQ7aPbVto2HFI
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRww_tkSyzNmR35PlU9Ip8N8
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",USA: Start TV
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR1rCmhumqJQqC-bI8El8_48
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",USA: Spotlight TV
-http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRzjmHfYhi4zW78noF9IztWQ
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",USA: Sportsman Channel
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRy40PjnrXlYpCgiNCLn8wWc
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",USA: Smithsonian Channel (East)
@@ -1915,8 +1901,6 @@ http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRwWy_ieJ8bPrWQeuJxrQiow
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR8n-rBYxn0OZRlPHYLkA0jo
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",USA: PopStar! TV
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRw1BgiU8W1AA4A9Cne50x_E
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",USA: POP (West)
-http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR6LGb2Lamrz5ekXIqlwFb2M
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",USA: POP
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR2wFc_xSmeJnLr0utjSiObg
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",USA: PixL
@@ -1947,8 +1931,6 @@ http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR4aA9IskNTnSA_wFnXvB-go
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR7PJdwdR_-fvLqwLMN2umWI
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",USA: Nick Toons
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR3Y1rj09tbpuyptJseRVUZg
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",USA: Nick Music
-http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR89ZxGTj_X-LzTct20o3bZ4
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",USA: Nick Jr. (West)
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRw3i2tnDtmwDxv9PrE_CvhU
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",USA: Nick Jr.
@@ -2141,8 +2123,6 @@ http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR0NtPRSLPeos-ZmJ6WTh4Rs
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR0b8VDGJ4PHSiYmdjU050wo
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",USA: DECADES
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRxEeljMHS5aEMN8u1w6YFmY
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",USA: DayStar
-http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR7eLh5e3aUZjytWgNLGI_Dw
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",USA: CW Washington
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR1gIsC7DqWekKOf6v7mkoJU
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",USA: CW 57 PHILLY (WPSG)
@@ -2479,8 +2459,6 @@ http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/677202
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/677222
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",677220
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/677220
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",676924
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/676924
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",6354
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/6354
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",4876
@@ -2515,8 +2493,6 @@ http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/4897
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/678450
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",677206
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/677206
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",4891
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/4891
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",677213
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/677213
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",4926
@@ -2575,8 +2551,6 @@ http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/678111
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/678110
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",688547
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/688547
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",678071
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/678071
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",678070
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/678070
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",7084
@@ -2689,8 +2663,6 @@ http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/14403
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/6355
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",684729
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/684729
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",4868
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/4868
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",685902
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/685902
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",685903
@@ -2821,8 +2793,6 @@ http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/677202
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/677222
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",Paramount Network HD US
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/677220
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",LMN/Lifetime Movies HD VIP US
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/676924
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",TNT HD US
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/6354
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",TNT FHD VIP US
@@ -2857,8 +2827,6 @@ http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/4897
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/678450
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",Showtime Next FHD VIP US
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/677206
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Showtime Showcase HD VIP US
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/4891
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",Showtime 2 FHD VIP US
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/677213
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",Showtime HD US
@@ -2877,8 +2845,6 @@ http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/13741
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/685038
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",MSNBC HD US
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/14398
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TVG2 Network HD VIP US
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/678071
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",TVG Network HD VIP US
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/678070
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",NESN HD US
@@ -3441,8 +3407,6 @@ https://dai.google.com/linear/hls/event/FJejnzFjSFGpaogi0GzPyw/master.m3u8
 https://dai.google.com/linear/hls/event/Ae0L5AucTcqefaIvaS504A/master.m3u8
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",Washington: Seattle (STIRR) (720p)
 https://dai.google.com/linear/hls/event/VLEduzwwQfGSwV4eNdkj0g/master.m3u8
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Warner TV
-http://203.154.243.89:11205/
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",WABI 5 - Bangor - Maine
 https://ad-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjEzMzkwLCJtZDUiOiI2Y2M5MzczYjIxZWIwNzQ4ZDA0YTRlYzYyMjU2YjBhMiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.qJPiMCbnGjAn9wgPrGjVl3M9Xfc4CVSyoZTZ5OH-1jo
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",WABI 5
@@ -3601,10 +3565,6 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5
 http://streamxcode.ddns.net:25461/load/desiboyz150/6566.mpegts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",TM: SIRIPPOLI
 http://streamxcode.ddns.net:25461/load/desiboyz150/6571.mpegts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TM: NAMBIKKAI TV
-http://streamxcode.ddns.net:25461/load/desiboyz150/5446.mpegts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TM: DD PODHIGAI
-http://streamxcode.ddns.net:25461/load/desiboyz150/5626.mpegts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",Timeline
 https://lds-timeline-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",Time Line (Australia)
@@ -3739,8 +3699,6 @@ https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/play
 https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHLS/playlist.m3u8
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",TBN US
 https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TBN KPAZ-DT1 (720p)
-https://v-px.mybtv.net/event/50/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",TBD. (720p)
 https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",TBD. (720p)
@@ -3883,8 +3841,6 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",Slimo (Bumblebee)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Sky News (720p)
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",SKWAD (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",Silk Stalkings (STIRR) (720p)
@@ -4235,8 +4191,6 @@ https://dai.google.com/linear/hls/event/B6RsXGIZSVqeVZGZIEZESg/master.m3u8
 https://dai.google.com/linear/hls/event/trvuY4TqQCmrAKFTlr6tPQ/master.m3u8
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",Nitro Circus
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Nickelodeon HD
-http://c0.cdn.trinity-tv.net/stream/7tsewn83ddjifz69us9je7eftbm5nuausb4dsvz9g5aydin9672n734qbb9jgcfpiqtpwudvs9dpi2udjc3eh4h462eie5azjmfbfgfjeqfuhjmmgx9zuj736ijg7nffhf8rviq5svkgxbp639y9nfgc.m3u8
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",Nick Rewind (Germany)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed106ce4bf2e80007700bb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=262&deviceId=5ed106ce4bf2e80007700bb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=51.2993&deviceLon=9.4910&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",Nick Jr.
@@ -4319,8 +4273,6 @@ http://streamxcode.ddns.net:25461/load/desiboyz150/4896.mpegts
 https://mst3k-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-mst3k/CDN/playlist.m3u8
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",MSNBC
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/playlist.m3u8
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",MR: ZEE MARATHI
-http://streamxcode.ddns.net:25461/load/desiboyz150/5482.mpegts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",MPT PBS
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",MovieMix (STIRR) (720p)
@@ -4489,10 +4441,6 @@ http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 https://a.jsrdn.com/broadcast/9c897f1973/+0000/c.m3u8
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",KVVB-TV 33 Victor Valley (1080p)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",KTVP-LD 7 Phoenix (480i)
-https://v-px.mybtv.net/event/726/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",KQSL 8 Fort Bragg-San Francisco (KQSL-DT1) (480i)
-https://v-ca.mybtv.net/event/740/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",Kool TV HD
 http://209.182.219.50:1935/roku/roku/playlist.m3u8
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",KOMO News (KOMO-TV)
@@ -4555,8 +4503,6 @@ http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
 http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",JBS
 http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",IZ TV RitmoVision Phoenix (K38IZ-D) (480i)
-https://v-px.mybtv.net/event/32/640x480.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",ISN (1080p)
 https://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",ISN
@@ -4875,10 +4821,6 @@ https://dai.google.com/linear/hls/event/TDUiZE57Q3-CS7Its4kLDQ/master.m3u8
 https://a.jsrdn.com/broadcast/7b1451fa52/+0000/c.m3u8
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",ET Live
 https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Estrella TV 42 (KVPA-LD) (720p)
-https://v-px.mybtv.net/event/45/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Estrella TV 42 (KVPA-LD) (480i)
-https://v-px.mybtv.net/event/45/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",Estrella TV
 https://estrellatv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",Estrella News | SP
@@ -5283,10 +5225,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbaeble/CDN/playlist.m3u8
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",Babyfirst
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Azteca 40.1 (KEJR-LD) (720p)
-https://v-px.mybtv.net/event/41/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Azteca 40.1 (KEJR-LD) (480i)
-https://v-px.mybtv.net/event/41/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",AXS TV Now
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",AWE Encore
@@ -5435,14 +5373,8 @@ http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 http://streamxcode.ddns.net:25461/load/desiboyz150/4437.mpegts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",4-IN: REPUBLIC BHARAT
 http://streamxcode.ddns.net:25461/load/desiboyz150/221.mpegts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",4-IN: INDIA TV NEWS
-http://streamxcode.ddns.net:25461/load/desiboyz150/4591.mpegts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",4-IN: DD INDIA
 http://streamxcode.ddns.net:25461/load/desiboyz150/4561.mpegts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",3-UK: ITV BE
-http://streamxcode.ddns.net:25461/load/desiboyz150/4194.mpegts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",3-UK: AHLULBAYT
-http://streamxcode.ddns.net:25461/load/desiboyz150/4092.mpegts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",3News Now (KMTV-TV)
 http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",3ABN Russia
@@ -5495,40 +5427,10 @@ https://30a-tv.com/darcizzle.m3u8
 http://streamxcode.ddns.net:25461/load/desiboyz150/3900.mpegts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",2-UK: TG 4
 http://streamxcode.ddns.net:25461/load/desiboyz150/3930.mpegts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",2PK: RAHAM TV
-http://streamxcode.ddns.net:25461/load/desiboyz150/4290.mpegts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",2PK: CITY 42 NEWS
 http://streamxcode.ddns.net:25461/load/desiboyz150/4427.mpegts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",2-IN: SONY TEN 1
-http://streamxcode.ddns.net:25461/load/desiboyz150/5052.mpegts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",2-IN: DD BHARATI
-http://streamxcode.ddns.net:25461/load/desiboyz150/224.mpegts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",2-IN: AASTHA TV
-http://streamxcode.ddns.net:25461/load/desiboyz150/4622.mpegts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",23 ABC (KERO)
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",1-UK: UFC FIGHT PASS
-http://streamxcode.ddns.net:25461/load/desiboyz150/3896.mpegts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",1-UK: QUEST
-http://streamxcode.ddns.net:25461/load/desiboyz150/639.mpegts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",1-UK: CHANNEL 5 HD
-http://streamxcode.ddns.net:25461/load/desiboyz150/606.mpegts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",1PK: PUNJAB TV
-http://streamxcode.ddns.net:25461/load/desiboyz150/5099.mpegts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US-SP UFC TV HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/53374
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US-SP UFC FIGHT PASS
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/53373
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US-LOCALS-FOX NEWS
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/1068306
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US-LOCALS-CW(PHILADELPHIA)
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/17185
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US-LOCAL-CW
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/18543
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US-CNN-LIVE
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/56297
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US-CBS MIAMI
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/53075
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",USA: WWE Network
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKk4wNlcKwb3z7vhDKmbPrzdfyQUTxaVnrjFX1hKrPUP/ts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",USA: Willow Cricket
@@ -5625,8 +5527,6 @@ http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDUBWgGO6XsIxD0-a3kFRabLUK
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDWPNmXX8zmIbCvn9_6zWDpoaUmzp3tkEWiumZXNW0VJ/ts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",US: STARZ EDGE
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDWPNmXX8zmIbCvn9_6zWDq_9YSXSvL45TLNFS7jGTp_/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US: SHOWTIME WOMEN
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDUBWgGO6XsIxD0-a3kFRaZef1m5_k-8pCou7oHOK8xr/ts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",US: Revolt
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGuKhXhsIcQou1rYNiUinHavM8xhVBwyXN3tzZaVBIqE/ts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",US: POP EAST
@@ -5665,16 +5565,12 @@ http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBN7fTNfnfvf0B_CbQNGM4GyU8
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNQZM8BdlWqmGne7meQzg3BVWKmV6Cx9zOg6XMVa9LhS/ts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",US: DISCOVERY EAST
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbA9EDpdUuaw7_VO6id_H4pZfaUplMEsXflBrzp0RplXS/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US: BRAVO East
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNQZM8BdlWqmGne7meQzg3BIlSFvovDYjaLKch-A8UxI/ts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",US: BET Soul
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbI93FxgCNMW-UODFbfRWzuV8etpirxENfZG4xIQp51bI/ts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",US: BET Jams
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKXx4MrFbSk_bDT4J50p0VLUjUrDUy-pkLkJCHpkvmNq/ts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",US: BET Her
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLmx0EKZWkRIrOk0af0kCWL2AjMS10HWYXDSkLEmigZB/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US: BET EAST
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNQZM8BdlWqmGne7meQzg3DhnVTutLsl-BgQ10b8Nomb/ts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",US: BET
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHJF4Fs8GaUTasFEP1jmN-G8WSc54vDo2aRY8uEFaZ7I/ts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",US: BEK SPORTS
@@ -5683,246 +5579,28 @@ http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbF_FWzZlSOaW5Ar6cGjqHPhKR3
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbF_FWzZlSOaW5Ar6cGjqHPjb6p52--kqrtrRysTsO3U1/ts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",US: ABC NEWS HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbF_FWzZlSOaW5Ar6cGjqHPh0zgGuaQDonc6U7jFU7bNw/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US: 12 NEW JERSEY NEWS
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/43290
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.WC - TLC
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/29352
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.WC - THE WEATHER CHANNEL
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/3790
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.WC - NBC NEW YORK
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/54580
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.WC - NATGEO
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3773
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.WC - MSNBC HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/35310
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.WC - HISTORY
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3772
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.WC - FOX NEWS
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/29350
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.WC - DISCOVERY SCIENCIE
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/18770
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.WC - DISCOVERY ID
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/22376
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.WC - CNN INTERNACIONAL
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3377
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.WC - CNN
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3967
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.WC - CNBC WORLD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3365
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.WC - CBSN HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/44870
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.WC - CBS
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3367
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.WC - BLOOMBERG FHD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4089
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.WC - ANIMAL PLANET
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/18771
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.WC - ABC MIAMI
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/29078
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.WC - ABC
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3788
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.UV - NFL NETWORK
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3695
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - WWE HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3426
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - TVG NETWORK
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/36759
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - TSN SPORT 4 HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3360
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - TSN SPORT 2 HD
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/3362
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - TSN SPORT 1 HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3363
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - TENNIS CHANNEL
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3791
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - TBS east
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/17891
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - PAC 12 OREGON
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3374
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - PAC 12 NETWORK
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3375
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - PAC 12 MOUNTAIN
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3369
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - PAC 12 LOS ANGELES
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3364
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - PAC 12 BAY AREA
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3368
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - PAC 12 ARIZONA
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3799
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - NBC SPORTS NETWORK
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/53292
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - NBC SPORTS
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/1085950
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - NBC SN
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/53905
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - NBC GOLF CHANNEL
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/17602
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - NBC GOLF
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3752
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - GOL TV ENGLISH
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3756
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - FUBO SPORTS NETWORK
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/54579
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - FOX SPORTS SUN
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3707
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - FOX SPORTS 2
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/2044
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - FOX SPORTS 1 HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/17418
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - FOX SPORTS 1
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/2048
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - FOX SOCCER PLUS
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3754
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - FISHING NETWORK
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3691
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - FIGHT NETWORK
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3378
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - FIGHT CHANNEL
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3380
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - ESPN U
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/34602
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - ESPN 2
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3372
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - ESPN
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3371
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - CW NETWORK
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/1069953
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - BTN
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3750
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.SP - AT&T SportsNet Pittsburgh
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/1085951
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.LOC- PBS NEW YORK
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/55057
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - YES TV
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/22382
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - VICELAND
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3792
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - USA NETWORK
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/3780
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - TNT
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/18767
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - TBS
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/29353
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - SONY MOVIE CHANEL
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3704
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - SHOWCASE
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/22380
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - OLYMPIC CHANNEL
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3699
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - NBC
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3687
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - MOVIEPLEX
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/22374
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - MOVIE PLEX
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3770
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - MEGA TV
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/45280
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - LIFETIME MOVIES
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/17175
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - I-SAT
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/29342
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - HBO ZONE
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/22381
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - HBO SIGNATURE
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/29345
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - HBO FAMILY
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/8216
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - HBO COMEDY
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/18769
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - HBO 2
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/8222
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - HBO
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/8210
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - HALLMARK MOVIES & MISTERIES
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3782
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - HALLMARK
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3781
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - GAME SHOW NETWORK
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3701
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - FYI
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3771
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - FXM
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3769
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - FX
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3768
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - FOX
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/29349
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - CINEMAX MOVIEMAX
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/17417
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - BRAVO OP2
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/49279
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - BRAVO HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3762
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - BET
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/17416
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - AMC
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3357
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.FM - A&E
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3761
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.ET - GAME SHOW NETWORK
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/17419
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.EN -TNT
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/1080672
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.EN - VH1
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/17415
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.EN - TV LAND
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/1080571
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.EN - TRU TV
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/17177
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.EN - TRAVEL CHANNEL
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/1117625
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.EN - OUTDOOR CHANNEL
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/22379
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.EN - O.W.N (oprah winfrey network)
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/22383
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.EN - HGTV
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/8340
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.EN - FOOD NETWORK
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/17413
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.EN - FIGHT
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3693
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.EN - E! ENTERTAINMENT
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3764
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.EN - DIY NETWORK
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/17414
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.EN - DISCOVERY TURBO
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/17179
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.EN - COMEDY CENTRAL
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/17178
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.EN - ABC NEW YORK
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/54581
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.CH - NICKTOONS
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/29146
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.CH - DISNEY XD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/29144
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.CH - DISNEY JR
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/29143
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.CH - CARTOON NETWORK
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/29145
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",US.CH - BOOMERANG
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/29147
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",us(w&c)-FOX NEWS
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/8255
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US SP - YES NETWORK
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/1089615
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US SP - NFL RED ZONE
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/1086441
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US SP - NFL CHANNEL
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/1086442
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US SP - MSG+ HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/1117140
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US SP - MSG HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/1117138
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US SP - MSG 2 HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/1117139
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",US- NBC MIAMI
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/30214
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US - TBS
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/56298
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US - SP FOX SPORTS OHIO
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/53621
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",US - LOC - FOX New York 256
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/55059
 #EXTINF:-1  group-title="NASA" tvg-logo="N/A",NASA TV Public (720p)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1  group-title="NASA" tvg-logo="N/A",NASA TV Public
@@ -6047,8 +5725,6 @@ http://iptv.mihantv.com/live/playlist.m3u8
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/playlist.m3u8
 #EXTINF:-1  group-title="News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png",NBC News Now (1080p)
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
-#EXTINF:-1  group-title="News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png",NBC News Now Event 4 (720p)
-https://nbcnews-lh.akamaihd.net/i/nbc_live14@187395/master.m3u8
 #EXTINF:-1  group-title="News" tvg-logo="https://gitee.com/radioer/radioer/raw/main/newsmax.jpg",Newsmax (1080p)
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
 #EXTINF:-1  group-title="News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsNet.png",NewsNet (720p)
@@ -6079,8 +5755,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486acc34ceb37d3c458a64/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d486acc34ceb37d3c458a64&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=244&terminate=false&userId=
 #EXTINF:-1  group-title="News" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc953ab6426646dbd7347b4",Redseat The First (720p)
 https://redseat-thefirst-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1  group-title="News" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png",Sky News (720p)
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 #EXTINF:-1  group-title="News" tvg-logo="https://i.imgur.com/SAfy1us.png",Stirr News 24/7 (720p)
 https://dai.google.com/linear/hls/event/8hUeiLMpTm-YNqk7kadUwA/master.m3u8
 #EXTINF:-1  group-title="News" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc953ab6426646dbd7347b4",STIRR The First (1080p)
@@ -6153,14 +5827,6 @@ https://pbs-samsunguk.amagi.tv/playlist.m3u8
 https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
 #EXTINF:-1  group-title="PBS" tvg-logo="N/A",PBS 39 Allentown (WLVT)
 https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
-#EXTINF:-1  group-title="PBS" tvg-logo="N/A",PBS 22.2 Create Cotati California (KRCB-DT2) (480i)
-https://v-ca.mybtv.net/event/719/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
-#EXTINF:-1  group-title="PBS" tvg-logo="N/A",PBS 22.1 Cotati California (KRCB-DT1) (720p)
-https://v-ca.mybtv.net/event/718/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
-#EXTINF:-1  group-title="PBS" tvg-logo="N/A",PBS 22.1 Cotati California (KRCB-DT1) (480i)
-https://v-ca.mybtv.net/event/718/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
-#EXTINF:-1  group-title="PBS" tvg-logo="N/A",PBS 22.1 Cotati California (KRCB-DT1) (1080i)
-https://v-ca.mybtv.net/event/718/1920x1080.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
 #EXTINF:-1  group-title="PBS" tvg-logo="N/A",PBS | World Channel
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 #EXTINF:-1  group-title="QVC" tvg-logo="N/A",QVC2 (Deutsch) (540p)
@@ -6311,10 +5977,6 @@ https://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
 https://linear-134.frequency.stream/dist/localnow/134/hls/master/playlist.m3u8
 #EXTINF:-1  group-title="Religious" tvg-logo="https://logoschannel.com/images/logo.png",Logos TV [Not 24/7]
 https://5aafcc5de91f1.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8
-#EXTINF:-1  group-title="Religious" tvg-logo="https://logoschannel.com/images/logo.png",Logos TV English [Not 24/7]
-https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/playlist.m3u8
-#EXTINF:-1  group-title="Religious" tvg-logo="https://logoschannel.com/images/logo.png",Logos TV Mubasher [Not 24/7]
-https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoshym/playlist.m3u8
 #EXTINF:-1  group-title="Religious" tvg-logo="https://i.imgur.com/YnOZtNm.png",LoveWorld USA (1080p)
 https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8
 #EXTINF:-1  group-title="Religious" tvg-logo="https://i.imgur.com/S3Ujv10.png",NRB TV (480p)
@@ -6449,8 +6111,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c362ded5
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7794162a4559000781fc12/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1  group-title="Series" tvg-logo="https://images.pluto.tv/channels/5c3639dd01112605397333a2/colorLogoPNG.png",Pluto TV Ice Pilots (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce40f42ba7f7f5ea9518fe1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ce40f42ba7f7f5ea9518fe1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=aeca4ad7-0583-11eb-8b9f-0242ac110002&terminate=false&userId=
-#EXTINF:-1  group-title="Series" tvg-logo="https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/colorLogoPNG.png",Pluto TV Inside (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d767857f65029ce2385b217/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1  group-title="Series" tvg-logo="https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/colorLogoPNG.png",Pluto TV Inside (England) (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767857f65029ce2385b217/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d767857f65029ce2385b217&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=302&terminate=false&userId=
 #EXTINF:-1  group-title="Series" tvg-logo="https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/colorLogoPNG.png",Pluto TV Inside (Germany) (480p)
@@ -6461,8 +6121,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dbc2d1ce10f0b0009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96b8f4f1ca3f0629f4bf1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=936&terminate=false&userId=
 #EXTINF:-1  group-title="Series" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png",Pluto TV Investigação (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1  group-title="Series" tvg-logo="https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png",Pluto TV Investigation (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f914f4b36d67d0007a91a04/master.m3u8?appName=androidmobile&appVersion=5.4.0&architecture=mobile&buildVersion=5.4.0-917c0e6072&deviceDNT=0&deviceId=071492b1-cafd-427b-81d4-f532808c8397_d6a39913ac3adbd2&deviceMake=samsung&deviceModel=SM-N976N&deviceType=android,samsung,mobile&deviceVersion=7.1.2_25&marketingRegion=FR&sid=b90a2c1a-a2ce-4601-a02d-abe734775341
 #EXTINF:-1  group-title="Series" tvg-logo="http://images.pluto.tv/channels/5f4d83e0a382c00007bc02e7/colorLogoPNG.png",Pluto TV James Bond 007 (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1  group-title="Series" tvg-logo="http://images.pluto.tv/channels/5e9decb953e157000752321c/colorLogoPNG.png",Pluto TV Judge nosey (720p)
@@ -6795,8 +6453,6 @@ http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/14403
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/6355
 #EXTINF:-1  group-title="Sports" tvg-logo="N/A",NBA TV HD VIP US
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/684729
-#EXTINF:-1  group-title="Sports" tvg-logo="N/A",MLB Network FHD US
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/4868
 #EXTINF:-1  group-title="Sports" tvg-logo="N/A",NFL Network HD VIP US
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/685902
 #EXTINF:-1  group-title="Sports" tvg-logo="N/A",NFL Network FHD VIP US
@@ -7251,60 +6907,6 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?PlaylistM3UCL
 #EXTINF:-1  group-title="USA" tvg-logo="https://i.imgur.com/sdrtuHJ.png",Fubo Sports Network
 http://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
-#EXTINF:-1  group-title="USA | ABC" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png",USA | ABC Tampa Bay
-http://un-pluggedtv.net:8080/Mrsd/D1234567/142367
-#EXTINF:-1  group-title="USA | ABC" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png",USA | ABC St Louis
-http://un-pluggedtv.net:8080/Mrsd/D1234567/142365
-#EXTINF:-1  group-title="USA | ABC" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png",USA | ABC Seattle
-http://un-pluggedtv.net:8080/Mrsd/D1234567/142364
-#EXTINF:-1  group-title="USA | ABC" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png",USA | ABC San Francisco
-http://un-pluggedtv.net:8080/Mrsd/D1234567/142363
-#EXTINF:-1  group-title="USA | ABC" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png",USA | ABC Saint Paul
-http://un-pluggedtv.net:8080/Mrsd/D1234567/142362
-#EXTINF:-1  group-title="USA | ABC" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png",USA | ABC Phoenix
-http://un-pluggedtv.net:8080/Mrsd/D1234567/142361
-#EXTINF:-1  group-title="USA | ABC" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png",USA | ABC New York
-http://un-pluggedtv.net:8080/Mrsd/D1234567/142360
-#EXTINF:-1  group-title="USA | ABC" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png",USA | ABC Nashville
-http://un-pluggedtv.net:8080/Mrsd/D1234567/142359
-#EXTINF:-1  group-title="USA | ABC" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png",USA | ABC Milwaukee
-http://un-pluggedtv.net:8080/Mrsd/D1234567/142358
-#EXTINF:-1  group-title="USA | ABC" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png",USA | ABC Los Angeles
-http://un-pluggedtv.net:8080/Mrsd/D1234567/142357
-#EXTINF:-1  group-title="USA | ABC" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png",USA | ABC Hartford
-http://un-pluggedtv.net:8080/Mrsd/D1234567/142356
-#EXTINF:-1  group-title="USA | ABC" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png",USA | ABC Durham
-http://un-pluggedtv.net:8080/Mrsd/D1234567/142354
-#EXTINF:-1  group-title="USA | ABC" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png",USA | ABC Detroit
-http://un-pluggedtv.net:8080/Mrsd/D1234567/142353
-#EXTINF:-1  group-title="USA | ABC" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png",USA | ABC Chicago
-http://un-pluggedtv.net:8080/Mrsd/D1234567/142351
-#EXTINF:-1  group-title="USA | ABC" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png",USA | ABC Connecticut
-http://un-pluggedtv.net:8080/Mrsd/D1234567/142352
-#EXTINF:-1  group-title="USA | ABC" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png",USA | ABC Baltimore
-http://un-pluggedtv.net:8080/Mrsd/D1234567/142350
-#EXTINF:-1  group-title="USA | ABC" tvg-logo="http://g3hosting.live/logos/abc_logo.png",USA | ABC Atlanta
-http://un-pluggedtv.net:8080/Mrsd/D1234567/142349
-#EXTINF:-1  group-title="USA | ABC" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.-QxwVXWPrkx-EFzxWCVFvQHaBj&pid=Api&rs=1&c=1&qlt=95&w=586&h=122",US: ABC 24 KVUE AUSTIN
-http://un-pluggedtv.net:8080/Mrsd/D1234567/142225
-#EXTINF:-1  group-title="USA | ABC" tvg-logo="https://s.yimg.com/fz/api/res/1.2/RoV7zhpD9M5ofHB6V0yVzg--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTE4MDtxPTgwO3c9MjMw/https://s.yimg.com/zb/imgv1/3204ed85-96f3-36ae-9212-57ea6771700a/t_500x300",US: ABC 12 KSAT SAN ANTONIO
-http://un-pluggedtv.net:8080/Mrsd/D1234567/142207
-#EXTINF:-1  group-title="USA | ABC" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.gqoYFp54GiR8dh-kv9OsKAHaDN&pid=Api&rs=1&c=1&qlt=95&w=240&h=104",US: ABC 9 WFTV ORLANDO
-http://un-pluggedtv.net:8080/Mrsd/D1234567/142197
-#EXTINF:-1  group-title="USA | ABC" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.VjUVtP6DtS3HvC6dIoP2IAAAAA&pid=Api&rs=1&c=1&qlt=95&w=161&h=90",US: ABC 8 WFAA DALLAS
-http://un-pluggedtv.net:8080/Mrsd/D1234567/142190
-#EXTINF:-1  group-title="USA | ABC" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.o56vLQ97IPbyNOdNQkiZJQHaDF&pid=Api&rs=1&c=1&qlt=95&w=254&h=105",US: ABC 6 WRTV INDIANAPOLIS
-http://un-pluggedtv.net:8080/Mrsd/D1234567/142174
-#EXTINF:-1  group-title="USA | ABC" tvg-logo="https://s.yimg.com/fz/api/res/1.2/CE16CsnhSzlhm19MZZ9RCA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTE4MDtxPTgwO3c9MTg1/https://s.yimg.com/zb/imgv1/e2928c12-7d82-37b7-9f98-6adb524bc820/t_500x300",US: ABC 6 WPVI PHILADELPHIA
-http://un-pluggedtv.net:8080/Mrsd/D1234567/142173
-#EXTINF:-1  group-title="USA | ABC" tvg-logo="https://s.yimg.com/fz/api/res/1.2/7ccbI8Ty0YD._UjSj9Zs_A--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTE4MDtxPTgwO3c9MjE3/https://s.yimg.com/zb/imgv1/0fa5c9fe-4ad3-3c36-8dcc-400b7e5ebd50/t_500x300",US: ABC 5 WEWS CLEVELAND
-http://un-pluggedtv.net:8080/Mrsd/D1234567/142170
-#EXTINF:-1  group-title="USA | ABC" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.xc5VUGel46k2BUskx532BgHaHa&pid=Api&rs=1&c=1&qlt=95&w=120&h=120",US: ABC 5 WCVB BOSTON
-http://un-pluggedtv.net:8080/Mrsd/D1234567/142169
-#EXTINF:-1  group-title="USA | ABC" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.fFxomUu472gS-PcU9DgUIwAAAA&pid=Api&rs=1&c=1&qlt=95&w=131&h=106",US: ABC 4 WTAE PITTSBURGH
-http://un-pluggedtv.net:8080/Mrsd/D1234567/142166
-#EXTINF:-1  group-title="USA | ABC" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.1DD5M3aLjWetJT9Q0HST2gAAAA&pid=Api&rs=1&c=1&qlt=95&w=288&h=92",US: ABC 2 KATU PORTLAND
-http://un-pluggedtv.net:8080/Mrsd/D1234567/142156
 #EXTINF:-1  group-title="USA | ABC" tvg-logo="N/A",ABC News Live
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/512x288_875600/chunklist.m3u8
 #EXTINF:-1  group-title="USA | ABC" tvg-logo="N/A",ABC News 9
@@ -7363,8 +6965,6 @@ http://un-pluggedtv.net:8080/Mrsd/D1234567/35170
 http://un-pluggedtv.net:8080/Mrsd/D1234567/34765
 #EXTINF:-1  group-title="USA | BASIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/WFN_logo.png",USA: WORLD FISHING NETWORK
 http://un-pluggedtv.net:8080/Mrsd/D1234567/35168
-#EXTINF:-1  group-title="USA | BASIC" tvg-logo="https://i.ibb.co/2KPh0CP/WILLOW-CRICKET.jpg",US: WILLOW CRICKET
-http://un-pluggedtv.net:8080/Mrsd/D1234567/47792
 #EXTINF:-1  group-title="USA | BASIC" tvg-logo="https://live.staticflickr.com/65535/49500160258_691369d9cb_w.jpg",US: WE TV
 http://un-pluggedtv.net:8080/Mrsd/D1234567/34763
 #EXTINF:-1  group-title="USA | BASIC" tvg-logo="https://live.staticflickr.com/65535/49499806303_353e50457e.jpg",US: VH1 EAST
@@ -7395,8 +6995,6 @@ http://un-pluggedtv.net:8080/Mrsd/D1234567/37102
 http://un-pluggedtv.net:8080/Mrsd/D1234567/34749
 #EXTINF:-1  group-title="USA | BASIC" tvg-logo="N/A",USA: NESN
 http://un-pluggedtv.net:8080/Mrsd/D1234567/35164
-#EXTINF:-1  group-title="USA | BASIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzbe5OTXViLv2fvaQSFwver6GTyAUyZS8QpLdT6J3Zq9cC_yj2",USA: NESN PLUS
-http://un-pluggedtv.net:8080/Mrsd/D1234567/35165
 #EXTINF:-1  group-title="USA | BASIC" tvg-logo="https://live.staticflickr.com/65535/49515157386_f6207a0a4a_o.png",US: ION TV
 http://un-pluggedtv.net:8080/Mrsd/D1234567/36520
 #EXTINF:-1  group-title="USA | BASIC" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/longhorn.png",USA: LONGHORN NETWORK
@@ -7715,8 +7313,6 @@ http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCU0YOdPt-DhDsdQNz-3tYLqaW
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbG2NaCFvBP_0ZSKGND9H52wGPFnySIC3ItL_erW3mXK4/ts
 #EXTINF:-1  group-title="VIP US" tvg-logo="N/A",VIP US: Sundance TV
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAdCD1wmgMj3my9XtE1Vrp8VAsMeNt7jSgweMgwEOE9V/ts
-#EXTINF:-1  group-title="VIP US" tvg-logo="N/A",VIP US: Starz Suspense
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNFk_jwlEEnN88cflAsGHrpTwlJZCbh2QqQ7gPFvetVT/ts
 #EXTINF:-1  group-title="VIP US" tvg-logo="N/A",VIP US: Stadium 3
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIB1Lldrqi9OtpYolb2PUeUrxFd7EVl35GFPeYDlDXNO/ts
 #EXTINF:-1  group-title="VIP US" tvg-logo="N/A",VIP US: Stadium 2
@@ -7747,8 +7343,6 @@ http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDwTzzgzcg9em-IjhBKniHK0Q2
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAiUzYSqxNg_NPjJj8o5KYDzY3L-duTAsyEbADH3hGZg/ts
 #EXTINF:-1  group-title="VIP US" tvg-logo="N/A",VIP US: Paramount
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKLcSQ18ZTHlrEwP855QU42yyqaEk-rBPcLfXH_wMGPx/ts
-#EXTINF:-1  group-title="VIP US" tvg-logo="N/A",VIP US: PAC-12 Washington
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMgYZ6yAc6lR8QybcKZKN3RwJi8QTIs7sf6asWRhGL5q/ts
 #EXTINF:-1  group-title="VIP US" tvg-logo="N/A",VIP US: PAC-12 Oregon
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGrGKtaAT-dukD85coC53lx3OVGOMniOfxr6Z1IIT_Ft/ts
 #EXTINF:-1  group-title="VIP US" tvg-logo="N/A",VIP US: PAC-12 NATIONAL HD
@@ -7767,22 +7361,12 @@ http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKa3vJGDlTXjR6ZtyfE1gM6AQd
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKEqXicACyaIS0V6uxBBf-msFSBApkZckk1Yv5eE_RVR/ts
 #EXTINF:-1  group-title="VIP US" tvg-logo="N/A",VIP US: Outside TV
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbH-p8YiRn9X0HSpATH2FrwZYjcwlfxN5VoKUguyaJtaE/ts
-#EXTINF:-1  group-title="VIP US" tvg-logo="N/A",VIP US: Outermax
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNU-iT8yaAfUQaX3pSZDdsl7SJlPn-f5A3WS5CICv12E/ts
 #EXTINF:-1  group-title="VIP US" tvg-logo="N/A",VIP US: OUTDOOR CHANNEL HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLf5zHutI3tJrk64CmIjWDWI2A_MUpgWw42PUNRSe5wT/ts
 #EXTINF:-1  group-title="VIP US" tvg-logo="N/A",VIP US: One America News Network
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOjSnaIo1v2PjqMpoXJjiZyxYXfsyLh4cfSb8tcdqhA6/ts
 #EXTINF:-1  group-title="VIP US" tvg-logo="N/A",VIP US: NICKELODEN HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAtFFSoeyApMfF4uIUsKXh7pK2r3vDyxU5mugkhurSG4/ts
-#EXTINF:-1  group-title="VIP US" tvg-logo="N/A",VIP US: Nick Jr.
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCL6MQA7kQwdTOB5wR3MBXOAgOEIynfjJwwjA98bbu3X/ts
-#EXTINF:-1  group-title="VIP US" tvg-logo="N/A",VIP US: NHL Network
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbB2P8MObRKDpdo_F5cWpZBe5taxNSscVVYWHomV4q970/ts
-#EXTINF:-1  group-title="VIP US" tvg-logo="N/A",VIP US: NFL REDZONE
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbL6rcvqwnQ5lzW_NhH9uokK0eroPazQLUIKuCJyXPDPu/ts
-#EXTINF:-1  group-title="VIP US" tvg-logo="N/A",VIP US: NFL Network
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDX-B6tT9AvCmrsqnrGpvaMlYGfbloXzl7hoojKpBDfn/ts
 #EXTINF:-1  group-title="VIP US" tvg-logo="N/A",VIP US: NESN PLUS
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJl37OFwRmuYus-4j7AxgdNlmWU7LP0n5GKEEhjYVAXO/ts
 #EXTINF:-1  group-title="VIP US" tvg-logo="N/A",VIP US: NESN
@@ -7969,8 +7553,6 @@ http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAFa7209_Vz_bQXg2ascoa2USY
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGjBXLQRXWdjCWt8PMoNtxskUkg7uf8Nu_8OXCzT3kq8/ts
 #EXTINF:-1  group-title="VIP US" tvg-logo="N/A",VIP US: beIN Sports 06
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAFIyHI8BhQ9fIEEGoO8UECUR5Y7w-byLa9ZuW748LzX/ts
-#EXTINF:-1  group-title="VIP US" tvg-logo="N/A",VIP US: beIN Sports 05
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPQWg4MMkIV4kpMOoiLxftYey8iGuVm8dM7gJQvId8K0/ts
 #EXTINF:-1  group-title="VIP US" tvg-logo="N/A",VIP US: beIN Sports 04
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFemXWO5AJ95YpOwSnJXdwgr_LhmVZNJ2Y9VfqCf7WNH/ts
 #EXTINF:-1  group-title="VIP US" tvg-logo="N/A",VIP US: beIN Sports 02
@@ -7979,8 +7561,6 @@ http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbC6oh4hKAJMz9-0Wv9vRlAc34p
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCK754U-aH8qUFMNQQKlwD_8cclIjswQ0vGE6qAA9UbY/ts
 #EXTINF:-1  group-title="VIP US" tvg-logo="N/A",VIP US: AXS TV
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBrQnalThYEsPXrCFVl66CNWEFgzvZkMjVxQIl5RGKyV/ts
-#EXTINF:-1  group-title="VIP US" tvg-logo="N/A",VIP US: AWE A Wealth of Entertainment
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFRr-4A8wLRRD2CvIurSuxOWSb5fZwg5say6PpCdkfS5/ts
 #EXTINF:-1  group-title="VIP US" tvg-logo="N/A",VIP US: AT&T Sportsnet South West
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbO6DT1UY7807uDq36F4E4SGzfY_EbC3AzdDO2tFF7DDL/ts
 #EXTINF:-1  group-title="VIP US" tvg-logo="N/A",VIP US: Antenna TV
@@ -7999,14 +7579,10 @@ http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbO8mYP56L2JKXDPV-VrgiQkL69
 https://jukin-weatherspy-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  group-title="Weather" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",WeatherNation (KCKS-LD6) (480p) [Not 24/7]
 https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
-#EXTINF:-1  group-title="Weather" tvg-logo="http://images.pluto.tv/channels/5bdce04659ee03633e758130/colorLogoPNG.png",Pluto TV WeatherNation (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bdce04659ee03633e758130&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=217&terminate=false&userId=
 #EXTINF:-1  group-title="Weather" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11187/s11187_h3_aa.png",US: WEATHER CHANNEL
 http://un-pluggedtv.net:8080/Mrsd/D1234567/34764
 #EXTINF:-1  group-title="Weather" tvg-logo="data:image/png;base64,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",Weather Channel
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDDMAAG6BpZcI0WsWIYlN-n-2Kz_CoYGXUHW8E0BNsKq/ts
-#EXTINF:-1  group-title="Weather" tvg-logo="N/A",ABC 3.5 Arizona Weather Authority (KTVK-DT5) (480i)
-https://v-px.mybtv.net/event/725/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
 #EXTINF:-1  group-title="Weather" tvg-logo="N/A",TV25.6 WeatherNation
 https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
 #EXTINF:-1  group-title="Weather" tvg-logo="N/A",Weather Gone Viral

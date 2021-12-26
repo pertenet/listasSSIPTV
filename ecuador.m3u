@@ -1,41 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ECU - TVC FHD
+#EXTINF:-1 ,ECU - TVC FHD
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/53460
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ECU - TELEAMAZONAS SD
+#EXTINF:-1 ,ECU - TELEAMAZONAS SD
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/53459
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ECU - TELEAMAZONAS HD
+#EXTINF:-1 ,ECU - TELEAMAZONAS HD
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/3428
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ECU - TELEAMAZONAS FHD
+#EXTINF:-1 ,ECU - TELEAMAZONAS FHD
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/7532
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ECU - TC TELEVISION SD
+#EXTINF:-1 ,ECU - TC TELEVISION SD
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/7533
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ECU - RTS SD
+#EXTINF:-1 ,ECU - RTS SD
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/53457
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ECU - RTS FHD
+#EXTINF:-1 ,ECU - RTS FHD
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/7534
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ECU - OROMAR TV
+#EXTINF:-1 ,ECU - OROMAR TV
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/3431
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ECU - GOL TV HD
+#EXTINF:-1 ,ECU - GOL TV HD
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/53491
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ECU - GOL TV FHD
+#EXTINF:-1 ,ECU - GOL TV FHD
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/53381
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ECU - ECUAVISA SD
+#EXTINF:-1 ,ECU - ECUAVISA SD
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/8084
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ECU - ECUAVISA HD
+#EXTINF:-1 ,ECU - ECUAVISA HD
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/3433
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ECU - ECUAVISA FHD
+#EXTINF:-1 ,ECU - ECUAVISA FHD
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/53455
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ECU - ECUADOR TV SD
+#EXTINF:-1 ,ECU - ECUADOR TV SD
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/3434
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ECU - ECUADOR TV HD
+#EXTINF:-1 ,ECU - ECUADOR TV HD
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/53453
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ECU - DIRECTV SPORTS HD
+#EXTINF:-1 ,ECU - DIRECTV SPORTS HD
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/23239
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ECU - DIRECTV SPORTS FHD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/53462
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ECU - CANAL UNO SD
+#EXTINF:-1 ,ECU - CANAL UNO SD
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/53452
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ECU - CANAL UNO HD
+#EXTINF:-1 ,ECU - CANAL UNO HD
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/3436
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",EC - EL CANAL DEL F�TBOL FHD
+#EXTINF:-1 ,EC - EL CANAL DEL F�TBOL FHD
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/1092640

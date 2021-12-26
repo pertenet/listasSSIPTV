@@ -17,12 +17,8 @@ http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJX1Ttv73RSwr1Q2L1ncl7UJ53
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJX1Ttv73RSwr1Q2L1ncl7XNfebJcswe057Y7KpCsbhR/ts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: REDE TV HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKDjg0g8dF72VN1t8Wn8CKz7TJBSL-dhjDdaoPuK6tpq/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: RECORD RJ HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKDjg0g8dF72VN1t8Wn8CKx-eNbIO3sOgaMN0cW1XFsC/ts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: PARAMOUNT CHANNEL HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbF8_ye4f5gtr36ohKSUeq_2w57XiE8Jj4qFlDJ0wbmF_/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: NATIONAL GEOGRAPHIC HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbF8_ye4f5gtr36ohKSUeq_1hpnKZ1hDwaOatPtoZgnK_/ts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: MULTISHOW HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGINkOVv-Cbcd0siPITqEetEQRXvw_epRBo8E-fHUCPi/ts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: MAX UP HD
@@ -65,8 +61,6 @@ http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJjRq3jx1wUoczQYaoNd9ESUIb
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIc3p60UfS6gFUTy9vz9clP8n3eNq8BmpBYkYK_Yp2y6/ts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: CINEMAX HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJjRq3jx1wUoczQYaoNd9ERgNCGSNh64kH2kpuGRdUn4/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: CARTOON NETWORK HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJjRq3jx1wUoczQYaoNd9EQLI8swO3xpVB-wr599NWLI/ts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: BOOMERANG HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJjRq3jx1wUoczQYaoNd9ETo_ghb-5i8iOgRNmNBQYXJ/ts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: BIS HD
@@ -119,12 +113,8 @@ http://tv.nousiptv.com:8080/cecilia1/1cecilia/7784
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/1095615
 #EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - FISH TV
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/7779
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - FOX SPORTS 2 BR
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/7786
 #EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - FOX SPORTS BR
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/7785
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - FUTURA
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/7776
 #EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - GLOBO BRASILIA HD
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/43623
 #EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - GLOBO NEWS
@@ -163,8 +153,6 @@ http://tv.nousiptv.com:8080/cecilia1/1cecilia/7770
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/7775
 #EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - SBT
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/7768
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - SPORTV
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/7791
 #EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - SPORTV 2
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/7792
 #EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - SPORTV 3
@@ -281,8 +269,6 @@ http://168.205.87.198:8555/live/1234/123456/105.ts
 http://168.205.87.198:8555/live/1234/123456/106.ts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",SESC TV
 http://168.205.87.198:8555/live/1234/123456/107.ts
-#EXTINF:-1  group-title="deportes" tvg-logo="https://deportesinc.com/depsite/wp-content/uploads/2016/04/logos.jpg",SporTV 2 | FHD
-http://painel.tvdigitalsbl.net:80/dani2021/dani2021/13101
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",TRAVEL
 http://168.205.87.198:8555/live/1234/123456/124.ts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",TV APARECIDA

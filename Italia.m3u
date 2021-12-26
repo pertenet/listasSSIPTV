@@ -43,8 +43,6 @@ https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8?fluxustv.
 http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Italia" tvg-logo="https://i.imgur.com/eurtz6A.png",Euro Indie Music Chart
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Italia" tvg-logo="N/A",Fishing TV
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPTEgeN_QQ0l6sqfXfzcfxXnkYdCm1YEp1eKlJNrD_9f/ts
 #EXTINF:-1  tvg-id="N/A" group-title="Italia" tvg-logo="N/A",Giallo HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNBh4BpxjrualGpGuZok8QjoXSRZ614qEPnFGOvULgC5/ts
 #EXTINF:-1  tvg-id="N/A" group-title="Italia" tvg-logo="https://i.imgur.com/nWBWzNy.png",Icaro TV Rimini
@@ -83,8 +81,6 @@ http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/maste
 http://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Italia" tvg-logo="http://www.conodeliaband.it/wp-content/uploads/2016/07/Radio-Carina-Azzurro.png",Radio Carina Potenza
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Italia" tvg-logo="https://i.imgur.com/KDtVpLl.png",Radio Iglesias Sardegna
-http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Italia" tvg-logo="https://i.imgur.com/bedxx0y.png",Radio Italia TV (Opt-2)
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Italia" tvg-logo="https://i.imgur.com/59o3EXZ.png",Radio Italia Vision Ravena
@@ -101,8 +97,6 @@ http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.
 https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6346340_,800,1800,.mp4.csmil/master.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Italia" tvg-logo="N/A",Rai 3
 https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8775868_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Italia" tvg-logo="N/A",RAI 5 HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLM9KLcuRkKxovWpLRyjMUc5TWPTR0j-IlmyRRWadUhU/ts
 #EXTINF:-1  tvg-id="N/A" group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1280px-Rai_News_24_-_Logo_2013.svg.png",Rai News 24
 http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
 #EXTINF:-1  tvg-id="N/A" group-title="Italia" tvg-logo="N/A",RAI STORIA HD
@@ -147,8 +141,6 @@ http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
 https://58d921499d3d3.streamlock.net/Teleblu/livestream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Italia" tvg-logo="https://i.imgur.com/l4J7tM7.png",TeleChiara Vicenza (Opt-1)
 http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Italia" tvg-logo="https://i.imgur.com/bPFcGBW.png",Telecitta
-http://213.187.12.18/live/tv1.m3u8?fluxustv.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/it/5/5c/TeleColor.png",Telecolor
 http://telecolor.econcept.it/live/telecolor.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Italia" tvg-logo="http://www.telefoggiatv.it/images/share-image.jpg",Telefoggia
@@ -187,8 +179,6 @@ http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
 #EXTINF:-1  tvg-id="1" group-title="Musica" tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.radioprofusion.com%2Femblems%2Fretromusic.png&imgrefurl=https%3A%2F%2Fwww.radioprofusion.com%2Ftv%2Fretromusic.php&tbnid=SgCmfv3oTMRcUM&vet=12ahUKEwjzpuLF7d30AhXP2OAKHUV8ALkQMygbegUIARDQAQ..i&docid=_iAnPsEnUlxLZM&w=300&h=110&itg=1&q=RETRO%20MUSIC%20tv&ved=2ahUKEwjzpuLF7d30AhXP2OAKHUV8ALkQMygbegUIARDQAQ",MUSIC TV: RETRO MUSIC
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",IT: Sky Sport F1 FHD (Backup 2)
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbH7T6FXEMNU7n5HCAY38GFiNaCdV7OZ-faFzVhvIzunc/ts
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",IT: SKY TG24
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbG_c0saxTs0c6TL-U_wyfMo4ezquWK2uU82qDIvzZCH_/ts
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ITA - RAI ITALIANA

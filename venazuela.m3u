@@ -3,26 +3,18 @@
 https://vcp.myplaytv.com:443/coll/coll/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Canal i  | VE
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 ,Vepaco TV  | VE
-http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,TVO  | VE
 http://vcp1.myplaytv.com:1935/tvo/tvo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,TLT  | VE
 https://vcp.myplaytv.com/tlthd/tlthd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Televen  | VE
 https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8?PlaylistM3UCL
-#EXTINF:-1 ,Reforma TV  | VE
-https://livestreamcdn.net:444/ReformaTV/ReformaTV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Catatumbo TV  | VE
 http://vcp1.myplaytv.com/catatumbotv/catatumbotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Canal Once Del Zulia  | VE
 http://200.6.154.43:1935/canal11/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Promar TV  | VE
 http://vcp1.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 ,Telearagua  | VE
-http://190.205.43.236:8080/hls/nginx.m3u8?PlaylistM3UCL
-#EXTINF:-1 ,Vepaco TV (Opt-2)
-http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/chunklist_w2073389661.m3u8
 #EXTINF:-1 ,Promar TV (Opt-3)
 http://vcp1.myplaytv.com:1935/promar/promar/chunklist_w850287837.m3u8
 #EXTINF:-1 ,Televisora de Oriente

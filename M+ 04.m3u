@@ -55,8 +55,6 @@ http://iptv.csserv.co:8000/live/clientr725/631739/4338.ts
 http://iptv.csserv.co:8000/live/clientr725/631739/2743.ts
 #EXTINF:-1 ,ES: Fox HD
 http://iptv.csserv.co:8000/live/clientr725/631739/2454.ts
-#EXTINF:-1 ,ES: Fox Life HD
-http://iptv.csserv.co:8000/live/clientr725/631739/1024.ts
 #EXTINF:-1 ,ES: HISTORIA
 http://iptv.csserv.co:8000/live/clientr725/631739/2090.ts
 #EXTINF:-1 ,ES: HOLLYWOOD
@@ -79,8 +77,6 @@ http://iptv.csserv.co:8000/live/clientr725/631739/1072.ts
 http://iptv.csserv.co:8000/live/clientr725/631739/2490.ts
 #EXTINF:-1 ,ES: M Estrenos
 http://iptv.csserv.co:8000/live/clientr725/631739/2493.ts
-#EXTINF:-1 ,ES: M Estrenos HD
-http://iptv.csserv.co:8000/live/clientr725/631739/1672.ts
 #EXTINF:-1 ,ES: M Series HD
 http://iptv.csserv.co:8000/live/clientr725/631739/2453.ts
 #EXTINF:-1 ,ES: M Series XTRA HD
@@ -89,12 +85,8 @@ http://iptv.csserv.co:8000/live/clientr725/631739/1671.ts
 http://iptv.csserv.co:8000/live/clientr725/631739/1023.ts
 #EXTINF:-1 ,ES: NATIONAL GEOGRAPHIC
 http://iptv.csserv.co:8000/live/clientr725/631739/1674.ts
-#EXTINF:-1 ,ES: NEOX
-http://iptv.csserv.co:8000/live/clientr725/631739/2582.ts
 #EXTINF:-1 ,ES: Nova
 http://iptv.csserv.co:8000/live/clientr725/631739/2502.ts
-#EXTINF:-1 ,ES: Odisea
-http://iptv.csserv.co:8000/live/clientr725/631739/2495.ts
 #EXTINF:-1 ,ES: REAL MADRID TV
 http://iptv.csserv.co:8000/live/clientr725/631739/3191.ts
 #EXTINF:-1 ,ES: SYFY HD
@@ -121,8 +113,6 @@ http://iptv.csserv.co:8000/live/clientr725/631739/3220.ts
 http://iptv.csserv.co:8000/live/clientr725/631739/2104.ts
 #EXTINF:-1 ,ES: TNT FHD
 http://iptv.csserv.co:8000/live/clientr725/631739/2280.ts
-#EXTINF:-1 ,ES: Toros
-http://iptv.csserv.co:8000/live/clientr725/631739/709.ts
 #EXTINF:-1 ,ES: BE MAD HD
 http://iptv.csserv.co:8000/live/clientr725/631739/2372.ts
 #EXTINF:-1 ,ES: VIAJAR HD
@@ -135,15 +125,7 @@ http://iptv.csserv.co:8000/live/clientr725/631739/2184.ts
 http://iptv.csserv.co:8000/live/clientr725/631739/4338.ts
 #EXTINF:-1 ,ES: M DEPORTES 1
 http://iptv.csserv.co:8000/live/clientr725/631739/2178.ts
-#EXTINF:-1 ,ES: M Formula 1 HD
-http://iptv.csserv.co:8000/live/clientr725/631739/2181.ts
-#EXTINF:-1 ,ES: M Futbol
-http://iptv.csserv.co:8000/live/clientr725/631739/2491.ts
-#EXTINF:-1 ,ES: M Futbol HD
-http://iptv.csserv.co:8000/live/clientr725/631739/2175.ts
 #EXTINF:-1 ,ES: M Golf
 http://iptv.csserv.co:8000/live/clientr725/631739/710.ts
-#EXTINF:-1 ,ES: LALIGA TV BAR
-http://iptv.csserv.co:8000/live/clientr725/631739/8192.ts
 #EXTINF:-1 ,ES: Movistar MotoGP
 http://iptv.csserv.co:8000/live/clientr725/631739/2182.ts

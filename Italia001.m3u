@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:0,get.php?username=Q5MePA2emj&password=YH3Y23d3D3&type=m3u
+#EXTINF:-1 ,get.php?username=Q5MePA2emj&password=YH3Y23d3D3&type=m3u
 http://rusmedia.ayservices.xyz:80/get.php?username=Q5MePA2emj&password=YH3Y23d3D3&type=m3u
-#EXTINF:0,Rai 1 Live
-http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/140704
-#EXTINF:0,Canale 5 Live
-http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/140705
-#EXTINF:0,Sky Sport 24 Live
-http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/140706
-#EXTINF:0,Sky Sport Calcio Live
-http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/140707

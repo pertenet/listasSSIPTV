@@ -1,33 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Peliculas" tvg-logo="http://2.bp.blogspot.com/-tE0IdJbqL7k/VcA5Ar3bBfI/AAAAAAAABIQ/4IDtCrOTa9w/s640/Untitled-11.jpg",CINEMAX
+#EXTINF:-1  group-title="Peliculas" tvg-logo="http://2.bp.blogspot.com/-tE0IdJbqL7k/VcA5Ar3bBfI/AAAAAAAABIQ/4IDtCrOTa9w/s640/Untitled-11.jpg",CINEMAX
 http://rec2.distv.net:8100/live/welisson/123456/125.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Paraguay" tvg-logo="N/A",LIM TV * | PY
-https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Paraguay" tvg-logo="N/A",PAR - UNICANAL
+#EXTINF:-1  group-title="Paraguay" tvg-logo="N/A",PAR - UNICANAL
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/7434
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Paraguay" tvg-logo="N/A",PAR - TVS
+#EXTINF:-1  group-title="Paraguay" tvg-logo="N/A",PAR - TVS
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/7429
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Paraguay" tvg-logo="N/A",PAR - TIGO SPORTS HD
+#EXTINF:-1  group-title="Paraguay" tvg-logo="N/A",PAR - TIGO SPORTS HD
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/7435
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Paraguay" tvg-logo="N/A",PAR - TIGO SPORTS 2
+#EXTINF:-1  group-title="Paraguay" tvg-logo="N/A",PAR - TIGO SPORTS 2
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/7450
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Paraguay" tvg-logo="N/A",PAR - TIGO SPORTS + HD
+#EXTINF:-1  group-title="Paraguay" tvg-logo="N/A",PAR - TIGO SPORTS + HD
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/53029
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Paraguay" tvg-logo="N/A",PAR - TELEFUTURO
+#EXTINF:-1  group-title="Paraguay" tvg-logo="N/A",PAR - TELEFUTURO
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/7529
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Paraguay" tvg-logo="N/A",PAR - SNT
+#EXTINF:-1  group-title="Paraguay" tvg-logo="N/A",PAR - SNT
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/7425
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Paraguay" tvg-logo="N/A",PAR - SNT
+#EXTINF:-1  group-title="Paraguay" tvg-logo="N/A",PAR - SNT
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/23222
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Paraguay" tvg-logo="N/A",PAR - RPC
+#EXTINF:-1  group-title="Paraguay" tvg-logo="N/A",PAR - RPC
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/7426
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Paraguay" tvg-logo="N/A",PAR - PARAGUAY TV
+#EXTINF:-1  group-title="Paraguay" tvg-logo="N/A",PAR - PARAGUAY TV
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/7423
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Paraguay" tvg-logo="N/A",PAR - NOTICIAS PY
+#EXTINF:-1  group-title="Paraguay" tvg-logo="N/A",PAR - NOTICIAS PY
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/7428
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Paraguay" tvg-logo="N/A",PAR - LA TELE
+#EXTINF:-1  group-title="Paraguay" tvg-logo="N/A",PAR - LA TELE
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/23224
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Paraguay" tvg-logo="N/A",PAR - FARRA PLAY
+#EXTINF:-1  group-title="Paraguay" tvg-logo="N/A",PAR - FARRA PLAY
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/23221
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Paraguay" tvg-logo="N/A",PAR - C9N
+#EXTINF:-1  group-title="Paraguay" tvg-logo="N/A",PAR - C9N
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/7437

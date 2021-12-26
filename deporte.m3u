@@ -179,16 +179,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d882-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f1832274-98b7-4765-ad8b-c533c4382008&userId=&serverSideAds=true
 #EXTINF:-1 ,Sports Max 1 HD VIP TR
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/682953
-#EXTINF:-1 ,Sports 4 FHD TR
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/682949
 #EXTINF:-1 ,Sports 3 VIP TR
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/682948
-#EXTINF:-1 ,Sports 2 FHD TR
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/682947
 #EXTINF:-1 ,Sports 1 HD TR
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/682946
-#EXTINF:-1 ,Sports Haber HD TR
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/682950
 #EXTINF:-1 ,Sports Espanol HD VIP US
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/678747
 #EXTINF:-1 ,Sports FHD US
@@ -203,8 +197,6 @@ http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/689287
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/689266
 #EXTINF:-1 ,Sports Xtra 1 FHD VIP AR
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/667466
-#EXTINF:-1 ,Sports Premium 3 HD VIP AR
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/691817
 #EXTINF:-1 ,Sports Premium 3 FHD VIP AR
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/5473
 #EXTINF:-1 ,Sports Premium 2 FHD VIP AR
@@ -215,16 +207,12 @@ http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/688156
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/683135
 #EXTINF:-1 ,Sports 6 [HEVC] FHD VIP AR
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/54777
-#EXTINF:-1 ,Sports 5 FHD VIP AR
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/5478
 #EXTINF:-1 ,Sports 5 [HEVC] FHD VIP AR
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/682935
 #EXTINF:-1 ,Sports 4 [HEVC] FHD VIP AR
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/5479
 #EXTINF:-1 ,Sports 3 FHD AR
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/682934
-#EXTINF:-1 ,Sports 2 FHD AR
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/682933
 #EXTINF:-1 ,Sports 1 FHD AR
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/682932
 #EXTINF:-1 ,Sports 1 [HEVC] FHD VIP AR
@@ -235,8 +223,6 @@ http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/688155
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/686921
 #EXTINF:-1 ,Fox Sports 506 AU
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/686920
-#EXTINF:-1 ,Fox Sports 505 HD AU
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/686919
 #EXTINF:-1 ,Fox Sports 504 HD AU
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/686918
 #EXTINF:-1 ,Fox Sports 503 HD AU
@@ -247,26 +233,16 @@ http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/686916
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/686915
 #EXTINF:-1 ,Optus 6 [Match Time] HD VIP AU
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/683982
-#EXTINF:-1 ,Optus 5 [Match Time] HD VIP AU
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/683981
-#EXTINF:-1 ,Optus 4 [Match Time] HD VIP AU
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/683980
-#EXTINF:-1 ,SuperSport Blitz FHD VIP AF
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/682921
 #EXTINF:-1 ,SuperSport PSL HD VIP AF
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/678030
 #EXTINF:-1 ,SuperSport La Liga HD VIP AF
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/683001
 #EXTINF:-1 ,SuperSport Premier League HD VIP AF
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/678029
-#EXTINF:-1 ,SuperSport Golf HD VIP AF
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/678028
 #EXTINF:-1 ,SuperSport Cricket FHD AF
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/688714
 #EXTINF:-1 ,SuperSport Rugby HD VIP AF
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/678026
-#EXTINF:-1 ,SuperSport Football HD VIP AF
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/678024
 #EXTINF:-1 ,SuperSport Variety 3 FHD VIP AF
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/678022
 #EXTINF:-1 ,SuperSport Variety 2 FHD AF
@@ -291,8 +267,6 @@ https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 ,Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w2049053275_b1296000_sleng.m3u8
-#EXTINF:-1 ,BEIN SPORTS XTRA �
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
 #EXTINF:-1 ,BEIN SPORTS XTRA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
 #EXTINF:-1 ,UNO CONTRA UNO TV

@@ -3,14 +3,10 @@
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/52619
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",BOL - TIGO SPORTS HD
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/54735
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BOL - TIGO SPORTS 3
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/54737
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",BOL - TIGO SPORTS 2
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/54736
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",BOL - RTP
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/54734
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BOL - BOLIVIA TV
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/54732
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",BOL - BOLIVIA tv
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/54731
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",BOL - ATB
@@ -21,22 +17,8 @@ http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHwgTB0EBXIE9KBuq9Ijt4Uj-F
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbE4CBcsVGpAX5wXzBTDEPAz4XAvw3wue300a8Iv45BCa/ts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",BO: Bolivision SD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCkDHiXgdMh52diZwGNBQBZjUcB0YTSyi0VuxAY61Ioh/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BO: BOLIVIA TV
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLtbCeqNEP5z8bagroqAhW6nz9yc3gpAEDDrlSmIqZBk/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BO: ATB  HD*
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEzXrUQrvRC2qK9nwtRXWDLhrgpCJJ84DGEw17QHoIFn/ts
 #EXTINF:-1  group-title="N/A" tvg-logo="N/A",BO: ATB
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCqAoSWq0dQ4QIgxBuK4mHvh9rXq83VUaWdBQ4xhGdlS/ts
-#EXTINF:-1  group-title="Bolivia" tvg-logo="N/A",Bolivia TV Deportes  | BO
-http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="Bolivia" tvg-logo="N/A",PAT La Paz  | BO
-http://192.99.38.174:1935/patbolivia/patlapaz/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="Bolivia" tvg-logo="N/A",PAT Santa Cruz  | BO
-http://192.99.38.174:1935/patbolivia/patsantacruz/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="Bolivia" tvg-logo="N/A",TV HD Tropical  | BO
-https://5d79ae45bc63b.streamlock.net:443/radiotropical952/radiotropical952/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="Bolivia" tvg-logo="N/A",XTO TV  | BO
-https://5f5a73adac4ac.streamlock.net/XtoTv/XtoTv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1  group-title="Bolivia" tvg-logo="N/A",ATB  | BO
 https://mediacp.hostradios.com.ar:19360/atbcom/atbcom.m3u8?PlaylistM3UCL
 #EXTINF:-1  group-title="Bolivia" tvg-logo="N/A",Red AD Venir Internacional  | BO

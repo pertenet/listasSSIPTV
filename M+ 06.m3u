@@ -1,16 +1,10 @@
 #EXTM3U
-#EXTINF:-1 ,LA LIGA HD
-http://wagmaott.com:8080/mag00:1A:79:99:80:A3/1vpfdyAtZu/115579
 #EXTINF:-1 ,LA. LIGA HD
 http://wagmaott.com:8080/mag00:1A:79:99:80:A3/1vpfdyAtZu/115578
 #EXTINF:-1 ,LA LIGA 123 HD
 http://wagmaott.com:8080/mag00:1A:79:99:80:A3/1vpfdyAtZu/115580
 #EXTINF:-1 ,BEIN LA LIGA 1 HD
 http://wagmaott.com:8080/mag00:1A:79:99:80:A3/1vpfdyAtZu/115571
-#EXTINF:-1 ,BEIN LA LIGA 4K
-http://wagmaott.com:8080/mag00:1A:79:99:80:A3/1vpfdyAtZu/115568
-#EXTINF:-1 ,BEIN LA LIGA FHD
-http://wagmaott.com:8080/mag00:1A:79:99:80:A3/1vpfdyAtZu/115570
 #EXTINF:-1 ,M DESPORTES HD
 http://wagmaott.com:8080/mag00:1A:79:99:80:A3/1vpfdyAtZu/115601
 #EXTINF:-1 ,M FUTBOL HD
@@ -19,8 +13,6 @@ http://wagmaott.com:8080/mag00:1A:79:99:80:A3/1vpfdyAtZu/115582
 http://wagmaott.com:8080/mag00:1A:79:99:80:A3/1vpfdyAtZu/115621
 #EXTINF:-1 ,TELEDEPORTE HD
 http://wagmaott.com:8080/mag00:1A:79:99:80:A3/1vpfdyAtZu/115623
-#EXTINF:-1 ,DAZNT 2 (SOLO EVENTOS)
-http://wagmaott.com:8080/mag00:1A:79:99:80:A3/1vpfdyAtZu/115628
 #EXTINF:-1 ,BLAZE HD
 http://wagmaott.com:8080/mag00:1A:79:99:80:A3/1vpfdyAtZu/115476
 #EXTINF:-1 ,CANAL COCINA HD

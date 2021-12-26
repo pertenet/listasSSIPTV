@@ -1,87 +1,53 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: VIVACOM ARENA
+#EXTINF:-1 ,BG: VIVACOM ARENA
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEbTZkCLcbPa2tHVFCDZcQVzQtyH9pn-Xs0EsIj-dU5F/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: Viasat History
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbF8_7enad6DYVuIT_5SmoTHuNr68jH-sT5rPW1Osgqi3/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: VH1 Europe
+#EXTINF:-1 ,BG: VH1 Europe
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbE3ISZ6n529wXCR41KM4lRa9utiMpkI_Y_gvWFLXSAU_/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: TV PLUS
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbE3ISZ6n529wXCR41KM4lRZ4cah4WHx3bVQyFny5Neod/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: THE WORLD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbF8_7enad6DYVuIT_5SmoTHpsv9r-mSJOTuwWmijpx2g/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: SUPER TENIS HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGjkS3P09a823u29bKi5Em6IIFzHCYXaqaESBu0UJD3M/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: SPORTKLUB 3
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGjkS3P09a823u29bKi5Em7Yj2_8QijDDGubnnf-6GT5/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: SPORTKLUB 1
+#EXTINF:-1 ,BG: SPORTKLUB 1
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGjkS3P09a823u29bKi5Em6wqovh8Uxfod-jSmTLrlck/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: SPORT PLUS HD
+#EXTINF:-1 ,BG: SPORT PLUS HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGjkS3P09a823u29bKi5Em41wp--0QKbAyP5cNvBslOA/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: Planeta TV
+#EXTINF:-1 ,BG: Planeta TV
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCHnoDTR9uv4WI4L54JMBiExm7wmFlQSYeyDNDsxQM9d/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: PLANETA FOLK TV
+#EXTINF:-1 ,BG: PLANETA FOLK TV
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCHnoDTR9uv4WI4L54JMBiFn26DTFLq3cULIVT2uUbpa/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: National Geographic
+#EXTINF:-1 ,BG: National Geographic
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbF8_7enad6DYVuIT_5SmoTGrNBndsK71QctssWOjkc5F/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: MTEL SPORT 2 HD
+#EXTINF:-1 ,BG: MTEL SPORT 2 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGjkS3P09a823u29bKi5Em5rl5H0jVbIonInHGXwSGvD/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: MTEL SPORT 1 HD
+#EXTINF:-1 ,BG: MTEL SPORT 1 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGjkS3P09a823u29bKi5Em4QzrBllNxPPCoDGlSuw2JW/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: MOVIE STAR
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEbTZkCLcbPa2tHVFCDZcQUhTQQ3bRyjBjbT5L0PsOWf/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: MAX SPORT 4 HD
+#EXTINF:-1 ,BG: MAX SPORT 4 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGjkS3P09a823u29bKi5Em7XIEtvUiIm-d_aR7RqcE_Q/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: MAX SPORT 3 HD
+#EXTINF:-1 ,BG: MAX SPORT 3 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbE6xeGmcmlHrEZ-lLuYQ5hJsU86FVxp-d674kL8eL7Qf/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: Hit Mix
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCHnoDTR9uv4WI4L54JMBiH4bi_osB1SYGnFIRPphLmE/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: HISTORY CHANNEL HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEbTZkCLcbPa2tHVFCDZcQXzCjGpSi8-qzkxL2p7ONUZ/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: Fox Crime Bulgaria
+#EXTINF:-1 ,BG: Fox Crime Bulgaria
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCqBpNUsOy9W_GV3V6YCnTkluNcrIs_gg7tsFSb_zNGB/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: Ekids
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCqBpNUsOy9W_GV3V6YCnTlQQZFAGed65xIYNxHxsfqW/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: Disney Channel
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCSFHbuOYPvaspbg7yceWZGmvSBPo2iEe4OY5Lyee5fC/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: Da Vinci Learning
+#EXTINF:-1 ,BG: Da Vinci Learning
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCSFHbuOYPvaspbg7yceWZFYlsY1-A7HoQZ2eFsjU8OB/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: COMEDY PLUS
+#EXTINF:-1 ,BG: COMEDY PLUS
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKdyR7jh0Io51xQJImWYej9afkxNEt6LBuET-ktlnZet/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: CITY TV
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCHnoDTR9uv4WI4L54JMBiErW1eexia0gIH4dsVYe2Zd/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: CINEMAX 2 HD
+#EXTINF:-1 ,BG: CINEMAX 2 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbE3ISZ6n529wXCR41KM4lRYs9GTEBVxzBcp2sx5oeC_Y/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: CINEMA PLUS
+#EXTINF:-1 ,BG: CINEMA PLUS
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbE3ISZ6n529wXCR41KM4lRbutyGPZRoTOWGPw-oi4v8k/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: bTV Lady
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKXGrbLea8dj4erKuEvpZPROfmeAGw7AqakN_KGmKxTF/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: BTV HD
+#EXTINF:-1 ,BG: BTV HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKXGrbLea8dj4erKuEvpZPSH_lr3sdEUdoCNq-uaUWHt/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: BTV ACTION HD
+#EXTINF:-1 ,BG: BTV ACTION HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKXGrbLea8dj4erKuEvpZPT2q4W-U2TemUFzb-n1mP9t/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: BOX TV
+#EXTINF:-1 ,BG: BOX TV
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCHnoDTR9uv4WI4L54JMBiF76ftD5ZhxiyD1ddiFZqC2/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: BOOMERANG
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGLoxDhteQhfE10KXzU8SVC6_q2gODjEBUDjPYqGsaYF/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: BNT 4 HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCk3Tbiw3DfoAX8bzZKdyQ3EJFeVFXaUYCRmLJ6-o9my/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: BNT 4
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCk3Tbiw3DfoAX8bzZKdyQ2CWuzhAtOyUoaHegg9mebL/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: BNT 3 HD
+#EXTINF:-1 ,BG: BNT 3 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCk3Tbiw3DfoAX8bzZKdyQ22TjOlm0U8UGGh6P5Iv-1l/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: Baby TV Europe
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGLoxDhteQhfE10KXzU8SVCn2e5zZBoa0UssMMMkV4Os/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: ARENA SPORT 5 HD
+#EXTINF:-1 ,BG: ARENA SPORT 5 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbE6xeGmcmlHrEZ-lLuYQ5hK_mcij9W9svz72ZlyZxBKi/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: ARENA SPORT 4 HD
+#EXTINF:-1 ,BG: ARENA SPORT 4 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbE6xeGmcmlHrEZ-lLuYQ5hKABqqTGLyJ-ro7LarpfyaT/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: ARENA SPORT 3 HD
+#EXTINF:-1 ,BG: ARENA SPORT 3 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbE6xeGmcmlHrEZ-lLuYQ5hK3N9qiaYl7IWRUS1l-pJZJ/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: ARENA SPORT 2 HD
+#EXTINF:-1 ,BG: ARENA SPORT 2 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbE6xeGmcmlHrEZ-lLuYQ5hIwlp50pRr5GtKhRlM4Y8rw/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: ARENA SPORT 1 HD
+#EXTINF:-1 ,BG: ARENA SPORT 1 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbE6xeGmcmlHrEZ-lLuYQ5hIWg914El9cXeCnOVqgi6WK/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: 7/8 TV HD
+#EXTINF:-1 ,BG: 7/8 TV HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCk3Tbiw3DfoAX8bzZKdyQ2aDdJIxy5j66o7LTOL6d-U/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BG: 24 Kitchen
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFJw6fr7guzteo_c9Xx1XExqv2wlhnH80HLSJiuqEURz/ts

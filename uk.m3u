@@ -25,8 +25,6 @@ http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMV-qYjg1LzPxSBaOTqLKVY/ts
 #EXTINF:-1 ,UK: Yesterday
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFKYJ0IQrvwnnwcXDxQCWIII-b2_qdG8DY4dUsmPyRSR/ts
-#EXTINF:-1 ,UK: YESTERDAY
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBzvyqq4JfER6hd2Of20qnY/ts
 #EXTINF:-1 ,UK: Watch
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDZtubgWq1cNg6j8LhGje-gvyV5d8RAU7y3c4xakYIVS/ts
 #EXTINF:-1 ,UK: VH1 | HD
@@ -61,8 +59,6 @@ http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAUGQGc-Vy_zND5mbh62wXRKff
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbETyMfRyQk6s1SUeDplCtK1UUdJeIj4n_Z-bE8ZLmdc4/ts
 #EXTINF:-1 ,UK: Sky Cinema Select HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEqum9RYyzQtqzfSUAnqm8n7NSs5I_dJ1H8TfsrleQq_/ts
-#EXTINF:-1 ,UK: Sky Cinema Sci-Fi & Horror HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbI4FzGUUgJuK9J37YCds3jwJLe-XWtot4txnr4paXX7E/ts
 #EXTINF:-1 ,UK: Sky Cinema Premiere
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPvyIH81-degqAZ3olHwztwNN7p6XO7VnOsM2G2xyhwi/ts
 #EXTINF:-1 ,UK: Sky Cinema Hits
@@ -85,26 +81,12 @@ http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPhS3ANTpSPJfW8ldZItdHAWaW
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDVZSQHNiNtTcibwrxy8c2s/ts
 #EXTINF:-1 ,UK: S4C HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDfg_c4RNnsgtDpc4c9J_UmpXoOVLsDgX9hLwx9KCryg/ts
-#EXTINF:-1 ,UK: RTE NEWS
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNFVw5m-U75S_x-PSYhfPfZ-lWK1WeK78luU0n9WZwpD/ts
-#EXTINF:-1 ,UK: RT News
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFeLwFDKSp8Q7MG8i3g2O2IxjNMEKM34yUcVDJEzMhd4/ts
-#EXTINF:-1 ,UK: Racing SD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCEJkeV8T5RlcuWqUmvThXZm7Q8u6-YpZ6G3Eea0vJaN/ts
-#EXTINF:-1 ,UK: QVC Extra
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMFjzIO4y_tUynJtqmceJFAL1L7HLnp6oQ4ER3qIwQf6/ts
 #EXTINF:-1 ,UK: QVC Beauty
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPOvlktMyGINpKG6G--DdWpS7_TuwXjiKKmEdQrFr8YC/ts
 #EXTINF:-1 ,UK: QVC
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCiXInR0y8KgymVI5VGSWgUIeE7zzCWl1fOMYr9hT1uB/ts
 #EXTINF:-1 ,UK: Quest RED
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJ6G_HYYPYPj9y7c03ScV7E/ts
-#EXTINF:-1 ,UK: Quest | HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEKlhviYVz0_YGZy3a9K-Fc/ts
-#EXTINF:-1 ,UK: PREMIER SPORTS 2
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNIsO2Xq_inkRdTWRR9ImuA6XjxdrIWZclHpQuVEqonJ/ts
-#EXTINF:-1 ,UK: PREMIER SPORTS 1 HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNsXhgZNbnFQKe1d5wiCVf_myFayfLhnw7llOKsE6dj5/ts
 #EXTINF:-1 ,UK: POP Max
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFRFY_WRDr0bd-hEZ6THX-A/ts
 #EXTINF:-1 ,UK: PICK TV
@@ -118,29 +100,17 @@ http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJgEwx8Vsi_ShvqjKA2N5Gg7Wc
 #EXTINF:-1 ,UK: MTV Music | HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbK8Xq0IdF2cunItMiKXupFI/ts
 #EXTINF:-1 ,UK: MTV Hits
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPTxRw6TX-vQWBx19aibsEc/ts
-#EXTINF:-1 ,UK: MTV Hits
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHDYlqA871sHWaEXm4YsxLaoTZmiB_4OjkCGX9RTV-rr/ts
-#EXTINF:-1 ,UK: MTV Classic
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbA2_CaxuCf1Fe9jsW9rTQ-CsIp2danVnHHxD4G3wXSXI/ts
 #EXTINF:-1 ,UK: MTV
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBLWXeiXwZAxUkBkUFbS8x4/ts
 #EXTINF:-1 ,UK: Kiss TV
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOdxl7frlFSFFuEkkYlyV3X5QRfBpM561ioj_3xf_liq/ts
-#EXTINF:-1 ,UK: Islam TV UK
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBJ7DsyNofOGP1uDu5T33Fdz6unR25O9VwZA_4u_OQqi/ts
-#EXTINF:-1 ,UK: Horror Channel 1 | HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDhl4CE--ltkbXDi_X-BNYk/ts
-#EXTINF:-1 ,UK: E4
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLeisr3x4bzccO3_u-OPoVI/ts
 #EXTINF:-1 ,UK: Channel 4
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIjTPFNYo7FPGuqHmB_hef1flgLoRiFJtjdP-KdOK9TO/ts
 #EXTINF:-1 ,UK: Channel 4
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbD2h8C-1Uevqz6hOw95Nl-s/ts
 #EXTINF:-1 ,UK: Challenge
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNmw5AF4onYrJfSLOZ7WwWz1ttI1dytRpKtYd2Rn8zia/ts
-#EXTINF:-1 ,UK: CBS Drama
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHDMrnV_X9QExAOimii7PWAxImeDyuAwUjgBFjCMePEB/ts
 #EXTINF:-1 ,UK: CBS Action
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJ79M36gzW3RGLdzhBFSZeHJE-rGNvSxmJ-OzZkmxkpa/ts
 #EXTINF:-1 ,UK: CBBC
