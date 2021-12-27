@@ -1,867 +1,1053 @@
 #EXTM3U
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ae.png",A&E
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ae.png",A&E
 http://user.tvcluboficial.com/stream/nov/nov/1.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ae.png",A&E HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ae.png",A&E HD
 http://user.tvcluboficial.com/stream/nov/nov/474.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ae.png",A&E Sur
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ae.png",A&E Sur
 http://user.tvcluboficial.com/stream/nov/nov/734.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/aplus.png",A+
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/aplus.png",A+
 http://user.tvcluboficial.com/stream/nov/nov/406.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/a3series.png",A3Series
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/a3series.png",A3Series
 http://user.tvcluboficial.com/stream/nov/nov/444.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/adn40.png",ADN 40
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/adn40.png",ADN 40
 http://user.tvcluboficial.com/stream/nov/nov/447.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/afizzionados.png",Afizzionados
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/afizzionados.png",Afizzionados
 http://user.tvcluboficial.com/stream/nov/nov/878.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/alf.png",Alf 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/alf.png",Alf 24/7
 http://user.tvcluboficial.com/stream/nov/nov/426.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/amc.png",AMC
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/amc.png",AMC
 http://user.tvcluboficial.com/stream/nov/nov/183.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/amc.png",AMC ES
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/amc.png",AMC ES
 http://user.tvcluboficial.com/stream/nov/nov/715.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/amc.png",AMC HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/amc.png",AMC HD
 http://user.tvcluboficial.com/stream/nov/nov/475.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/americaperu.png",America
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/americaperu.png",America
 http://user.tvcluboficial.com/stream/nov/nov/780.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/animalplanet.png",Animal Planet
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/animalplanet.png",Animal Planet
 http://user.tvcluboficial.com/stream/nov/nov/3.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/animalplanet.png",Animal Planet HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/animalplanet.png",Animal Planet HD
 http://user.tvcluboficial.com/stream/nov/nov/633.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/animaniacs.png",Animaniacs 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/animaniacs.png",Animaniacs 24/7
 http://user.tvcluboficial.com/stream/nov/nov/677.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/antena3.png",Antena 3
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/antena3.png",Antena 3
 http://user.tvcluboficial.com/stream/nov/nov/298.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/axn.png",AXN
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/axn.png",AXN
 http://user.tvcluboficial.com/stream/nov/nov/146.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/axn.png",AXN (ES)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/axn.png",AXN (ES)
 http://user.tvcluboficial.com/stream/nov/nov/713.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/axn.png",AXN HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/axn.png",AXN HD
 http://user.tvcluboficial.com/stream/nov/nov/476.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/axn.png",AXN Sur
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/axn.png",AXN Sur
 http://user.tvcluboficial.com/stream/nov/nov/804.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/axn.png",AXN WHITE (ES)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/axn.png",AXN WHITE (ES)
 http://user.tvcluboficial.com/stream/nov/nov/714.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/aymsports.png",AyM Sports
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/aymsports.png",AyM Sports
 http://user.tvcluboficial.com/stream/nov/nov/148.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/azcinema.png",Az Cinema
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/azcinema.png",Az Cinema
 http://user.tvcluboficial.com/stream/nov/nov/186.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/azclic.png",Az Clic
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/azclic.png",Az Clic
 http://user.tvcluboficial.com/stream/nov/nov/165.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/azcorazon.png",Az Corazón
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/azcorazon.png",Az Corazón
 http://user.tvcluboficial.com/stream/nov/nov/166.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/azcorazon.png",Az Corazón HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/azcorazon.png",Az Corazón HD
 http://user.tvcluboficial.com/stream/nov/nov/834.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/azteca1.png",Azteca 1
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/azteca1.png",Azteca 1
 http://user.tvcluboficial.com/stream/nov/nov/4.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/azteca1.png",Azteca 1 HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/azteca1.png",Azteca 1 HD
 http://user.tvcluboficial.com/stream/nov/nov/634.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/azteca7.png",Azteca 7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/azteca7.png",Azteca 7
 http://user.tvcluboficial.com/stream/nov/nov/5.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/azteca7.png",Azteca 7 HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/azteca7.png",Azteca 7 HD
 http://user.tvcluboficial.com/stream/nov/nov/635.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/babytv.png",Baby TV
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/babytv.png",Baby TV
 http://user.tvcluboficial.com/stream/nov/nov/7.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/bandamax.png",Bandamax
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/bandamax.png",Bandamax
 http://user.tvcluboficial.com/stream/nov/nov/8.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/bandamax.png",Bandamax HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/bandamax.png",Bandamax HD
 http://user.tvcluboficial.com/stream/nov/nov/833.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/beinsports.png",Bein HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/beinsports.png",Bein HD
 http://user.tvcluboficial.com/stream/nov/nov/763.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/beinsports.png",BeinSports
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/beinsports.png",BeinSports
 http://user.tvcluboficial.com/stream/nov/nov/753.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/beinsports.png",BeinSports HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/beinsports.png",BeinSports HD
 http://user.tvcluboficial.com/stream/nov/nov/9.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/beinsportsn.png",BeinSports Ñ
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/beinsportsn.png",BeinSports Ñ
 http://user.tvcluboficial.com/stream/nov/nov/761.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/beinsportsn.png",BeinSports Ñ HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/beinsportsn.png",BeinSports Ñ HD
 http://user.tvcluboficial.com/stream/nov/nov/376.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/bobesponja.png",Bob Esponja 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/bobesponja.png",Bob Esponja 24/7
 http://user.tvcluboficial.com/stream/nov/nov/518.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/bolivision.png",Bolivision
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/bolivision.png",Bolivision
 http://user.tvcluboficial.com/stream/nov/nov/783.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/boomerang.png",Boomerang
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/boomerang.png",Boomerang
 http://user.tvcluboficial.com/stream/nov/nov/11.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/boomerang.png",Boomerang HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/boomerang.png",Boomerang HD
 http://user.tvcluboficial.com/stream/nov/nov/824.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/boomerang.png",Boomerang Sur
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/boomerang.png",Boomerang Sur
 http://user.tvcluboficial.com/stream/nov/nov/735.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/breakingbad.png",Breaking Bad 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/breakingbad.png",Breaking Bad 24/7
 http://user.tvcluboficial.com/stream/nov/nov/846.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png",Caballeros del Zodiaco 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png",Caballeros del Zodiaco 24/7
 http://user.tvcluboficial.com/stream/nov/nov/427.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/canal5.png",Canal 5
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/canal5.png",Canal 5
 http://user.tvcluboficial.com/stream/nov/nov/14.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/canal5.png",Canal 5 Honduras
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/canal5.png",Canal 5 Honduras
 http://user.tvcluboficial.com/stream/nov/nov/773.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/lasestrellas.png",Canal de las Estrellas
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/lasestrellas.png",Canal de las Estrellas
 http://user.tvcluboficial.com/stream/nov/nov/411.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/lasestrellas.png",Canal de las Estrellas HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/lasestrellas.png",Canal de las Estrellas HD
 http://user.tvcluboficial.com/stream/nov/nov/636.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/lasestrellas.png",Canal de las Estrellas Sur
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/lasestrellas.png",Canal de las Estrellas Sur
 http://user.tvcluboficial.com/stream/nov/nov/736.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/canaldelfutbol.png",Canal Del Futbol
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/canaldelfutbol.png",Canal Del Futbol
 http://user.tvcluboficial.com/stream/nov/nov/892.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/maccion.png",Canal+ Accion
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/maccion.png",Canal+ Accion
 http://user.tvcluboficial.com/stream/nov/nov/364.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/toros.png",Canal+ Toros
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/toros.png",Canal+ Toros
 http://user.tvcluboficial.com/stream/nov/nov/369.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/cantinflas.png",Cantinflas 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/cantinflas.png",Cantinflas 24/7
 http://user.tvcluboficial.com/stream/nov/nov/428.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/caracol.png",Caracol
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/caracol.png",Caracol
 http://user.tvcluboficial.com/stream/nov/nov/391.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/caracol.png",Caracol Internacional
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/caracol.png",Caracol Internacional
 http://user.tvcluboficial.com/stream/nov/nov/290.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/cartoonnetwork.png",Cartoon Network
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/cartoonnetwork.png",Cartoon Network
 http://user.tvcluboficial.com/stream/nov/nov/17.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/cartoonnetwork.png",Cartoon Network HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/cartoonnetwork.png",Cartoon Network HD
 http://user.tvcluboficial.com/stream/nov/nov/637.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/cartoonnetwork.png",Cartoon Network Sur
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/cartoonnetwork.png",Cartoon Network Sur
 http://user.tvcluboficial.com/stream/nov/nov/737.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/catdog.png",CatDog 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/catdog.png",CatDog 24/7
 http://user.tvcluboficial.com/stream/nov/nov/785.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/cbeebies.png",CBeebies
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/cbeebies.png",CBeebies
 http://user.tvcluboficial.com/stream/nov/nov/13.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/cdf.png",CDF Premium
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/cdf.png",CDF Premium
 http://user.tvcluboficial.com/stream/nov/nov/318.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/cdfpremium.png",CDF Premium HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/cdfpremium.png",CDF Premium HD
 http://user.tvcluboficial.com/stream/nov/nov/725.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/cdnsportsmax.png",CDN Sportsmax
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/cdnsportsmax.png",CDN Sportsmax
 http://user.tvcluboficial.com/stream/nov/nov/206.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/cdopremium.png",CDO Premium
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/cdopremium.png",CDO Premium
 http://user.tvcluboficial.com/stream/nov/nov/401.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/chapulincolorado.png",Chapulin Colorado 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/chapulincolorado.png",Chapulin Colorado 24/7
 http://user.tvcluboficial.com/stream/nov/nov/418.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/chespirito.jpg",Chespirito 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/chespirito.jpg",Chespirito 24/7
 http://user.tvcluboficial.com/stream/nov/nov/417.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://ts.tvcluboficial.com/247/accion/img.jpg",Cine Accion
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://ts.tvcluboficial.com/247/accion/img.jpg",Cine Accion
 http://user.tvcluboficial.com/stream/nov/nov/699.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://ts.tvcluboficial.com/247/accion_hd/img.jpg",Cine Accion HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://ts.tvcluboficial.com/247/accion_hd/img.jpg",Cine Accion HD
 http://user.tvcluboficial.com/stream/nov/nov/706.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas/img.jpg",Cine Accion Sagas
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas/img.jpg",Cine Accion Sagas
 http://user.tvcluboficial.com/stream/nov/nov/700.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas_hd/img.jpg",Cine Accion Sagas HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas_hd/img.jpg",Cine Accion Sagas HD
 http://user.tvcluboficial.com/stream/nov/nov/707.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://ts.tvcluboficial.com/247/comedia/img.jpg",Cine Comedia 1
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://ts.tvcluboficial.com/247/comedia/img.jpg",Cine Comedia 1
 http://user.tvcluboficial.com/stream/nov/nov/695.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://ts.tvcluboficial.com/247/comedia2/img.jpg",Cine Comedia 2
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://ts.tvcluboficial.com/247/comedia2/img.jpg",Cine Comedia 2
 http://user.tvcluboficial.com/stream/nov/nov/696.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia/img.jpg",Cine Ficcion/Fantasia 1
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia/img.jpg",Cine Ficcion/Fantasia 1
 http://user.tvcluboficial.com/stream/nov/nov/709.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia2/img.jpg",Cine Ficcion/Fantasia 2
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia2/img.jpg",Cine Ficcion/Fantasia 2
 http://user.tvcluboficial.com/stream/nov/nov/710.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_hd/img.jpg",Cine Ficcion/Fantasia HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_hd/img.jpg",Cine Ficcion/Fantasia HD
 http://user.tvcluboficial.com/stream/nov/nov/712.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_sagas/img.jpg",Cine Ficcion/Fantasia Sagas
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_sagas/img.jpg",Cine Ficcion/Fantasia Sagas
 http://user.tvcluboficial.com/stream/nov/nov/711.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://ts.tvcluboficial.com/247/infantil/img.jpg",Cine Infantil
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://ts.tvcluboficial.com/247/infantil/img.jpg",Cine Infantil
 http://user.tvcluboficial.com/stream/nov/nov/687.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://ts.tvcluboficial.com/247/infantil_hd/img.jpg",Cine Infantil HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://ts.tvcluboficial.com/247/infantil_hd/img.jpg",Cine Infantil HD
 http://user.tvcluboficial.com/stream/nov/nov/702.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://ts.tvcluboficial.com/247/infantil_sagas/img.jpg",Cine Infantil Sagas
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://ts.tvcluboficial.com/247/infantil_sagas/img.jpg",Cine Infantil Sagas
 http://user.tvcluboficial.com/stream/nov/nov/694.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://ts.tvcluboficial.com/infantil_sagas_hd/img.jpg",Cine Infantil Sagas HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://ts.tvcluboficial.com/infantil_sagas_hd/img.jpg",Cine Infantil Sagas HD
 http://user.tvcluboficial.com/stream/nov/nov/703.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/cinelatino.png",Cine Latino
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/cinelatino.png",Cine Latino
 http://user.tvcluboficial.com/stream/nov/nov/295.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://ts.tvcluboficial.com/247/marvel/img.jpg",Cine Marvel
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://ts.tvcluboficial.com/247/marvel/img.jpg",Cine Marvel
 http://user.tvcluboficial.com/stream/nov/nov/697.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://ts.tvcluboficial.com/247/marvel_hd/img.jpg",Cine Marvel HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://ts.tvcluboficial.com/247/marvel_hd/img.jpg",Cine Marvel HD
 http://user.tvcluboficial.com/stream/nov/nov/701.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://ts.tvcluboficial.com/247/romance/img.jpg",Cine Romance
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://ts.tvcluboficial.com/247/romance/img.jpg",Cine Romance
 http://user.tvcluboficial.com/stream/nov/nov/689.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://ts.tvcluboficial.com/247/romance_hd/img.jpg",Cine Romance HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://ts.tvcluboficial.com/247/romance_hd/img.jpg",Cine Romance HD
 http://user.tvcluboficial.com/stream/nov/nov/705.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://ts.tvcluboficial.com/247/zombis/img.jpg",Cine Zombis
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://ts.tvcluboficial.com/247/zombis/img.jpg",Cine Zombis
 http://user.tvcluboficial.com/stream/nov/nov/688.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/cinecanal.png",Cinecanal
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/cinecanal.png",Cinecanal
 http://user.tvcluboficial.com/stream/nov/nov/18.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/cinecanal.png",Cinecanal HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/cinecanal.png",Cinecanal HD
 http://user.tvcluboficial.com/stream/nov/nov/479.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/cinecanal.png",Cinecanal Sur
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/cinecanal.png",Cinecanal Sur
 http://user.tvcluboficial.com/stream/nov/nov/738.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/cinemax.png",Cinemax
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/cinemax.png",Cinemax
 http://user.tvcluboficial.com/stream/nov/nov/20.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/cinemax.png",Cinemax HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/cinemax.png",Cinemax HD
 http://user.tvcluboficial.com/stream/nov/nov/638.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/cinemax.png",Cinemax Sur
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/cinemax.png",Cinemax Sur
 http://user.tvcluboficial.com/stream/nov/nov/739.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/clarosports.png",Claro Sports
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/clarosports.png",Claro Sports
 http://user.tvcluboficial.com/stream/nov/nov/328.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/cnn.png",CNN en Español
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/cnn.png",CNN en Español
 http://user.tvcluboficial.com/stream/nov/nov/136.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/comedycentral.png",Comedy Central
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/comedycentral.png",Comedy Central
 http://user.tvcluboficial.com/stream/nov/nov/135.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/comedycentral.png",Comedy Central (ES)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/comedycentral.png",Comedy Central (ES)
 http://user.tvcluboficial.com/stream/nov/nov/719.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/comedycentral.png",Comedy Central HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/comedycentral.png",Comedy Central HD
 http://user.tvcluboficial.com/stream/nov/nov/480.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/comedycentral.png",Comedy Central Sur
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/comedycentral.png",Comedy Central Sur
 http://user.tvcluboficial.com/stream/nov/nov/740.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/coraje.png",Coraje el Perro Cobarde 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/coraje.png",Coraje el Perro Cobarde 24/7
 http://user.tvcluboficial.com/stream/nov/nov/519.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/crimeinvestigation.png",Crime Investigation (ES)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/crimeinvestigation.png",Crime Investigation (ES)
 http://user.tvcluboficial.com/stream/nov/nov/720.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/depelicula.png",De Película
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/depelicula.png",De Película
 http://user.tvcluboficial.com/stream/nov/nov/21.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/depelicula.png",De Pelicula HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/depelicula.png",De Pelicula HD
 http://user.tvcluboficial.com/stream/nov/nov/481.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/DHE.png",DHE
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/DHE.png",DHE
 http://user.tvcluboficial.com/stream/nov/nov/844.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/dinosaurios.png",Dinosaurios 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/dinosaurios.png",Dinosaurios 24/7
 http://user.tvcluboficial.com/stream/nov/nov/670.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/directvsports.png",DirectTV Sports
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/directvsports.png",DirectTV Sports
 http://user.tvcluboficial.com/stream/nov/nov/259.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/directvsports2.png",DirectTV Sports 2
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/directvsports2.png",DirectTV Sports 2
 http://user.tvcluboficial.com/stream/nov/nov/667.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/directvsports.png",DirectTV Sports Peru HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/directvsports.png",DirectTV Sports Peru HD
 http://user.tvcluboficial.com/stream/nov/nov/879.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/discoverychannel.png",Discovery Channel
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/discoverychannel.png",Discovery Channel
 http://user.tvcluboficial.com/stream/nov/nov/22.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/discoverychannel.png",Discovery Channel HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/discoverychannel.png",Discovery Channel HD
 http://user.tvcluboficial.com/stream/nov/nov/639.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/discoverychannel.png",Discovery Channel Sur
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/discoverychannel.png",Discovery Channel Sur
 http://user.tvcluboficial.com/stream/nov/nov/741.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/discoverycivilization.png",Discovery Civilization
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/discoverycivilization.png",Discovery Civilization
 http://user.tvcluboficial.com/stream/nov/nov/23.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/discoveryhh.png",Discovery H&H
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/discoveryhh.png",Discovery H&H
 http://user.tvcluboficial.com/stream/nov/nov/24.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/discoveryhh.png",Discovery H&H HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/discoveryhh.png",Discovery H&H HD
 http://user.tvcluboficial.com/stream/nov/nov/640.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/discoveryhh.png",Discovery H&H Sur
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/discoveryhh.png",Discovery H&H Sur
 http://user.tvcluboficial.com/stream/nov/nov/742.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/discoverykids.png",Discovery Kids
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/discoverykids.png",Discovery Kids
 http://user.tvcluboficial.com/stream/nov/nov/25.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/discoverykids.png",Discovery Kids HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/discoverykids.png",Discovery Kids HD
 http://user.tvcluboficial.com/stream/nov/nov/641.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/discoverysci.png",Discovery SCI
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/discoverysci.png",Discovery SCI
 http://user.tvcluboficial.com/stream/nov/nov/26.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/discoverytheater.png",Discovery Theater HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/discoverytheater.png",Discovery Theater HD
 http://user.tvcluboficial.com/stream/nov/nov/27.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/discoveryturbo.png",Discovery Turbo
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/discoveryturbo.png",Discovery Turbo
 http://user.tvcluboficial.com/stream/nov/nov/28.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/discoveryturbo.png",Discovery Turbo HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/discoveryturbo.png",Discovery Turbo HD
 http://user.tvcluboficial.com/stream/nov/nov/727.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/discoveryworld.png",Discovery World
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/discoveryworld.png",Discovery World
 http://user.tvcluboficial.com/stream/nov/nov/187.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/disneychannel.png",Disney Channel
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/disneychannel.png",Disney Channel
 http://user.tvcluboficial.com/stream/nov/nov/29.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/disneyjr.png",Disney Junior
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/disneyjr.png",Disney Junior
 http://user.tvcluboficial.com/stream/nov/nov/30.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/disneyjr.png",Disney Junior HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/disneyjr.png",Disney Junior HD
 http://user.tvcluboficial.com/stream/nov/nov/826.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/disneyjr.png",Disney Junior Sur
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/disneyjr.png",Disney Junior Sur
 http://user.tvcluboficial.com/stream/nov/nov/743.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/disneyxd.png",Disney XD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/disneyxd.png",Disney XD
 http://user.tvcluboficial.com/stream/nov/nov/31.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/disneyxd.png",Disney XD HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/disneyxd.png",Disney XD HD
 http://user.tvcluboficial.com/stream/nov/nov/827.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/disneyxd.png",Disney XD Sur
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/disneyxd.png",Disney XD Sur
 http://user.tvcluboficial.com/stream/nov/nov/744.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/distritocomedia.png",Distrito Comedia
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/distritocomedia.png",Distrito Comedia
 http://user.tvcluboficial.com/stream/nov/nov/32.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/doraemon.png",Doraemon 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/doraemon.png",Doraemon 24/7
 http://user.tvcluboficial.com/stream/nov/nov/521.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/dragonball.png",Dragon Ball 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/dragonball.png",Dragon Ball 24/7
 http://user.tvcluboficial.com/stream/nov/nov/425.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/dragonballgt.png",Dragon Ball GT 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/dragonballgt.png",Dragon Ball GT 24/7
 http://user.tvcluboficial.com/stream/nov/nov/520.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/dragonballsuper.png",Dragon Ball Super 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/dragonballsuper.png",Dragon Ball Super 24/7
 http://user.tvcluboficial.com/stream/nov/nov/424.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/dragonballz.png",Dragon Ball Z 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/dragonballz.png",Dragon Ball Z 24/7
 http://user.tvcluboficial.com/stream/nov/nov/329.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/e.png",E!
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/e.png",E!
 http://user.tvcluboficial.com/stream/nov/nov/33.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/e.png",E! HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/e.png",E! HD
 http://user.tvcluboficial.com/stream/nov/nov/483.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ecuavisa.png",Ecuavisa
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ecuavisa.png",Ecuavisa
 http://user.tvcluboficial.com/stream/nov/nov/319.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/el13argentina.png",El 13 Argentina
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/el13argentina.png",El 13 Argentina
 http://user.tvcluboficial.com/stream/nov/nov/239.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/elchavodel8.png",El Chavo del 8 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/elchavodel8.png",El Chavo del 8 24/7
 http://user.tvcluboficial.com/stream/nov/nov/400.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/elgalloclaudio.png",El Gallo Claudio 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/elgalloclaudio.png",El Gallo Claudio 24/7
 http://user.tvcluboficial.com/stream/nov/nov/845.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/elgourmet.png",El Gourmet
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/elgourmet.png",El Gourmet
 http://user.tvcluboficial.com/stream/nov/nov/157.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/elnueveargentina.png",El Nueve
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/elnueveargentina.png",El Nueve
 http://user.tvcluboficial.com/stream/nov/nov/772.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/elpajaroloco.png",El Pajaro Loco 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/elpajaroloco.png",El Pajaro Loco 24/7
 http://user.tvcluboficial.com/stream/nov/nov/525.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/elprincipedelrap.png",El Principel del Rap 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/elprincipedelrap.png",El Principel del Rap 24/7
 http://user.tvcluboficial.com/stream/nov/nov/430.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/eltrecechile.png",El Trece
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/eltrecechile.png",El Trece
 http://user.tvcluboficial.com/stream/nov/nov/765.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/EY9ca/d243ac3929.png",El Trece
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/EY9ca/d243ac3929.png",El Trece
 http://user.tvcluboficial.com/stream/nov/nov/767.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/espn.png",ESPN
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/espn.png",ESPN
 http://user.tvcluboficial.com/stream/nov/nov/34.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/espn2.png",ESPN 2
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/espn2.png",ESPN 2
 http://user.tvcluboficial.com/stream/nov/nov/35.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/espn2.png",ESPN 2 HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/espn2.png",ESPN 2 HD
 http://user.tvcluboficial.com/stream/nov/nov/484.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/espn2.png",ESPN 2 MX
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/espn2.png",ESPN 2 MX
 http://user.tvcluboficial.com/stream/nov/nov/531.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/espn3.png",ESPN 3 HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/espn3.png",ESPN 3 HD
 http://user.tvcluboficial.com/stream/nov/nov/485.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/espn.png",ESPN Chile
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/espn.png",ESPN Chile
 http://user.tvcluboficial.com/stream/nov/nov/842.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/espn.png",ESPN HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/espn.png",ESPN HD
 http://user.tvcluboficial.com/stream/nov/nov/486.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/espn.png",ESPN MX
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/espn.png",ESPN MX
 http://user.tvcluboficial.com/stream/nov/nov/530.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/espnplus.png",ESPN Plus
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/espnplus.png",ESPN Plus
 http://user.tvcluboficial.com/stream/nov/nov/37.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/espnplus.png",ESPN Plus HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/espnplus.png",ESPN Plus HD
 http://user.tvcluboficial.com/stream/nov/nov/487.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/estrellatv.png",Estrella TV
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/estrellatv.png",Estrella TV
 http://user.tvcluboficial.com/stream/nov/nov/177.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/filmarts.png",Film & Arts HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/filmarts.png",Film & Arts HD
 http://user.tvcluboficial.com/stream/nov/nov/149.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/filmarts.png",Film & Arts HD (EN)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/filmarts.png",Film & Arts HD (EN)
 http://user.tvcluboficial.com/stream/nov/nov/729.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/f1.png",Formula 1 TV (F1)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/f1.png",Formula 1 TV (F1)
 http://user.tvcluboficial.com/stream/nov/nov/192.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/star_life.png",Fox Life Sur
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/star_life.png",Fox Life Sur
 http://user.tvcluboficial.com/stream/nov/nov/746.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/foxsports.png",Fox Sports
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/foxsports.png",Fox Sports
 http://user.tvcluboficial.com/stream/nov/nov/52.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/foxsports2.png",Fox Sports 2
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/foxsports2.png",Fox Sports 2
 http://user.tvcluboficial.com/stream/nov/nov/53.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/foxsports2.png",Fox Sports 2 Argentina HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/foxsports2.png",Fox Sports 2 Argentina HD
 http://user.tvcluboficial.com/stream/nov/nov/770.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/foxsports2.png",Fox Sports 2 HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/foxsports2.png",Fox Sports 2 HD
 http://user.tvcluboficial.com/stream/nov/nov/494.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/foxsports2.png",Fox Sports 2 MX
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/foxsports2.png",Fox Sports 2 MX
 http://user.tvcluboficial.com/stream/nov/nov/528.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/foxsports3.png",Fox Sports 3
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/foxsports3.png",Fox Sports 3
 http://user.tvcluboficial.com/stream/nov/nov/54.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/foxsports3.png",Fox Sports 3 HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/foxsports3.png",Fox Sports 3 HD
 http://user.tvcluboficial.com/stream/nov/nov/839.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/foxsports.png",Fox Sports Argentina HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/foxsports.png",Fox Sports Argentina HD
 http://user.tvcluboficial.com/stream/nov/nov/769.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/foxsports.png",Fox Sports HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/foxsports.png",Fox Sports HD
 http://user.tvcluboficial.com/stream/nov/nov/493.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/foxsports.png",Fox Sports MX
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/foxsports.png",Fox Sports MX
 http://user.tvcluboficial.com/stream/nov/nov/527.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/foxsports.png",Fox Sports MX Sur
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/foxsports.png",Fox Sports MX Sur
 http://user.tvcluboficial.com/stream/nov/nov/748.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/foxsportspremium.png",Fox Sports Premium
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/foxsportspremium.png",Fox Sports Premium
 http://user.tvcluboficial.com/stream/nov/nov/512.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/foxsportspremium.png",Fox Sports Premium HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/foxsportspremium.png",Fox Sports Premium HD
 http://user.tvcluboficial.com/stream/nov/nov/658.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/foxsports.png",Fox Sports Sur
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/foxsports.png",Fox Sports Sur
 http://user.tvcluboficial.com/stream/nov/nov/402.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/foxsports2.png",Fox Sports Sur 2
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/foxsports2.png",Fox Sports Sur 2
 http://user.tvcluboficial.com/stream/nov/nov/410.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/foxsports3.png",Fox Sports Sur 3
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/foxsports3.png",Fox Sports Sur 3
 http://user.tvcluboficial.com/stream/nov/nov/511.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/fox.png",Fox Sur
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/fox.png",Fox Sur
 http://user.tvcluboficial.com/stream/nov/nov/750.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="N/A",Futurama 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="N/A",Futurama 24/7
 http://user.tvcluboficial.com/stream/nov/nov/793.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/fx.png",FX
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/fx.png",FX
 http://user.tvcluboficial.com/stream/nov/nov/42.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/fx.png",FX HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/fx.png",FX HD
 http://user.tvcluboficial.com/stream/nov/nov/495.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/fx.png",FX Sur
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/fx.png",FX Sur
 http://user.tvcluboficial.com/stream/nov/nov/749.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/fxm.png",FXM
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/fxm.png",FXM
 http://user.tvcluboficial.com/stream/nov/nov/43.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/fxm.png",FXM HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/fxm.png",FXM HD
 http://user.tvcluboficial.com/stream/nov/nov/488.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/galatv.png",Gala TV
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/galatv.png",Gala TV
 http://user.tvcluboficial.com/stream/nov/nov/56.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/galatv.png",Gala TV HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/galatv.png",Gala TV HD
 http://user.tvcluboficial.com/stream/nov/nov/651.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/gamavision.png",Gamavision
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/gamavision.png",Gamavision
 http://user.tvcluboficial.com/stream/nov/nov/891.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="N/A",Garfield 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="N/A",Garfield 24/7
 http://user.tvcluboficial.com/stream/nov/nov/812.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/glitz.png",Glitz
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/glitz.png",Glitz
 http://user.tvcluboficial.com/stream/nov/nov/158.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/golperu.png",Gol Peru
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/golperu.png",Gol Peru
 http://user.tvcluboficial.com/stream/nov/nov/686.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/goltv.png",Gol TV
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/goltv.png",Gol TV
 http://user.tvcluboficial.com/stream/nov/nov/287.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/goltv.png",Gol TV HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/goltv.png",Gol TV HD
 http://user.tvcluboficial.com/stream/nov/nov/514.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/golden.png",Golden
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/golden.png",Golden
 http://user.tvcluboficial.com/stream/nov/nov/57.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/goldenedge.png",Golden Edge
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/goldenedge.png",Golden Edge
 http://user.tvcluboficial.com/stream/nov/nov/58.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/golden.png",Golden HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/golden.png",Golden HD
 http://user.tvcluboficial.com/stream/nov/nov/496.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/h2.png",H2
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/h2.png",H2
 http://user.tvcluboficial.com/stream/nov/nov/61.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/h2.png",H2 Sur
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/h2.png",H2 Sur
 http://user.tvcluboficial.com/stream/nov/nov/760.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/hbo.png",HBO
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/hbo.png",HBO
 http://user.tvcluboficial.com/stream/nov/nov/62.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/hbo.png",HBO (EN)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/hbo.png",HBO (EN)
 http://user.tvcluboficial.com/stream/nov/nov/723.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/hbo2.png",HBO 2
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/hbo2.png",HBO 2
 http://user.tvcluboficial.com/stream/nov/nov/300.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/hbo2.png",HBO 2 (EN)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/hbo2.png",HBO 2 (EN)
 http://user.tvcluboficial.com/stream/nov/nov/724.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/hbo2.png",HBO 2 HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/hbo2.png",HBO 2 HD
 http://user.tvcluboficial.com/stream/nov/nov/732.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/hbo2.png",HBO 2 HD (EN)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/hbo2.png",HBO 2 HD (EN)
 http://user.tvcluboficial.com/stream/nov/nov/733.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/hbofamily.png",HBO Family
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/hbofamily.png",HBO Family
 http://user.tvcluboficial.com/stream/nov/nov/63.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/hbo.png",HBO HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/hbo.png",HBO HD
 http://user.tvcluboficial.com/stream/nov/nov/654.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/hboplus.png",HBO Plus
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/hboplus.png",HBO Plus
 http://user.tvcluboficial.com/stream/nov/nov/64.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/hboplus.png",HBO Plus (EN)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/hboplus.png",HBO Plus (EN)
 http://user.tvcluboficial.com/stream/nov/nov/722.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/hboplus.png",HBO Plus HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/hboplus.png",HBO Plus HD
 http://user.tvcluboficial.com/stream/nov/nov/655.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/hboplus.png",HBO Plus Oeste HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/hboplus.png",HBO Plus Oeste HD
 http://user.tvcluboficial.com/stream/nov/nov/728.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/hboxtreme.png",HBO Xtreme
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/hboxtreme.png",HBO Xtreme
 http://user.tvcluboficial.com/stream/nov/nov/814.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/hboxtreme.png",HBO Xtreme
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/hboxtreme.png",HBO Xtreme
 http://user.tvcluboficial.com/stream/nov/nov/841.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/hchhonduras.png",HCH
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/hchhonduras.png",HCH
 http://user.tvcluboficial.com/stream/nov/nov/779.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/y0QgW/470f001647.png",Hey Arnold 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/y0QgW/470f001647.png",Hey Arnold 24/7
 http://user.tvcluboficial.com/stream/nov/nov/522.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/history.png",Historia (ES)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/history.png",Historia (ES)
 http://user.tvcluboficial.com/stream/nov/nov/718.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/history.png",History Channel
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/history.png",History Channel
 http://user.tvcluboficial.com/stream/nov/nov/67.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/history.png",History Channel HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/history.png",History Channel HD
 http://user.tvcluboficial.com/stream/nov/nov/642.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/hola.png",Hola TV
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/hola.png",Hola TV
 http://user.tvcluboficial.com/stream/nov/nov/189.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/htv.png",HTV
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/htv.png",HTV
 http://user.tvcluboficial.com/stream/nov/nov/66.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/isat.png",I.Sat
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/isat.png",I.Sat
 http://user.tvcluboficial.com/stream/nov/nov/153.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/imagentv.png",Imagen Television
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/imagentv.png",Imagen Television
 http://user.tvcluboficial.com/stream/nov/nov/341.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/imagentv.png",Imagen Televisión HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/imagentv.png",Imagen Televisión HD
 http://user.tvcluboficial.com/stream/nov/nov/643.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/investigationdiscovery.png",Investigation Discovery
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/investigationdiscovery.png",Investigation Discovery
 http://user.tvcluboficial.com/stream/nov/nov/68.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/investigationdiscovery.png",Investigation Discovery HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/investigationdiscovery.png",Investigation Discovery HD
 http://user.tvcluboficial.com/stream/nov/nov/825.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/EY93W/56852b4788.png",Johnny Bravo 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/EY93W/56852b4788.png",Johnny Bravo 24/7
 http://user.tvcluboficial.com/stream/nov/nov/786.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/lahorapico.png",La Hora Pico 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/lahorapico.png",La Hora Pico 24/7
 http://user.tvcluboficial.com/stream/nov/nov/887.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/lapanterarosa.png",La Pantera Rosa 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/lapanterarosa.png",La Pantera Rosa 24/7
 http://user.tvcluboficial.com/stream/nov/nov/671.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png",La Rosa de Guadalupe 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png",La Rosa de Guadalupe 24/7
 http://user.tvcluboficial.com/stream/nov/nov/886.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/latinatv.png",Latina TV
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/latinatv.png",Latina TV
 http://user.tvcluboficial.com/stream/nov/nov/782.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png",Le Temes a la Oscuridad 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png",Le Temes a la Oscuridad 24/7
 http://user.tvcluboficial.com/stream/nov/nov/888.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/lifetime.png",Lifetime
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/lifetime.png",Lifetime
 http://user.tvcluboficial.com/stream/nov/nov/152.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ligadecampeones.png",Liga de Campeones
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ligadecampeones.png",Liga de Campeones
 http://user.tvcluboficial.com/stream/nov/nov/890.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ligadecampeones.png",Liga de Campeones 2
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ligadecampeones.png",Liga de Campeones 2
 http://user.tvcluboficial.com/stream/nov/nov/893.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/looneytunes.png",Looney Tunes 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/looneytunes.png",Looney Tunes 24/7
 http://user.tvcluboficial.com/stream/nov/nov/524.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/lospicapiedra.png",Los Picapiedra 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/lospicapiedra.png",Los Picapiedra 24/7
 http://user.tvcluboficial.com/stream/nov/nov/669.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/lossimpsons.png",Los Simpson 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/lossimpsons.png",Los Simpson 24/7
 http://user.tvcluboficial.com/stream/nov/nov/357.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/malcolm.png",Malcolm 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/malcolm.png",Malcolm 24/7
 http://user.tvcluboficial.com/stream/nov/nov/798.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/maschic.png",Más chic
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/maschic.png",Más chic
 http://user.tvcluboficial.com/stream/nov/nov/180.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/mbMc2/7317d4746c.png",Max Prime HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/mbMc2/7317d4746c.png",Max Prime HD
 http://user.tvcluboficial.com/stream/nov/nov/730.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/mbM9Q/075938049b.png",Max Up HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/mbM9Q/075938049b.png",Max Up HD
 http://user.tvcluboficial.com/stream/nov/nov/659.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/mega.png",Mega
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/mega.png",Mega
 http://user.tvcluboficial.com/stream/nov/nov/784.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/mega.png",Mega
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/mega.png",Mega
 http://user.tvcluboficial.com/stream/nov/nov/766.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/rR8N3/9ca59d233e.png",Mega (ES)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/rR8N3/9ca59d233e.png",Mega (ES)
 http://user.tvcluboficial.com/stream/nov/nov/352.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/xW4oN/70b72103bc.png",MegaCine HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/xW4oN/70b72103bc.png",MegaCine HD
 http://user.tvcluboficial.com/stream/nov/nov/517.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/mlb.png",MLB Network
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/mlb.png",MLB Network
 http://user.tvcluboficial.com/stream/nov/nov/293.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/moviemax.png",Movie Max
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/moviemax.png",Movie Max
 http://user.tvcluboficial.com/stream/nov/nov/678.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/movistar_comedia.png",Movistar Comedia
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/movistar_comedia.png",Movistar Comedia
 http://user.tvcluboficial.com/stream/nov/nov/370.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/movistar_deportes.png",Movistar Deportes
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/movistar_deportes.png",Movistar Deportes
 http://user.tvcluboficial.com/stream/nov/nov/366.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/movistar_deportes2.png",Movistar Deportes 2
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/movistar_deportes2.png",Movistar Deportes 2
 http://user.tvcluboficial.com/stream/nov/nov/367.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/movistar_xtra.png",Movistar Xtra
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/movistar_xtra.png",Movistar Xtra
 http://user.tvcluboficial.com/stream/nov/nov/372.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/mrbean.png",Mr. Bean 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/mrbean.png",Mr. Bean 24/7
 http://user.tvcluboficial.com/stream/nov/nov/431.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/mtv.png",MTV
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/mtv.png",MTV
 http://user.tvcluboficial.com/stream/nov/nov/69.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/mtv.png",MTV (ES)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/mtv.png",MTV (ES)
 http://user.tvcluboficial.com/stream/nov/nov/803.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/mtv.png",MTV HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/mtv.png",MTV HD
 http://user.tvcluboficial.com/stream/nov/nov/828.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/mtvlive.png",MTV Live
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/mtvlive.png",MTV Live
 http://user.tvcluboficial.com/stream/nov/nov/70.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/mtv.png",MTV Sur
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/mtv.png",MTV Sur
 http://user.tvcluboficial.com/stream/nov/nov/823.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/multimedios.png",Multimedios
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/multimedios.png",Multimedios
 http://user.tvcluboficial.com/stream/nov/nov/155.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/multipremier.png",MultiPremier
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/multipremier.png",MultiPremier
 http://user.tvcluboficial.com/stream/nov/nov/294.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/musicnow.png",Music Now
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/musicnow.png",Music Now
 http://user.tvcluboficial.com/stream/nov/nov/690.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/musictop.png",MusicTop
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/musictop.png",MusicTop
 http://user.tvcluboficial.com/stream/nov/nov/691.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/naruto.png",Naruto 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/naruto.png",Naruto 24/7
 http://user.tvcluboficial.com/stream/nov/nov/523.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/natgeo.png",Nat Geo
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/natgeo.png",Nat Geo
 http://user.tvcluboficial.com/stream/nov/nov/76.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/natgeo.png",Nat Geo HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/natgeo.png",Nat Geo HD
 http://user.tvcluboficial.com/stream/nov/nov/644.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/natgeokids.png",Nat Geo Kids
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/natgeokids.png",Nat Geo Kids
 http://user.tvcluboficial.com/stream/nov/nov/412.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/natgeowild.png",Nat Geo Wild
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/natgeowild.png",Nat Geo Wild
 http://user.tvcluboficial.com/stream/nov/nov/77.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/natgeowild.png",Nat Geo Wild HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/natgeowild.png",Nat Geo Wild HD
 http://user.tvcluboficial.com/stream/nov/nov/497.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/nba.png",NBA
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/nba.png",NBA
 http://user.tvcluboficial.com/stream/nov/nov/838.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/neox.png",Neox (ES)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/neox.png",Neox (ES)
 http://user.tvcluboficial.com/stream/nov/nov/353.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/nfl.png",NFL Network
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/nfl.png",NFL Network
 http://user.tvcluboficial.com/stream/nov/nov/204.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/nick.png",Nick
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/nick.png",Nick
 http://user.tvcluboficial.com/stream/nov/nov/78.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/nick2.png",Nick 2 HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/nick2.png",Nick 2 HD
 http://user.tvcluboficial.com/stream/nov/nov/646.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/nick.png",Nick HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/nick.png",Nick HD
 http://user.tvcluboficial.com/stream/nov/nov/645.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/nickjr.png",Nick JR
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/nickjr.png",Nick JR
 http://user.tvcluboficial.com/stream/nov/nov/79.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/nickjr.png",Nick JR HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/nickjr.png",Nick JR HD
 http://user.tvcluboficial.com/stream/nov/nov/829.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/nicktoons.png",Nick Toons
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/nicktoons.png",Nick Toons
 http://user.tvcluboficial.com/stream/nov/nov/80.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/nickelodeon.png",Nickelodeon
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/nickelodeon.png",Nickelodeon
 http://user.tvcluboficial.com/stream/nov/nov/184.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/nova.png",Nova (ES)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/nova.png",Nova (ES)
 http://user.tvcluboficial.com/stream/nov/nov/717.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/onepunchman.png",One Punch Man 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/onepunchman.png",One Punch Man 24/7
 http://user.tvcluboficial.com/stream/nov/nov/661.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/padredefamilia.png",Padre de Familia 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/padredefamilia.png",Padre de Familia 24/7
 http://user.tvcluboficial.com/stream/nov/nov/416.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/paramount.png",Paramount
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/paramount.png",Paramount
 http://user.tvcluboficial.com/stream/nov/nov/200.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/paramount.png",Paramount HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/paramount.png",Paramount HD
 http://user.tvcluboficial.com/stream/nov/nov/647.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/pasiones.png",Pasiones HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/pasiones.png",Pasiones HD
 http://user.tvcluboficial.com/stream/nov/nov/755.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/peppapig.png",Peppa Pig 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/peppapig.png",Peppa Pig 24/7
 http://user.tvcluboficial.com/stream/nov/nov/787.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/uZoIA/e0c858397b.png",PERU: BHTV
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/uZoIA/e0c858397b.png",PERU: BHTV
 http://user.tvcluboficial.com/stream/nov/nov/399.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/latinatv.png",PERU: Latina
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/latinatv.png",PERU: Latina
 http://user.tvcluboficial.com/stream/nov/nov/317.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/q7Qp1/dc37baeb47.png",PERU: TV Peru
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/q7Qp1/dc37baeb47.png",PERU: TV Peru
 http://user.tvcluboficial.com/stream/nov/nov/306.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/pinkyycerebro.png",Pinky y Cerebro 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/pinkyycerebro.png",Pinky y Cerebro 24/7
 http://user.tvcluboficial.com/stream/nov/nov/721.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/pokemon.png",Pokemon 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/pokemon.png",Pokemon 24/7
 http://user.tvcluboficial.com/stream/nov/nov/420.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 1
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 1
 http://user.tvcluboficial.com/stream/nov/nov/847.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 10
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 10
 http://user.tvcluboficial.com/stream/nov/nov/856.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 11
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 11
 http://user.tvcluboficial.com/stream/nov/nov/858.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 12
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 12
 http://user.tvcluboficial.com/stream/nov/nov/859.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 13
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 13
 http://user.tvcluboficial.com/stream/nov/nov/860.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 14
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 14
 http://user.tvcluboficial.com/stream/nov/nov/862.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 15
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 15
 http://user.tvcluboficial.com/stream/nov/nov/863.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 16
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 16
 http://user.tvcluboficial.com/stream/nov/nov/864.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 17
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 17
 http://user.tvcluboficial.com/stream/nov/nov/865.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 18
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 18
 http://user.tvcluboficial.com/stream/nov/nov/866.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 19
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 19
 http://user.tvcluboficial.com/stream/nov/nov/861.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 2
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 2
 http://user.tvcluboficial.com/stream/nov/nov/848.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 20
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 20
 http://user.tvcluboficial.com/stream/nov/nov/867.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 21 HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 21 HD
 http://user.tvcluboficial.com/stream/nov/nov/868.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 22 HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 22 HD
 http://user.tvcluboficial.com/stream/nov/nov/869.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 23 HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 23 HD
 http://user.tvcluboficial.com/stream/nov/nov/870.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 24 HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 24 HD
 http://user.tvcluboficial.com/stream/nov/nov/871.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 25 HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 25 HD
 http://user.tvcluboficial.com/stream/nov/nov/873.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 26 HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 26 HD
 http://user.tvcluboficial.com/stream/nov/nov/874.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 27 HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 27 HD
 http://user.tvcluboficial.com/stream/nov/nov/876.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 28 HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 28 HD
 http://user.tvcluboficial.com/stream/nov/nov/875.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 29 HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 29 HD
 http://user.tvcluboficial.com/stream/nov/nov/872.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 3
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 3
 http://user.tvcluboficial.com/stream/nov/nov/849.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 30 HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 30 HD
 http://user.tvcluboficial.com/stream/nov/nov/877.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 4
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 4
 http://user.tvcluboficial.com/stream/nov/nov/850.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 5
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 5
 http://user.tvcluboficial.com/stream/nov/nov/851.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 6
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 6
 http://user.tvcluboficial.com/stream/nov/nov/852.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 7
 http://user.tvcluboficial.com/stream/nov/nov/853.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 8
 http://user.tvcluboficial.com/stream/nov/nov/854.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 9
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ppv.png",PPV 9
 http://user.tvcluboficial.com/stream/nov/nov/855.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ranma.png",Ranma 1/2 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ranma.png",Ranma 1/2 24/7
 http://user.tvcluboficial.com/stream/nov/nov/419.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/rcn.png",RCN
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/rcn.png",RCN
 http://user.tvcluboficial.com/stream/nov/nov/390.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="N/A",RENOVACION: wa.link/vjhdlb
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="N/A",RENOVACION: wa.link/vjhdlb
 http://ts.tvcluboficial.com/tvclub.ts
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/retromusic.png",Retro Music
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/retromusic.png",Retro Music
 http://user.tvcluboficial.com/stream/nov/nov/692.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/ritmoson.png",Ritmoson Latino
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/ritmoson.png",Ritmoson Latino
 http://user.tvcluboficial.com/stream/nov/nov/154.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/rtp.png",RTP
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/rtp.png",RTP
 http://user.tvcluboficial.com/stream/nov/nov/781.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/sakura.png",Sakura Card Captor 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/sakura.png",Sakura Card Captor 24/7
 http://user.tvcluboficial.com/stream/nov/nov/672.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/samuraix.png",Samurai X 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/samuraix.png",Samurai X 24/7
 http://user.tvcluboficial.com/stream/nov/nov/663.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/scoobydoo.png",Scooby Doo 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/scoobydoo.png",Scooby Doo 24/7
 http://user.tvcluboficial.com/stream/nov/nov/422.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/showtime.png",Showtime
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/showtime.png",Showtime
 http://user.tvcluboficial.com/stream/nov/nov/679.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/smallville.png",Smallville 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/smallville.png",Smallville 24/7
 http://user.tvcluboficial.com/stream/nov/nov/673.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/sony.png",Sony
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/sony.png",Sony
 http://user.tvcluboficial.com/stream/nov/nov/145.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/sony.png",Sony HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/sony.png",Sony HD
 http://user.tvcluboficial.com/stream/nov/nov/498.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/southpark.png",South Park 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/southpark.png",South Park 24/7
 http://user.tvcluboficial.com/stream/nov/nov/674.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/space.png",Space
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/space.png",Space
 http://user.tvcluboficial.com/stream/nov/nov/83.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/space.png",Space HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/space.png",Space HD
 http://user.tvcluboficial.com/stream/nov/nov/499.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/space.png",Space Sur
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/space.png",Space Sur
 http://user.tvcluboficial.com/stream/nov/nov/751.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/spiderman.png",Spiderman 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/spiderman.png",Spiderman 24/7
 http://user.tvcluboficial.com/stream/nov/nov/889.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/star.png",Star
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/star.png",Star
 http://user.tvcluboficial.com/stream/nov/nov/45.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/star_action.png",Star Action
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/star_action.png",Star Action
 http://user.tvcluboficial.com/stream/nov/nov/46.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/star_action.png",Star Action HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/star_action.png",Star Action HD
 http://user.tvcluboficial.com/stream/nov/nov/490.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/star_cinema.png",Star Cinema
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/star_cinema.png",Star Cinema
 http://user.tvcluboficial.com/stream/nov/nov/47.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/star_classics.png",Star Classics
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/star_classics.png",Star Classics
 http://user.tvcluboficial.com/stream/nov/nov/48.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/star_fun.png",Star Fun
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/star_fun.png",Star Fun
 http://user.tvcluboficial.com/stream/nov/nov/49.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/star_fun.png",Star Fun HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/star_fun.png",Star Fun HD
 http://user.tvcluboficial.com/stream/nov/nov/840.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/star.png",Star HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/star.png",Star HD
 http://user.tvcluboficial.com/stream/nov/nov/489.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/star_hits.png",Star Hits
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/star_hits.png",Star Hits
 http://user.tvcluboficial.com/stream/nov/nov/51.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/star_hits.png",Star Hits HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/star_hits.png",Star Hits HD
 http://user.tvcluboficial.com/stream/nov/nov/491.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/star_hits.png",Star Hits Sur
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/star_hits.png",Star Hits Sur
 http://user.tvcluboficial.com/stream/nov/nov/747.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/star_life.png",Star Life
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/star_life.png",Star Life
 http://user.tvcluboficial.com/stream/nov/nov/50.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/star_life.png",Star Life HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/star_life.png",Star Life HD
 http://user.tvcluboficial.com/stream/nov/nov/652.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/star_series.png",Star Series
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/star_series.png",Star Series
 http://user.tvcluboficial.com/stream/nov/nov/303.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/star_series.png",Star Series HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/star_series.png",Star Series HD
 http://user.tvcluboficial.com/stream/nov/nov/492.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/star_series.png",Star Series Sur
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/star_series.png",Star Series Sur
 http://user.tvcluboficial.com/stream/nov/nov/745.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/EwAOs/b0ee95dc40.png",Starz Cinema
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/EwAOs/b0ee95dc40.png",Starz Cinema
 http://user.tvcluboficial.com/stream/nov/nov/680.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/EwAOI/7dbf4d1e5f.png",Starz Comedy
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/EwAOI/7dbf4d1e5f.png",Starz Comedy
 http://user.tvcluboficial.com/stream/nov/nov/681.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/EwAOP/7398e314d5.png",Starz Encore Action
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/EwAOP/7398e314d5.png",Starz Encore Action
 http://user.tvcluboficial.com/stream/nov/nov/682.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/EwAOU/f580ef861e.png",Starz Encore Black
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/EwAOU/f580ef861e.png",Starz Encore Black
 http://user.tvcluboficial.com/stream/nov/nov/683.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/EwAP2/4233777062.png",Starz Encore Family
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/EwAP2/4233777062.png",Starz Encore Family
 http://user.tvcluboficial.com/stream/nov/nov/684.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/EwAP9/b240d5379e.png",Starz HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/EwAP9/b240d5379e.png",Starz HD
 http://user.tvcluboficial.com/stream/nov/nov/685.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/mbGkk/b6e3cc25e6.png",Studio Universal
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/mbGkk/b6e3cc25e6.png",Studio Universal
 http://user.tvcluboficial.com/stream/nov/nov/84.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/mbGkk/b6e3cc25e6.png",Studio Universal HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/mbGkk/b6e3cc25e6.png",Studio Universal HD
 http://user.tvcluboficial.com/stream/nov/nov/830.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/xh3k9/28828ab2ca.png",Super Campeones 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/xh3k9/28828ab2ca.png",Super Campeones 24/7
 http://user.tvcluboficial.com/stream/nov/nov/432.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/mwqrg/e525edd989.png",SyFy
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/mwqrg/e525edd989.png",SyFy
 http://user.tvcluboficial.com/stream/nov/nov/151.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/mwqrg/e525edd989.png",SyFy HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/mwqrg/e525edd989.png",SyFy HD
 http://user.tvcluboficial.com/stream/nov/nov/648.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/mwqrg/e525edd989.png",SyFy Sur
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/mwqrg/e525edd989.png",SyFy Sur
 http://user.tvcluboficial.com/stream/nov/nov/758.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/vKOP3/c19fcde9b2.png",TBS Very Funny
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/vKOP3/c19fcde9b2.png",TBS Very Funny
 http://user.tvcluboficial.com/stream/nov/nov/171.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/vKOP3/c19fcde9b2.png",TBS Very Funny HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/vKOP3/c19fcde9b2.png",TBS Very Funny HD
 http://user.tvcluboficial.com/stream/nov/nov/831.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/tc.png",TC Ecuador
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/tc.png",TC Ecuador
 http://user.tvcluboficial.com/stream/nov/nov/885.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/mP1b6/411b64dc27.png",TCM
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/mP1b6/411b64dc27.png",TCM
 http://user.tvcluboficial.com/stream/nov/nov/85.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/teennick.png",TeenNick
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/teennick.png",TeenNick
 http://user.tvcluboficial.com/stream/nov/nov/882.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/EY94W/46139ab2d3.png",Tele
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/EY94W/46139ab2d3.png",Tele
 http://user.tvcluboficial.com/stream/nov/nov/778.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/EY95g/c6ff625f3f.png",TeleAmazonas
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/EY95g/c6ff625f3f.png",TeleAmazonas
 http://user.tvcluboficial.com/stream/nov/nov/320.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/EY9dd/906ebbe3d3.png",Telefe
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/EY9dd/906ebbe3d3.png",Telefe
 http://user.tvcluboficial.com/stream/nov/nov/771.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/x0PI6/05b7191ea6.png",Telehit
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/x0PI6/05b7191ea6.png",Telehit
 http://user.tvcluboficial.com/stream/nov/nov/91.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/x0PI6/05b7191ea6.png",Telehit HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/x0PI6/05b7191ea6.png",Telehit HD
 http://user.tvcluboficial.com/stream/nov/nov/649.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/mbLe8/21bf87649b.png",Telemundo
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/mbLe8/21bf87649b.png",Telemundo
 http://user.tvcluboficial.com/stream/nov/nov/92.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/mbLe8/21bf87649b.png",Telemundo HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/mbLe8/21bf87649b.png",Telemundo HD
 http://user.tvcluboficial.com/stream/nov/nov/660.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/EY962/e132b50e94.png",Televicentro
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/EY962/e132b50e94.png",Televicentro
 http://user.tvcluboficial.com/stream/nov/nov/776.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/thebig.png",The Big Bang Theory 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/thebig.png",The Big Bang Theory 24/7
 http://user.tvcluboficial.com/stream/nov/nov/676.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="N/A",The Walking Dead 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="N/A",The Walking Dead 24/7
 http://user.tvcluboficial.com/stream/nov/nov/800.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/tigosports.png",TigoSports Bolivia
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/tigosports.png",TigoSports Bolivia
 http://user.tvcluboficial.com/stream/nov/nov/764.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/tigosports.png",TigoSports Paraguay
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/tigosports.png",TigoSports Paraguay
 http://user.tvcluboficial.com/stream/nov/nov/843.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/mw5bY/e2bab1e46e.png",Tiin
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/mw5bY/e2bab1e46e.png",Tiin
 http://user.tvcluboficial.com/stream/nov/nov/93.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/mbLF3/ceac7e3575.png",TLC
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/mbLF3/ceac7e3575.png",TLC
 http://user.tvcluboficial.com/stream/nov/nov/87.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/mbLfh/5d97ba6f89.png",Tlnovelas
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/mbLfh/5d97ba6f89.png",Tlnovelas
 http://user.tvcluboficial.com/stream/nov/nov/94.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/mbLfh/5d97ba6f89.png",Tlnovelas HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/mbLfh/5d97ba6f89.png",Tlnovelas HD
 http://user.tvcluboficial.com/stream/nov/nov/832.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/vKP8k/b5666df9d4.png",TNT
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/vKP8k/b5666df9d4.png",TNT
 http://user.tvcluboficial.com/stream/nov/nov/179.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/vKP8k/b5666df9d4.png",TNT (ES)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/vKP8k/b5666df9d4.png",TNT (ES)
 http://user.tvcluboficial.com/stream/nov/nov/716.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/vKP8k/b5666df9d4.png",TNT HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/vKP8k/b5666df9d4.png",TNT HD
 http://user.tvcluboficial.com/stream/nov/nov/500.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/vKOIx/06a80881a6.png",TNT Series
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/vKOIx/06a80881a6.png",TNT Series
 http://user.tvcluboficial.com/stream/nov/nov/90.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/vKOIx/06a80881a6.png",TNT Series HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/vKOIx/06a80881a6.png",TNT Series HD
 http://user.tvcluboficial.com/stream/nov/nov/650.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/vKOIx/06a80881a6.png",TNT Series Sur
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/vKOIx/06a80881a6.png",TNT Series Sur
 http://user.tvcluboficial.com/stream/nov/nov/757.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/xTpGp/5bc4e5d1d6.png",TNT Sports
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/xTpGp/5bc4e5d1d6.png",TNT Sports
 http://user.tvcluboficial.com/stream/nov/nov/509.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/vKP8k/b5666df9d4.png",TNT Sur
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/vKP8k/b5666df9d4.png",TNT Sur
 http://user.tvcluboficial.com/stream/nov/nov/752.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/xa5uD/7e7e1ebc1a.png",Tom y Jerry 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/xa5uD/7e7e1ebc1a.png",Tom y Jerry 24/7
 http://user.tvcluboficial.com/stream/nov/nov/421.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/mw5oi/09350aa9a0.png",Tooncast
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/mw5oi/09350aa9a0.png",Tooncast
 http://user.tvcluboficial.com/stream/nov/nov/95.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/EY96v/2b8f969b7f.png",Trece
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/EY96v/2b8f969b7f.png",Trece
 http://user.tvcluboficial.com/stream/nov/nov/774.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/AmRnV/52d48a6ab1.png",TrollHunters 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/AmRnV/52d48a6ab1.png",TrollHunters 24/7
 http://user.tvcluboficial.com/stream/nov/nov/662.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/mw5r2/486241bb2e.png",TruTV
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/mw5r2/486241bb2e.png",TruTV
 http://user.tvcluboficial.com/stream/nov/nov/96.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/mw5r2/486241bb2e.png",TruTv HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/mw5r2/486241bb2e.png",TruTv HD
 http://user.tvcluboficial.com/stream/nov/nov/501.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/xW4jT/602dda8d99.png",Tu Musica HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/xW4jT/602dda8d99.png",Tu Musica HD
 http://user.tvcluboficial.com/stream/nov/nov/516.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/tudn.png",TUDN
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/tudn.png",TUDN
 http://user.tvcluboficial.com/stream/nov/nov/698.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/tudn.png",TUDN (Pocos Datos)
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/tudn.png",TUDN (Pocos Datos)
 http://user.tvcluboficial.com/stream/nov/nov/822.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/tudn.png",TUDN HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/tudn.png",TUDN HD
 http://user.tvcluboficial.com/stream/nov/nov/801.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/tudn.png",TUDN USA
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/tudn.png",TUDN USA
 http://user.tvcluboficial.com/stream/nov/nov/86.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="http://x.playerlatino.live/tudn.png",TUDN USA HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="http://x.playerlatino.live/tudn.png",TUDN USA HD
 http://user.tvcluboficial.com/stream/nov/nov/821.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/GbgrR/01719acb33.png",TVC Deportes
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/GbgrR/01719acb33.png",TVC Deportes
 http://user.tvcluboficial.com/stream/nov/nov/837.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/mVTf6/f3116d0280.png",TVE
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/mVTf6/f3116d0280.png",TVE
 http://user.tvcluboficial.com/stream/nov/nov/195.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/DBB4M/a9b33fc245.png",Two And a Half Men 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/DBB4M/a9b33fc245.png",Two And a Half Men 24/7
 http://user.tvcluboficial.com/stream/nov/nov/675.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/nTbIR/127d8b5919.png",Tyc Sports
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/nTbIR/127d8b5919.png",Tyc Sports
 http://user.tvcluboficial.com/stream/nov/nov/274.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/mbLoc/e5d45c354b.png",UFC Network
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/mbLoc/e5d45c354b.png",UFC Network
 http://user.tvcluboficial.com/stream/nov/nov/97.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/mbLzy/cd6ff326e5.png",Unicable
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/mbLzy/cd6ff326e5.png",Unicable
 http://user.tvcluboficial.com/stream/nov/nov/98.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/mbLzy/cd6ff326e5.png",Unicable HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/mbLzy/cd6ff326e5.png",Unicable HD
 http://user.tvcluboficial.com/stream/nov/nov/653.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/monkP/4502e76205.png",Universal
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/monkP/4502e76205.png",Universal
 http://user.tvcluboficial.com/stream/nov/nov/137.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/monkP/4502e76205.png",Universal HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/monkP/4502e76205.png",Universal HD
 http://user.tvcluboficial.com/stream/nov/nov/502.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/mbLcu/7ea24f7b73.png",Univision
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/mbLcu/7ea24f7b73.png",Univision
 http://user.tvcluboficial.com/stream/nov/nov/99.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/tdSaI/025a963e05.png",Univisión Deportes
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/tdSaI/025a963e05.png",Univisión Deportes
 http://user.tvcluboficial.com/stream/nov/nov/373.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/mbLw0/cf67511fa3.png",Univisión TDN
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/mbLw0/cf67511fa3.png",Univisión TDN
 http://user.tvcluboficial.com/stream/nov/nov/100.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/x0NXX/d54f427175.png",Univision Tlnovelas
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/x0NXX/d54f427175.png",Univision Tlnovelas
 http://user.tvcluboficial.com/stream/nov/nov/413.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/EY93o/ab9b9520cd.png",Uno
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/EY93o/ab9b9520cd.png",Uno
 http://user.tvcluboficial.com/stream/nov/nov/775.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/maO5i/8473676ac5.png",VH1
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/maO5i/8473676ac5.png",VH1
 http://user.tvcluboficial.com/stream/nov/nov/101.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/maO5i/8473676ac5.png",VH1 HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/maO5i/8473676ac5.png",VH1 HD
 http://user.tvcluboficial.com/stream/nov/nov/632.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/sY4jC/1a83dde158.png",Video Rola
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/sY4jC/1a83dde158.png",Video Rola
 http://user.tvcluboficial.com/stream/nov/nov/359.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/ECF9y/65c1dbd7ef.png",VTV Uruaguay
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/ECF9y/65c1dbd7ef.png",VTV Uruaguay
 http://user.tvcluboficial.com/stream/nov/nov/708.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/tsJCH/d6e69b6e9b.png",Wapa PR
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/tsJCH/d6e69b6e9b.png",Wapa PR
 http://user.tvcluboficial.com/stream/nov/nov/327.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/mwdML/61aec19cb5.png",Warner Channel
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/mwdML/61aec19cb5.png",Warner Channel
 http://user.tvcluboficial.com/stream/nov/nov/102.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/mwdML/61aec19cb5.png",Warner Channel HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/mwdML/61aec19cb5.png",Warner Channel HD
 http://user.tvcluboficial.com/stream/nov/nov/503.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/mwdML/61aec19cb5.png",Warner Channel Sur
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/mwdML/61aec19cb5.png",Warner Channel Sur
 http://user.tvcluboficial.com/stream/nov/nov/759.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/pdlrC/a1d2e6ddd5.png",Win Sports
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/pdlrC/a1d2e6ddd5.png",Win Sports
 http://user.tvcluboficial.com/stream/nov/nov/292.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/pdlrC/a1d2e6ddd5.png",Win Sports +
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/pdlrC/a1d2e6ddd5.png",Win Sports +
 http://user.tvcluboficial.com/stream/nov/nov/881.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/pdlrC/a1d2e6ddd5.png",Win Sports + HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/pdlrC/a1d2e6ddd5.png",Win Sports + HD
 http://user.tvcluboficial.com/stream/nov/nov/802.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/pdlrC/a1d2e6ddd5.png",Win Sports HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/pdlrC/a1d2e6ddd5.png",Win Sports HD
 http://user.tvcluboficial.com/stream/nov/nov/754.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/p9MDp/5a6d5fec70.png",WWE Network
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/p9MDp/5a6d5fec70.png",WWE Network
 http://user.tvcluboficial.com/stream/nov/nov/276.m3u8
-#EXTINF:-1  group-title="Solo hasta: (10/12/2021) (Premium)" tvg-logo="https://puu.sh/AmRxo/43101222df.png",Yu-Gi-Oh! 24/7
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Con logo" tvg-logo="https://puu.sh/AmRxo/43101222df.png",Yu-Gi-Oh! 24/7
 http://user.tvcluboficial.com/stream/nov/nov/664.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/835.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/836.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/817.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/816.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/810.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/815.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/777.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/768.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/806.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/657.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/656.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/526.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/515.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/510.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/508.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/507.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/506.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/505.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/504.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/482.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/477.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/478.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/473.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/472.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/471.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/470.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/469.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/468.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/466.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/467.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/465.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/464.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/460.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/459.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/458.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/457.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/456.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/455.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/454.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/453.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/443.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/397.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/395.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/414.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/446.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/407.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/404.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/394.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/440.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/441.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/442.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/396.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/449.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/389.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/377.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/368.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/362.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/360.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/311.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/310.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/309.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/308.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/291.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/286.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/301.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/191.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/190.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/185.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/188.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/181.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/175.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/174.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/167.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/156.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/147.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/141.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/124.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/122.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/116.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/110.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/109.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/88.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/75.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/73.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/74.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/65.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/60.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/59.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/55.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/36.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/19.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/12.m3u8
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="Sin logo" tvg-logo="N/A",N/A
+http://user.tvcluboficial.com/stream/nov/nov/2.m3u8
