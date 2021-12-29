@@ -4,26 +4,24 @@ https://raw.githubusercontent.com/pertenet/listasSSIPTV/main/deporte.m3u
 #EXTINF:-1  tvg-logo="https://th.bing.com/th/id/R.af45f8fdb9cbd4bb921240d043fe317e?rik=l0pTXEa1IcICiA&riu=http%3a%2f%2fclwe.org%2fwp-content%2fuploads%2f2015%2f09%2ftop_latino_leaders_logo_large.png&ehk=%2fym7XpXEAx7x1kWokSibOgLyhSi0ggqJCf%2fca2ZTrzI%3d&risl=&pid=ImgRaw&r=0",Latino
 https://tunota.site/latino.m3u
 #EXTINF:-1  tvg-logo="https://th.bing.com/th/id/R.af45f8fdb9cbd4bb921240d043fe317e?rik=l0pTXEa1IcICiA&riu=http%3a%2f%2fclwe.org%2fwp-content%2fuploads%2f2015%2f09%2ftop_latino_leaders_logo_large.png&ehk=%2fym7XpXEAx7x1kWokSibOgLyhSi0ggqJCf%2fca2ZTrzI%3d&risl=&pid=ImgRaw&r=0",Latino
-http://tecnotv.club/dic22/fta2.m3u
+http://tecnotv.club/dc27/latinos.m3u
 #EXTINF:-1  tvg-logo="https://th.bing.com/th/id/R.af45f8fdb9cbd4bb921240d043fe317e?rik=l0pTXEa1IcICiA&riu=http%3a%2f%2fclwe.org%2fwp-content%2fuploads%2f2015%2f09%2ftop_latino_leaders_logo_large.png&ehk=%2fym7XpXEAx7x1kWokSibOgLyhSi0ggqJCf%2fca2ZTrzI%3d&risl=&pid=ImgRaw&r=0",Latino
-http://tecnotv.club/dic22/fta.m3u
+http://tecnotv.club/dc27/fta2.m3u
 #EXTINF:-1  tvg-logo="https://th.bing.com/th/id/R.af45f8fdb9cbd4bb921240d043fe317e?rik=l0pTXEa1IcICiA&riu=http%3a%2f%2fclwe.org%2fwp-content%2fuploads%2f2015%2f09%2ftop_latino_leaders_logo_large.png&ehk=%2fym7XpXEAx7x1kWokSibOgLyhSi0ggqJCf%2fca2ZTrzI%3d&risl=&pid=ImgRaw&r=0",Latino
-https://raw.githubusercontent.com/LeoLaRata35/IPTVPY/main/PY1.m3u
-#EXTINF:-1  tvg-logo="https://th.bing.com/th/id/R.af45f8fdb9cbd4bb921240d043fe317e?rik=l0pTXEa1IcICiA&riu=http%3a%2f%2fclwe.org%2fwp-content%2fuploads%2f2015%2f09%2ftop_latino_leaders_logo_large.png&ehk=%2fym7XpXEAx7x1kWokSibOgLyhSi0ggqJCf%2fca2ZTrzI%3d&risl=&pid=ImgRaw&r=0",Latino
-http://tecnotv.club/dic22/latinos.m3u
+http://tecnotv.club/dc27/fta.m3u
 #EXTINF:-1  tvg-logo="https://periodistas-es.com/wp-content/uploads/2013/04/es-logos-tv.jpg",Listas de España
 https://iptv-org.github.io/iptv/countries/es.m3u
+#EXTINF:-1  tvg-logo="https://mrzutv.net/wp-content/uploads/2021/12/cropped-zutv512.png",Master
+https://mrzutv.net/27dcimbre.m3u
 #EXTINF:-1  tvg-logo="https://www.recordere.dk/2011/08/articlefiles/5462-world-tv-logo.gif",Mundo
 http://raw.githubusercontent.com/mortal251/ssiptvarg/main/listagratuita.m3u
 #EXTINF:-1  tvg-logo="https://th.bing.com/th/id/R.82af310367cb91f8af8e18b9cf850ac0?rik=fglzGuzq2lelJA&riu=http%3a%2f%2fwww.ranklogos.com%2fwp-content%2fuploads%2f2012%2f04%2fthe-movies-logo-1.gif&ehk=dM1wWDSCWOncY765CBJ80e7yBmHFlsxxpqsRGMBBBP8%3d&risl=&pid=ImgRaw&r=0",Peliculas
-http://tecnotv.club/dic22/peliculas.m3u
+http://tecnotv.club/dc27/peliculas.m3u
 #EXTINF:-1  tvg-logo="https://th.bing.com/th/id/R.2a8b3dfabfafe16666acd83c22c8a791?rik=hQBpcpIxwP9%2f5A&riu=http%3a%2f%2fwww.zheta.net%2fuser105%2ftdtroses%2ftdt.jpg&ehk=Jt9yLzGKv5rZa2vEo5tFGscMCpbQMqEpjcvU35qMYuY%3d&risl=&pid=ImgRaw&r=0",TDT España
-http://tecnotv.club/dic22/tdt.m3u
-#EXTINF:-1  tvg-logo="https://mrzutv.net/wp-content/uploads/2021/12/cropped-zutv512.png",Master
-https://mrzutv.net/mzrutvmx1.m3u
+http://tecnotv.club/dc27/tdt.m3u
 #EXTINF:-1  tvg-logo="https://th.bing.com/th/id/R.5e5af511f2bf097b3ed6947f82b6faa2?rik=S9Fp%2fwIHo7EKiw&riu=http%3a%2f%2fstatic2.wikia.nocookie.net%2f__cb20121008132760%2flogopedia%2fimages%2f5%2f5a%2fTV1000_Premium_2012.png&ehk=%2bmvFZJSKePeNOr0eh3qI4LBy0pwp%2fSRWrsQUrVasssE%3d&risl=&pid=ImgRaw&r=0",TV Premiun
-http://tecnotv.club/22dc/lista1.m3u
+http://tecnotv.club/dc27/lista2.m3u
 #EXTINF:-1  tvg-logo="https://th.bing.com/th/id/R.5e5af511f2bf097b3ed6947f82b6faa2?rik=S9Fp%2fwIHo7EKiw&riu=http%3a%2f%2fstatic2.wikia.nocookie.net%2f__cb20121008132760%2flogopedia%2fimages%2f5%2f5a%2fTV1000_Premium_2012.png&ehk=%2bmvFZJSKePeNOr0eh3qI4LBy0pwp%2fSRWrsQUrVasssE%3d&risl=&pid=ImgRaw&r=0",TV Premiun
-http://tecnotv.club/dic22/lista2.m3u
+http://tecnotv.club/dc27/lista1.m3u
 #EXTINF:-1  tvg-logo="https://th.bing.com/th/id/OIP.Er0hDGlClm0ULCa2L8b6lwHaFA?pid=ImgDet&rs=1",TV Varios
 http://tecnomasterapp.myartsonline.com/Plutotv.m3u
