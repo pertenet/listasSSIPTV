@@ -1,30 +1,10 @@
 #EXTM3U
-#EXTINF:-1 ,|FR| 6ter
-http://dontuse.fluxz.cc:80/90144908506629/160417160718/48608
-#EXTINF:-1 ,|FR| 6ter
-http://dontuse.fluxz.cc:80/90144908506629/160417160718/54795
-#EXTINF:-1 ,|FR| ACTION
-http://dontuse.fluxz.cc:80/90144908506629/160417160718/77022
-#EXTINF:-1 ,|FR| ID
-http://dontuse.fluxz.cc:80/90144908506629/160417160718/54921
-#EXTINF:-1 ,|FR| la chaine L'EQUIPE
-http://dontuse.fluxz.cc:80/90144908506629/160417160718/54822
-#EXTINF:-1 ,|FR| Movies
-http://dontuse.fluxz.cc:80/90144908506629/160417160718/54789
-#EXTINF:-1 ,|FR|SD| OCS MAX HD
-http://dontuse.fluxz.cc:80/90144908506629/160417160718/54840
-#EXTINF:-1 ,American bluff  (2013)
-http://dontuse.fluxz.cc:80/movie/90144908506629/160417160718/76156.mkv
 #EXTINF:-1 ,Bel RTL
 https://ch.iptvmate.net/1773cb16ffd10eb6d9287dbbd68b1a57.m3u8
 #EXTINF:-1 ,BipTV
 https://ch.iptvmate.net/330323de704a343c2e966380b5339afb.m3u8
 #EXTINF:-1 ,BX1
 https://ch.iptvmate.net/c4ad1391cbe0d77f17c24f66317be206.m3u8
-#EXTINF:-1 ,CANAL+ DECALE
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBMEmN6JhvpF3pfLaO__NoM/ts
-#EXTINF:-1 ,CANAL+ SERIES
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbG6r3vVUQis0nEFHav8dQEs/ts
 #EXTINF:-1 ,Chaine Nord-Africaine
 https://ch.iptvmate.net/584bf3c94243bcb63dff36cc6486a65b.m3u8
 #EXTINF:-1 ,Fashion TV Midnite Secrets
@@ -33,10 +13,6 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mid
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
 #EXTINF:-1 ,Fashion TV Midnite Secrets
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 ,Fashion TV Midnite Secrets
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 ,Fashion TV Midnite Secrets
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1 ,Fashion TV Paris
 https://ch.iptvmate.net/7240f69fe2baaeffb2ebb5e1c54322bc.m3u8
 #EXTINF:-1 ,Fashion TV Paris
@@ -45,28 +21,18 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 ,Fashion TV Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b680000_t64MzYwcA==.m3u8
-#EXTINF:-1 ,Fashion TV Paris
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 ,Fashion TV Paris
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
 #EXTINF:-1 ,Fashion TV PG13
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
 #EXTINF:-1 ,Fashion TV PG13
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 ,Fashion TV PG13
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
 #EXTINF:-1 ,Fashion TV PG16
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
 #EXTINF:-1 ,Fashion TV PG16
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 ,FRANCE 2
-http://dontuse.fluxz.cc:80/90144908506629/160417160718/77071
 #EXTINF:-1 ,France 24  | FR
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,France 24 French
 https://ch.iptvmate.net/3b66f9b1f0a009c2e5fa074dd98456d9.m3u8
-#EXTINF:-1 ,France info
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOM3pwIZlMxyUr24uaxSkps98O2BDlNJkqMyS6qtB0kn/ts
 #EXTINF:-1 ,Francophonie
 https://ch.iptvmate.net/369a37c6e8c035e0970b33d8c4062a98.m3u8
 #EXTINF:-1 ,Grand Lille TV
@@ -79,10 +45,6 @@ https://ch.iptvmate.net/743f638a0683e69342fb12d76ee2c4d4.m3u8
 https://ch.iptvmate.net/0971153848addc27a50945406cc8c1e7.m3u8
 #EXTINF:-1 ,La Chaine Normande TV
 https://ch.iptvmate.net/1fc73036eec3ee2b7257e37a8db7c26a.m3u8
-#EXTINF:-1 ,LN24
-https://ch.iptvmate.net/522fadfb5d2e1d810fc5b43324230942.m3u8
-#EXTINF:-1 ,M6
-http://dontuse.fluxz.cc:80/90144908506629/160417160718/77064
 #EXTINF:-1 ,Nago TV
 https://ch.iptvmate.net/12e1d34d6ea481619b3ecd53ab79d639.m3u8
 #EXTINF:-1 ,Nago TV
@@ -93,10 +55,6 @@ https://ch.iptvmate.net/d0276a51c0a6ef8568566db5d7c8b983.m3u8
 https://ch.iptvmate.net/78b577769eae03ab4d699a8a4e313608.m3u8
 #EXTINF:-1 ,Radio Contact
 https://ch.iptvmate.net/62b11f226d81ad2ba82357e4749d9ee5.m3u8
-#EXTINF:-1 ,Radio Contact Vision
-https://ch.iptvmate.net/3509b5aced31a0e9720e36f5ac2660b4.m3u8
-#EXTINF:-1 ,RMC
-https://ch.iptvmate.net/ce649f4641f5841e71a4517d43096fa0.m3u8
 #EXTINF:-1 ,RTL-TVi
 https://ch.iptvmate.net/9ef6e845c0a244767df7402cda1cb45b.m3u8
 #EXTINF:-1 ,Tele Louange
@@ -117,7 +75,5 @@ https://ch.iptvmate.net/7fd37f3734ac6494d3027522d77e9e58.m3u8
 https://ch.iptvmate.net/480ba76aba3d7745b0f075ad816d19ce.m3u8
 #EXTINF:-1 ,TV7 Colmar
 https://ch.iptvmate.net/3a85cabb825c40317ecf9c9daaf7aef0.m3u8
-#EXTINF:-1 ,Ushuaia TV
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKl8P9TUIil7bQONayfQLuw/ts
 #EXTINF:-1 ,Vision 4
 https://ch.iptvmate.net/2d529e9c7fd2e6321017b34beb1f75d7.m3u8

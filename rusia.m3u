@@ -1,55 +1,47 @@
 #EXTM3U
-#EXTINF:-1  group-title="Rusia",ТНТ 4
-http://178.163.102.33:4022/udp/234.0.0.181:2000
-#EXTINF:-1  group-title="Rusia",Карусель
-http://178.163.102.33:4022/udp/234.0.0.203:2000
-#EXTINF:-1  group-title="Rusia",Ugra TV
+#EXTINF:-1 group-title="Rusia",Ugra TV
 http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
-#EXTINF:-1  group-title="Rusia",Russia-24
+#EXTINF:-1 group-title="Rusia",Russia-24
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/playlist.m3u8
-#EXTINF:-1  group-title="Rusia",Russia-1 (Opt-1)
+#EXTINF:-1 group-title="Rusia",Russia-1 (Opt-1)
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
-#EXTINF:-1  group-title="Rusia",RBC (Opt-3)
+#EXTINF:-1 group-title="Rusia",RBC (Opt-3)
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-#EXTINF:-1  group-title="Rusia",RBC (Opt-1)
+#EXTINF:-1 group-title="Rusia",RBC (Opt-1)
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1  group-title="Rusia",Radost' Moja
+#EXTINF:-1 group-title="Rusia",Radost' Moja
 http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/index.m3u8
-#EXTINF:-1  group-title="Rusia",Prosveshhenie
+#EXTINF:-1 group-title="Rusia",Prosveshhenie
 http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/index.m3u8
-#EXTINF:-1  group-title="Rusia",Novyj Mir
+#EXTINF:-1 group-title="Rusia",Novyj Mir
 http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
-#EXTINF:-1  group-title="Rusia",Nastoyashcheye Vremya (Opt-3)
+#EXTINF:-1 group-title="Rusia",Nastoyashcheye Vremya (Opt-3)
 https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
-#EXTINF:-1  group-title="Rusia",Nastoyashcheye Vremya (Opt-2)
+#EXTINF:-1 group-title="Rusia",Nastoyashcheye Vremya (Opt-2)
 https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-p.m3u8
-#EXTINF:-1  group-title="Rusia",Nastoyashcheye Vremya
+#EXTINF:-1 group-title="Rusia",Nastoyashcheye Vremya
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
-#EXTINF:-1  group-title="Rusia",Mir HD
+#EXTINF:-1 group-title="Rusia",Mir HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1  group-title="Rusia",Mir (+4)
+#EXTINF:-1 group-title="Rusia",Mir (+4)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:-1  group-title="Rusia",Mir
+#EXTINF:-1 group-title="Rusia",Mir
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1  group-title="Rusia",Luxury HD
+#EXTINF:-1 group-title="Rusia",Luxury HD
 http://nano.teleservice.su:8080/hls/luxury.m3u8
-#EXTINF:-1  group-title="Rusia",Krik TV
+#EXTINF:-1 group-title="Rusia",Krik TV
 http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
-#EXTINF:-1  group-title="Rusia",Krasnaja Linija
+#EXTINF:-1 group-title="Rusia",Krasnaja Linija
 http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
-#EXTINF:-1  group-title="Rusia",Kalejdoskop TV (Opt-1)
+#EXTINF:-1 group-title="Rusia",Kalejdoskop TV (Opt-1)
 http://cdn-01.bonus-tv.ru:8080/Kaleidoskop_edge/index.m3u8
-#EXTINF:-1  group-title="Rusia",K1
+#EXTINF:-1 group-title="Rusia",K1
 http://109.68.40.67/life/k1.m3u8
-#EXTINF:-1  group-title="Rusia",Izvestia
+#EXTINF:-1 group-title="Rusia",Izvestia
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1  group-title="Rusia",First Music (Opt-2)
+#EXTINF:-1 group-title="Rusia",First Music (Opt-2)
 http://rtmp.one.by:1300/
-#EXTINF:-1  group-title="Rusia",First Music (Opt-1)
+#EXTINF:-1 group-title="Rusia",First Music (Opt-1)
 http://rtmp.one.by:2300/
-#EXTINF:-1  group-title="Rusia",Extreme Sports
-http://178.163.102.33:4022/udp/234.0.0.150:2000
-#EXTINF:-1  group-title="Rusia",CP Info
+#EXTINF:-1 group-title="Rusia",CP Info
 http://109.68.40.67/life/magnolia.m3u8
-#EXTINF:-1  group-title="Rusia",Bridge TV Русский Хит
-http://178.163.102.33:4022/udp/234.0.0.179:2000

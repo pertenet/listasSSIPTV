@@ -1,333 +1,87 @@
 #EXTM3U
-#EXTINF:-1  group-title="México" tvg-logo="N/A",UMTV  | MX
+#EXTINF:-1 group-title="México" tvg-logo="N/A",UMTV  | MX
 https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",TVP Obregon  | MX
+#EXTINF:-1 group-title="México" tvg-logo="N/A",TVP Obregon  | MX
 https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",TVP Los Mochis  | MX
+#EXTINF:-1 group-title="México" tvg-logo="N/A",TVP Los Mochis  | MX
 https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",TVP Culiacan  | MX
+#EXTINF:-1 group-title="México" tvg-logo="N/A",TVP Culiacan  | MX
 https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",TV4 Noticias  | MX
+#EXTINF:-1 group-title="México" tvg-logo="N/A",TV4 Noticias  | MX
 https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",TV4 Cultura  | MX
+#EXTINF:-1 group-title="México" tvg-logo="N/A",TV4 Cultura  | MX
 https://5ca3e84a76d30.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",TV Lobo  | MX
+#EXTINF:-1 group-title="México" tvg-logo="N/A",TV Lobo  | MX
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",TRC TV Campeche  | MX
+#EXTINF:-1 group-title="México" tvg-logo="N/A",TRC TV Campeche  | MX
 https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",Transmedia TV Morelia  | MX
+#EXTINF:-1 group-title="México" tvg-logo="N/A",Transmedia TV Morelia  | MX
 http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",Tlaxcala TV  | MX
+#EXTINF:-1 group-title="México" tvg-logo="N/A",Tlaxcala TV  | MX
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",Teleritmo  | MX
-https://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",Teleplay  | MX
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",Telemax Hermosillo  | MX
+#EXTINF:-1 group-title="México" tvg-logo="N/A",Telemax Hermosillo  | MX
 http://s5.mexside.net:1935/telemax/telemax/.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",SIZART Canal 24 Zacatecas  | MX
+#EXTINF:-1 group-title="México" tvg-logo="N/A",SIZART Canal 24 Zacatecas  | MX
 https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",RTQ Queretaro  | MX
+#EXTINF:-1 group-title="México" tvg-logo="N/A",RTQ Queretaro  | MX
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",RCG 3 Saltillo  | MX
+#EXTINF:-1 group-title="México" tvg-logo="N/A",RCG 3 Saltillo  | MX
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",MVM Noticias Oaxaca  | MX
+#EXTINF:-1 group-title="México" tvg-logo="N/A",RCG 2 Saltillo  | MX
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="México" tvg-logo="N/A",MVM Noticias Oaxaca  | MX
 http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",Multimedios Monterrey  | MX
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",Multimedios Laguna  | MX
-https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",Multimedios Guadalajara  | MX
-https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",Multimedios CDMX  | MX
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",Mexiquense TV  | MX
+#EXTINF:-1 group-title="México" tvg-logo="N/A",Mexiquense TV  | MX
 https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",Jalisco TV  | MX
+#EXTINF:-1 group-title="México" tvg-logo="N/A",Jalisco TV  | MX
 https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",Central FM  | MX
+#EXTINF:-1 group-title="México" tvg-logo="N/A",Central FM  | MX
 https://5fe2654d6127d.streamlock.net:443/centralfm/smil:centralfm.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",Canal Once Mexico  | MX
-https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",Canal 7 SLP  | MX
+#EXTINF:-1 group-title="México" tvg-logo="N/A",Canal 7 SLP  | MX
 https://mvtvstream.com:444/live/603d046595b62/index.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",Canal 4 Saltillo  | MX
+#EXTINF:-1 group-title="México" tvg-logo="N/A",Canal 4 Saltillo  | MX
 https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",Canal 12.1 Colima  | MX
+#EXTINF:-1 group-title="México" tvg-logo="N/A",Canal 12.1 Colima  | MX
 https://5ca9af4645e15.streamlock.net:443/canal11/videocanal11/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",Canal 10 Chiapas  | MX
+#EXTINF:-1 group-title="México" tvg-logo="N/A",Canal 10 Chiapas  | MX
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",Canal 10 Cancun  | MX
+#EXTINF:-1 group-title="México" tvg-logo="N/A",Canal 10 Cancun  | MX
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",ADN 40  | MX
+#EXTINF:-1 group-title="México" tvg-logo="N/A",ADN 40  | MX
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",8 NTV  | MX
+#EXTINF:-1 group-title="México" tvg-logo="N/A",8 NTV  | MX
 https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",15TV Sabinas  | MX
+#EXTINF:-1 group-title="México" tvg-logo="N/A",15TV Sabinas  | MX
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",Conecta TV * | MX
+#EXTINF:-1 group-title="México" tvg-logo="N/A",Conecta TV * | MX
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",Presumiendo Mexico  | MX
+#EXTINF:-1 group-title="México" tvg-logo="N/A",Presumiendo Mexico  | MX
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",TV4 Deportes  | MX
+#EXTINF:-1 group-title="México" tvg-logo="N/A",TV4 Deportes  | MX
 https://5ca3e84a76d30.streamlock.net/tv43/smil:tv43.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="México" tvg-logo="N/A",Restaurando Vidas TV  | CL
+#EXTINF:-1 group-title="México" tvg-logo="N/A",Restaurando Vidas TV  | CL
 http://v2.tustreaming.cl/restaurandovidastv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Wobi HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIlz63r26qCwHV0TZFxq5IWGLhwCkpLV8KorLmSBhU-z/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Warner HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLaw4XrKWTfC46Q9WxwWddHwLFRcWVB9VIcsJ_NF1fok/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: VH1 HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbM2I1089BUnlEcZUXXIa_iYEGCneB4vC3mhqXwCEuqFD/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: VH1 Classic
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbB6Y2ZHz2aqVbSqH4IbmGN3y9H-bgBgP-qzR7UoYmXpE/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: VH1
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAunOAIhLJsJOxKwW4DG3KyEVbPAyA9QV8fhZz588FNR/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: TVO HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJO_ZxKP4hYGUNXJVut2WILFKT4Y9SL1gsVRxed2y8JQ/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: TVE
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNFCrKKzEev594WE_rSpGYcEedx4IzWwhz4xw9H53quJ/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: TVC
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMcIX0hfyw_W2J4TA93PxG5D62XcgUHJA54rj2218HHL/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: TV Mas HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJMNai9HZK7IyCU7n31pdNgCe3ErYTdLe7Ai1KI-I1hh/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Tooncast
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJXLdxAkUOuBP891McsBPk_-b1YJZB8l8PTtNKVdOCrS/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: TLR
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMpVOBD7f7ALySvG65lrhFJeoBDIH9SdeEG6l-SdxjMG/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Telehit Plus HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPX8J_Q8dZULepnzvJ89WpX_WbZ0_yzbKabbSu81q_ji/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: TBS
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLB2cVQ2449ioou8rJ_eS-WnetfyekTFm49DXb7L_Ze6/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Sony Channel HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGnBcWmNMHtppGwx8cXCmWVxKD_KmZ7rfCNvbrVnbzC7/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: ONCE TV
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGOeDbS8rWDiF_c6DyqDTD8LFf4jXyL6160zg8JgUQ26/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: NU9VE TV
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKYtGsOPforS35WxRNo-z79Yu4tnscSAqh2JjyTdj3tt/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: NTN24
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHUd1ReT4AypTunp6n58fXYoZNA9QdxXmaytybLSL0cf/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Nicktoons
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIUyqfyQbBsb-33hABbD8XX2JMQEnSjIUMvDXx3lcRsP/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Nickelodeon SD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCVQQuE-64yY3YaJ3NM5GUVPfYbMAsBwLHBvK5YO6pP_/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Nickelodeon HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNjFMiTVM9LVlxyxglZ1llcCrTiJHItSR-TblZ33XUIJ/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Nick 2 HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOQNkF87En8PJZeBY7pxb27ba0pV6FGdLhfpUdTN65Yx/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: National Geographic
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEkeYLsjdUZF4Xo8jc03wXv2m4lyje3Ncl8ose69msVO/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Nat Geo Kids HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDunqiZ-QUYoTC_kMLbsg693yyGOOEnejWfbGFF0De00/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: NAT GEO
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPt1avfSCLWXjZk084hF0gWqDYgawfstVqEtt579nrmO/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Multimedios Plus HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGv9zdQV2ivvqT5mmIWKfZHCTjKg2hZwMYABwdx_S6kV/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: MTV Live HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDPNV3Ls5WehveegOioiayLgaw3tt7F_uOOBCAgab_DL/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: MORBIDO TV
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbD7qn8URAORRAib05HBjxQZKGfEWVx1LF2kPFZkwF1eO/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Milenio TV HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEdYzT_m3V2B-HaOeYfoCf6o7wFtrot21jNtcBXYmm2l/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Mas Chic HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOwUTUr85bVBLUSj2Dkxwe4Gzu9lLFW0qfzV4V0yOPFt/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Investigation Discovery SD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCCv3He2MR59g_ifPMY9lYKbsOL4sCOH0rmG5FSIptrV/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Investigation Discovery HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJb4c-p56dh_w0izy-jI1Tg6qyRe0fKLX7KnWwQPpZcO/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Hola TV HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCDRQeqIl9L_Ru9awABk-zNWnqzSq4ptjG6TJY2FcAvD/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: HLN HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEQiO7ev7w6v-XmlzLBQc_W0MsdyVLzBcflFYGUGVl-a/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Golden Edge
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbO-zyTGR0fL9AttlDN2qJB3dZFVlIU9l5tzpl3l5VIHQ/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Garage TV
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHgMhSbULYEc7VkJngaSq-gD1Gi4EbgrpHD0ti5yhc4W/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: FX HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEWAiA_WpvYJy_Q1dErSRH3Ft6KocHeOTLK4_1Szfph0/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Francia 24 HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKBE3qjb4t8J6dhQcB5nBGJVkFm2NyFP7U2qtbbUFshR/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Fox Sports 3 HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKKZTi1SAROeb1Jnca-WdCMmPyXL01fDEdUjUvDYB0K1/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Fox Sports 1
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMk3w8Cqo_WzMW-Qsi7jX1La_oPXcDh3NJljfeKPPfc8/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Fox Series HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJnGl4RfcQo3tdvdw4YmcfRHf4UPt9DuQwEgAq3aR6R2/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Fox News HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPkj_Qhy4w8ZZ99zAjJLzJAcP-hjbWxYAAI3FyVU1AIT/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Fox Life HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbO0_DFF9e1oyr2PDq8nRCsvChY4uZ5TNpxbCYpIf5h3U/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Fox Cinema
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbI4W3HuWC5FrLULwrCz55-LRJFEkL3G7p2PVXriPrTFQ/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Fox
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKotYHKXx4DLvjVMaHlPxI2HNbzjgKjBNyUvOa2ecIXE/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Foro TV HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPcMndM_f6xnG1MKJsmTcmmJXL5mQCU1GWPXo8KL6Q_T/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Formula Noticias
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFJbM79gWISuTc9ZJqsG66-LD4L9MqlDtPpxL5CydPIe/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Film & Arts
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbI2g8R_4rTsYMV-k22YmB5KEnciJCt_LfTTbSMBIH24M/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Excelsior TV HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAhAgCwV9DHGzKEUh4GWp8_F6pht3LxVUBOGa3L-vqPI/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Excelsior TV
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEW1qo9bcObR1gkYR3SejLYbNRTBApzJYhdcX1iMdho0/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: EUROSPORTS 1
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJrgep_P2L53gZj6SUYmS_LoLZd5ToKh8GvEdxiRiZMX/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Europa Europa
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOU8mXUjjeG2eyKkZ_zYqYS3cIljIgvB4f8Dusbi2tFo/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Distrito Comedia
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGkenODJ4puBEHzZcuFddA-cbcmP9VjkGNVJoZPorC6v/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Discovery Turbo HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCE2rrQsTrUwibavGLXoC8clgCqvmVo2Sxy6GGsyx1C_/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: DISCOVERY THEATER
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbK1igwx0ga7AYXRhPkkD00D49lN40t921WEKTp_BsKBT/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Discovery Science
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEX5gGH97MxAo8Eq2OrAQX1KFZXQHjDqM18CpVv2KyQW/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Discovery Civilization
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOEYc8liM-4_wgy58_6iSydxMOzmaD_soGhkiiXuU6wx/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Discovery Channel HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPfN_JEMzYSQg2SXvWFpWVlv1fNJcTwZ6xJ00iR5sGmc/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: De Pelicula Plus HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbB9tJShxRPzyvChDme5MkyVTFiojZpI-fADtlOCxeUZ_/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: De Pelicula
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbL2P9sPKBWMc3k8MCscOzuSUT45cOwb2Vq84pa_33odk/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: CNN International
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGMqNUj8OLlVV1N3THBn_gX8fucn7HyIND_JgZ7GU6lx/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: CNN en Espa
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAQrJFXnLRQq5tXnEo3abAZTgfQ5jpWdfcRX4gHFhUm9/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Canal 8 HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCDObWAFJCz3KIshOLt3hFOLcrCjNQr7i5_JSqNeFYB7/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Canal 4 HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFu6X86Jb83n57DcXe-cAo_vGAzdOCtXHzHTJip9XBG-/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Canal 2
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLtG-C_9lrZD_7Z7Uo9GE-SrLjp9213l30hNU904uBef/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Boomerang HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDRGd2WC_ptYkt68Ru69HlkoGqqVBimCRQ92Vjn-cIl8/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Bloomberg HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKdNAwmA6O1w3S80dIz-YpiM7-b_r5NOn1bFXd-06Np-/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: BBC World News
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAnjntILuzbVIW5blo4OiOcUc9F50wGKsmaRcJMo2aWq/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: BABY FIRST
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDd0tILsv8N45SHFbMK5qg-zwmPrYDmcf31F1cuYG8bS/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Azteca Uno HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbG1fAUecofva4ks3TC-NsQd892wAQ6cq1knwyGm3aeVD/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Azteca 7 SD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAYtOLV3PyoaFV7nfZG8LQtozuFU7TUI0Rilv4mgxsKV/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: AZ Mundo HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOZgBaJ5r0bX8aoiUczcw72qitS31NU3B8epPR9LGxfa/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Antena 3 HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLTEWZXV_DzYjMpdJpNbXrRt_3z-Wgjll96s5vt-gtvR/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: AMC HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBIWcA4JUA7adbbS7k4-G7ZCDlOMJQI8nBJZcrEe-8UK/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX: Al Jazeera HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKTAh804seMxPWPyRigEQcJopHWBLEZ2ZiJIsBP2Cunh/ts
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MX - TV UNAM
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/18574
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - UNO MVS TV
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/6022
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - UNICABLE FHD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4052
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - UNICABLE
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3230
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - TVC
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4105
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - TV4
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/33367
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - TV MAS
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/33365
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - TU TDN HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3397
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - TL TELENOVELAS
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4130
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - TELEVISA MTY
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4066
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - TELEFORMULA FHD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4036
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - TELEFORMULA
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4129
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - PROYECTO 40 FHD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3185
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - ONCE TV NI�OS Y NI�AS
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/47697
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - ONCE TV FHD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4035
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - MULTIMEDIOS MONTERREY PLUS
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4034
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - MULTIMEDIOS MONTERREY FHD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4033
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - MULTIMEDIOS MONTERREY
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4125
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - MILENIO TV
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3233
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - MEXIQUENSE
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3182
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - INGENIO TV
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/33358
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - IMAGEN TV
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4149
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - IMAGEN RADIO
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3594
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - HAVOC
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/33362
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - GALA TV
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4031
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - FORO TV
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4029
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - EL CANAL DE LAS ESTRELLAS HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4030
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - DISTRITO COMEDIA
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3209
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - CANAL ONCE
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3269
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - CANAL DE LAS ESTRELLAS
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3243
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - CANAL 5 FHD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4028
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - CANAL 5
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3244
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - AZTECA UNO HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4087
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - AZTECA UNO
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3216
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - AZTECA 7 FHD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4027
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - AZTECA 7
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3215
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - AZ MUNDO FHD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4055
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - AZ MUNDO
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3087
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - AZ CORAZON
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4026
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - AZ CLICK
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3245
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - AZ CINEMA FHD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4086
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - AZ CINEMA
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/2954
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - AFIZZIONADOS
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/8248
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEX - ADN 40
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4025
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEXICO:Multimedios
+#EXTINF:-1 group-title="Mexico" tvg-logo="N/A",Genesis TV  | MX
+http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Mexico" tvg-logo="N/A",MEXICO:Multimedios
 http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1  group-title="Mexico" tvg-logo="N/A",MEXICO:Multimedios Monterrey
+#EXTINF:-1 group-title="Mexico" tvg-logo="N/A",MEXICO:Multimedios Monterrey
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1  group-title="Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png",Multimedios Monterrey HD
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png",Multimedios Monterrey HD
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1  group-title="Mexico" tvg-logo="https://i.imgur.com/xZSz9Yt.png",Retro TV
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/xZSz9Yt.png",Retro TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1  group-title="Mexico" tvg-logo="https://i.imgur.com/LEBQ8B5.png",RCG 3 | SD
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/LEBQ8B5.png",RCG 3 | SD
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-#EXTINF:-1  group-title="Mexico" tvg-logo="https://i.imgur.com/H1AFRJh.png",RTQ Queretaro
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/H1AFRJh.png",RTQ Queretaro
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-#EXTINF:-1  group-title="Mexico" tvg-logo="https://i.imgur.com/eGvLDVR.png",Canal 10 Chetumal | HD
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/eGvLDVR.png",Canal 10 Chetumal | HD
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1  group-title="Mexico" tvg-logo="https://i.imgur.com/eFfX2fC.jpg",Canal 4 | SD
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/eFfX2fC.jpg",Canal 4 | SD
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
-#EXTINF:-1  group-title="Mexico" tvg-logo="https://i.imgur.com/A9kTYN8.png",Multimedios Laguna | HD
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/A9kTYN8.png",Multimedios Laguna | HD
 http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1  group-title="Mexico" tvg-logo="https://i.imgur.com/6xKwAuc.png",Capital 21
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/6xKwAuc.png",Capital 21
 http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
-#EXTINF:-1  group-title="Mexico" tvg-logo="https://i.imgur.com/6xKwAuc.png",Capital 21 Mexico City
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/6xKwAuc.png",Capital 21 Mexico City
 http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&amp;set-cc-attribute=cc

@@ -1,95 +1,41 @@
 #EXTM3U
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Estacion TV  | CL
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Estacion TV  | CL
 http://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",Canal VTV Los Andes - San Felipe  | CL
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Canal VTV Los Andes - San Felipe  | CL
 https://unlimited10-cl.dps.live/vtv/vtv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Radio Under * | CL
+#EXTINF:-1 group-title="Chile" tvg-logo="N/A",Radio Under * | CL
 https://eu1.servers10.com:8081/8140/index.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",FashionTV New York  | US
+#EXTINF:-1 group-title="Chile" tvg-logo="N/A",CSTV * | CL
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Chile" tvg-logo="N/A",FashionTV New York  | US
 http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",FashionTV Paris  | US
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Camara de Diputados  | CL
-https://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Retro Music Television  | CZ
+#EXTINF:-1 group-title="Chile" tvg-logo="N/A",Retro Music Television  | CZ
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",Radio Presidente Iba�ez  | CL
+#EXTINF:-1 group-title="Chile" tvg-logo="N/A",AE Radio  | CL
+https://tls.cdnz.cl/aeradio/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Chile" tvg-logo="N/A",Radio Presidente Iba�ez  | CL
 https://ibanez.servercl.com/hls/live.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - TVN HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/2151
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - TVN
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3592
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - TNT SPORTS HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3586
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - TNT SPORTS FHD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/54717
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - TNT SPORTS 2 HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/1068348
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - TNT SPORTS 2
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/1117657
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - TNT SPORTS
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/16138
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - TELETRAK
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3854
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - TELECANAL HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/44631
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - REC TV
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/2024
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - NTV HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/27103
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - NTV
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/2047
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - MEGA HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/2148
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - MEGA
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3343
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - LA RED HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/51823
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - LA RED
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/51824
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - CNN CHILE
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3749
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - CHILEVISION  HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/2147
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - CHILEVISION
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3591
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - CDO PREMIUM HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3608
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - CDO BASICO
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3607
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - CANAL 13 HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/6847
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - CANAL 13
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3853
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - 24 HORAS
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/23237
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - 13C HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/1091369
-#EXTINF:-1  group-title="Chile" tvg-logo="N/A",CHILE - 13C
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/1091370
-#EXTINF:-1  group-title="Chile" tvg-logo="ozCnnDg.png",TV Senado | HD
+#EXTINF:-1 group-title="Chile" tvg-logo="ozCnnDg.png",TV Senado | HD
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
-#EXTINF:-1  group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Tvn.png",TVN SERVICIOS 3
+#EXTINF:-1 group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Tvn.png",TVN SERVICIOS 3
 http://mdstrm.com/live-stream-playlist/5a0471c2f8692a092d436768.m3u8
-#EXTINF:-1  group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Tvn.png",TVN SERVICIOS 4
+#EXTINF:-1 group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Tvn.png",TVN SERVICIOS 4
 http://mdstrm.com/live-stream-playlist/5a047aaeb9d0b50a8d1c36a6.m3u8
-#EXTINF:-1  group-title="Chile" tvg-logo="https://i.imgur.com/pe9zky9.jpg",TecTV (Opt-1)
+#EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/pe9zky9.jpg",TecTV (Opt-1)
 http://190.107.176.55:1935/live/tec-tv/chunklist_w1055014753.m3u8?fluxustv.m3u8
-#EXTINF:-1  group-title="Chile" tvg-logo="https://i.imgur.com/pe9zky9.jpg",TecTV (Opt-2)
+#EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/pe9zky9.jpg",TecTV (Opt-2)
 http://evo.eltelon.com:1935/live/tec-tv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1  group-title="Chile" tvg-logo="https://i.imgur.com/L1AkNUo.jpg",VC Online HD
+#EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/L1AkNUo.jpg",VC Online HD
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
-#EXTINF:-1  group-title="Chile" tvg-logo="https://i.imgur.com/c3FpQAc.png",VTV Aconcagua (Opt-1)
+#EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/c3FpQAc.png",VTV Aconcagua (Opt-1)
 http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
-#EXTINF:-1  group-title="Chile" tvg-logo="https://i.imgur.com/c3FpQAc.png",VTV Aconcagua (Opt-2)
+#EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/c3FpQAc.png",VTV Aconcagua (Opt-2)
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
-#EXTINF:-1  group-title="Chile" tvg-logo="https://i.imgur.com/c3FpQAc.png",VTV Viña del Mar
+#EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/c3FpQAc.png",VTV Viña del Mar
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
-#EXTINF:-1  group-title="Chile" tvg-logo="http://www.ufromedios.cl/wp-content/uploads/2015/06/medios_02.png",Ufrovision
+#EXTINF:-1 group-title="Chile" tvg-logo="http://www.ufromedios.cl/wp-content/uploads/2015/06/medios_02.png",Ufrovision
 http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8?fluxustv.m3u8
-#EXTINF:-1  group-title="Chile" tvg-logo="http://www.graciatv.com/wp-content/uploads/2018/07/gif-gracia.gif",Gracia TV
-http://v3.tustreaming.cl/graciatv/live1/index.m3u8?fluxustv.m3u8
-#EXTINF:-1  group-title="Chile" tvg-logo="http://www.cronicadigital.cl/imagenes/noticias/2014/09/canal-senado1.jpeg",Tv Senado 2 SD
+#EXTINF:-1 group-title="Chile" tvg-logo="http://www.cronicadigital.cl/imagenes/noticias/2014/09/canal-senado1.jpeg",Tv Senado 2 SD
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
-#EXTINF:-1  group-title="Chile" tvg-logo="f41IHoB.png",TVN Señal de Pruebas | HD
+#EXTINF:-1 group-title="Chile" tvg-logo="f41IHoB.png",TVN Señal de Pruebas | HD
 http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8

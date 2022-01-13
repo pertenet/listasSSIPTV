@@ -1,393 +1,233 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",|UK| Premier SPORTS 1
-http://dontuse.fluxz.cc:80/90144908506629/160417160718/52901
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",|UK| Premier SPORTS 2
-http://dontuse.fluxz.cc:80/90144908506629/160417160718/52903
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",4Music VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",4Music VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692608
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",4Seven FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",4Seven FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692569
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",5 Star HD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",5 Star HD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692570
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",A VUSLAT TV
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",A VUSLAT TV
 http://195.155.98.170:5858/play/a0b4
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ABANT TV
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",ABANT TV
 http://195.155.98.170:5858/play/a0b3
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Afrobeats
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Afrobeats
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Alibi FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Alibi FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692582
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Alibi HD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Alibi HD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692583
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Blaze VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Blaze VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692494
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Boomerang FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Boomerang FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692593
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Boomerang HD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Boomerang HD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692594
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Box Hits UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Box Hits UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692628
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",BritCom
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",BritCom
 https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Cartoon Network HD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Cartoon Network HD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692596
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Cartoonito VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Cartoonito VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692597
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",CBS Justice VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",CBS Justice VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692496
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Challenge VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Challenge VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692497
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Channel 4 FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Channel 4 FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692498
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Channel 4 HD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Channel 4 HD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692499
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Channel 5 FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Channel 5 FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692500
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Channel 5 HD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Channel 5 HD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692501
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Channel 5 Star VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Channel 5 Star VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692502
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",CIFTCI TV
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",CIFTCI TV
 http://195.155.98.170:5858/play/a0ak
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Clubland TV VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Clubland TV VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692622
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Colors Rishtey VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Colors Rishtey VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692585
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Colors TV VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Colors TV VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692584
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Comedy Central Extra VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Comedy Central Extra VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692505
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Comedy Central FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Comedy Central FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692503
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Comedy Central HD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Comedy Central HD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692504
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Dave FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Dave FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692507
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Dave HD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Dave HD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692508
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",DAVE JA VU
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLEmggWtau_vJM_KmSSpGtj10kgEXSPIrctjprLx-Upb/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",DEHA TV
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",DEHA TV
 http://195.155.98.170:5858/play/a0ai
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",DIYAR TV
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",DIYAR TV
 http://195.155.98.170:5858/play/a0b8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Dmax VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Dmax VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692511
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Drama VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Drama VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692510
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",E! FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",E! FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692512
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",E4 FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",E4 FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692513
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",E4 HD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",E4 HD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692514
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Eden FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Eden FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692506
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",EGE TV
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",EGE TV
 http://195.155.98.170:5858/play/a0b7
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ER TV
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",ER TV
 http://195.155.98.170:5858/play/a0al
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Euro Indie Music  | GB
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Euro Indie Music  | GB
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Food Network FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Food Network FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692518
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",GAZIANTEP OLAY TV
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",GAZIANTEP OLAY TV
 http://195.155.98.170:5858/play/a0b9
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Gemporia (Opt-2)
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Gemporia (Opt-2)
 http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Gold FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Gold FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692519
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Gold HD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Gold HD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692520
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Horror Channel VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Horror Channel VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692522
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",INTER AZ
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",INTER AZ
 http://195.155.98.170:5858/play/a0ag
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ITV 1 FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",ITV 1 FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692484
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ITV 1 HD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",ITV 1 HD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692485
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ITV 2 FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",ITV 2 FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692486
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ITV 2 HD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",ITV 2 HD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692487
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ITV 3 HD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",ITV 3 HD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692489
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ITV 4 FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",ITV 4 FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692491
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",ITV 4 HD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",ITV 4 HD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692492
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",KANAL 12
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",KANAL 12
 http://195.155.98.170:5858/play/a0bc
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",KANAL 15
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",KANAL 15
 http://195.155.98.170:5858/play/a0av
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",KANAL 23
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",KANAL 23
 http://195.155.98.170:5858/play/a0au
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",KANAL 26
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",KANAL 26
 http://195.155.98.170:5858/play/a0af
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",KANAL 3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",KANAL 3
 http://195.155.98.170:5858/play/a0ba
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",KANAL 68
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",KANAL 68
 http://195.155.98.170:5858/play/a0ap
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",KANAL EGE
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",KANAL EGE
 http://195.155.98.170:5858/play/a0bb
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Kerrang TV UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Kerrang TV UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692624
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Kiss UK
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692625
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",London Live UK
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692524
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Magic VIPUK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Magic VIPUK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692626
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",More4 FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",More4 FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692525
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",MTV 80s VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",MTV 80s VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692613
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",MTV Base HD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",MTV Base HD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692612
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",MTV FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",MTV FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692609
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",MTV Hits VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",MTV Hits VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692611
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",MTV Music UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",MTV Music UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692610
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Nick Jr HD UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Nick Jr HD UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692600
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Nick Jr TOO HD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Nick Jr TOO HD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692599
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Nickelodeon FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Nickelodeon FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692601
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Nicktoons HD VIP UK
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692602
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",PBS America UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",PBS America UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692540
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Pick TV VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Pick TV VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692541
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",POP MAX VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",POP MAX VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692605
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",POP VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",POP VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692604
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Quest FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Quest FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692542
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Quest Red UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Quest Red UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692543
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",QVC
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",QVC
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",QVC Extra
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",QVC Extra
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",QVC UK +1
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",QVC UK +1
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",RTE Jr UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",RTE Jr UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692603
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",RTE One FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",RTE One FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692480
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",RTE Two FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",RTE Two FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692482
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",RTE Two HD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",RTE Two HD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692483
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",S4C UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",S4C UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692546
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Sheffield Live! 93.2 FM
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Sheffield Live! 93.2 FM
 http://tv.sheffieldlive.org/hls/main.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Sky Arts FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Sky Arts FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692551
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Sky Arts HD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Sky Arts HD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692552
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Sky Atlantic FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Sky Atlantic FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692553
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Sky Atlantic HD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Sky Atlantic HD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692554
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Sky Comedy HD UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Sky Comedy HD UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692550
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Sky One FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Sky One FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692547
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Sky One HD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Sky One HD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692548
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Sky Two HD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Sky Two HD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692549
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Sony Max 2 FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Sony Max 2 FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692588
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Sony Max FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Sony Max FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692587
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Sony TV FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Sony TV FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692586
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Sony TV UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Sony TV UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692562
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",STAR GOLD  UK
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbM0vXzZRWjYfszTgtdSSr7J0gQmic_-dhmJeTt26HW5y/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",STV FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",STV FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692555
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",STV HD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",STV HD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692556
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Syfy FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Syfy FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692557
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Syfy HD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Syfy HD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692558
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TG4 HD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",TG4 HD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692559
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",The Box UK
-http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692627
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Tiny Pop VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Tiny Pop VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692606
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TLC FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",TLC FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692560
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TLC HD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",TLC HD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692561
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",TV 41
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",TV 41
 http://195.155.98.170:5858/play/a0aq
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK Really
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLNfJuNqAlY_WsSOpdS013rwqV6gOC9c2F0-08vvGpVS/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK:  Eurosport 1 LOW
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKBNW25DmGHg5tdEvyP7EsA/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: 4seven
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIOVzPMiViaSogD7TZl6KVrXVtTWnveJJ_uxgIiFfkD9/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: 5 Spike
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJ7KY7huUzDCP6ml5tkzm407Ar538EECTIRnfWHCSB20/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: 5 Spike UK
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbD6zl7nyP0vuSVmli3iJiccm5MNEQv6Zu9hW32xp98nT/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Al Jazeera English HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbID1H1B_FNz_NogecdeJ2iW6A6S6JEoDu0P5lJtRPf3s/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Alibi HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbN64-Y3kNvWIkQumeNC5uTE/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Animal Planet
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAkNbprYlYsBHnG-M9OPZlDUxTdBQkQxszqtOZouJdZi/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: beIN Sports 12 | HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJHwQiCtzydNBCR5T3fX6aU1uoPrtANNsDv-wf1K7gvV/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Blaze
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbERxQ_Q1ZH8rSerp_Nay8pgwLSGV2qb1d4VgdM3K43nc/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: CBBC
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPIf06GDIClxLW3y-mavrnoZVIfted2WNDvfOedqU_FQ/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: CBS Action
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJ79M36gzW3RGLdzhBFSZeHJE-rGNvSxmJ-OzZkmxkpa/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: CBS Drama
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHDMrnV_X9QExAOimii7PWAxImeDyuAwUjgBFjCMePEB/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Challenge
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNmw5AF4onYrJfSLOZ7WwWz1ttI1dytRpKtYd2Rn8zia/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Channel 4
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIjTPFNYo7FPGuqHmB_hef1flgLoRiFJtjdP-KdOK9TO/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Channel 4
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbD2h8C-1Uevqz6hOw95Nl-s/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: E4
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLeisr3x4bzccO3_u-OPoVI/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Horror Channel 1 | HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDhl4CE--ltkbXDi_X-BNYk/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Islam TV UK
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBJ7DsyNofOGP1uDu5T33Fdz6unR25O9VwZA_4u_OQqi/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Kiss TV
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOdxl7frlFSFFuEkkYlyV3X5QRfBpM561ioj_3xf_liq/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: MTV
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBLWXeiXwZAxUkBkUFbS8x4/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: MTV Classic
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbA2_CaxuCf1Fe9jsW9rTQ-CsIp2danVnHHxD4G3wXSXI/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: MTV Hits
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPTxRw6TX-vQWBx19aibsEc/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: MTV Hits
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHDYlqA871sHWaEXm4YsxLaoTZmiB_4OjkCGX9RTV-rr/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: MTV Music | HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbK8Xq0IdF2cunItMiKXupFI/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: MTV Rocks
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJgEwx8Vsi_ShvqjKA2N5Gg7WcPZPn2eCoicg_GnIOMF/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Nicktoons
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNkG-1xh-5T4aoOq9kjEABO9uZMvo8nD5EaN7iRGgcDD/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: PICK TV
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEhLRz_Z0Y9he_0dK3jIl_k/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: PICK TV
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGfQIa6nYwLq_DythLxj4fU/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: POP Max
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFRFY_WRDr0bd-hEZ6THX-A/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: PREMIER SPORTS 1 HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNsXhgZNbnFQKe1d5wiCVf_myFayfLhnw7llOKsE6dj5/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: PREMIER SPORTS 2
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNIsO2Xq_inkRdTWRR9ImuA6XjxdrIWZclHpQuVEqonJ/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Quest | HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEKlhviYVz0_YGZy3a9K-Fc/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Quest RED
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJ6G_HYYPYPj9y7c03ScV7E/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: QVC
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCiXInR0y8KgymVI5VGSWgUIeE7zzCWl1fOMYr9hT1uB/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: QVC Beauty
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPOvlktMyGINpKG6G--DdWpS7_TuwXjiKKmEdQrFr8YC/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: QVC Extra
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMFjzIO4y_tUynJtqmceJFAL1L7HLnp6oQ4ER3qIwQf6/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Racing SD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCEJkeV8T5RlcuWqUmvThXZm7Q8u6-YpZ6G3Eea0vJaN/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: RT News
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFeLwFDKSp8Q7MG8i3g2O2IxjNMEKM34yUcVDJEzMhd4/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: RTE NEWS
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNFVw5m-U75S_x-PSYhfPfZ-lWK1WeK78luU0n9WZwpD/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: S4C HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDfg_c4RNnsgtDpc4c9J_UmpXoOVLsDgX9hLwx9KCryg/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Sky 2
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDVZSQHNiNtTcibwrxy8c2s/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Sky Arts HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPhS3ANTpSPJfW8ldZItdHAWaWeMfEL5_wG8pTWgLIJM/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Sky Atlantic
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMT8LRdhMDulOpZp0n2vzTy1SDM6i2Dez5PdRO1cUktv/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Sky Atlantic | HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbE7Dn-pkYusgJ6B_-ER8x6U/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Sky Cinema Comedy
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbO-1WBJYT5TCQrl1OhrPu9roVHeOz7pSKgpnXFOQHUZQ/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Sky Cinema Crime & Thriller
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbE4xuP-0fN3rqGErn10pA8yuPYAJUfCMrlIHxt3DzoME/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Sky Cinema Disney
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDtXnBDtUjz_nr5ylgJ4V0h6w-bkssiXbn2AxJsRiptG/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Sky Cinema Family
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBwKIIg3icZH-3A_x_75baEdOrwxJt5h9HRoQkb9Egah/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Sky Cinema Hits
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOdWQLFCvU6mfQd5C-6cUnSaeIB_AUfkAO5ZL8dXzzZK/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Sky Cinema Premiere
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPvyIH81-degqAZ3olHwztwNN7p6XO7VnOsM2G2xyhwi/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Sky Cinema Sci-Fi & Horror HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbI4FzGUUgJuK9J37YCds3jwJLe-XWtot4txnr4paXX7E/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Sky Cinema Select HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEqum9RYyzQtqzfSUAnqm8n7NSs5I_dJ1H8TfsrleQq_/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Sky Movies Action & Adventure FHD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbETyMfRyQk6s1SUeDplCtK1UUdJeIj4n_Z-bE8ZLmdc4/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Sky Movies Comedy FHD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAUGQGc-Vy_zND5mbh62wXRKffBPbPXo6qz6COAgiDy7/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Sky Movies Disney FHD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbA_a8GomHEq4p2IWkiIckpzSTLVVcR88KkVIQV0uh_nD/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Sky Movies Drama & Romance FHD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbN_iqCV6cDhvHTL4hU4FbLcPpNK6VqB15mjBOyTnk6gh/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Sky Movies Family FHD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPW72uDiUliqYmVRHoNwjOP1zkcrg8gJ2FxdkOJWyfOc/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Sky Movies Premiere FHD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbE-hc8aP-6L-FBZ_IdK_r4GpJMQ9_KKX9MtEldDf50-H/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Spike | HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKDeapsBuI7MQeNE6eKp0hU/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: TCM
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbN__AQQG-fh5WVZVN5gGWnpxjonawKlZSDulaYLtGVyU/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Tiny POP
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAlSTegp5bJzpiCbpt3c-o0fjEQyQSA9IzMOgEk5OnKD/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: TLC  | UHD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKJykrhnlGNP7AaNvTBl0is/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Travel Channel
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLt0oLX2B8oq_MGFiJz7k6i5Nx7XSZnYB4G7iFzLGeYc/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Travel Channel
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBk2kCcM31jomZASYoPAWHQ/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: UFC Fight Pass HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIEE9f0otUsu_Rxl1VV8L-PSrJ2l2pMxrj35KBpW0lQq/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: UFC NIGHT PASS
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbC_85g6InDDEduATZwcELGJ7n5cjk4VJtVGxNMubX_Sy/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: VH1 | HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbP9WTi5Zmottr44fo67a1ko/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Watch
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDZtubgWq1cNg6j8LhGje-gvyV5d8RAU7y3c4xakYIVS/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: Yesterday
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFKYJ0IQrvwnnwcXDxQCWIII-b2_qdG8DY4dUsmPyRSR/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: YESTERDAY
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBzvyqq4JfER6hd2Of20qnY/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UK: ZEE TV | HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMV-qYjg1LzPxSBaOTqLKVY/ts
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",UTV HD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",UTV HD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692563
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Utv SAT Gold HD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Utv SAT Gold HD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692521
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Utv SAT Plus HD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Utv SAT Plus HD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692590
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",VIZYON 58
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",VIZYON 58
 http://195.155.98.170:5858/play/a0at
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Watch FHD VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Watch FHD VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692567
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Yesterday VIP UK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Yesterday VIP UK
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/692568

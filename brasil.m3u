@@ -1,301 +1,147 @@
 #EXTM3U
-#EXTINF:-1  group-title="TV Aberta" tvg-logo="http://i.imgur.com/uwzYiHs.png",Rede Brasil DE
+#EXTINF:-1 group-title="TV Aberta" tvg-logo="http://i.imgur.com/uwzYiHs.png",Rede Brasil DE
 http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?
-#EXTINF:-1  group-title="TV Aberta" tvg-logo="http://i.imgur.com/7SlZF9B.png",SBT PE Interior
+#EXTINF:-1 group-title="TV Aberta" tvg-logo="http://i.imgur.com/7SlZF9B.png",SBT PE Interior
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR:HBO XTREME HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJc6icbZcQUU-Vid85OQPPcj97-Y7DRd2m5IOMlFN9Pl/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: WARNER CHANNEL HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOgUmYhzCQ8HrKfv7wI97-KCnLI7zjWC9Dowj8YA0Zjo/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: VH1 HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOgUmYhzCQ8HrKfv7wI97-L9cl2fqst4WS0ESpmDaLPD/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: TNT HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMbwY54LldI-YcnkDx_Ja7PgvZR3sMSZAVFOrjm4FgMM/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: SPACE HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJX1Ttv73RSwr1Q2L1ncl7UJ53O0pApYBZ8031xnoTgK/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: REDE VIDA HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJX1Ttv73RSwr1Q2L1ncl7XNfebJcswe057Y7KpCsbhR/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: REDE TV HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKDjg0g8dF72VN1t8Wn8CKz7TJBSL-dhjDdaoPuK6tpq/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: PARAMOUNT CHANNEL HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbF8_ye4f5gtr36ohKSUeq_2w57XiE8Jj4qFlDJ0wbmF_/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: MULTISHOW HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGINkOVv-Cbcd0siPITqEetEQRXvw_epRBo8E-fHUCPi/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: MAX UP HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGINkOVv-Cbcd0siPITqEetdacH1znyw_4DabRl0enzC/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: MAX HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGINkOVv-Cbcd0siPITqEeuXHeodBnWm4koVMj3_I0To/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: GLOBO MINAS HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJFUTlXoZEoOYHmcrHphWUgqLXDxAqrFuZwr3TpzXS14/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: GINX eSPORTS HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJFUTlXoZEoOYHmcrHphWUiM3pjgTFCskPwGMk2j26gU/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: FOX HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbI1lJmfk6X_rKjD9MDsYtDUrpxG-lM7L9XCS6dp-PVQu/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: FOOD NETWORK HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbI1lJmfk6X_rKjD9MDsYtDVPP_3938zm5kbpDwkJwGIZ/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: ESPN BRASIL HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbN5QifbvrFAQTXpWJCh4ho85BDk1fQMZ-LRNJmmIxY4u/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: ESPN 2 HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbN5QifbvrFAQTXpWJCh4ho-fMiLWO3fTpAQc_-kgXDhF/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: E! HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbN5QifbvrFAQTXpWJCh4ho_ALbqyIef_tJ6ssCPtQLi2/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: DISNEY XD HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbN5QifbvrFAQTXpWJCh4ho-mRmKmeqF-rzwmaDDAT9zW/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: DISNEY CHANNEL HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbN5QifbvrFAQTXpWJCh4ho-tnCMSwf1R0pyo8ApbrWmi/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: DISCOVERY THEATER HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbITBJxjnFtiusz3EF2MWfdQulAK-Uasoh-vrpBB80B80/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: DISCOVERY SCIENCE HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbITBJxjnFtiusz3EF2MWfdRPwHSQK6Y0JWRUU9k_ULii/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: DISCOVERY HOME & HEALTH HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbITBJxjnFtiusz3EF2MWfdRuCWEYUztAHkAWNTApAKH9/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: DISCOVERY CHANNEL HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbITBJxjnFtiusz3EF2MWfdS7oU13H20AWeuOobqMk4XB/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: CURTA! HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbITBJxjnFtiusz3EF2MWfdQkgn8RfC1te5JvcmrJjbBr/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: COMEDY CENTRAL HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbITBJxjnFtiusz3EF2MWfdTI2ugMY_PYQWtvc3idYuTQ/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: COMBATE HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJjRq3jx1wUoczQYaoNd9ESUIbfkZbfaUN4pSTTEr-c5/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: CNN BRAZIL
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIc3p60UfS6gFUTy9vz9clP8n3eNq8BmpBYkYK_Yp2y6/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: CINEMAX HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJjRq3jx1wUoczQYaoNd9ERgNCGSNh64kH2kpuGRdUn4/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: BOOMERANG HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJjRq3jx1wUoczQYaoNd9ETo_ghb-5i8iOgRNmNBQYXJ/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: BIS HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJjRq3jx1wUoczQYaoNd9ERoyuIy_66vv1oF3EmJeLst/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: BAND SP HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJjRq3jx1wUoczQYaoNd9ET5-0SXWxjNE1yTQfyuPtTH/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: BAND NEWS HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJjRq3jx1wUoczQYaoNd9ETwkn7CDBET-MskXsd5ckP8/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: BABY TV HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJjRq3jx1wUoczQYaoNd9ERtkNIxhDKMZkovoodsjwdK/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: AXN HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbI8F49su8kGd026TTnsSsGSMzr8F94sG8RRFt-_ZeY3_/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: AMC HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbI8F49su8kGd026TTnsSsGTVfyGKS9kXJSCo3JohcTN_/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BR: A&E HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbI8F49su8kGd026TTnsSsGT05M36PkwH1VGQS_F93_28/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",AGRO BRASIL
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",AGRO BRASIL
 http://168.205.87.198:8555/live/1234/123456/7.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",AGRO CANAL
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",AGRO CANAL
 http://168.205.87.198:8555/live/1234/123456/10.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",ALL SPORTS
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",ALL SPORTS
 http://168.205.87.198:8555/live/1234/123456/148.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",AMERICA LATINO
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",AMERICA LATINO
 http://168.205.87.198:8555/live/1234/123456/16.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BAND
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",BAND
 http://168.205.87.198:8555/live/1234/123456/19.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BOA VONTADE TV
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",BOA VONTADE TV
 http://168.205.87.198:8555/live/1234/123456/21.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BRA
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",BRA
 http://168.205.87.198:8555/live/1234/123456/24.ts
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - ARTE 1
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/8328
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - BAND NEW
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/29329
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - BAND NOTICIAS
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/29331
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - BAND SPORT
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/29330
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - BAND SPORTS
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/17186
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - CNN BRASIL
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/18553
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - COMBAT
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/29328
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - COMBATE
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/18566
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - ESPN
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/7784
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - ESPN EXTRA
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/1095615
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - FISH TV
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/7779
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - FOX SPORTS BR
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/7785
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - GLOBO BRASILIA HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/43623
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - GLOBO NEWS
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/7771
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - GLOBO NEWS
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/7774
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - GLOBO RIO HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/43624
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - GLOOB
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/7772
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - MAIS GLOBOSAT
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/7777
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - MEGAPIX
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/8324
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - PREM 1
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/29339
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - PREM 3
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/29333
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - PREM 4
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/29334
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - PREM 5
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/29335
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - PREM 7
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/29337
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - PREM CLUBES
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/29199
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - PREM CLUBES EXTRA
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/29338
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - PREMBOX
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/29340
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - RECORD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/44841
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - RECORD PB
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/7770
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - REDE TV
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/7775
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - SBT
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/7768
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - SPORTV 2
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/7792
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - SPORTV 3
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/53171
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - TELECINE ACTION
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/7780
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - TELECINE CULT
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/7781
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - TV GLOBO
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/7773
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - VIVA
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/1117624
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRA - WOOHOO
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/8327
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRASIL:SBT | HD
+#EXTINF:-1 group-title="Brasil" tvg-logo="N/A",BRASIL:SBT | HD
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",BRAZIL:TV Diario do Sertao
+#EXTINF:-1 group-title="Brasil" tvg-logo="N/A",BRAZIL:TV Diario do Sertao
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",BRSUPER TV
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",BRSUPER TV
 http://168.205.87.198:8555/live/1234/123456/147.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",CAN��O NOVA
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",CAN��O NOVA
 http://168.205.87.198:8555/live/1234/123456/25.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",CHESPIRITO
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",CHESPIRITO
 http://168.205.87.198:8555/live/1234/123456/159.ts
-#EXTINF:-1  group-title="Brasil" tvg-logo="http://i.imgur.com/SYPYeHt.jpg",Cine+
+#EXTINF:-1 group-title="Brasil" tvg-logo="http://i.imgur.com/SYPYeHt.jpg",Cine+
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",CLASSIC HITS
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",CLASSIC HITS
 http://168.205.87.198:8555/live/1234/123456/27.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",CLIMA
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",CLIMA
 http://168.205.87.198:8555/live/1234/123456/158.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",CNN BRASIL
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",CNN BRASIL
 http://168.205.87.198:8555/live/1234/123456/28.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",CULT
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",CULT
 http://168.205.87.198:8555/live/1234/123456/30.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",CULTURA
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",CULTURA
 http://168.205.87.198:8555/live/1234/123456/32.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",FASHION TV
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",FASHION TV
 http://168.205.87.198:8555/live/1234/123456/61.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",FISH TV
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",FISH TV
 http://168.205.87.198:8555/live/1234/123456/62.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",FUTURA
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",FUTURA
 http://168.205.87.198:8555/live/1234/123456/67.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",GAZETA
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",GAZETA
 http://168.205.87.198:8555/live/1234/123456/69.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",GLOBO MINAS
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",GLOBO MINAS
 http://168.205.87.198:8555/live/1234/123456/70.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",HITTS
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",HITTS
 http://168.205.87.198:8555/live/1234/123456/72.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",JP NEWS
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",JP NEWS
 http://168.205.87.198:8555/live/1234/123456/161.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",KIDS
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",KIDS
 http://168.205.87.198:8555/live/1234/123456/143.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",LOADING TV
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",LOADING TV
 http://168.205.87.198:8555/live/1234/123456/142.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",MASTER TV
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",MASTER TV
 http://168.205.87.198:8555/live/1234/123456/74.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",MEGA
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",MEGA
 http://168.205.87.198:8555/live/1234/123456/75.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",NOVO TEMPO
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",NOVO TEMPO
 http://168.205.87.198:8555/live/1234/123456/149.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",PAI ETERNO
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",PAI ETERNO
 http://168.205.87.198:8555/live/1234/123456/144.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",POLISHOP
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",POLISHOP
 http://168.205.87.198:8555/live/1234/123456/153.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",PORTAL
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",PORTAL
 http://168.205.87.198:8555/live/1234/123456/82.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",PRIME BOX
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",PRIME BOX
 http://168.205.87.198:8555/live/1234/123456/83.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",RATIMBUM
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",RATIMBUM
 http://168.205.87.198:8555/live/1234/123456/84.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",R�DIO BOSSA NOVA
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",R�DIO BOSSA NOVA
 http://168.205.87.198:8555/live/1234/123456/85.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",R�DIO FESTA
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",R�DIO FESTA
 http://168.205.87.198:8555/live/1234/123456/86.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",R�DIO LOUNGE
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",R�DIO LOUNGE
 http://168.205.87.198:8555/live/1234/123456/87.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",R�DIO METAL
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",R�DIO METAL
 http://168.205.87.198:8555/live/1234/123456/89.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",R�DIO M�SICA CL�SSICA
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",R�DIO M�SICA CL�SSICA
 http://168.205.87.198:8555/live/1234/123456/88.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",R�DIO NEW ROCK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",R�DIO NEW ROCK
 http://168.205.87.198:8555/live/1234/123456/90.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",R�DIO PAGODE
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",R�DIO PAGODE
 http://168.205.87.198:8555/live/1234/123456/91.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",R�DIO POP HITS
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",R�DIO POP HITS
 http://168.205.87.198:8555/live/1234/123456/92.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",R�DIO POP ROCK
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",R�DIO POP ROCK
 http://168.205.87.198:8555/live/1234/123456/93.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",R�DIO TRILHAS SONORAS
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",R�DIO TRILHAS SONORAS
 http://168.205.87.198:8555/live/1234/123456/95.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",RECORD MINAS
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",RECORD MINAS
 http://168.205.87.198:8555/live/1234/123456/96.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",RECORD NEWS
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",RECORD NEWS
 http://168.205.87.198:8555/live/1234/123456/97.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",REDE FAMILIA
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",REDE FAMILIA
 http://168.205.87.198:8555/live/1234/123456/151.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",REDE GENESIS
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",REDE GENESIS
 http://168.205.87.198:8555/live/1234/123456/98.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",REDE METROPOLE
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",REDE METROPOLE
 http://168.205.87.198:8555/live/1234/123456/99.ts
-#EXTINF:-1  group-title="Brasil" tvg-logo="http://s23.postimg.org/bxsx521vv/download.png",Rede Minas
+#EXTINF:-1 group-title="Brasil" tvg-logo="http://s23.postimg.org/bxsx521vv/download.png",Rede Minas
 http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",REDE MINAS
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",REDE MINAS
 http://168.205.87.198:8555/live/1234/123456/101.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",REDE TV
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",REDE TV
 http://168.205.87.198:8555/live/1234/123456/102.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",REDE VIDA
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",REDE VIDA
 http://168.205.87.198:8555/live/1234/123456/103.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",SBT ALTEROSA
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",SBT ALTEROSA
 http://168.205.87.198:8555/live/1234/123456/104.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",SCH
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",SCH
 http://168.205.87.198:8555/live/1234/123456/105.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",SECULO 21
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",SECULO 21
 http://168.205.87.198:8555/live/1234/123456/106.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",SESC TV
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",SESC TV
 http://168.205.87.198:8555/live/1234/123456/107.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TRAVEL
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",TRAVEL
 http://168.205.87.198:8555/live/1234/123456/124.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TV APARECIDA
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",TV APARECIDA
 http://168.205.87.198:8555/live/1234/123456/131.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TV BRASIL
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",TV BRASIL
 http://168.205.87.198:8555/live/1234/123456/134.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TV BRASIL 2
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",TV BRASIL 2
 http://168.205.87.198:8555/live/1234/123456/135.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TV C�MARA
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",TV C�MARA
 http://168.205.87.198:8555/live/1234/123456/136.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TV ESCOLA
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",TV ESCOLA
 http://168.205.87.198:8555/live/1234/123456/137.ts
-#EXTINF:-1  group-title="Brasil" tvg-logo="http://s16.postimg.org/4rt4ter79/TV_INES.png",TV INES
+#EXTINF:-1 group-title="Brasil" tvg-logo="http://s16.postimg.org/4rt4ter79/TV_INES.png",TV INES
 http://liveabr2.sambatech.com.br/abr/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestreamabr.m3u8
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TV JUSTI�A
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",TV JUSTI�A
 http://168.205.87.198:8555/live/1234/123456/138.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TV SENADO
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",TV SENADO
 http://168.205.87.198:8555/live/1234/123456/139.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",TV TURFE
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",TV TURFE
 http://168.205.87.198:8555/live/1234/123456/152.ts
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",TVI FHD HEVC
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPco9xQrdR-8_VSBnMHRFKCIJpW6mvtDETNbiF9FMkCb/ts
-#EXTINF:-1  group-title="Brasil" tvg-logo="N/A",Univer TV
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNb2XhPIw8oaUjAJ1lAbkUdRo6scrYRUBBzHH2xZZRTQ/ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",VRT CHANNEL
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",VRT CHANNEL
 http://168.205.87.198:8555/live/1234/123456/146.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",WOOHOO
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",WOOHOO
 http://168.205.87.198:8555/live/1234/123456/141.ts
-#EXTINF:-1  group-title="N/A" tvg-logo="N/A",ZOOMOO
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",ZOOMOO
 http://168.205.87.198:8555/live/1234/123456/162.ts
