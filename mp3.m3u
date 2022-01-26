@@ -1,0 +1,457 @@
+#EXTM3U
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Сочи - Мост через реку
+http://sochi.camera:8080/cam_131/index.m3u8?token=null
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM 80's Hairband
+http://listen.livestreamingservice.com/181-hairband_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM 90s Alternative
+http://listen.livestreamingservice.com/181-90salt_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM 90s Country
+http://listen.livestreamingservice.com/181-90scountry_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM 90s Dance
+http://listen.livestreamingservice.com/181-90sdance_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Awesome 80s
+http://listen.livestreamingservice.com/181-awesome80s_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Beatles
+http://listen.livestreamingservice.com/181-beatles_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Chilled Out
+http://listen.livestreamingservice.com/181-chilled_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Chloe @181.FM
+http://listen.livestreamingservice.com/181-chloe_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Classic Buzz (Alt)
+http://listen.livestreamingservice.com/181-classicbuzz_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Classic Guitar
+http://listen.livestreamingservice.com/181-classicalguitar_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Classic Hits 181
+http://listen.livestreamingservice.com/181-greatoldies_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Comedy Club
+http://listen.livestreamingservice.com/181-comedy_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Energy 93 (Euro EDM)
+http://listen.livestreamingservice.com/181-energy93_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Energy 98
+http://listen.livestreamingservice.com/181-energy98_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Front Porch (Bluegrass)
+http://listen.livestreamingservice.com/181-frontporch_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Good Time Oldies
+http://listen.livestreamingservice.com/181-goodtime_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Halloween
+http://listen.livestreamingservice.com/181-halloween_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Highway
+http://listen.livestreamingservice.com/181-highway_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Jammin 181
+http://listen.livestreamingservice.com/181-jammin_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Kickin' Country
+http://listen.livestreamingservice.com/181-kickincountry_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Lite 80s
+http://listen.livestreamingservice.com/181-lite80s_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Lite 90s
+http://listen.livestreamingservice.com/181-lite90s_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Mellow Gold
+http://listen.livestreamingservice.com/181-mellow_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Old School HipHop/RnB
+http://listen.livestreamingservice.com/181-oldschool_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Party 181
+http://listen.livestreamingservice.com/181-party_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Power 181 (Top 40)
+http://listen.livestreamingservice.com/181-power_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Real Country
+http://listen.livestreamingservice.com/181-realcountry_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Reggae Roots
+http://listen.livestreamingservice.com/181-reggae_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Rock 181
+http://listen.livestreamingservice.com/181-rock_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Rock 40 (R'n'Roll)
+http://listen.livestreamingservice.com/181-rock40_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Salsa
+http://listen.livestreamingservice.com/181-salsa_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Smooth AC
+http://listen.livestreamingservice.com/181-smoothac_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Soul
+http://listen.livestreamingservice.com/181-soul_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Star 90s
+http://listen.livestreamingservice.com/181-star90s_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Studio 181
+http://listen.livestreamingservice.com/181-ball_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Super 70s
+http://listen.livestreamingservice.com/181-70s_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM Techno Club
+http://listen.livestreamingservice.com/181-technoclub_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM The Beat (HipHop/R&B)
+http://listen.livestreamingservice.com/181-beat_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM The Box (Urban)
+http://listen.livestreamingservice.com/181-thebox_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM The Breeze
+http://listen.livestreamingservice.com/181-breeze_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM The Buzz
+http://listen.livestreamingservice.com/181-buzz_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM The Eagle (Classic Rock)
+http://listen.livestreamingservice.com/181-eagle_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM The Heart (Love Songs)
+http://listen.livestreamingservice.com/181-heart_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM The Mix
+http://listen.livestreamingservice.com/181-themix_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM The Office
+http://listen.livestreamingservice.com/181-office_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM The Point
+http://listen.livestreamingservice.com/181-thepoint_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM The Rock! (Hard Rock)
+http://listen.livestreamingservice.com/181-hardrock_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM The Vibe of Vegas
+http://listen.livestreamingservice.com/181-vibe_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM True RnB
+http://listen.livestreamingservice.com/181-rnb_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM UK Top 40
+http://listen.livestreamingservice.com/181-uktop40_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",181 FM US 181
+http://listen.livestreamingservice.com/181-us181_128k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",BTV Radio (BG)
+http://live.btvradio.bg/btv-radio.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Davidzon Radio (USA)
+http://radioserver.abinet.com:8800/dr.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Deep Pulse Radio (Николаев)
+http://wp6150.ddns.mksat.net:8000/stream.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",EHR - Европейский Рок
+http://stream.europeanhitradio.com:8000/Stream_37.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",EHR - Песни о любви
+http://stream.europeanhitradio.com:8000/Stream_28.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",EHR - Ремиксы Европейских хитов
+http://stream.europeanhitradio.com:8000/Stream_32.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",EHR - Ремиксы Русских хитов
+http://stream.europeanhitradio.com:8000/Stream_35.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",EHR - Русские Хиты (LV)
+http://stream.hitirossii.com:8000/khr.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",I Love Radio (DE)
+http://stream02.iloveradio.de/iloveradio1.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",I Love Radio-Bass
+http://stream02.iloveradio.de/iloveradio4.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",I Love Radio-Mashup
+http://stream02.iloveradio.de/iloveradio5.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",I love Radio-2 Dance
+http://stream03.iloveradio.de/iloveradio2.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Kerrang! Radio
+http://live-bauer-al.sharp-stream.com/kerrang.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",PULSRADIO 2000
+http://icecast.pulsradio.com/puls00HD.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",PULSRADIO 80's
+http://icecast.pulsradio.com/magicradioHD.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",PULSRADIO 90's
+http://icecast.pulsradio.com:80/puls90HD.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",PULSRADIO DANCE
+http://icecast.pulsradio.com:80/pulsHD.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",PULSRADIO HIT UK
+http://icecast.pulsradio.com/hitukHD.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",PULSRADIO HITS
+http://icecast.pulsradio.com:80/hitpartyHD.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",PULSRADIO LOUNGE
+http://icecast.pulsradio.com/relaxHD.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",PULSRADIO MX CLUB
+http://icecast.pulsradio.com/mxHD.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",PULSRADIO TRANCE
+http://icecast.pulsradio.com:80/pulstranceHD.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio 4 (Эстония)
+http://icecast.err.ee:80/raadio4.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio 538 (NL)
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio 538 Dance Department
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio 538 Hitzone
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio 538 Ibiza
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR19.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio 538 Nonstop
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio 538 Party
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio 538 Pop
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR04.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio 538 Verruckte Stunden
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio Chante France
+http://stream1.chantefrance.com/stream_chante_france.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio Dance FM (ROM)
+http://edge126.rdsnet.ro:84/profm/dancefm.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio FG Underground
+http://radiofg.impek.com/ufg.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio Fnoob Techno
+http://play.fnoobtechno.com:2199/tunein/fnoobtechno320.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio Houselovers (DE)
+http://stream1.ml0.t4e.dj:80/houselovers_high.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio Italia Anni 60
+http://ice04.fluidstream.net/ria60_ba.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio Kiss FM (ESP)
+http://kissfm.kissfmradio.cires21.com/kissfm.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio Klassika (Эстония)
+http://icecast.err.ee:80/klassikaraadio.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio Kronehit 90's Dance
+http://onair.krone.at/kronehit-90sdance.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio Kronehit Dance
+http://onair.krone.at/kronehit-dance.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio Mega Dance (HU)
+http://megadanceradio.hopto.org:8000/livemega.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio Music FM (ROM)
+http://edge126.rdsnet.ro:84/profm/music-fm.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio NRJ (Basel)
+http://energybasel.ice.infomaniak.ch/energybasel-high.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio OUI FM (FR)
+http://ouifm.ice.infomaniak.ch/ouifm-high.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio Power FM (BG)
+http://a2.virtualradio.eu:8000/powerfm.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio Pro FM (ROM)
+http://edge126.rdsnet.ro:84/profm/profm.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio RFI (RU)
+http://live02.rfi.fr/rfienrusse-64.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio Rouge FM (FR)
+http://rougefm.ice.infomaniak.ch/rougefm-high.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio TOK FM (PL)
+http://stream10.radioagora.pl/tuba10-1.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio Tallinn
+http://icecast.err.ee:80/raadiotallinn.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio Technolovers (DE)
+http://stream1.ml0.t4e.dj:80/technolovers_high.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio Trancelovers (DE)
+http://stream1.ml0.t4e.dj:80/trancelovers_high.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio Veronica Rock
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR11.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio WIT FM (FR)
+http://start-witfm.ice.infomaniak.ch/start-witfm-high.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio WIT FM-2000
+http://wit2000.ice.infomaniak.ch/wit2000.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio WIT FM-80’s
+http://wit80s.ice.infomaniak.ch/wit80s.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio WIT FM-90’s
+http://wit90s.ice.infomaniak.ch/wit90s.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio WIT FM-Club
+http://witclub.ice.infomaniak.ch/witclub.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio WIT FM-Latina
+http://witlatina.ice.infomaniak.ch/witlatina.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio WIT FM-Love
+http://witlove.ice.infomaniak.ch/witlove.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio Z-Rock (BG)
+http://live.btvradio.bg/z-rock.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radiolla UA
+http://air.radiolla.com/radiolla.192k.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",RnB Radio (DE)
+http://stream1.ml0.t4e.dj:80/rnbradio_high.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",ВЭБ Радио
+http://m5m128.hostingradio.ru:8074/m5m128.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Классное радио
+http://schoolradio.hostingradio.ru:8026/schoolradio128.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Наше Радио - Классик рок
+http://jfm1.hostingradio.ru:14536/nasheclassic.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Наше Радио - Панки Хой!
+http://jfm1.hostingradio.ru:14536/nashepunks.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Наше Радио - Щас спою
+http://jfm1.hostingradio.ru:14536/nashesongs.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Нефтерадио
+http://m8m128.hostingradio.ru:8074/m8m128.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Новое Радио (LT)
+http://5.20.223.18/rrb128.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Первое Интернет Радио (Ростов-на-Дону)
+http://live.pervoeradio.net:7000/live256.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио 10 (Петрозаводск)
+http://ic.radio10.live/stream.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио 10 (Черновцы)
+http://91.205.207.98:8081/acc.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио 107 (Краснодар)
+http://62.183.34.109:8000/radio107_320.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио 3 (Омск)
+http://81.23.194.18:8010/radio3.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио 7
+http://europaplus.hostingradio.ru:8014/radiosept320.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Fresh Rock
+http://stream.freshrock.net/320.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио G-Drive
+http://m4m128.hostingradio.ru:8074/m4m128.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Jazz - Classic
+http://jfm1.hostingradio.ru:14536/ijstream.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Jazz - Legends
+http://jfm1.hostingradio.ru:14536/jlstream.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Jazz - Smooth
+http://jfm1.hostingradio.ru:14536/sjstream.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Jazz - Vocals
+http://jfm1.hostingradio.ru:14536/jvstream.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Revolution (С.-Петербург)
+http://revolutionradio.ru:8000/live.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио YUM FM
+http://yumfm.hostingradio.ru:8020/yumfm128.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Алания FM
+http://vgtrk15.hostingradio.ru:8011/vgtrk15128.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Ашкадар (Уфа)
+http://radio.mediacdn.ru/ashkadar.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Балтика
+http://m6m128.hostingradio.ru:8074/m6m128.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Буряад FM (Улан-Удэ)
+http://buryadfm.hostingradio.ru:8018/buryadfm128.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Ватикана (Беларусь)
+http://live.vaticanwebradio.org/channel3.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Воскресение (Екатеринбург)
+http://217.24.181.164:8000/stream.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Говорит Майкоп
+http://voicemaikop.hostingradio.ru:8003/voicemaikop128.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Дом Дружбы (Волгоград)
+http://62.109.3.230/dom_druzhby.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Европа Плюс
+http://europaplus.hostingradio.ru:8014/europaplus320f.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Зайцев FM-Club
+http://zaycevfm.cdnvideo.ru/ZaycevFM_electronic_256.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Зайцев FM-Disco
+http://zaycevfm.cdnvideo.ru/ZaycevFM_disco_256.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Зайцев FM-KPop
+http://zaycevfm.cdnvideo.ru/ZaycevFM_kpop_256.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Зайцев FM-Pop
+http://zaycevfm.cdnvideo.ru/ZaycevFM_pop_256.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Зайцев FM-R'n'B
+http://zaycevfm.cdnvideo.ru/ZaycevFM_rnb_256.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Зайцев FM-Rap
+http://zaycevfm.cdnvideo.ru/ZaycevFM_rap_256.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Зайцев FM-Relax
+http://zaycevfm.cdnvideo.ru/ZaycevFM_relax_256.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Зайцев FM-Rock
+http://zaycevfm.cdnvideo.ru/ZaycevFM_alternative_256.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Зайцев FM-Rus
+http://zaycevfm.cdnvideo.ru/ZaycevFM_rus_256.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Зайцев FM-Зайчата
+http://zaycevfm.cdnvideo.ru/ZaycevFM_zaychata_256.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Зайцев FM-Шансон
+http://zaycevfm.cdnvideo.ru/ZaycevFM_shanson_256.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Иваново FM
+http://91.219.74.220:8000/IvanovoFM.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Искатель
+http://iskatel.hostingradio.ru:8015/iskatel-128.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Кавказ-Хит (Черкесск)
+http://kavkazhit.hostingradio.ru:8017/kavkazhit96.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Калина Красная FM
+http://emgregion.hostingradio.ru:8064/tolyati.s21.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Классик
+http://jfm1.hostingradio.ru:14536/rcstream.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Классик - Essential
+http://jfm1.hostingradio.ru:14536/ecstream.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Классик - Gold
+http://jfm1.hostingradio.ru:14536/gcstream.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Классик - Vocals
+http://jfm1.hostingradio.ru:14536/cvstream.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Классик - Поэзия
+http://jfm1.hostingradio.ru:14536/pcstream.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Коммерсант FM
+http://kommersant77.hostingradio.ru:8016/kommersant128.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Крылья
+http://listen7.myradio24.com:9000/rkradio_320.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Крым
+http://fm.1tvcrimea.ru:8000/stream.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Крым.Точка
+http://radiowired.1tvcrimea.ru:9001/stream_provod.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Кунел (Набережные Челны)
+http://live.kunelradio.ru:8000/320.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Курс (Курск)
+http://radio.dcatk.pro/radio.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Лена FM (Усть-кут)
+http://radio.60500.ru:8000/lenafm128.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Мария FM (Киров)
+http://mariafm.ru:8000/maria-fm.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Мейдан FM UA
+http://stream.meydan.fm:8800/meydanhigh.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Милицейская Волна
+http://radiomv.hostingradio.ru/radiomv256.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Море (Крым)
+http://sea.1tvcrimea.ru:9003/stream_sea.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио НВ UA
+http://91.218.212.84:8000/radionv.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Нестандарт
+http://listen.radionestandart.ru:8200/128.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Ностальгия FM (С.Петербург)
+http://www.nostalgia.fm:8000/nostalgia256.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Орфей
+http://orfeyfm.hostingradio.ru:8034/orfeyfm192.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Прокопьевск
+http://radioserver.27trk.ru:8000/prokopievsk.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Ретро FM
+http://europaplus.hostingradio.ru:8014/retro320.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Родных дорог (Чебоксары)
+http://stream1.radiord.ru:8000/live96.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Рок FM - 00s
+http://jfm1.hostingradio.ru:14536/rock00.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Рок FM - 70s
+http://jfm1.hostingradio.ru:14536/rock70.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Рок FM - 80s
+http://jfm1.hostingradio.ru:14536/rock80.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Рок FM - 90s
+http://jfm1.hostingradio.ru:14536/rock90.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Рок FM - Heavy
+http://jfm1.hostingradio.ru:14536/metal.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Рок FM - Prog
+http://jfm1.hostingradio.ru:14536/prog.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Русская Арктика
+http://radioarctika.hostingradio.ru:80/radioarctika128.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Русский Берлин (Германия)
+http://rb-stream.de:8000/rrb_128.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Серебряный Дождь
+http://213.59.4.27:8000/silver128.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Спутник FM (Уфа)
+http://radio.mediacdn.ru/sputnik_fm.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Сталинград (Волгоград)
+http://62.109.3.230/stalingrad.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Сяйво (Коломыя)
+http://stream.ntktv.ua:8000/syaivo.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Такт (Винница)
+http://radiotakt.com.ua:8000/takt.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио УТРо ВолГУ (Волгоград)
+http://volguutro.hostingradio.ru:8028/utrovolgu128.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Уфалея (Верхний Уфалей)
+http://radio.ufaley.su:8000/stream.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио ФМ-на Дону
+http://radio.mediacdn.ru/fm_na_donu.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Хакасия FM (Абакан)
+http://194.28.241.171:8000/kh.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Чайхона Family
+http://m11m128.hostingradio.ru:8074/m11m128.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Чипльдук
+http://radio.4duk.ru/4duk256.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Шансон
+http://chanson.hostingradio.ru:8041/chanson256.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Шансон - Без Цензуры
+http://chanson.hostingradio.ru:8041/chanson-uncensored256.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Шансон - Романтика
+http://chanson.hostingradio.ru:8041/chanson-romantic256.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Экспресс (Орёл)
+http://159.253.18.97:8000/128kbit.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Элит (Каменск-Шахтинский)
+http://77.75.129.217:8004/elit.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Юлдаш (Уфа)
+http://radio.mediacdn.ru/uldash.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радио Юлдаш Plus (Уфа)
+http://radio.mediacdn.ru/uldash_new.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радиола (Екатеринбург)
+http://online1.gkvr.ru:8000/radiola_eka_128.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Радиола (Саратов)
+http://online1.gkvr.ru:8000/radiola_srt_128.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Свое Радио UA - AC/DC
+http://212.26.146.50:8000/acdc.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Свое Радио UA - Dance
+http://212.26.146.50:8000/freshing.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Свое Радио UA - The Prodigy
+http://212.26.146.50:8000/prodigy.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Свое Радио UA - Рабинович FM
+http://212.26.146.50:8000/rabin.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Свое Радио UA - Русский Рок
+http://212.26.146.50:8000/rusrock.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",ТНТ Music Радио
+http://tntradio.hostingradio.ru:8027/tntradio128.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Эльдорадио (С.-Петербург)
+http://emgspb.hostingradio.ru/eldoradio128.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio Afera 98.6 - Pozna?
+http://radio.afera.com.pl/afera128.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio 7
+http://stream.radio7.pl:443/;stream.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio 90 - Rybnik
+http://streams.radio90.pl:8000/radio90_128kbps_stereo.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio Doxa fm
+http://81.210.92.213:8000/play.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio Ko�obrzeg
+http://graj.radiokolobrzeg.pl:8000/;stream.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio Pogoda
+http://stream10.radioagora.pl/tuba140-1.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Radio Weekend fm
+http://stream.weekendfm.pl:8000/weekendfm_256kbs.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",Rock Radio
+http://gdansk1-1.radio.pionier.net.pl:8000/pl/tuba8-1.mp3
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",TOK FM
+http://lodz.radio.pionier.net.pl:8000/pl/tuba10-1.mp3
