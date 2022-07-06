@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0 tvg-rec="0",24 Horas
+#EXTGRP:Grupo
+http://instanttv.info:8080/ha0tFUtAhRGR/BvBtBDU5e1y8/48395
+#EXTINF:0 tvg-rec="0",13 TV
+#EXTGRP:Grupo
+http://megatv.me:5890/live/zyneb/12345&output=ts/929.ts
