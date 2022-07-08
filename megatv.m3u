@@ -1,0 +1,417 @@
+#EXTM3U
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/13TV.png",13 TV
+http://megatv.me:5890/live/zyneb/12345&output=ts/929.ts
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/24H.png",24 Horas
+http://megatv.me:5890/live/zyneb/12345&output=ts/812.ts
+#EXTINF:-1 group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/7TVMUR.png",7 TV Región Murcia HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/814.ts
+#EXTINF:-1 group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/8TV.png",8 tv
+http://megatv.me:5890/live/zyneb/12345&output=ts/959.ts
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TQ1.png",Alquiler 1 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/78993.ts
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TQ1.png",Alquiler 2 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/78994.ts
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TQ1.png",Alquiler 3 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/78995.ts
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TQ1.png",Alquiler 4 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/78996.ts
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TQ1.png",Alquiler 5 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/78997.ts
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TQ1.png",Alquiler 6 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/956.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AMC.png",AMC
+http://megatv.me:5890/live/zyneb/12345&output=ts/823.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BIOGRA.png",AMC Break
+http://megatv.me:5890/live/zyneb/12345&output=ts/932.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CYM.png",AMC Crime
+http://megatv.me:5890/live/zyneb/12345&output=ts/930.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AMC.png",AMC FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/822.ts
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/A3.png",Antena 3
+http://megatv.me:5890/live/zyneb/12345&output=ts/785.ts
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/A3.png",Antena 3 FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/784.ts
+#EXTINF:-1 group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARAGTV.png",Aragón TV
+http://megatv.me:5890/live/zyneb/12345&output=ts/806.ts
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ATRESS.png",Atreseries HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/799.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AXN.png",AXN
+http://megatv.me:5890/live/zyneb/12345&output=ts/841.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AXN.png",AXN
+http://megatv.me:5890/live/zyneb/12345&output=ts/843.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AXN.png",AXN FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/840.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SET.png",AXN White FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/842.ts
+#EXTINF:-1 group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BABY.png",Baby TV
+http://megatv.me:5890/live/zyneb/12345&output=ts/70051.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BARNA.png",Barça TV
+http://megatv.me:5890/live/zyneb/12345&output=ts/866.ts
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BEMAD.png",BE MAD HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/811.ts
+#EXTINF:-1 group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BOING.png",Boing
+http://megatv.me:5890/live/zyneb/12345&output=ts/945.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CL13.png",Calle 13
+http://megatv.me:5890/live/zyneb/12345&output=ts/855.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CL13.png",Calle 13 FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/854.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CACOC.png",Canal Cocina
+http://megatv.me:5890/live/zyneb/12345&output=ts/936.ts
+#EXTINF:-1 group-title="Autonómicos" tvg-logo="https://www.canalcostatv.es/wp-content/uploads/2014/01/logo-canalcosta-tv.jpg",Canal costa HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/957.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DECASA.png",Canal Decasa
+http://megatv.me:5890/live/zyneb/12345&output=ts/935.ts
+#EXTINF:-1 group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png",Canal Panda
+http://megatv.me:5890/live/zyneb/12345&output=ts/944.ts
+#EXTINF:-1 group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CANSUR.png",Canal Sur
+http://megatv.me:5890/live/zyneb/12345&output=ts/803.ts
+#EXTINF:-1 group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CANSUR.png",Canal Sur HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/802.ts
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CAZPES.png",Caza y Pesca
+http://megatv.me:5890/live/zyneb/12345&output=ts/922.ts
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CAZPES.png",Caza y Pesca FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/921.ts
+#EXTINF:-1 group-title="Cine 4K" tvg-logo="https://pertenet.github.io/imagenes/cine_series/alquiler_M+_4K.png",Cine 1 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/133508.ts
+#EXTINF:-1 group-title="Cine 4K" tvg-logo="https://pertenet.github.io/imagenes/cine_series/alquiler_M+_4K.png",Cine 10 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/133499.ts
+#EXTINF:-1 group-title="Cine 4K" tvg-logo="https://pertenet.github.io/imagenes/cine_series/alquiler_M+_4K.png",Cine 11 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/133500.ts
+#EXTINF:-1 group-title="Cine 4K" tvg-logo="https://pertenet.github.io/imagenes/cine_series/alquiler_M+_4K.png",Cine 12 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/133501.ts
+#EXTINF:-1 group-title="Cine 4K" tvg-logo="https://pertenet.github.io/imagenes/cine_series/alquiler_M+_4K.png",Cine 13 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/133502.ts
+#EXTINF:-1 group-title="Cine 4K" tvg-logo="https://pertenet.github.io/imagenes/cine_series/alquiler_M+_4K.png",Cine 14 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/133503.ts
+#EXTINF:-1 group-title="Cine 4K" tvg-logo="https://pertenet.github.io/imagenes/cine_series/alquiler_M+_4K.png",Cine 15 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/133504.ts
+#EXTINF:-1 group-title="Cine 4K" tvg-logo="https://pertenet.github.io/imagenes/cine_series/alquiler_M+_4K.png",Cine 16 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/133505.ts
+#EXTINF:-1 group-title="Cine 4K" tvg-logo="https://pertenet.github.io/imagenes/cine_series/alquiler_M+_4K.png",Cine 17 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/133506.ts
+#EXTINF:-1 group-title="Cine 4K" tvg-logo="https://pertenet.github.io/imagenes/cine_series/alquiler_M+_4K.png",Cine 18 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/133507.ts
+#EXTINF:-1 group-title="Cine 4K" tvg-logo="https://pertenet.github.io/imagenes/cine_series/alquiler_M+_4K.png",Cine 2 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/133509.ts
+#EXTINF:-1 group-title="Cine 4K" tvg-logo="https://pertenet.github.io/imagenes/cine_series/alquiler_M+_4K.png",Cine 3 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/133510.ts
+#EXTINF:-1 group-title="Cine 4K" tvg-logo="https://pertenet.github.io/imagenes/cine_series/alquiler_M+_4K.png",Cine 4 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/133496.ts
+#EXTINF:-1 group-title="Cine 4K" tvg-logo="https://pertenet.github.io/imagenes/cine_series/alquiler_M+_4K.png",Cine 5 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/133511.ts
+#EXTINF:-1 group-title="Cine 4K" tvg-logo="https://pertenet.github.io/imagenes/cine_series/alquiler_M+_4K.png",Cine 6 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/133512.ts
+#EXTINF:-1 group-title="Cine 4K" tvg-logo="https://pertenet.github.io/imagenes/cine_series/alquiler_M+_4K.png",Cine 7 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/133513.ts
+#EXTINF:-1 group-title="Cine 4K" tvg-logo="https://pertenet.github.io/imagenes/cine_series/alquiler_M+_4K.png",Cine 8 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/133497.ts
+#EXTINF:-1 group-title="Cine 4K" tvg-logo="https://pertenet.github.io/imagenes/cine_series/alquiler_M+_4K.png",Cine 9 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/133498.ts
+#EXTINF:-1 group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CLANTV.png",Clan TVE
+http://megatv.me:5890/live/zyneb/12345&output=ts/797.ts
+#EXTINF:-1 group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CLANTV.png",Clan TVE FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/796.ts
+#EXTINF:-1 group-title="Música" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CLASSD.png",Classica
+http://megatv.me:5890/live/zyneb/12345&output=ts/804.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PCM.png",Comedy Central
+http://megatv.me:5890/live/zyneb/12345&output=ts/861.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PCM.png",Comedy Central FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/860.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/COSMO.png",COSMO
+http://megatv.me:5890/live/zyneb/12345&output=ts/849.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/COSMO.png",COSMO FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/848.ts
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/C4.png",Cuatro
+http://megatv.me:5890/live/zyneb/12345&output=ts/787.ts
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/C4.png",Cuatro FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/786.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DARK.png",DARK HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/817.ts
+#EXTINF:-1 group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M1SD.png",DAZN 1 FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/67250.ts
+#EXTINF:-1 group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M1SD.png",DAZN 1 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/89969.ts
+#EXTINF:-1 group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M2SD.png",DAZN 2 FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/862.ts
+#EXTINF:-1 group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M2SD.png",DAZN 2 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/89970.ts
+#EXTINF:-1 group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZN3.png",DAZN 3 FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/69660.ts
+#EXTINF:-1 group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZN3.png",DAZN 3 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/89971.ts
+#EXTINF:-1 group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZN4.png",DAZN 4 FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/89972.ts
+#EXTINF:-1 group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZN4.png",DAZN 4 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/89973.ts
+#EXTINF:-1 group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MVF1.png",DAZN F1
+http://megatv.me:5890/live/zyneb/12345&output=ts/891.ts
+#EXTINF:-1 group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MF1UHD.png",DAZN F1 4K FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/890.ts
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCR.png",Discovery
+http://megatv.me:5890/live/zyneb/12345&output=ts/931.ts
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCRMAX.png",Discovery Max
+http://megatv.me:5890/live/zyneb/12345&output=ts/920.ts
+#EXTINF:-1 group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCH.png",Disney Channel
+http://megatv.me:5890/live/zyneb/12345&output=ts/839.ts
+#EXTINF:-1 group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCH.png",Disney Channel
+http://megatv.me:5890/live/zyneb/12345&output=ts/939.ts
+#EXTINF:-1 group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCH.png",Disney Channel FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/938.ts
+#EXTINF:-1 group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PLAYDC.png",Disney Junior
+http://megatv.me:5890/live/zyneb/12345&output=ts/940.ts
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DIVINI.png",Divinity
+http://megatv.me:5890/live/zyneb/12345&output=ts/794.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DKISS.png",DKISS
+http://megatv.me:5890/live/zyneb/12345&output=ts/70049.ts
+#EXTINF:-1 group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DWSP.png",Dreamworks FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/98215.ts
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ENERGY.png",Energy
+http://megatv.me:5890/live/zyneb/12345&output=ts/795.ts
+#EXTINF:-1 group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ETB1.png",ETB 1 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/815.ts
+#EXTINF:-1 group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ETB2.png",ETB 2 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/816.ts
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ENW.png",Euronews HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/68024.ts
+#EXTINF:-1 group-title="Eurosport" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP.png",Eurosport 1
+http://megatv.me:5890/live/zyneb/12345&output=ts/869.ts
+#EXTINF:-1 group-title="Eurosport" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP.png",Eurosport 1 FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/868.ts
+#EXTINF:-1 group-title="Eurosport" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP2.png",Eurosport 2
+http://megatv.me:5890/live/zyneb/12345&output=ts/870.ts
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FDFIC.png",Factoría de Ficción
+http://megatv.me:5890/live/zyneb/12345&output=ts/798.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FOXGE.png",Fox
+http://megatv.me:5890/live/zyneb/12345&output=ts/845.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FOXGE.png",Fox FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/844.ts
+#EXTINF:-1 group-title="N/A" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2fcontent%2ffoxlife_1200.png",FOX LIFE
+http://megatv.me:5890/live/zyneb/12345&output=ts/847.ts
+#EXTINF:-1 group-title="N/A" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2fcontent%2ffoxlife_1200.png",FOX LIFE FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/846.ts
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FOXNWS.png",Fox News
+http://megatv.me:5890/live/zyneb/12345&output=ts/69664.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOL.png",GOL
+http://megatv.me:5890/live/zyneb/12345&output=ts/876.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOL.png",GOL HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/875.ts
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HIST.png",Historia
+http://megatv.me:5890/live/zyneb/12345&output=ts/927.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HOLLYW.png",Hollywood
+http://megatv.me:5890/live/zyneb/12345&output=ts/858.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HOLLYW.png",Hollywood FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/857.ts
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/IBERAL.png",Iberalia TV
+http://megatv.me:5890/live/zyneb/12345&output=ts/928.ts
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVE.png",LA 1
+http://megatv.me:5890/live/zyneb/12345&output=ts/781.ts
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVE.png",LA 1 FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/780.ts
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/LA2.png",LA 2
+http://megatv.me:5890/live/zyneb/12345&output=ts/783.ts
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/LA2.png",LA 2 FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/782.ts
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SEXTA.png",La Sexta
+http://megatv.me:5890/live/zyneb/12345&output=ts/791.ts
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SEXTA.png",La Sexta FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/790.ts
+#EXTINF:-1 group-title="LaLiga Bar" tvg-logo="https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar.png",Laliga tv bar
+http://megatv.me:5890/live/zyneb/12345&output=ts/878.ts
+#EXTINF:-1 group-title="LaLiga Bar" tvg-logo="https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar.png",Laliga tv bar 1
+http://megatv.me:5890/live/zyneb/12345&output=ts/879.ts
+#EXTINF:-1 group-title="LaLiga Bar" tvg-logo="https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar.png",Laliga tv bar 2
+http://megatv.me:5890/live/zyneb/12345&output=ts/880.ts
+#EXTINF:-1 group-title="LaLiga Bar" tvg-logo="https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar.png",Laliga tv bar 3
+http://megatv.me:5890/live/zyneb/12345&output=ts/881.ts
+#EXTINF:-1 group-title="LaLiga Bar" tvg-logo="https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar.png",Laliga tv bar 4
+http://megatv.me:5890/live/zyneb/12345&output=ts/882.ts
+#EXTINF:-1 group-title="LaLiga Bar" tvg-logo="https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar.png",Laliga tv bar FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/877.ts
+#EXTINF:-1 group-title="Documentales" tvg-logo="http://adamoliverbrown.com/wp-content/uploads/2015/01/love-nature-300x169.jpg",Love nature HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/167228.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV3.png",M+ #0
+http://megatv.me:5890/live/zyneb/12345&output=ts/821.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV3.png",M+ #0 FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/820.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png",M+ #Vamos
+http://megatv.me:5890/live/zyneb/12345&output=ts/884.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png",M+ #Vamos FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/883.ts
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPACCI.png",M+ Acción FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/824.ts
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCESP.png",M+ Cine Español
+http://megatv.me:5890/live/zyneb/12345&output=ts/838.ts
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOME.png",M+ Comedia
+http://megatv.me:5890/live/zyneb/12345&output=ts/825.ts
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOME.png",M+ Comedia
+http://megatv.me:5890/live/zyneb/12345&output=ts/831.ts
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOME.png",M+ Comedia FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/830.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPDEP.png",M+ Deportes
+http://megatv.me:5890/live/zyneb/12345&output=ts/889.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARTHUR.png",M+ Deportes 1 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/69665.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP2.png",M+ Deportes 2 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/808.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP3.png",M+ Deportes 3 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/809.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP11.png",M+ Deportes 4 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/92584.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPDEP.png",M+ Deportes FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/888.ts
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOLE.png",M+ Drama
+http://megatv.me:5890/live/zyneb/12345&output=ts/829.ts
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOLE.png",M+ Drama FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/828.ts
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV1.png",M+ Estrenos
+http://megatv.me:5890/live/zyneb/12345&output=ts/827.ts
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEST2.png",M+ Estrenos 2
+http://megatv.me:5890/live/zyneb/12345&output=ts/92581.ts
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEST2.png",M+ Estrenos 2
+http://megatv.me:5890/live/zyneb/12345&output=ts/837.ts
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEST2.png",M+ Estrenos 2 FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/92580.ts
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEST2.png",M+ Estrenos 2 FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/836.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MONFIR.png",M+ Fest HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/98152.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOLF+.png",M+ Golf
+http://megatv.me:5890/live/zyneb/12345&output=ts/893.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOLF+.png",M+ Golf FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/826.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOLF+.png",M+ Golf FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/892.ts
+#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",M+ LaLiga
+http://megatv.me:5890/live/zyneb/12345&output=ts/907.ts
+#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",M+ LaLiga
+http://megatv.me:5890/live/zyneb/12345&output=ts/914.ts
+#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png",M+ LaLiga 1
+http://megatv.me:5890/live/zyneb/12345&output=ts/909.ts
+#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png",M+ LaLiga 1 FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/908.ts
+#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG2.png",M+ LaLiga 2
+http://megatv.me:5890/live/zyneb/12345&output=ts/911.ts
+#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG2.png",M+ LaLiga 2 FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/910.ts
+#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG3.png",M+ LaLiga 3 FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/912.ts
+#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG4.png",M+ LaLiga 4
+http://megatv.me:5890/live/zyneb/12345&output=ts/913.ts
+#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG6.png",M+ LaLiga 6
+http://megatv.me:5890/live/zyneb/12345&output=ts/915.ts
+#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG7.png",M+ LaLiga 7
+http://megatv.me:5890/live/zyneb/12345&output=ts/916.ts
+#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG8.png",M+ LaLiga 8
+http://megatv.me:5890/live/zyneb/12345&output=ts/917.ts
+#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",M+ LaLiga FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/906.ts
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png",M+ Liga de Campeones
+http://megatv.me:5890/live/zyneb/12345&output=ts/895.ts
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png",M+ Liga de Campeones
+http://megatv.me:5890/live/zyneb/12345&output=ts/897.ts
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP2.png",M+ Liga de Campeones 2
+http://megatv.me:5890/live/zyneb/12345&output=ts/899.ts
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP2.png",M+ Liga de Campeones 2 FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/898.ts
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP3.png",M+ Liga de Campeones 3
+http://megatv.me:5890/live/zyneb/12345&output=ts/900.ts
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP4.png",M+ Liga de Campeones 4
+http://megatv.me:5890/live/zyneb/12345&output=ts/901.ts
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP5.png",M+ Liga de Campeones 5
+http://megatv.me:5890/live/zyneb/12345&output=ts/902.ts
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP6.png",M+ Liga de Campeones 6
+http://megatv.me:5890/live/zyneb/12345&output=ts/903.ts
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP7.png",M+ Liga de Campeones 7
+http://megatv.me:5890/live/zyneb/12345&output=ts/904.ts
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP8.png",M+ Liga de Campeones 8
+http://megatv.me:5890/live/zyneb/12345&output=ts/905.ts
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png",M+ Liga de Campeones FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/58244.ts
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png",M+ Liga de Campeones FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/896.ts
+#EXTINF:-1 group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPSER.png",M+ Series 2
+http://megatv.me:5890/live/zyneb/12345&output=ts/833.ts
+#EXTINF:-1 group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPSER.png",M+ Series 2
+http://megatv.me:5890/live/zyneb/12345&output=ts/92583.ts
+#EXTINF:-1 group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPSER.png",M+ Series 2 FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/832.ts
+#EXTINF:-1 group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPSER.png",M+ Series 2 FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/92582.ts
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEGA.png",Mega HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/800.ts
+#EXTINF:-1 group-title="Música" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEZZO.png",Mezzo
+http://megatv.me:5890/live/zyneb/12345&output=ts/949.ts
+#EXTINF:-1 group-title="Música" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEZOHD.png",Mezzo Live HD FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/948.ts
+#EXTINF:-1 group-title="Música" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MTV.png",MTV
+http://megatv.me:5890/live/zyneb/12345&output=ts/947.ts
+#EXTINF:-1 group-title="N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLq5cxywx73OOXjNwMUDxWq3NncD6mwOC5dSW8xzzrG2WknTD9cNKrFlrmW432lQYIJA&usqp=CAU",MULTIDEPORTE
+http://megatv.me:5890/live/zyneb/12345&output=ts/867.ts
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGW.png",Nat Geo Wild
+http://megatv.me:5890/live/zyneb/12345&output=ts/926.ts
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png",National Geographic
+http://megatv.me:5890/live/zyneb/12345&output=ts/924.ts
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png",National Geographic FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/923.ts
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png",National Geographic FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/925.ts
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NEOX.png",Neox
+http://megatv.me:5890/live/zyneb/12345&output=ts/792.ts
+#EXTINF:-1 group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NICK.png",Nickelodeon
+http://megatv.me:5890/live/zyneb/12345&output=ts/943.ts
+#EXTINF:-1 group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NICK.png",Nickelodeon FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/942.ts
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NOVA.png",Nova
+http://megatv.me:5890/live/zyneb/12345&output=ts/793.ts
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ODISEA.png",Odisea
+http://megatv.me:5890/live/zyneb/12345&output=ts/934.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PARCH.png",Paramount Channel
+http://megatv.me:5890/live/zyneb/12345&output=ts/859.ts
+#EXTINF:-1 group-title="N/A" tvg-logo="https://www.industriadeltenis.com/wp-content/uploads/2021/06/logo.png",Rakuten tv 2 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/834.ts
+#EXTINF:-1 group-title="N/A" tvg-logo="https://www.industriadeltenis.com/wp-content/uploads/2021/06/logo.png",Rakuten tv 3 HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/835.ts
+#EXTINF:-1 group-title="N/A" tvg-logo="https://www.industriadeltenis.com/wp-content/uploads/2021/06/logo.png",Rakuten tv HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/813.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/REALM.png",Real Madrid TV HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/864.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SOMOS.png",Somos
+http://megatv.me:5890/live/zyneb/12345&output=ts/856.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SOMOS.png",Somos HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/69667.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SCI-FI.png",SYFY
+http://megatv.me:5890/live/zyneb/12345&output=ts/853.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SCI-FI.png",SYFY FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/852.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TCM.png",TCM
+http://megatv.me:5890/live/zyneb/12345&output=ts/70050.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TCM.png",TCM HD
+http://megatv.me:5890/live/zyneb/12345&output=ts/69666.ts
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/T5.png",Telecinco
+http://megatv.me:5890/live/zyneb/12345&output=ts/789.ts
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/T5.png",Telecinco FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/788.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TDEP.png",Teledeporte
+http://megatv.me:5890/live/zyneb/12345&output=ts/872.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TDEP.png",Teledeporte FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/871.ts
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://conexion360.mx/wp-content/uploads/2020/01/FOTO-WEB-TNL-NOVELAS-696x482.jpg",Telenovelas
+http://megatv.me:5890/live/zyneb/12345&output=ts/805.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TNT.png",TNT
+http://megatv.me:5890/live/zyneb/12345&output=ts/851.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TNT.png",TNT FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/850.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CFERIA.png",Toros
+http://megatv.me:5890/live/zyneb/12345&output=ts/874.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CFERIA.png",Toros FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/873.ts
+#EXTINF:-1 group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TV3CAT.png",TV3
+http://megatv.me:5890/live/zyneb/12345&output=ts/69663.ts
+#EXTINF:-1 group-title="Generalistas" tvg-logo="http://logok.org/wp-content/uploads/2014/11/TVE-logo-880x645.png",Tve internacional
+http://megatv.me:5890/live/zyneb/12345&output=ts/69662.ts
+#EXTINF:-1 group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVGAL.png",TVG
+http://megatv.me:5890/live/zyneb/12345&output=ts/810.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/XTRM.png",XTRM FHD
+http://megatv.me:5890/live/zyneb/12345&output=ts/919.ts
+#EXTINF:-1 group-title="Religión" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/12/Canal-Orbe-21-en-vivo-Online-324x235.png",Canal orbe21
+http://megatv.me:5890/live/zyneb/12345&output=ts/807.ts
