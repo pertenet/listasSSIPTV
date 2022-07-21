@@ -1,0 +1,529 @@
+#EXTM3U
+#EXTINF:-1  group-title="Amazon Prime" tvg-logo="https://www.e-retailadvertising.com/wp-content/uploads/2017/05/Amazon_Prime_logo.jpg",Amazon prime
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26653&t=live&f=ts
+#EXTINF:-1  group-title="Amazon Prime" tvg-logo="https://www.e-retailadvertising.com/wp-content/uploads/2017/05/Amazon_Prime_logo.jpg",Amazon prime HD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26088&t=live&f=ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://pertenet.github.io/imagenes/autonomicos/101_malaga.png",101 tv malaga
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=25861&t=live&f=ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://ticnegocios.camaradesevilla.com/wp-content/uploads/2019/04/logo-7tv.png",7 TV
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=25846&t=live&f=ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-sur-2-1710.png",Canal Sur 2
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=25850&t=live&f=ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRwfwfOncex1_ZvOjuDCQ_Aqen8VbdjUfjVkvJqjg=s88-c-k-c0x00ffffff-no-rj",Ptv Málaga
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=25852&t=live&f=ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARAGON.png",Aragón TV Int
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=381&t=live&f=ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARAGON.png",Aragón TV Int
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3820&t=live&f=ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CSURHD.png",Canal Sur HD HD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=25851&t=live&f=ts
+#EXTINF:-1  group-title="Cine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7BWvOKa-C_nphIuxkDLrjyiF0wjj0wDEmMt_15nWU8ADCk6rFJc6AEv7yfniODm6m1Q&usqp=CAU",Cine sur
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26715&t=live&f=ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M1SD.png",DAZN 1
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26621&t=live&f=ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M1SD.png",DAZN 1
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=24923&t=live&f=ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M1SD.png",DAZN 1 HD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26623&t=live&f=ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M2SD.png",DAZN 2
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26622&t=live&f=ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZN4.png",DAZN 4
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26631&t=live&f=ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MVF1.png",DAZN F1
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26626&t=live&f=ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MVF1.png",DAZN F1
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26627&t=live&f=ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MVF1.png",DAZN F1
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3806&t=live&f=ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MVF1.png",DAZN F1 HD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=365&t=live&f=ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BARNA.png",Barça TV
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=384&t=live&f=ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BARNA.png",Barça TV
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3823&t=live&f=ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOL.png",GOL
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3843&t=live&f=ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png",M+ #Vamos
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26267&t=live&f=ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png",M+ #Vamos
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26270&t=live&f=ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png",M+ #Vamos
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=379&t=live&f=ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png",M+ #Vamos HD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3819&t=live&f=ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPDEP.png",M+ Deportes
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26254&t=live&f=ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPDEP.png",M+ Deportes
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=359&t=live&f=ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPDEP.png",M+ Deportes
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3800&t=live&f=ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://pertenet.github.io/imagenes/cajon/Meventos.png",M+ Eventos
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=429&t=live&f=ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://pertenet.github.io/imagenes/cajon/Meventos.png",M+ Eventos
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=427&t=live&f=ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://pertenet.github.io/imagenes/cajon/Meventos.png",M+ Eventos
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=432&t=live&f=ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOLF+.png",M+ Golf
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=361&t=live&f=ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOLF+.png",M+ Golf
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3802&t=live&f=ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLq5cxywx73OOXjNwMUDxWq3NncD6mwOC5dSW8xzzrG2WknTD9cNKrFlrmW432lQYIJA&usqp=CAU",MULTIDEPORTE
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=449&t=live&f=ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/REALM.png",Real Madrid TV
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=455&t=live&f=ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/REALM.png",Real Madrid TV
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=25867&t=live&f=ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TDEP.png",Teledeporte
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=457&t=live&f=ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CFERIA.png",Toros
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26276&t=live&f=ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CFERIA.png",Toros
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=376&t=live&f=ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CFERIA.png",Toros
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3816&t=live&f=ts
+#EXTINF:-1  group-title="Disney+" tvg-logo="https://tec.com.pe/wp-content/uploads/2021/09/Disney-Logo.wine_-750x430.png",Disney+
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26648&t=live&f=ts
+#EXTINF:-1  group-title="Disney+" tvg-logo="https://tec.com.pe/wp-content/uploads/2021/09/Disney-Logo.wine_-750x430.png",Disney+
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26605&t=live&f=ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CAZPES.png",Caza y Pesca HD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3831&t=live&f=ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCR.png",Discovery
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=408&t=live&f=ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCR.png",Discovery
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3836&t=live&f=ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HIST.png",Historia
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3844&t=live&f=ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/IBERAL.png",Iberalia TV
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3845&t=live&f=ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGW.png",Nat Geo Wild
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=371&t=live&f=ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGW.png",Nat Geo Wild
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3811&t=live&f=ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png",National Geographic
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26596&t=live&f=ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png",National Geographic
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=370&t=live&f=ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png",National Geographic HD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3810&t=live&f=ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ODISEA.png",Odisea
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=399&t=live&f=ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ODISEA.png",Odisea
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3829&t=live&f=ts
+#EXTINF:-1  group-title="Eurosport" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP.png",Eurosport 1
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26281&t=live&f=ts
+#EXTINF:-1  group-title="Eurosport" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP.png",Eurosport 1
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=352&t=live&f=ts
+#EXTINF:-1  group-title="Eurosport" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP.png",Eurosport 1
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3794&t=live&f=ts
+#EXTINF:-1  group-title="Eurosport" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP2.png",Eurosport 2
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=414&t=live&f=ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/24H.png",24 Horas
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=380&t=live&f=ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/A3.png",Antena 3
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=348&t=live&f=ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/A3.png",Antena 3
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3790&t=live&f=ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/A3.png",Antena 3
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26152&t=live&f=ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ATRESS.png",Atreseries HD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=25865&t=live&f=ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BEMAD.png",BE MAD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=385&t=live&f=ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BEMAD.png",BE MAD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3824&t=live&f=ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/C4.png",Cuatro
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=351&t=live&f=ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/C4.png",Cuatro
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3793&t=live&f=ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/C4.png",Cuatro
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26153&t=live&f=ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DIVINI.png",Divinity
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=412&t=live&f=ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DIVINI.png",Divinity
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3839&t=live&f=ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ENERGY.png",Energy
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=413&t=live&f=ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ENERGY.png",Energy
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3840&t=live&f=ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FDFIC.png",Factoría de Ficción
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=415&t=live&f=ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FDFIC.png",Factoría de Ficción HD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3841&t=live&f=ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVE.png",LA 1
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26150&t=live&f=ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVE.png",LA 1
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=355&t=live&f=ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVE.png",LA 1
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3797&t=live&f=ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/LA2.png",LA 2
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=421&t=live&f=ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/LA2.png",LA 2
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3846&t=live&f=ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SEXTA.png",La Sexta
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3798&t=live&f=ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEGA.png",Mega
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=25854&t=live&f=ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NEOX.png",Neox
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=450&t=live&f=ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NOVA.png",Nova
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=453&t=live&f=ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NOVA.png",Nova
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3854&t=live&f=ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/T5.png",Telecinco
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26154&t=live&f=ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/T5.png",Telecinco
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=374&t=live&f=ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/T5.png",Telecinco HD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3814&t=live&f=ts
+#EXTINF:-1  group-title="HBO" tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/09/HBO-Emblema.png",HBO
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26404&t=live&f=ts
+#EXTINF:-1  group-title="HBO" tvg-logo="https://antiguaroma.com/wp-content/uploads/2017/03/hbo-300x141.png",HBO España
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26651&t=live&f=ts
+#EXTINF:-1  group-title="HBO" tvg-logo="https://antiguaroma.com/wp-content/uploads/2017/03/hbo-300x141.png",HBO España
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26650&t=live&f=ts
+#EXTINF:-1  group-title="HBO" tvg-logo="https://antiguaroma.com/wp-content/uploads/2017/03/hbo-300x141.png",HBO España
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26652&t=live&f=ts
+#EXTINF:-1  group-title="HBO" tvg-logo="https://antiguaroma.com/wp-content/uploads/2017/03/hbo-300x141.png",HBO España
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26661&t=live&f=ts
+#EXTINF:-1  group-title="HBO" tvg-logo="https://antiguaroma.com/wp-content/uploads/2017/03/hbo-300x141.png",HBO España
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26803&t=live&f=ts
+#EXTINF:-1  group-title="HBO" tvg-logo="https://antiguaroma.com/wp-content/uploads/2017/03/hbo-300x141.png",HBO España HD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26808&t=live&f=ts
+#EXTINF:-1  group-title="HBO" tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/09/HBO-Emblema.png",HBO HD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26813&t=live&f=ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BABY.png",Baby TV
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=383&t=live&f=ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BABY.png",Baby TV
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3822&t=live&f=ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BOING.png",Boing
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=396&t=live&f=ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BOING.png",Boing HD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3826&t=live&f=ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png",Canal Panda
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=401&t=live&f=ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png",Canal Panda
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3830&t=live&f=ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CLANTV.png",Clan TVE
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26293&t=live&f=ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CLANTV.png",Clan TVE
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3832&t=live&f=ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCH.png",Disney Channel
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3837&t=live&f=ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCH.png",Disney Channel HD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=434&t=live&f=ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PLAYDC.png",Disney Junior
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26657&t=live&f=ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PLAYDC.png",Disney Junior
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26656&t=live&f=ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PLAYDC.png",Disney Junior
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=410&t=live&f=ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PLAYDC.png",Disney Junior
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3838&t=live&f=ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NICKJR.png",NICK JR
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=451&t=live&f=ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NICKJR.png",NICK JR
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3852&t=live&f=ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NICK.png",Nickelodeon
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=452&t=live&f=ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NICK.png",Nickelodeon
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3853&t=live&f=ts
+#EXTINF:-1  group-title="itv" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/media_new_itv_logo-copy.jpg",itv
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26347&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26220&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26173&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26143&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26112&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26108&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26144&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26221&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26149&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26145&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26232&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26274&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26285&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26289&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26327&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26328&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26330&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26331&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26332&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26356&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26357&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26359&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26360&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26595&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26284&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26600&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26647&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26255&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26273&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26597&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26613&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26614&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26619&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26660&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26724&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26800&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26105&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26107&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26117&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26137&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26147&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26169&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26183&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26185&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26202&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26204&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26203&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26216&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26230&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26235&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26236&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26249&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26251&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26252&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26260&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26259&t=live&f=ts
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://pertenet.github.io/imagenes/cajon/Mcine.png",M+ Cine HD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26103&t=live&f=ts
+#EXTINF:-1  group-title="M+ Infantil" tvg-logo="https://pertenet.github.io/imagenes/cajon/Minfantil.png",M+ Infantil
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26207&t=live&f=ts
+#EXTINF:-1  group-title="M+ Infantil" tvg-logo="https://pertenet.github.io/imagenes/cajon/Minfantil.png",M+ Infantil
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26335&t=live&f=ts
+#EXTINF:-1  group-title="M+ Infantil" tvg-logo="https://pertenet.github.io/imagenes/cajon/Minfantil.png",M+ Infantil
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26290&t=live&f=ts
+#EXTINF:-1  group-title="M+ Infantil" tvg-logo="https://pertenet.github.io/imagenes/cajon/Minfantil.png",M+ Infantil
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26354&t=live&f=ts
+#EXTINF:-1  group-title="M+ Infantil" tvg-logo="https://pertenet.github.io/imagenes/cajon/Minfantil.png",M+ Infantil
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26620&t=live&f=ts
+#EXTINF:-1  group-title="M+ Infantil" tvg-logo="https://pertenet.github.io/imagenes/cajon/Minfantil.png",M+ Infantil
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26723&t=live&f=ts
+#EXTINF:-1  group-title="M+ Infantil" tvg-logo="https://pertenet.github.io/imagenes/cajon/Minfantil.png",M+ Infantil
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26205&t=live&f=ts
+#EXTINF:-1  group-title="M+ Infantil" tvg-logo="https://pertenet.github.io/imagenes/cajon/Minfantil.png",M+ Infantil
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26209&t=live&f=ts
+#EXTINF:-1  group-title="M+ Infantil" tvg-logo="https://pertenet.github.io/imagenes/cajon/Minfantil.png",M+ Infantil
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26211&t=live&f=ts
+#EXTINF:-1  group-title="M+ Infantil" tvg-logo="https://pertenet.github.io/imagenes/cajon/Minfantil.png",M+ Infantil
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26212&t=live&f=ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",M+ LaLiga
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26141&t=live&f=ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",M+ LaLiga
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26321&t=live&f=ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",M+ LaLiga
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=357&t=live&f=ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",M+ LaLiga
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=386&t=live&f=ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",M+ LaLiga
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=435&t=live&f=ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",M+ LaLiga
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3849&t=live&f=ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",M+ LaLiga
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26046&t=live&f=ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",M+ LaLiga
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26269&t=live&f=ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png",M+ LaLiga 1 FHD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26045&t=live&f=ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG2.png",M+ LaLiga 2
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=388&t=live&f=ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG2.png",M+ LaLiga 2
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=24929&t=live&f=ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG2.png",M+ LaLiga 2 HD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26048&t=live&f=ts
+#EXTINF:-1  group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png",M+ Liga de Campeones
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26315&t=live&f=ts
+#EXTINF:-1  group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png",M+ Liga de Campeones
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26317&t=live&f=ts
+#EXTINF:-1  group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png",M+ Liga de Campeones
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=445&t=live&f=ts
+#EXTINF:-1  group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png",M+ Liga de Campeones
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26078&t=live&f=ts
+#EXTINF:-1  group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP1.png",M+ Liga de Campeones 1
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=439&t=live&f=ts
+#EXTINF:-1  group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP2.png",M+ Liga de Campeones 2
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26079&t=live&f=ts
+#EXTINF:-1  group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAUHD.png",M+ Liga de Campeones UHD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26142&t=live&f=ts
+#EXTINF:-1  group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAUHD.png",M+ Liga de Campeones UHD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26140&t=live&f=ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPACCI.png",M+ Acción
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26157&t=live&f=ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPACCI.png",M+ Acción
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=358&t=live&f=ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPACCI.png",M+ Acción HD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3799&t=live&f=ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCESP.png",M+ Cine Español
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=426&t=live&f=ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCESP.png",M+ Cine Español
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3847&t=live&f=ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MCLAS.png",M+ Clásicos
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26665&t=live&f=ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOME.png",M+ Comedia
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=363&t=live&f=ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOME.png",M+ Comedia
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3804&t=live&f=ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOLE.png",M+ Drama
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3801&t=live&f=ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOLE.png",M+ Drama HD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=360&t=live&f=ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV1.png",M+ Estrenos
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3805&t=live&f=ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEST2.png",M+ Estrenos 2 HD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26663&t=live&f=ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV1.png",M+ Estrenos HD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=364&t=live&f=ts
+#EXTINF:-1  group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPSER.png",M+ Series 2
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26662&t=live&f=ts
+#EXTINF:-1  group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPSER.png",M+ Series 2
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3809&t=live&f=ts
+#EXTINF:-1  group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV2.png",M+ Series HD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=362&t=live&f=ts
+#EXTINF:-1  group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV2.png",M+ Series HD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3803&t=live&f=ts
+#EXTINF:-1  group-title="Marvel" tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/marvel_studios-brandlogo.net_.png",Marvel studio
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26655&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AMC.png",AMC
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=347&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BIOGRA.png",AMC Break
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3825&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CYM.png",AMC Crime
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3835&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AMC.png",AMC HD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3789&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AXN.png",AXN
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=349&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AXN.png",AXN
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3791&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SET.png",AXN White
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=382&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SET.png",AXN White
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3821&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CL13.png",Calle 13
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=350&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CACOC.png",Canal Cocina
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=397&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CACOC.png",Canal Cocina
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3827&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DECASA.png",Canal Decasa
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=398&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DECASA.png",Canal Decasa HD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3828&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PCM.png",Comedy Central
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3833&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PCM.png",Comedy Central HD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=405&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/COSMO.png",COSMO
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=406&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/COSMO.png",COSMO
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3834&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DKISS.png",DKISS
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=25866&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FOXGE.png",Fox
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3795&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FOXGE.png",Fox HD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=353&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HOLLYW.png",Hollywood
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=354&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HOLLYW.png",Hollywood
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3796&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV3.png",M+ #0
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=378&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV3.png",M+ #0
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3818&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PARCH.png",Paramount Channel
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=454&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PARCH.png",Paramount Channel HD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3855&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SUNDAN.png",Sundance
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=456&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SUNDAN.png",Sundance
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3856&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SCI-FI.png",SYFY
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=372&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SCI-FI.png",SYFY
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3812&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TCM.png",TCM
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3813&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TCM.png",TCM HD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=373&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TNT.png",TNT
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=375&t=live&f=ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TNT.png",TNT
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=3815&t=live&f=ts
+#EXTINF:-1  group-title="Música" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MTV.png",MTV
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=447&t=live&f=ts
+#EXTINF:-1  group-title="Noticias" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BL.png",Bloomberg
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26883&t=live&f=ts
+#EXTINF:-1  group-title="Noticias" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-CNN-500x281.png",CNN
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26881&t=live&f=ts
+#EXTINF:-1  group-title="Noticias" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FOXNWS.png",Fox News
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=417&t=live&f=ts
+#EXTINF:-1  group-title="Rakuten" tvg-logo="https://www.cineytele.com/wp-content/uploads/2018/09/rakuten_cinema.jpg",Rakuten cinema
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26717&t=live&f=ts
+#EXTINF:-1  group-title="Rakuten" tvg-logo="https://www.cineytele.com/wp-content/uploads/2018/09/rakuten_cinema.jpg",Rakuten cinema
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26718&t=live&f=ts
+#EXTINF:-1  group-title="Social" tvg-logo="https://ferugby.es/wp-content/uploads/2021/03/ten-535x420.jpg",Ten
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=25869&t=live&f=ts
+#EXTINF:-1  group-title="Suptv" tvg-logo="https://pertenet.github.io/imagenes/cine_series/suptv.png",Suptv
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26343&t=live&f=ts
+#EXTINF:-1  group-title="Suptv" tvg-logo="https://pertenet.github.io/imagenes/cine_series/suptv.png",Suptv
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26345&t=live&f=ts
+#EXTINF:-1  group-title="Suptv" tvg-logo="https://pertenet.github.io/imagenes/cine_series/suptv.png",Suptv
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26344&t=live&f=ts
+#EXTINF:-1  group-title="Suptv" tvg-logo="https://pertenet.github.io/imagenes/cine_series/suptv.png",Suptv HD
+http://54.38.69.98.green.onerunthisway.me/live/sun.php?z=997&u=1vjMmr7wUc&s=1161353569&id=26089&t=live&f=ts
