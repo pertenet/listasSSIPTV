@@ -3,114 +3,118 @@
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381714.ts
 #EXTINF:-1  group-title="Andalucía" tvg-logo="https://pertenet.github.io/imagenes/autonomicos/101_malaga.png",101 tv malaga
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381713.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/13TV.png",13 TV
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381437.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/24H.png",24 Horas
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381664.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/3_24.png",3 24
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381712.ts
+#EXTINF:-1  group-title="La Rioja" tvg-logo="https://www.7rioja.tv/entorno/Cabeceras/Cabecera7RIOJA_paz.png?20220516c",7 la rioja
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381715.ts
+#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/APUNT.png",À Punt
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381709.ts
+#EXTINF:-1  group-title="Social" tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-logo-1-500x333.png",A&E
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381708.ts
+#EXTINF:-1  group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/a3cine.png",A3 cine
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381706.ts
+#EXTINF:-1  group-title="Música" tvg-logo="https://pertenet.github.io/imagenes/int_musica/activatv.png",Activa tv
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381705.ts
+#EXTINF:-1  group-title="Música" tvg-logo="https://cdn1.edgedatg.com/aws/v2/abc/AmericasFunniestHomeVideos/showimages/d551760c4d6267736d64cadb8137e588/700x234-Q80_d551760c4d6267736d64cadb8137e588.png",Afv espanol
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381704.ts
+#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSziQ4m8nmWABLMjfPY1JZ3M92MqTwKPjLMeDws0LqNJ63-vlRcsoD5SKtnKJWIszqdjOI&usqp=CAU",Alacantí TV
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381702.ts
+#EXTINF:-1  group-title="Castilla-La Mancha" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/alcarria-tv-324x235.png",Alcarria tv
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381701.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AMC.png",AMC
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381688.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/A3.png",Antena 3
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381687.ts
+#EXTINF:-1  group-title="Aragón" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARAGON.png",Aragón TV Int
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381685.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ATRESS.png",Atreseries
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381684.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AXN.png",AXN
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381683.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SET.png",AXN White
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381682.ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BABY.png",Baby TV
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381681.ts
 #EXTINF:-1  group-title="Andalucía" tvg-logo="https://graph.facebook.com/BailenTv/picture?width=200&height=200",Bailén tv
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381679.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BARNA.png",Barça TV
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381678.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BEMAD.png",BE MAD
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381677.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://pertenet.github.io/imagenes/int_deporte/BeIN_Sports_%C3%B1.png",Bein sports ñ
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381676.ts
+#EXTINF:-1  group-title="Cataluña" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BTV.png",Betevé
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381675.ts
+#EXTINF:-1  group-title="Social" tvg-logo="https://4.bp.blogspot.com/-nDE-TPDJPo4/V7n5uV0UxPI/AAAAAAAAn0g/-pJv8JtI-pMwsSkllQW11oqpWNdo1OFcQCLcB/s1600/Blaze-logo-2016.png",Blaze
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381674.ts
+#EXTINF:-1  group-title="Noticias" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BL.png",Bloomberg
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381672.ts
+#EXTINF:-1  group-title="Noticias" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BL.png",Bloomberg
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381673.ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BOING.png",Boing
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381671.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BOMCIN.png",BOM Cine
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381670.ts
+#EXTINF:-1  group-title="Cataluña" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/05/bon-dia-tv-en-directo-324x235.png",Bon dia tv
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381669.ts
+#EXTINF:-1  group-title="Música" tvg-logo="https://www.radio.es/images/broadcasts/62/d7/16930/c300.png",Cadena elite
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381668.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CL13.png",Calle 13
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381667.ts
+#EXTINF:-1  group-title="Cataluña" tvg-logo="https://restaurantgrop.cat/wp-content/uploads/2020/10/logo-canal-10-emporda.png",Canal 10 emporda
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381666.ts
+#EXTINF:-1  group-title="Castilla-La Mancha" tvg-logo="https://i.imgur.com/FykJUCH.png",Canal 2000 la solana
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381665.ts
+#EXTINF:-1  group-title="Aragón" tvg-logo="http://www.canal25tv.es/images/imagenes/logo_naranja_web_2.jpg",Canal 25 barbastro tv
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381663.ts
+#EXTINF:-1  group-title="C. de Madrid" tvg-logo="https://pertenet.github.io/imagenes/autonomicos/canal33.png",Canal 33
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381662.ts
+#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://pertenet.github.io/imagenes/autonomicos/canal_56.png",Canal 56
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381661.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CACOC.png",Canal Cocina
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381660.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DECASA.png",Canal Decasa
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381622.ts
 #EXTINF:-1  group-title="Andalucía" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/canal-do%C3%B1ana-324x235.png",Canal doñana
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381658.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/EXTREM.png",Canal Extremadura Sat
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381657.ts
 #EXTINF:-1  group-title="Andalucía" tvg-logo="https://womet.org/wp-content/uploads/2018/10/dXg0E5Ga_400x400.jpg",Canal málaga
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381655.ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png",Canal Panda
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381653.ts
 #EXTINF:-1  group-title="Andalucía" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/02/Canal-San-Roque-TV-324x235.png",Canal san roque
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381652.ts
 #EXTINF:-1  group-title="Andalucía" tvg-logo="https://graph.facebook.com/canalsierradecadiz/picture?width=200&height=200",Canal sierra de cádiz
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381651.ts
 #EXTINF:-1  group-title="Andalucía" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ANTV.png",Canal Sur Andalucía
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381650.ts
+#EXTINF:-1  group-title="Castilla-La Mancha" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CASMAN.png",Castilla la Mancha TV
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381649.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CAZPES.png",Caza y Pesca
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381648.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CCTV-E.png",CGTN Español
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381645.ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CLANTV.png",Clan TVE
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381644.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PCM.png",Comedy Central
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381642.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/COSMO.png",COSMO
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381636.ts
 #EXTINF:-1  group-title="Andalucía" tvg-logo="https://costanoroestetv.net/wp-content/uploads/2022/03/cropped-logo_costa_noroeste_4web-1.png",Costa noroeste tv
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381635.ts
 #EXTINF:-1  group-title="Andalucía" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/costa-del-sol-tv-324x235.png",Costadelsol tv
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381634.ts
-#EXTINF:-1  group-title="Andalucía" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/03/diez-tv-ubeda-324x235.png",Diez tv
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381621.ts
-#EXTINF:-1  group-title="Andalucía" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/02/interalmeria-tv-en-directo-324x235.png",Inter Almeria
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381561.ts
-#EXTINF:-1  group-title="Andalucía" tvg-logo="https://scontent.fvlc4-1.fna.fbcdn.net/v/t1.6435-9/72360433_101526994600112_6717550643055165440_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=75f_zb3zWmAAX9nvYFN&_nc_ht=scontent.fvlc4-1.fna&oh=00_AT_lWj0LbVxbM0pd5tHa865A_oa-fZ6aWr-EdMLpkrUadw&oe=631045E0",Islatel
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381558.ts
-#EXTINF:-1  group-title="Andalucía" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-VMYO16QaXiC9fMrHJH02qHEC-zTlDeRmcwhJ7DQ=s88-c-k-c0x00ffffff-no-rj",Onda algeciras tv
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381492.ts
-#EXTINF:-1  group-title="Andalucía" tvg-logo="https://ondacadiz.es/sites/default/files/logo_onda_cadiz_web_120_100_0.png",Onda cadiz
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381491.ts
-#EXTINF:-1  group-title="Andalucía" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/02/Teleonuba-324x235.png",Teleonuba
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381447.ts
-#EXTINF:-1  group-title="Aragón" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARAGON.png",Aragón TV Int
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381685.ts
-#EXTINF:-1  group-title="Aragón" tvg-logo="http://www.canal25tv.es/images/imagenes/logo_naranja_web_2.jpg",Canal 25 barbastro tv
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381663.ts
-#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/3_24.png",3 24
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381712.ts
-#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/EXTREM.png",Canal Extremadura Sat
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381657.ts
-#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CYLTV.png",La 7
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381555.ts
-#EXTINF:-1  group-title="Bangladesh" tvg-logo="https://photos.live-tv-channels.org/tv-logo/bd-ntv-5028-300x225.jpg",Ntv europe
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381495.ts
-#EXTINF:-1  group-title="C. de Madrid" tvg-logo="https://pertenet.github.io/imagenes/autonomicos/canal33.png",Canal 33
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381662.ts
-#EXTINF:-1  group-title="C. de Madrid" tvg-logo="https://graph.facebook.com/2004860103163343/picture?width=200&height=200",Distrito tv
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381612.ts
-#EXTINF:-1  group-title="C. de Madrid" tvg-logo="https://grupocadenamediatv.com/img/logo.png",Gcm tv
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381578.ts
-#EXTINF:-1  group-title="C. de Madrid" tvg-logo="https://scontent.fvlc4-1.fna.fbcdn.net/v/t1.6435-1/147429570_3938124079551505_718908069791027981_n.png?stp=dst-png_p200x200&_nc_cat=101&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=3L0jpUFcpUQAX8Gqgzq&_nc_ht=scontent.fvlc4-1.fna&edm=AKsJ254EAAAA&oh=00_AT-BVuv3qpl9fgsvQ7YTO0TVlAs7UEOE6deYMG0ZDu7d0Q&oe=6312464E",Solidaria tv
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381469.ts
-#EXTINF:-1  group-title="C. Foral de Navarra" tvg-logo="https://www.esteve.org/wp-content/uploads/2019/07/navarratv.jpg",Navarra tv
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381504.ts
-#EXTINF:-1  group-title="C. Foral de Navarra" tvg-logo="https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_200x200.jpg",TeleRibera
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381446.ts
-#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/APUNT.png",À Punt
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381709.ts
-#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSziQ4m8nmWABLMjfPY1JZ3M92MqTwKPjLMeDws0LqNJ63-vlRcsoD5SKtnKJWIszqdjOI&usqp=CAU",Alacantí TV
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381702.ts
-#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://pertenet.github.io/imagenes/autonomicos/canal_56.png",Canal 56
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381661.ts
-#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://pbs.twimg.com/profile_images/1368882742688182272/AVwfle5c_400x400.jpg",Maestrat TV
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381544.ts
-#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://graph.facebook.com/Punt3Television/picture?width=200&height=200",Punt 3 Vall Uixó
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381484.ts
-#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://pbs.twimg.com/profile_banners/158296410/1475575149/600x200",Telesafor
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381450.ts
-#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://iteleflix.com/archivos/Logo-TV-4-Vall-Uxo-200x200.jpeg",Tv 4 vall de uxó
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381436.ts
-#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://iteleflix.com/archivos/Logo-TV-4-Vall-Uxo-200x200.jpeg",Tv 4 vall de uxó
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381716.ts
-#EXTINF:-1  group-title="Canarias" tvg-logo="https://pertenet.github.io/imagenes/autonomicos/lancelot.png",Lancelot tv
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381548.ts
-#EXTINF:-1  group-title="Canarias" tvg-logo="https://tvendirecto.es/wp-content/uploads/mirame-tv-en-directo.png",Mírame tv
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381537.ts
-#EXTINF:-1  group-title="Cantabria" tvg-logo="http://populartvcantabria.com/wp-content/uploads/2022/05/logo-popular-horizontal-300x125-2-214x89.png",Popular TV Cantabria
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381487.ts
-#EXTINF:-1  group-title="Castilla y León" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/La-8-Castilla-y-Le%C3%B3n-en-directo-Online-324x235.png",La 8
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381554.ts
-#EXTINF:-1  group-title="Castilla-La Mancha" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/alcarria-tv-324x235.png",Alcarria tv
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381701.ts
-#EXTINF:-1  group-title="Castilla-La Mancha" tvg-logo="https://i.imgur.com/FykJUCH.png",Canal 2000 la solana
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381665.ts
-#EXTINF:-1  group-title="Castilla-La Mancha" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CASMAN.png",Castilla la Mancha TV
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381649.ts
-#EXTINF:-1  group-title="Castilla-La Mancha" tvg-logo="http://imastv.es/wp-content/uploads/2017/10/Slide-imastv-250x250.png",Imas tv
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381562.ts
-#EXTINF:-1  group-title="Castilla-La Mancha" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/visi%C3%B3n-6-324x235.png",Vision 6 tv
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381420.ts
-#EXTINF:-1  group-title="Cataluña" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BTV.png",Betevé
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381675.ts
-#EXTINF:-1  group-title="Cataluña" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/05/bon-dia-tv-en-directo-324x235.png",Bon dia tv
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381669.ts
-#EXTINF:-1  group-title="Cataluña" tvg-logo="https://restaurantgrop.cat/wp-content/uploads/2020/10/logo-canal-10-emporda.png",Canal 10 emporda
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381666.ts
-#EXTINF:-1  group-title="Cataluña" tvg-logo="https://tvgirona.com/wp-content/uploads/2022/01/tvgirona_logo_HD-scaled.jpg",Girona tv
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381577.ts
-#EXTINF:-1  group-title="Cataluña" tvg-logo="https://pbs.twimg.com/profile_images/1252212600923979776/Z8ANYZqX_400x400.jpg",teve.cat
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381442.ts
-#EXTINF:-1  group-title="Cataluña" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVC.png",TV3 Cat
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381431.ts
-#EXTINF:-1  group-title="Cataluña" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVC.png",TV3 Cat
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381432.ts
-#EXTINF:-1  group-title="Chile" tvg-logo="http://tvlive.altervista.org/wp-content/uploads/2018/05/el-pinguino-tv.png",El pinguino tv
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381604.ts
-#EXTINF:-1  group-title="Chile" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online-324x235.png",Enlace
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381600.ts
-#EXTINF:-1  group-title="Cine" tvg-logo="https://pertenet.github.io/imagenes/cine_series/a3cine.png",A3 cine
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381706.ts
-#EXTINF:-1  group-title="Cine" tvg-logo="https://scontent.fvlc4-1.fna.fbcdn.net/v/t1.6435-9/33653555_1941858582755820_202671457929527296_n.png?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=HA0dft35K1IAX_iqXVg&_nc_ht=scontent.fvlc4-1.fna&oh=00_AT_oLO1J4Ov_fwGGSvNzsidSwNQxj9DMXyb3ErzpPGEKQQ&oe=6309AE08",Sofy TV
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381472.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/C4.png",Cuatro
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381631.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Cultura-24-TV-Per%C3%BA-en-vivo-Online-324x235.png",Cultura 24 tv
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381630.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DARK.png",DARK
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381628.ts
 #EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M1SD.png",DAZN 1
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381627.ts
 #EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M2SD.png",DAZN 2
@@ -123,10 +127,36 @@ http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381624.ts
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381623.ts
 #EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png",DAZN LaLiga
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381549.ts
-#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BARNA.png",Barça TV
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381678.ts
-#EXTINF:-1  group-title="Deportes" tvg-logo="https://pertenet.github.io/imagenes/int_deporte/BeIN_Sports_%C3%B1.png",Bein sports ñ
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381676.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/03/diez-tv-ubeda-324x235.png",Diez tv
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381621.ts
+#EXTINF:-1  group-title="Religión" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/Canal-Diocesano-en-directo-Online-324x235.png",Diocesana Toledo
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381659.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCR.png",Discovery
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381620.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCRMAX.png",Discovery Max
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381610.ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCH.png",Disney Channel
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381618.ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PLAYDC.png",Disney Junior
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381616.ts
+#EXTINF:-1  group-title="C. de Madrid" tvg-logo="https://graph.facebook.com/2004860103163343/picture?width=200&height=200",Distrito tv
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381612.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DIVINI.png",Divinity
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381611.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DKISS.png",DKISS
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381629.ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DWSP.png",Dreamworks
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381608.ts
+#EXTINF:-1  group-title="Chile" tvg-logo="http://tvlive.altervista.org/wp-content/uploads/2018/05/el-pinguino-tv.png",El pinguino tv
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381604.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/INTECO.png",El Toro TV
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381603.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ENERGY.png",Energy
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381602.ts
+#EXTINF:-1  group-title="Chile" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online-324x235.png",Enlace
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381600.ts
+#EXTINF:-1  group-title="Religión" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Esperanza-TV-NorteAm%C3%A9rica-en-directo-Online-324x235.png",Esperanza TV
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381598.ts
 #EXTINF:-1  group-title="Deportes" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN-500x300.png",Espn
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381594.ts
 #EXTINF:-1  group-title="Deportes" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/1398/brand.gif?itok=qK15mOWo",Espn 2
@@ -137,12 +167,90 @@ http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381596.ts
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381595.ts
 #EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP3.png",Esport 3
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381593.ts
+#EXTINF:-1  group-title="País Vasco" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/ETB_Basque_2022.svg/revision/latest/scale-to-width-down/275?cb=20220106180200&path-prefix=es",Etb Basque
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381590.ts
+#EXTINF:-1  group-title="País Vasco" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/ETB_Basque_2022.svg/revision/latest/scale-to-width-down/275?cb=20220106180200&path-prefix=es",Etb Basque
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381592.ts
+#EXTINF:-1  group-title="Noticias" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ENW.png",Euronews
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381588.ts
+#EXTINF:-1  group-title="Eurosport" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP.png",Eurosport 1
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381587.ts
+#EXTINF:-1  group-title="Eurosport" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP2.png",Eurosport 2
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381586.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FDFIC.png",Factoría de Ficción
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381585.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FOXGE.png",Fox
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381584.ts
+#EXTINF:-1  group-title="Social" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2fcontent%2ffoxlife_1200.png",FOX LIFE
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381583.ts
 #EXTINF:-1  group-title="Deportes" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png",Fox sports 2
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381581.ts
+#EXTINF:-1  group-title="C. de Madrid" tvg-logo="https://grupocadenamediatv.com/img/logo.png",Gcm tv
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381578.ts
+#EXTINF:-1  group-title="Cataluña" tvg-logo="https://tvgirona.com/wp-content/uploads/2022/01/tvgirona_logo_HD-scaled.jpg",Girona tv
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381577.ts
 #EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOL.png",GOL
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381575.ts
+#EXTINF:-1  group-title="HBO" tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/09/HBO-Emblema.png",HBO
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381573.ts
+#EXTINF:-1  group-title="HBO" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature-hd_m.png",HBO Signature
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381572.ts
+#EXTINF:-1  group-title="HBO" tvg-logo="https://www.izzi.mx/bcanales/img/canal639.png",HBO Xtreme
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381571.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HIST.png",Historia
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381568.ts
+#EXTINF:-1  group-title="Música" tvg-logo="https://www.cineytele.com/wp-content/uploads/2020/05/LOGO-HIT-TV-2020-1.gif",HIT TV
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381566.ts
+#EXTINF:-1  group-title="Social" tvg-logo="https://mma.prnewswire.com/media/645443/HOLA_TV_Logo.jpg?w=500",Hola tv
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381565.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HOLLYW.png",Hollywood
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381656.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/IBERAL.png",Iberalia TV
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381564.ts
+#EXTINF:-1  group-title="Música" tvg-logo="http://grupoprensapitiusa.es/images/logo%20IGTV.png",Ibiza Global TV
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381563.ts
+#EXTINF:-1  group-title="Castilla-La Mancha" tvg-logo="http://imastv.es/wp-content/uploads/2017/10/Slide-imastv-250x250.png",Imas tv
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381562.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/02/interalmeria-tv-en-directo-324x235.png",Inter Almeria
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381561.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Discovery_ID_2020.svg/revision/latest/scale-to-width-down/225?cb=20201110132225&path-prefix=es",Investigation Discovery
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381560.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://scontent.fvlc4-1.fna.fbcdn.net/v/t1.6435-9/72360433_101526994600112_6717550643055165440_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=75f_zb3zWmAAX9nvYFN&_nc_ht=scontent.fvlc4-1.fna&oh=00_AT_lWj0LbVxbM0pd5tHa865A_oa-fZ6aWr-EdMLpkrUadw&oe=631045E0",Islatel
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381558.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVE.png",LA 1
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381428.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/LA2.png",LA 2
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381427.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/LA2.png",LA 2
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381430.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CYLTV.png",La 7
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381555.ts
+#EXTINF:-1  group-title="Castilla y León" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/La-8-Castilla-y-Le%C3%B3n-en-directo-Online-324x235.png",La 8
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381554.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/RESIST.png",La Resistencia
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381524.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SEXTA.png",La Sexta
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381552.ts
+#EXTINF:-1  group-title="Música" tvg-logo="https://i0.wp.com/www.urbanrevolution.es/wp-content/uploads/2022/02/cropped-positivo-con-sombra.png?resize=1536%2C530&ssl=1",La urban tv
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381551.ts
+#EXTINF:-1  group-title="Canarias" tvg-logo="https://pertenet.github.io/imagenes/autonomicos/lancelot.png",Lancelot tv
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381548.ts
+#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://evallspsicologia.files.wordpress.com/2021/09/levante-tv.jpg?w=188&h=188",Levante TV
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381546.ts
+#EXTINF:-1  group-title="Religión" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/logos-tv-324x235.png",Logos TV
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381545.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV3.png",M+ #0
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381718.ts
 #EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png",M+ #Vamos
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381717.ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPACCI.png",M+ Acción
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381535.ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCESP.png",M+ Cine Español
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381534.ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MCLAS.png",M+ Clásicos
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381533.ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOME.png",M+ Comedia
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381532.ts
 #EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPDEP.png",M+ Deportes
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381530.ts
 #EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARTHUR.png",M+ Deportes 2
@@ -153,220 +261,42 @@ http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381521.ts
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381523.ts
 #EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP11.png",M+ Deportes 5
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381531.ts
-#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOLF+.png",M+ Golf
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381525.ts
-#EXTINF:-1  group-title="Deportes" tvg-logo="https://photos.live-tv-channels.org/tv-logo/motorvision-tv-3201.jpg",Motorvision
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381832.ts
-#EXTINF:-1  group-title="Deportes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLq5cxywx73OOXjNwMUDxWq3NncD6mwOC5dSW8xzzrG2WknTD9cNKrFlrmW432lQYIJA&usqp=CAU",MULTIDEPORTE
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381509.ts
-#EXTINF:-1  group-title="Deportes" tvg-logo="https://stillmed.olympics.com/media/Images/OlympicOrg/News/2017/06/16/2017-06-16-oc-logo-thumbnail.jpg?im=Resize=(2120,1200),aspect=fill",Olympic channel
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381493.ts
-#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/REALM.png",Real Madrid TV
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381476.ts
-#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TDEP.png",Teledeporte
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381448.ts
-#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CFERIA.png",Toros
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381439.ts
-#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CAZPES.png",Caza y Pesca
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381648.ts
-#EXTINF:-1  group-title="Documentales" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Cultura-24-TV-Per%C3%BA-en-vivo-Online-324x235.png",Cultura 24 tv
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381630.ts
-#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCR.png",Discovery
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381620.ts
-#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCRMAX.png",Discovery Max
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381610.ts
-#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HIST.png",Historia
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381568.ts
-#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/IBERAL.png",Iberalia TV
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381564.ts
-#EXTINF:-1  group-title="Documentales" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Discovery_ID_2020.svg/revision/latest/scale-to-width-down/225?cb=20201110132225&path-prefix=es",Investigation Discovery
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381560.ts
-#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGW.png",Nat Geo Wild
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381506.ts
-#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png",National Geographic
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381508.ts
-#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ODISEA.png",Odisea
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381654.ts
-#EXTINF:-1  group-title="Eurosport" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP.png",Eurosport 1
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381587.ts
-#EXTINF:-1  group-title="Eurosport" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP2.png",Eurosport 2
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381586.ts
-#EXTINF:-1  group-title="Galicia" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/05/televigo-en-directo-324x235.png",TeleVigo
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381444.ts
-#EXTINF:-1  group-title="Galicia" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVGAL.png",TVG
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381425.ts
-#EXTINF:-1  group-title="Galicia" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVGAL.png",TVG
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381579.ts
-#EXTINF:-1  group-title="Galicia" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/tvg-cultura-en-directo-324x235.png",Tvg cultura
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381422.ts
-#EXTINF:-1  group-title="Galicia" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/tvg-cultura-en-directo-324x235.png",Tvg cultura
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381423.ts
-#EXTINF:-1  group-title="Galicia" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/tvg-cultura-en-directo-324x235.png",Tvg cultura
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381424.ts
-#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/13TV.png",13 TV
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381437.ts
-#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/24H.png",24 Horas
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381664.ts
-#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/A3.png",Antena 3
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381687.ts
-#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ATRESS.png",Atreseries
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381684.ts
-#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BEMAD.png",BE MAD
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381677.ts
-#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CCTV-E.png",CGTN Español
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381645.ts
-#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/C4.png",Cuatro
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381631.ts
-#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DIVINI.png",Divinity
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381611.ts
-#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/INTECO.png",El Toro TV
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381603.ts
-#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ENERGY.png",Energy
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381602.ts
-#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FDFIC.png",Factoría de Ficción
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381585.ts
-#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVE.png",LA 1
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381428.ts
-#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/LA2.png",LA 2
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381427.ts
-#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/LA2.png",LA 2
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381430.ts
-#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SEXTA.png",La Sexta
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381552.ts
-#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEGA.png",Mega
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381541.ts
-#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NEOX.png",Neox
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381503.ts
-#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NOVA.png",Nova
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381496.ts
-#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/T5.png",Telecinco
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381449.ts
-#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TLESUR.png",Telesur
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381445.ts
-#EXTINF:-1  group-title="Generalistas" tvg-logo="http://logok.org/wp-content/uploads/2014/11/TVE-logo-880x645.png",Tve internacional
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381747.ts
-#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.televvd.com/wp-content/uploads/2020/01/Star-tve.png",TVE Star
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381426.ts
-#EXTINF:-1  group-title="HBO" tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/09/HBO-Emblema.png",HBO
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381573.ts
-#EXTINF:-1  group-title="HBO" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature-hd_m.png",HBO Signature
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381572.ts
-#EXTINF:-1  group-title="HBO" tvg-logo="https://www.izzi.mx/bcanales/img/canal639.png",HBO Xtreme
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381571.ts
-#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BABY.png",Baby TV
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381681.ts
-#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BOING.png",Boing
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381671.ts
-#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png",Canal Panda
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381653.ts
-#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CLANTV.png",Clan TVE
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381644.ts
-#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCH.png",Disney Channel
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381618.ts
-#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PLAYDC.png",Disney Junior
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381616.ts
-#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DWSP.png",Dreamworks
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381608.ts
-#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NICKJR.png",NICK JR
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381502.ts
-#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NICK.png",Nickelodeon
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381500.ts
-#EXTINF:-1  group-title="Infantíl" tvg-logo="https://static.wixstatic.com/media/76b12f_7f5399c067cd448cb08f1bc3a01e384f~mv2.png/v1/fill/w_234,h_202,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/antenita_logo_transparente_edited.png",Pequeradio tv
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381489.ts
-#EXTINF:-1  group-title="La Rioja" tvg-logo="https://www.7rioja.tv/entorno/Cabeceras/Cabecera7RIOJA_paz.png?20220516c",7 la rioja
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381715.ts
-#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",M+ LaLiga
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381517.ts
-#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png",M+ LaLiga 02
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381522.ts
-#EXTINF:-1  group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png",M+ Liga de Campeones
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381515.ts
-#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPACCI.png",M+ Acción
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381535.ts
-#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCESP.png",M+ Cine Español
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381534.ts
-#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MCLAS.png",M+ Clásicos
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381533.ts
-#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOME.png",M+ Comedia
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381532.ts
 #EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOLE.png",M+ Drama
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381529.ts
 #EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV1.png",M+ Estrenos
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381527.ts
 #EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEST2.png",M+ Estrenos 2
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381528.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MONFIR.png",M+ Fest
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381526.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOLF+.png",M+ Golf
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381525.ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",M+ LaLiga
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381517.ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png",M+ LaLiga 02
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381522.ts
+#EXTINF:-1  group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png",M+ Liga de Campeones
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381515.ts
 #EXTINF:-1  group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV2.png",M+ Series
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381513.ts
 #EXTINF:-1  group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPSER.png",M+ Series 2
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381514.ts
-#EXTINF:-1  group-title="Melilla" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/02/TV-Melilla-en-directo-Online-324x235.png",Melilla tv
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381540.ts
-#EXTINF:-1  group-title="Melilla" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/08/POPULAR-TV-MELILLA-324x235.png",Popular TV Melilla
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381486.ts
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AMC.png",AMC
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381688.ts
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AXN.png",AXN
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381683.ts
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SET.png",AXN White
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381682.ts
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BOMCIN.png",BOM Cine
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381670.ts
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CL13.png",Calle 13
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381667.ts
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CACOC.png",Canal Cocina
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381660.ts
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DECASA.png",Canal Decasa
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381622.ts
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PCM.png",Comedy Central
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381642.ts
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/COSMO.png",COSMO
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381636.ts
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DARK.png",DARK
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381628.ts
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DKISS.png",DKISS
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381629.ts
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FOXGE.png",Fox
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381584.ts
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HOLLYW.png",Hollywood
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381656.ts
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/RESIST.png",La Resistencia
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381524.ts
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV3.png",M+ #0
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381718.ts
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MONFIR.png",M+ Fest
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381526.ts
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PARCH.png",Paramount Channel
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381490.ts
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SOMOS.png",Somos
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381467.ts
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SUNDAN.png",Sundance
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381464.ts
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SCI-FI.png",SYFY
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381463.ts
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TCM.png",TCM
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381451.ts
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TNT.png",TNT
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381440.ts
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/UBEAT.png",Ubeat
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381421.ts
-#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/XTRM.png",XTRM
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381419.ts
-#EXTINF:-1  group-title="Música" tvg-logo="https://cdn1.edgedatg.com/aws/v2/abc/AmericasFunniestHomeVideos/showimages/d551760c4d6267736d64cadb8137e588/700x234-Q80_d551760c4d6267736d64cadb8137e588.png",Afv espanol
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381704.ts
-#EXTINF:-1  group-title="Música" tvg-logo="https://www.radio.es/images/broadcasts/62/d7/16930/c300.png",Cadena elite
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381668.ts
-#EXTINF:-1  group-title="Música" tvg-logo="https://www.cineytele.com/wp-content/uploads/2020/05/LOGO-HIT-TV-2020-1.gif",HIT TV
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381566.ts
-#EXTINF:-1  group-title="Música" tvg-logo="http://grupoprensapitiusa.es/images/logo%20IGTV.png",Ibiza Global TV
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381563.ts
-#EXTINF:-1  group-title="Música" tvg-logo="https://i0.wp.com/www.urbanrevolution.es/wp-content/uploads/2022/02/cropped-positivo-con-sombra.png?resize=1536%2C530&ssl=1",La urban tv
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381551.ts
+#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://pbs.twimg.com/profile_images/1368882742688182272/AVwfle5c_400x400.jpg",Maestrat TV
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381544.ts
 #EXTINF:-1  group-title="Música" tvg-logo="https://seeklogo.com/images/M/mcm-pop-logo-042DCB84A2-seeklogo.com.png",MCM pop
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381839.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEGA.png",Mega
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381541.ts
+#EXTINF:-1  group-title="Melilla" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/02/TV-Melilla-en-directo-Online-324x235.png",Melilla tv
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381540.ts
 #EXTINF:-1  group-title="Música" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEZOHD.png",Mezzo Live HD
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381538.ts
+#EXTINF:-1  group-title="Canarias" tvg-logo="https://tvendirecto.es/wp-content/uploads/mirame-tv-en-directo.png",Mírame tv
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381537.ts
 #EXTINF:-1  group-title="Música" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/molatv.png",Molahits tv
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381536.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://photos.live-tv-channels.org/tv-logo/motorvision-tv-3201.jpg",Motorvision
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381832.ts
 #EXTINF:-1  group-title="Música" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MTV.png",MTV
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381510.ts
 #EXTINF:-1  group-title="Música" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MTV.png",MTV
@@ -375,18 +305,42 @@ http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381824.ts
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381831.ts
 #EXTINF:-1  group-title="Música" tvg-logo="https://www.itizaps.net/zapper/logo/b/mtv-classic.png",MTV Classic
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381829.ts
-#EXTINF:-1  group-title="Música" tvg-logo="https://www.radioguide.fm/uploads/images/radiostation/qmusic-2.png",Q music
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/380006.ts
-#EXTINF:-1  group-title="Música" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SOLMUS.png",Sol Música
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381471.ts
-#EXTINF:-1  group-title="Noticias" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BL.png",Bloomberg
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381672.ts
-#EXTINF:-1  group-title="Noticias" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BL.png",Bloomberg
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381673.ts
-#EXTINF:-1  group-title="Noticias" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ENW.png",Euronews
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381588.ts
-#EXTINF:-1  group-title="Noticias" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TV5.png",TV5MONDE
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381753.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLq5cxywx73OOXjNwMUDxWq3NncD6mwOC5dSW8xzzrG2WknTD9cNKrFlrmW432lQYIJA&usqp=CAU",MULTIDEPORTE
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381509.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGW.png",Nat Geo Wild
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381506.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png",National Geographic
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381508.ts
+#EXTINF:-1  group-title="C. Foral de Navarra" tvg-logo="https://www.esteve.org/wp-content/uploads/2019/07/navarratv.jpg",Navarra tv
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381504.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NEOX.png",Neox
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381503.ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NICKJR.png",NICK JR
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381502.ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NICK.png",Nickelodeon
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381500.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NOVA.png",Nova
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381496.ts
+#EXTINF:-1  group-title="Bangladesh" tvg-logo="https://photos.live-tv-channels.org/tv-logo/bd-ntv-5028-300x225.jpg",Ntv europe
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381495.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ODISEA.png",Odisea
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381654.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://stillmed.olympics.com/media/Images/OlympicOrg/News/2017/06/16/2017-06-16-oc-logo-thumbnail.jpg?im=Resize=(2120,1200),aspect=fill",Olympic channel
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381493.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-VMYO16QaXiC9fMrHJH02qHEC-zTlDeRmcwhJ7DQ=s88-c-k-c0x00ffffff-no-rj",Onda algeciras tv
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381492.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://ondacadiz.es/sites/default/files/logo_onda_cadiz_web_120_100_0.png",Onda cadiz
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381491.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PARCH.png",Paramount Channel
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381490.ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://static.wixstatic.com/media/76b12f_7f5399c067cd448cb08f1bc3a01e384f~mv2.png/v1/fill/w_234,h_202,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/antenita_logo_transparente_edited.png",Pequeradio tv
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381489.ts
+#EXTINF:-1  group-title="Cantabria" tvg-logo="http://populartvcantabria.com/wp-content/uploads/2022/05/logo-popular-horizontal-300x125-2-214x89.png",Popular TV Cantabria
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381487.ts
+#EXTINF:-1  group-title="Melilla" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/08/POPULAR-TV-MELILLA-324x235.png",Popular TV Melilla
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381486.ts
+#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://graph.facebook.com/Punt3Television/picture?width=200&height=200",Punt 3 Vall Uixó
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381484.ts
 #EXTINF:-1  group-title="Rakuten" tvg-logo="https://www.industriadeltenis.com/wp-content/uploads/2021/06/logo.png",Rakuten tv
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381477.ts
 #EXTINF:-1  group-title="Rakuten" tvg-logo="https://www.industriadeltenis.com/wp-content/uploads/2021/06/logo.png",Rakuten tv
@@ -399,23 +353,75 @@ http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381480.ts
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381481.ts
 #EXTINF:-1  group-title="Rakuten" tvg-logo="https://www.industriadeltenis.com/wp-content/uploads/2021/06/logo.png",Rakuten tv
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381482.ts
-#EXTINF:-1  group-title="Religión" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/Canal-Diocesano-en-directo-Online-324x235.png",Diocesana Toledo
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381659.ts
-#EXTINF:-1  group-title="Religión" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Esperanza-TV-NorteAm%C3%A9rica-en-directo-Online-324x235.png",Esperanza TV
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381598.ts
-#EXTINF:-1  group-title="Religión" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/logos-tv-324x235.png",Logos TV
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381545.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/REALM.png",Real Madrid TV
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381476.ts
 #EXTINF:-1  group-title="Religión" tvg-logo="https://cdn-profiles.tunein.com/s116672/images/logod.png?t=162377",RTV Vida
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381475.ts
+#EXTINF:-1  group-title="Cine" tvg-logo="https://scontent.fvlc4-1.fna.fbcdn.net/v/t1.6435-9/33653555_1941858582755820_202671457929527296_n.png?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=HA0dft35K1IAX_iqXVg&_nc_ht=scontent.fvlc4-1.fna&oh=00_AT_oLO1J4Ov_fwGGSvNzsidSwNQxj9DMXyb3ErzpPGEKQQ&oe=6309AE08",Sofy TV
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381472.ts
+#EXTINF:-1  group-title="Música" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SOLMUS.png",Sol Música
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381471.ts
+#EXTINF:-1  group-title="C. de Madrid" tvg-logo="https://scontent.fvlc4-1.fna.fbcdn.net/v/t1.6435-1/147429570_3938124079551505_718908069791027981_n.png?stp=dst-png_p200x200&_nc_cat=101&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=3L0jpUFcpUQAX8Gqgzq&_nc_ht=scontent.fvlc4-1.fna&edm=AKsJ254EAAAA&oh=00_AT-BVuv3qpl9fgsvQ7YTO0TVlAs7UEOE6deYMG0ZDu7d0Q&oe=6312464E",Solidaria tv
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381469.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SOMOS.png",Somos
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381467.ts
 #EXTINF:-1  group-title="Religión" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sophia_tv_de.png",Sophia tv
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381466.ts
-#EXTINF:-1  group-title="Social" tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-logo-1-500x333.png",A&E
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381708.ts
-#EXTINF:-1  group-title="Social" tvg-logo="https://4.bp.blogspot.com/-nDE-TPDJPo4/V7n5uV0UxPI/AAAAAAAAn0g/-pJv8JtI-pMwsSkllQW11oqpWNdo1OFcQCLcB/s1600/Blaze-logo-2016.png",Blaze
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381674.ts
-#EXTINF:-1  group-title="Social" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2fcontent%2ffoxlife_1200.png",FOX LIFE
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381583.ts
-#EXTINF:-1  group-title="Social" tvg-logo="https://mma.prnewswire.com/media/645443/HOLA_TV_Logo.jpg?w=500",Hola tv
-http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381565.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SUNDAN.png",Sundance
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381464.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SCI-FI.png",SYFY
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381463.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TCM.png",TCM
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381451.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/T5.png",Telecinco
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381449.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TDEP.png",Teledeporte
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381448.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/02/Teleonuba-324x235.png",Teleonuba
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381447.ts
+#EXTINF:-1  group-title="C. Foral de Navarra" tvg-logo="https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_200x200.jpg",TeleRibera
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381446.ts
+#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://pbs.twimg.com/profile_banners/158296410/1475575149/600x200",Telesafor
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381450.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TLESUR.png",Telesur
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381445.ts
+#EXTINF:-1  group-title="Galicia" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/05/televigo-en-directo-324x235.png",TeleVigo
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381444.ts
 #EXTINF:-1  group-title="Social" tvg-logo="https://ferugby.es/wp-content/uploads/2021/03/ten-535x420.jpg",Ten
 http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381443.ts
+#EXTINF:-1  group-title="Cataluña" tvg-logo="https://pbs.twimg.com/profile_images/1252212600923979776/Z8ANYZqX_400x400.jpg",teve.cat
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381442.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TNT.png",TNT
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381440.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CFERIA.png",Toros
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381439.ts
+#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://iteleflix.com/archivos/Logo-TV-4-Vall-Uxo-200x200.jpeg",Tv 4 vall de uxó
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381436.ts
+#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://iteleflix.com/archivos/Logo-TV-4-Vall-Uxo-200x200.jpeg",Tv 4 vall de uxó
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381716.ts
+#EXTINF:-1  group-title="Cataluña" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVC.png",TV3 Cat
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381431.ts
+#EXTINF:-1  group-title="Cataluña" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVC.png",TV3 Cat
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381432.ts
+#EXTINF:-1  group-title="Noticias" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TV5.png",TV5MONDE
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381753.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="http://logok.org/wp-content/uploads/2014/11/TVE-logo-880x645.png",Tve internacional
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381747.ts
+#EXTINF:-1  group-title="Galicia" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVGAL.png",TVG
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381425.ts
+#EXTINF:-1  group-title="Galicia" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVGAL.png",TVG
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381579.ts
+#EXTINF:-1  group-title="Galicia" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/tvg-cultura-en-directo-324x235.png",Tvg cultura
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381422.ts
+#EXTINF:-1  group-title="Galicia" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/tvg-cultura-en-directo-324x235.png",Tvg cultura
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381423.ts
+#EXTINF:-1  group-title="Galicia" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/tvg-cultura-en-directo-324x235.png",Tvg cultura
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381424.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/UBEAT.png",Ubeat
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381421.ts
+#EXTINF:-1  group-title="EU" tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn/images/radio-stations/new-york/univision-41-ny.png",Univisión 41
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381711.ts
+#EXTINF:-1  group-title="Castilla-La Mancha" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/visi%C3%B3n-6-324x235.png",Vision 6 tv
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381420.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/XTRM.png",XTRM
+http://srv1.novastream.xyz:8080/live/archstanton/askfeNSZHl/381419.ts

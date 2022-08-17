@@ -1,0 +1,901 @@
+#EXTM3U
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://pertenet.github.io/imagenes/autonomicos/101_malaga.png",101 tv malaga FHD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420832.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/24H.png",24 Horas
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1907.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/24H.png",24 Horas
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1684.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/24H.png",24 Horas
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1679.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/24H.png",24 Horas
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420810.ts
+#EXTINF:-1  group-title="Cataluña" tvg-logo="https://pertenet.github.io/imagenes/autonomicos/25TV.png",25 tv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420831.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/3_24.png",3 24
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420829.ts
+#EXTINF:-1  group-title="La Rioja" tvg-logo="https://www.7rioja.tv/entorno/Cabeceras/Cabecera7RIOJA_paz.png?20220516c",7 la rioja
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420827.ts
+#EXTINF:-1  group-title="Noticias" tvg-logo="https://media-exp2.licdn.com/dms/image/C4E0BAQFNCufqiTcEsA/company-logo_200_200/0/1631792406394?e=2147483647&v=beta&t=DHR8HcDhj04MiHiVV1GK9d8u2N9BLIirMo8i-_0GNhE",7 nn
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420786.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/7TVMUR.png",7 TV Región Murcia SD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420825.ts
+#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://www.aesfas.org/wp-content/uploads/2019/03/LOGO_650x650_MARINATV.jpg",8 La Marina TV
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420824.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/APUNT.png",À Punt
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420700.ts
+#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSziQ4m8nmWABLMjfPY1JZ3M92MqTwKPjLMeDws0LqNJ63-vlRcsoD5SKtnKJWIszqdjOI&usqp=CAU",Alacantí TV
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420822.ts
+#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSziQ4m8nmWABLMjfPY1JZ3M92MqTwKPjLMeDws0LqNJ63-vlRcsoD5SKtnKJWIszqdjOI&usqp=CAU",Alacantí TV
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420724.ts
+#EXTINF:-1  group-title="Castilla-La Mancha" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/alcarria-tv-324x235.png",Alcarria tv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420821.ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HDTQ10.png",Alquiler1 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/289578.ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HDTQ10.png",Alquiler10 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/289587.ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HDTQ10.png",Alquiler11 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/289588.ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HDTQ10.png",Alquiler12 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/289589.ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HDTQ10.png",Alquiler2 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/289579.ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HDTQ10.png",Alquiler3 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/289580.ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HDTQ10.png",Alquiler4 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/289581.ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HDTQ10.png",Alquiler5 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/289582.ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HDTQ10.png",Alquiler6 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/289583.ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HDTQ10.png",Alquiler7 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/289584.ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HDTQ10.png",Alquiler8 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/289585.ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HDTQ10.png",Alquiler9 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/289586.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BIOGRA.png",AMC Break
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1872.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BIOGRA.png",AMC Break
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/353715.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BIOGRA.png",AMC Break
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1607.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CYM.png",AMC Crime
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1864.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CYM.png",AMC Crime
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/353716.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CYM.png",AMC Crime
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1603.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AMC.png",AMC HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1881.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AMC.png",AMC HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1664.ts
+#EXTINF:-1  group-title="Pluto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Ana y los 7 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412929.ts
+#EXTINF:-1  group-title="Pluto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Animakids HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412927.ts
+#EXTINF:-1  group-title="Pluto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Animakids Plus HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412926.ts
+#EXTINF:-1  group-title="Pluto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Animales
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412925.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/A3.png",Antena 3 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1913.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/A3.png",Antena 3 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1695.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARAGON.png",Aragón TV Int
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1880.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARAGON.png",Aragón TV Int
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1682.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARAGON.png",Aragón TV Int HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420817.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARAGON.png",Aragón TV Int HEVC
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420816.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARAGON.png",Aragón TV Int SD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420818.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ATRESS.png",Atreseries HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/425843.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AXN.png",AXN
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1879.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AXN.png",AXN
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1663.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AXN.png",AXN HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1878.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AXN.png",AXN HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1662.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SET.png",AXN White HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1877.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SET.png",AXN White HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1661.ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BABY.png",Baby TV
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1896.ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BABY.png",Baby TV
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1675.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://graph.facebook.com/BailenTv/picture?width=200&height=200",Bailén tv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420815.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BARNA.png",Barça TV
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1851.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BARNA.png",Barça TV
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1638.ts
+#EXTINF:-1  group-title="Cine" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/e78fe978011637.5c98f0b4acf24.png",BBC Drama HD HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412928.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BEMAD.png",BE MAD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1873.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BEMAD.png",BE MAD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1686.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BTV.png",Betevé
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420814.ts
+#EXTINF:-1  group-title="Noticias" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BL.png",Bloomberg
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/415387.ts
+#EXTINF:-1  group-title="24H" tvg-logo="https://i.pinimg.com/564x/29/a2/c6/29a2c6b2679c4c91408a8d9591574c30.jpg",Bob esponja
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/112622.ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BOING.png",Boing
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1895.ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BOING.png",Boing
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1674.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BOMCIN.png",BOM Cine
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/370285.ts
+#EXTINF:-1  group-title="Cataluña" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/05/bon-dia-tv-en-directo-324x235.png",Bon dia tv HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420813.ts
+#EXTINF:-1  group-title="Social" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/ax4fdakeesgmbfimmwio",Brat TV
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/415386.ts
+#EXTINF:-1  group-title="24H" tvg-logo="https://i.pinimg.com/564x/5b/1b/8c/5b1b8cce793f097edf1b8188a49e31a3.jpg",Caillou
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/138347.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CL13.png",Calle 13 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1871.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CL13.png",Calle 13 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1660.ts
+#EXTINF:-1  group-title="Aragón" tvg-logo="http://www.canal25tv.es/images/imagenes/logo_naranja_web_2.jpg",Canal 25 barbastro tv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420809.ts
+#EXTINF:-1  group-title="C. de Madrid" tvg-logo="https://pertenet.github.io/imagenes/autonomicos/canal33.png",Canal 33
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420812.ts
+#EXTINF:-1  group-title="Castilla-La Mancha" tvg-logo="https://scontent.fvlc4-1.fna.fbcdn.net/v/t1.6435-9/118693280_3575716202459135_4065017189499403654_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=e4EaOOb8VoYAX-agYg0&_nc_ht=scontent.fvlc4-1.fna&oh=00_AT-O7h1ZkTZ19SWZJXqpN2iTup9HqoGQ9qiUhbEUfe8Hmg&oe=63210167",Canal 4 mancha centro HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420820.ts
+#EXTINF:-1  group-title="Castilla-La Mancha" tvg-logo="https://scontent.fvlc4-1.fna.fbcdn.net/v/t1.6435-9/118693280_3575716202459135_4065017189499403654_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=e4EaOOb8VoYAX-agYg0&_nc_ht=scontent.fvlc4-1.fna&oh=00_AT-O7h1ZkTZ19SWZJXqpN2iTup9HqoGQ9qiUhbEUfe8Hmg&oe=63210167",Canal 4 mancha centro SD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420819.ts
+#EXTINF:-1  group-title="Canarias" tvg-logo="https://yt3.ggpht.com/Lsep_FN8FXds1BJw-7eat03q81fuF4szPikgfwReaEK3h_ETvH_PKAHxSYf5PXjo5u7_9Nqs=s88-c-k-c0x00ffffff-no-rj",Canal 4 Tenerife
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420808.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/02/Canal-45-Ja%C3%A9n-324x235.png",Canal 45 tv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420807.ts
+#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://pertenet.github.io/imagenes/autonomicos/canal_56.png",Canal 56
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420806.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CACOC.png",Canal Cocina
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1870.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CACOC.png",Canal Cocina
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/411242.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CACOC.png",Canal Cocina
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1606.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8VkBuOgUPJeEMtM5_qpQDn5mORgwfAzR5AqhMQ_Q=s88-c-k-c0x00ffffff-no-rj",Canal Coín
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420804.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DECASA.png",Canal Decasa
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1869.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DECASA.png",Canal Decasa
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1605.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/EXTREM.png",Canal Extremadura Sat
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420803.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://womet.org/wp-content/uploads/2018/10/dXg0E5Ga_400x400.jpg",Canal málaga
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420802.ts
+#EXTINF:-1  group-title="Religión" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/12/Canal-Orbe-21-en-vivo-Online-324x235.png",Canal orbe21
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1680.ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png",Canal Panda
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1894.ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png",Canal Panda
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1667.ts
+#EXTINF:-1  group-title="Noticias" tvg-logo="https://www.telesatellite.com/images/logos/canal-parlamento.gif",Canal Parlamento
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420801.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/02/Canal-San-Roque-TV-324x235.png",Canal san roque
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420800.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://graph.facebook.com/canalsierradecadiz/picture?width=200&height=200",Canal sierra de cádiz
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420799.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://www.superfibra.es/wp-content/uploads/canales-tv/canalsur1.jpg",Canal Sur 1 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1909.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ANTV.png",Canal Sur Andalucía
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1691.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://www.cancionero.es/portal/images/imagesweb/LogoTV_Trans.png",Cancionero TV
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420797.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CASMAN.png",Castilla la Mancha TV SD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412801.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CAZPES.png",Caza y Pesca HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1867.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CAZPES.png",Caza y Pesca HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1604.ts
+#EXTINF:-1  group-title="Pluto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Cine Accion HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412924.ts
+#EXTINF:-1  group-title="Pluto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Cine Clasico HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412923.ts
+#EXTINF:-1  group-title="Pluto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Cine Estelar HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412922.ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CLANTV.png",Clan TVE
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1902.ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CLANTV.png",Clan TVE
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1673.ts
+#EXTINF:-1  group-title="Música" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CLASSD.png",Classica
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1866.ts
+#EXTINF:-1  group-title="Música" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CLASSD.png",Classica
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1649.ts
+#EXTINF:-1  group-title="Música" tvg-logo="https://clubbingtv.com/wp-content/uploads/2021/01/CTV_LOGO_BN.jpg",Clubbing tv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/415385.ts
+#EXTINF:-1  group-title="Castilla-La Mancha" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200",Cmm
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420796.ts
+#EXTINF:-1  group-title="Pluto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Cocina HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412921.ts
+#EXTINF:-1  group-title="Pluto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Comedia (Made in Spain) HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412914.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PCM.png",Comedy Central HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1893.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PCM.png",Comedy Central HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1659.ts
+#EXTINF:-1  group-title="Social" tvg-logo="https://www.artsphoria.com/wp-content/uploads/2016/12/Comedy-Dynamics-LOGO.jpeg",Comedy Dynamics
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/415384.ts
+#EXTINF:-1  group-title="Noticias" tvg-logo="https://www.infocannabis.org/wp-content/uploads/2016/12/logo-congreso-diputados_Rafael-Mart%C3%ADnez-Sainero_ok-bja-300x172.jpg",Congreso de los diputados 1
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420795.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://scontent.fvlc4-1.fna.fbcdn.net/v/t1.6435-9/59708630_372724866696482_7765864770309193728_n.png?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=lIiXXSwIN_MAX_51Uyx&_nc_ht=scontent.fvlc4-1.fna&oh=00_AT-wmpt5aPMe0AGHjhUaCa3Mf5qpJI3AIPLKdenhBeI0lg&oe=6321383D",Córdoba tv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420792.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/COSMO.png",COSMO HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1865.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/COSMO.png",COSMO HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1658.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://costanoroestetv.net/wp-content/uploads/2022/03/cropped-logo_costa_noroeste_4web-1.png",Costa noroeste tv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420793.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://costanoroestetv.net/wp-content/uploads/2022/03/cropped-logo_costa_noroeste_4web-1.png",Costa noroeste tv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420749.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/costa-del-sol-tv-324x235.png",Costadelsol tv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420794.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/C4.png",Cuatro HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1912.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/C4.png",Cuatro HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1694.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DARK.png",DARK
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412764.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DARK.png",DARK HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412733.ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M1SD.png",DAZN 1 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/41321.ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M1SD.png",DAZN 1 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/41323.ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M2SD.png",DAZN 2
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/157480.ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M2SD.png",DAZN 2 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/41322.ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M2SD.png",DAZN 2 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/41324.ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZN3.png",DAZN 3 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/157481.ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZN3.png",DAZN 3 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/157478.ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZN4.png",DAZN 4 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/157477.ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MVF1.png",DAZN F1
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/414789.ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MVF1.png",DAZN F1 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/157479.ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MVF1.png",DAZN F1 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/157476.ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MVF1.png",DAZN F1 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/414786.ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MVF1.png",DAZN F1 SD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/414785.ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png",DAZN LaLiga
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/419456.ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png",DAZN LaLiga
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/419428.ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNL2.png",DAZN LaLiga 2
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/426350.ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNL2.png",DAZN LaLiga 2
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/426348.ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNL2.png",DAZN LaLiga 2
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420673.ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNL2.png",DAZN LaLiga 2
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420671.ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNL2.png",DAZN LaLiga 2
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420669.ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNL2.png",DAZN LaLiga 2
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420667.ts
+#EXTINF:-1  group-title="24H" tvg-logo="https://scontent-mad1-1.xx.fbcdn.net/v/t1.6435-9/157710759_258789849185807_4431601310022609382_n.jpg?stp=dst-jpg_p180x540&_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=cXFJmmdgmdkAX8TcWoC&_nc_ht=scontent-mad1-1.xx&oh=00_AT8Oz29RRNLS91yMt5k191XqNZORsAW6M08kDMpFPY5PNQ&oe=6320678C",Diana y roma
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/253927.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/03/diez-tv-ubeda-324x235.png",Diez tv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420791.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCR.png",Discovery
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1819.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCR.png",Discovery
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1602.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCRMAX.png",Discovery Max
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/229598.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCRMAX.png",Discovery Max HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/229597.ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCH.png",Disney Channel HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1892.ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCH.png",Disney Channel HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1672.ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PLAYDC.png",Disney Junior
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1891.ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PLAYDC.png",Disney Junior
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1889.ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PLAYDC.png",Disney Junior
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1671.ts
+#EXTINF:-1  group-title="C. de Madrid" tvg-logo="https://graph.facebook.com/2004860103163343/picture?width=200&height=200",Distrito tv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420790.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DIVINI.png",Divinity
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1863.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DIVINI.png",Divinity
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1688.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DKISS.png",DKISS
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/312694.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://seeklogo.com/images/N/nature-logo-E0922005BD-seeklogo.com.png",Docu relaxation
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/229316.ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DWSP.png",Dreamworks
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1890.ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DWSP.png",Dreamworks
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1670.ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Duck_TV.svg/revision/latest/scale-to-width-down/200?cb=20191212111607",Duck TV
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/415383.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8pBLFFjzlzZck5nd5AE6c2ak5mQUNO9ccQz8XfeA=s88-c-k-c0x00ffffff-no-rj",Edgesport
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/415365.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ENERGY.png",Energy
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1862.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ENERGY.png",Energy
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1689.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://escuelademusicasanjose.net/wp-content/uploads/2018/01/radiotelevisionestepona-mp3-image.jpg",Estepona tv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420784.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://mma.prnewswire.com/media/1056083/ESTV_Logo.jpg?w=200",Estv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/415366.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ETB1.png",ETB 1
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420783.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ETB2.png",ETB 2
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420782.ts
+#EXTINF:-1  group-title="País Vasco" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/ETB_Basque_2022.svg/revision/latest/scale-to-width-down/275?cb=20220106180200&path-prefix=es",Etb basque
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420787.ts
+#EXTINF:-1  group-title="País Vasco" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/ETB_Basque_2022.svg/revision/latest/scale-to-width-down/275?cb=20220106180200&path-prefix=es",Etb basque
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420781.ts
+#EXTINF:-1  group-title="Eurosport" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP.png",Eurosport 1
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1854.ts
+#EXTINF:-1  group-title="Eurosport" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP.png",Eurosport 1
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1855.ts
+#EXTINF:-1  group-title="Eurosport" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP.png",Eurosport 1
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1641.ts
+#EXTINF:-1  group-title="Eurosport" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP.png",Eurosport 1 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1642.ts
+#EXTINF:-1  group-title="Eurosport" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP2.png",Eurosport 2
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1853.ts
+#EXTINF:-1  group-title="Eurosport" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP2.png",Eurosport 2
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1640.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FDFIC.png",Factoría de Ficción
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1903.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FDFIC.png",Factoría de Ficción
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1690.ts
+#EXTINF:-1  group-title="Social" tvg-logo="https://static.wikia.nocookie.net/youtubepedia/images/7/73/FailArmy.jpg/revision/latest?cb=20160727185639&path-prefix=es",FailArmy International
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/415382.ts
+#EXTINF:-1  group-title="Footters" tvg-logo="https://www.footters.com/wp-content/uploads/2021/08/logo-black.png",Footters 01
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/282436.ts
+#EXTINF:-1  group-title="Footters" tvg-logo="https://www.footters.com/wp-content/uploads/2021/08/logo-black.png",Footters 02
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/282427.ts
+#EXTINF:-1  group-title="Footters" tvg-logo="https://www.footters.com/wp-content/uploads/2021/08/logo-black.png",Footters 03
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/282428.ts
+#EXTINF:-1  group-title="Footters" tvg-logo="https://www.footters.com/wp-content/uploads/2021/08/logo-black.png",Footters 04
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/282429.ts
+#EXTINF:-1  group-title="Footters" tvg-logo="https://www.footters.com/wp-content/uploads/2021/08/logo-black.png",Footters 05
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/282430.ts
+#EXTINF:-1  group-title="Footters" tvg-logo="https://www.footters.com/wp-content/uploads/2021/08/logo-black.png",Footters 06
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/282431.ts
+#EXTINF:-1  group-title="Footters" tvg-logo="https://www.footters.com/wp-content/uploads/2021/08/logo-black.png",Footters 07
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/282432.ts
+#EXTINF:-1  group-title="Footters" tvg-logo="https://www.footters.com/wp-content/uploads/2021/08/logo-black.png",Footters 08
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/282433.ts
+#EXTINF:-1  group-title="Footters" tvg-logo="https://www.footters.com/wp-content/uploads/2021/08/logo-black.png",Footters 09
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/282434.ts
+#EXTINF:-1  group-title="Footters" tvg-logo="https://www.footters.com/wp-content/uploads/2021/08/logo-black.png",Footters 10
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/282435.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FOXGE.png",Fox
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1883.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FOXGE.png",Fox
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1592.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FOXGE.png",Fox HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1885.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FOXGE.png",Fox HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1884.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FOXGE.png",Fox HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1657.ts
+#EXTINF:-1  group-title="Social" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2fcontent%2ffoxlife_1200.png",FOX LIFE HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1656.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/fuengirola-tv-324x235.png",Fuengirola tv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420778.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOL.png",GOL
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1852.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOL.png",GOL
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1639.ts
+#EXTINF:-1  group-title="24H" tvg-logo="https://cn.i.cdn.ti-platform.com/content/20/the-amazing-world-of-gumball/showpage/za/gumballshowlogo.a91fae82.png?imwidth=320",Gumball
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/308629.ts
+#EXTINF:-1  group-title="Series" tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/09/HBO-Emblema.png",Hbo HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1622.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HIST.png",Historia
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1811.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HIST.png",Historia
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1601.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HOLLYW.png",Hollywood HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1901.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HOLLYW.png",Hollywood HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1655.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HORSE.png",Horse TV
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412734.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HORSE.png",Horse TV FHD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412762.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/IBERAL.png",Iberalia TV
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1900.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/IBERAL.png",Iberalia TV
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1600.ts
+#EXTINF:-1  group-title="Castilla-La Mancha" tvg-logo="http://imastv.es/wp-content/uploads/2017/10/Slide-imastv-250x250.png",Imas tv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420776.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://join.insight.tv/wp-content/uploads/2020/02/RGB-InsightTV-Landscape.png",Insight TV
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/415380.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/02/interalmeria-tv-en-directo-324x235.png",Inter Almeria
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420775.ts
+#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://www.intercomarcal.com/wp-content/uploads/2017/11/cropped-cabecera2-1.gif",Intercomarcal TV
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420774.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWONDER.png",InWonder
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/415378.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWONDER.png",InWonder
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/415368.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://scontent.fvlc4-1.fna.fbcdn.net/v/t1.6435-9/72360433_101526994600112_6717550643055165440_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=75f_zb3zWmAAX9nvYFN&_nc_ht=scontent.fvlc4-1.fna&oh=00_AT_lWj0LbVxbM0pd5tHa865A_oa-fZ6aWr-EdMLpkrUadw&oe=631045E0",Islatel
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420773.ts
+#EXTINF:-1  group-title="24H" tvg-logo="https://pyxis.nymag.com/v1/imgs/960/345/e85754c01affa8cde98b6ce92f59e9a58a-just-for-laughs.rsquare.w330.jpg",Just for laughs
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/232836.ts
+#EXTINF:-1  group-title="Pluto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Kids HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412920.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVE.png",LA 1 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1915.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVE.png",LA 1 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1697.ts
+#EXTINF:-1  group-title="Cataluña" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/LA2.png",LA 2
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420769.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/LA2.png",LA 2 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1914.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/LA2.png",LA 2 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1696.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CYLTV.png",La 7
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420768.ts
+#EXTINF:-1  group-title="Castilla y León" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/La-8-Castilla-y-Le%C3%B3n-en-directo-Online-324x235.png",La 8 Ávila
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420767.ts
+#EXTINF:-1  group-title="Castilla y León" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/La-8-Castilla-y-Le%C3%B3n-en-directo-Online-324x235.png",La 8 Bierzo
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420766.ts
+#EXTINF:-1  group-title="Castilla y León" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/La-8-Castilla-y-Le%C3%B3n-en-directo-Online-324x235.png",La 8 Burgos
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420765.ts
+#EXTINF:-1  group-title="Castilla y León" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/La-8-Castilla-y-Le%C3%B3n-en-directo-Online-324x235.png",La 8 León
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420764.ts
+#EXTINF:-1  group-title="Castilla y León" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/La-8-Castilla-y-Le%C3%B3n-en-directo-Online-324x235.png",La 8 Zamora
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420763.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/OTRA.png",La Otra
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420761.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/RESIST.png",La Resistencia HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/317738.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SEXTA.png",La Sexta HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1910.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SEXTA.png",La Sexta HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1692.ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://assets.laliga.com/assets/public/logospage/laliga-h-16-9.jpg",LaLiga
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/323546.ts
+#EXTINF:-1  group-title="Canarias" tvg-logo="https://pertenet.github.io/imagenes/autonomicos/lancelot.png",Lancelot tv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420762.ts
+#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://evallspsicologia.files.wordpress.com/2021/09/levante-tv.jpg?w=188&h=188",Levante tv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420759.ts
+#EXTINF:-1  group-title="24H" tvg-logo="http://www.imclicensing.com.ar/wp-content/uploads/2017/11/LBB-600x464.png",Little baby bum
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/198787.ts
+#EXTINF:-1  group-title="Cine" tvg-logo="https://scontent-mad1-1.xx.fbcdn.net/v/t1.6435-9/106101318_112570513848384_1432922169686831474_n.png?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=RnPVZvmjxHkAX88mgJu&_nc_ht=scontent-mad1-1.xx&oh=00_AT9PExm3hVehz4Oe0l9Hohh8tWlMZfPhcAlLk-ofz9YNpQ&oe=6321E0B2",Lone Star
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/415377.ts
+#EXTINF:-1  group-title="Pluto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Los nuevos detectives HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412930.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV3.png",M+ #0 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1882.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV3.png",M+ #0 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1683.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png",M+ #Vamos HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1898.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png",M+ #Vamos HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1677.ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPACCI.png",M+ Acción HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1843.ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPACCI.png",M+ Acción HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1630.ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCESP.png",M+ Cine Español
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1842.ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCESP.png",M+ Cine Español
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1629.ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MCLAS.png",M+ Clásicos
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412505.ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOME.png",M+ Comedia HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1841.ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOME.png",M+ Comedia HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1628.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MCFUT.png",M+ Cracks
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/370284.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARTHUR.png",M+ Deportes 2
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/83381.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARTHUR.png",M+ Deportes 2
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/319074.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARTHUR.png",M+ Deportes 2
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/319073.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARTHUR.png",M+ Deportes 2
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/319072.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARTHUR.png",M+ Deportes 2 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/226591.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARTHUR.png",M+ Deportes 2 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1835.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARTHUR.png",M+ Deportes 2 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/31272.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARTHUR.png",M+ Deportes 2 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/226589.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP2.png",M+ Deportes 3 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/226592.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP2.png",M+ Deportes 3 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/226590.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPDEP.png",M+ Deportes HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1833.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPDEP.png",M+ Deportes HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1832.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPDEP.png",M+ Deportes HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1619.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPDEP.png",M+ Deportes HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1620.ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOLE.png",M+ Drama HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1840.ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOLE.png",M+ Drama HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1627.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MELLAV.png",M+ Ellas #V HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412506.ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEST2.png",M+ Estrenos 2 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/317739.ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV1.png",M+ Estrenos HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1839.ts
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV1.png",M+ Estrenos HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1626.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MONFIR.png",M+ Fest
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412814.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MONFIR.png",M+ Fest HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412813.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOLF+.png",M+ Golf HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1846.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOLF+.png",M+ Golf HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1633.ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",M+ LaLiga
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/325618.ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",M+ LaLiga
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420674.ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",M+ LaLiga
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420672.ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",M+ LaLiga
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420670.ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",M+ LaLiga
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420666.ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png",M+ LaLiga 02
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/325615.ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png",M+ LaLiga 02
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/325616.ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png",M+ LaLiga 02
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/325617.ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png",M+ LaLiga 02
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420668.ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png",M+ LaLiga 02 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/31269.ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png",M+ LaLiga 02 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/31271.ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png",M+ LaLiga 02 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/31268.ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png",M+ LaLiga 02 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/31270.ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG2.png",M+ LaLiga 03
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420665.ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG2.png",M+ LaLiga 03 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/31273.ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG3.png",M+ LaLiga 04 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/318477.ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG4.png",M+ LaLiga 05 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/318476.ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG5.png",M+ LaLiga 06 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/318475.ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG6.png",M+ LaLiga 07 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/318474.ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG7.png",M+ LaLiga 08 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/325815.ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG8.png",M+ LaLiga 09 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/325816.ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",M+ LaLiga HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1857.ts
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",M+ LaLiga HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1644.ts
+#EXTINF:-1  group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png",M+ Liga de Campeones
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1860.ts
+#EXTINF:-1  group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png",M+ Liga de Campeones
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/353741.ts
+#EXTINF:-1  group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png",M+ Liga de Campeones
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1647.ts
+#EXTINF:-1  group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png",M+ Liga de Campeones
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/353730.ts
+#EXTINF:-1  group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP1.png",M+ Liga de Campeones 02
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/83380.ts
+#EXTINF:-1  group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP2.png",M+ Liga de Campeones 03
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/83379.ts
+#EXTINF:-1  group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP6.png",M+ Liga de Campeones 07
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/319071.ts
+#EXTINF:-1  group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP7.png",M+ Liga de Campeones 08
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/319070.ts
+#EXTINF:-1  group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP8.png",M+ Liga de Campeones 09
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/325614.ts
+#EXTINF:-1  group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPSER.png",M+ Series 2 HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/317740.ts
+#EXTINF:-1  group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV2.png",M+ Series HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1836.ts
+#EXTINF:-1  group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV2.png",M+ Series HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1623.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="http://m95tv.es/wp-content/uploads/2014/10/logom951.png",M95 Marbella
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420758.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/Marbella-TV-324x235.png",Marbella tv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420756.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEGA.png",Mega HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1899.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEGA.png",Mega HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1687.ts
+#EXTINF:-1  group-title="Melilla" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/02/TV-Melilla-en-directo-Online-324x235.png",Melilla tv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420755.ts
+#EXTINF:-1  group-title="Música" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEZZO.png",Mezzo
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1830.ts
+#EXTINF:-1  group-title="Música" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEZZO.png",Mezzo
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1617.ts
+#EXTINF:-1  group-title="Música" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEZOHD.png",Mezzo Live HD HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1829.ts
+#EXTINF:-1  group-title="Música" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEZOHD.png",Mezzo Live HD HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1616.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/mijas-340-324x235.png",Mijas 3.40 tv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420754.ts
+#EXTINF:-1  group-title="Canarias" tvg-logo="https://tvendirecto.es/wp-content/uploads/mirame-tv-en-directo.png",Mírame tv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420753.ts
+#EXTINF:-1  group-title="Cine" tvg-logo="https://eu-trademark.s3.amazonaws.com/018269484",MovieSphere
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/415376.ts
+#EXTINF:-1  group-title="Música" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MTV.png",MTV
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1826.ts
+#EXTINF:-1  group-title="Música" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MTV.png",MTV
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1612.ts
+#EXTINF:-1  group-title="Música" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/MTV_00s_Logo.png",MTV 00s
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1594.ts
+#EXTINF:-1  group-title="Pluto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",MTV Catfish HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412911.ts
+#EXTINF:-1  group-title="Pluto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",MTV Cribs HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412910.ts
+#EXTINF:-1  group-title="Pluto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",MTV Music Made in Spain HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412913.ts
+#EXTINF:-1  group-title="Pluto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",MTV Originals HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412912.ts
+#EXTINF:-1  group-title="Pluto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Mundo Real HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412919.ts
+#EXTINF:-1  group-title="Cine" tvg-logo="https://cinedigm.com/wp-content/uploads/2021/08/MyTime.png",My Time Movies
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/415375.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGW.png",Nat Geo Wild
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1817.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGW.png",Nat Geo Wild
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1598.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGW.png",Nat Geo Wild HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1816.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGW.png",Nat Geo Wild HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1597.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png",National Geographic HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1818.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png",National Geographic HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1599.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NAUTIC.png",Nautical Channel
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412763.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NAUTIC.png",Nautical Channel
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412735.ts
+#EXTINF:-1  group-title="C. Foral de Navarra" tvg-logo="https://www.esteve.org/wp-content/uploads/2019/07/navarratv.jpg",Navarra tv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420752.ts
+#EXTINF:-1  group-title="Noticias" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NEGOTV.png",Negocios TV HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420751.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NEOX.png",Neox
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1815.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NEOX.png",Neox
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1685.ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NICKJR.png",NICK JR
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1669.ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NICK.png",Nickelodeon HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1887.ts
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NICK.png",Nickelodeon HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1668.ts
+#EXTINF:-1  group-title="Canarias" tvg-logo="https://scontent-mad1-1.xx.fbcdn.net/v/t39.30808-6/294997753_3218921395041174_5239836547091729948_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Yu4QxvbPevMAX_8iFX8&_nc_ht=scontent-mad1-1.xx&oh=00_AT8bHRvxAV4RJErDE3i80tkkgtr8g5zQe5dQ5wh6e9gwvQ&oe=62FEE456",NORTE visión
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420748.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NOVA.png",Nova
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1908.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NOVA.png",Nova
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1681.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ODISEA.png",Odisea
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1868.ts
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ODISEA.png",Odisea
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1596.ts
+#EXTINF:-1  group-title="24H" tvg-logo="https://tvserialchannel.com/wp-content/uploads/2021/10/Oggy-And-The-Cockroaches-TV-Show-Channel-Number-Small.jpg",Oggy
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/253925.ts
+#EXTINF:-1  group-title="País Vasco" tvg-logo="https://www.eragintzafundazioa.eus/wp-content/uploads/oizmendi-768x550.jpg",Oizmendi tv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420747.ts
+#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://diretele.com/wp-content/uploads/2020/09/Onda-15-TV-en-directo-gratis-%E2%80%A2-Diretele-La-TV-de-Espana-Gratis-150x150.png",Onda 15 tv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420746.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-VMYO16QaXiC9fMrHJH02qHEC-zTlDeRmcwhJ7DQ=s88-c-k-c0x00ffffff-no-rj",Onda algeciras tv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420745.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://ondacadiz.es/sites/default/files/logo_onda_cadiz_web_120_100_0.png",Onda cadiz
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420823.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://ondacadiz.es/sites/default/files/logo_onda_cadiz_web_120_100_0.png",Onda cadiz
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420744.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PARCH.png",Paramount Channel
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1814.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PARCH.png",Paramount Channel
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1654.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://www.guarroman.es/wp-content/uploads/2018/10/logo-vector-parlamento-de-andalucia.jpg",Parlamento de Andalucía
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420742.ts
+#EXTINF:-1  group-title="Social" tvg-logo="https://www.seekpng.com/png/full/205-2051227_media-assets-people-are-awesome-png.png",People are Awesome
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/415374.ts
+#EXTINF:-1  group-title="Cantabria" tvg-logo="http://populartvcantabria.com/wp-content/uploads/2022/05/logo-popular-horizontal-300x125-2-214x89.png",Popular TV Cantabria
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420741.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8gqln5DGBJSODH3c9eZmkd5msQedQiJCr1mpQZ5zc=s88-c-k-c0x00ffffff-no-rj",Ptv córdoba
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420740.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://pbs.twimg.com/profile_images/1501482378144923650/fAASXiU6_400x400.jpg",Ptv granada
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420739.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://pbs.twimg.com/profile_images/1501478081051213825/XtkAxEQr_400x400.jpg",Ptv sevilla
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420738.ts
+#EXTINF:-1  group-title="24H" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b06b4851-cc00-4c84-aa73-82ce8f9e830d/dexwapz-c12df4b0-2b57-4ab5-97a5-941d1a3a9c19.png/v1/fill/w_1280,h_536,strp/the_new_rabbids_logo_by_superwilliambro_dexwapz-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTM2IiwicGF0aCI6IlwvZlwvYjA2YjQ4NTEtY2MwMC00Yzg0LWFhNzMtODJjZThmOWU4MzBkXC9kZXh3YXB6LWMxMmRmNGIwLTJiNTctNGFiNS05N2E1LTk0MWQxYTNhOWMxOS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.mbeEZG1GKT_7CEIXYdV7nt5hIkkzZYVI8hLg-YtNMUM",Rabbids
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/230875.ts
+#EXTINF:-1  group-title="Rakuten" tvg-logo="https://www.industriadeltenis.com/wp-content/uploads/2021/06/logo.png",Rakuten Tv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/415373.ts
+#EXTINF:-1  group-title="Rakuten" tvg-logo="https://www.industriadeltenis.com/wp-content/uploads/2021/06/logo.png",Rakuten Tv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/415364.ts
+#EXTINF:-1  group-title="Rakuten" tvg-logo="https://www.industriadeltenis.com/wp-content/uploads/2021/06/logo.png",Rakuten Tv 2
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/415372.ts
+#EXTINF:-1  group-title="Rakuten" tvg-logo="https://www.industriadeltenis.com/wp-content/uploads/2021/06/logo.png",Rakuten Tv 2
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/415363.ts
+#EXTINF:-1  group-title="Rakuten" tvg-logo="https://www.industriadeltenis.com/wp-content/uploads/2021/06/logo.png",Rakuten Tv 3
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/415371.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/REALM.png",Real Madrid TV
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1850.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/REALM.png",Real Madrid TV
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1637.ts
+#EXTINF:-1  group-title="24H" tvg-logo="https://asecom.es/wp-content/uploads/2019/01/reino-ben-y-holly.jpg",Reino de ben y holly
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/109398.ts
+#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/02/Ribera-TV-324x235.png",Riberatv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420736.ts
+#EXTINF:-1  group-title="Canarias" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-sA3esnb6WoRlFeVhZ9FY_jAt-DMhsNJ2g-XXJ=s88-c-k-c0x00ffffff-no-rj",Rtv mogán
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420735.ts
+#EXTINF:-1  group-title="Ceuta" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/02/Radio-Television-Ceuta-en-directo-Online-324x235.png",RTVCE
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420734.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://www.saltv.es/wp-content/uploads/2021/01/logoi-cabecera-1.png",Sal TV
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420733.ts
+#EXTINF:-1  group-title="24H" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/f/f3/La_Oveja_Shaun_logo.png/revision/latest?cb=20160220083800&path-prefix=es",Shaun the sheep
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/289576.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SOMOS.png",Somos HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/300096.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SOMOS.png",Somos HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/300095.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SUNDAN.png",Sundance
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1821.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SUNDAN.png",Sundance
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1653.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SCI-FI.png",SYFY HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1876.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SCI-FI.png",SYFY HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1652.ts
+#EXTINF:-1  group-title="Cine" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TQ1.png",Taquilla Animación
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/395238.ts
+#EXTINF:-1  group-title="Cine" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TQ1.png",Taquilla Bélica
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/395213.ts
+#EXTINF:-1  group-title="Cine" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TQ1.png",Taquilla Christmas
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/285160.ts
+#EXTINF:-1  group-title="Cine" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TQ1.png",Taquilla Crimen
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/395218.ts
+#EXTINF:-1  group-title="Cine" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TQ1.png",Taquilla Documentary
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/395237.ts
+#EXTINF:-1  group-title="Cine" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TQ1.png",Taquilla Documentary
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/395221.ts
+#EXTINF:-1  group-title="Cine" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TQ1.png",Taquilla Drama
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/395233.ts
+#EXTINF:-1  group-title="Cine" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TQ1.png",Taquilla Family
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/395215.ts
+#EXTINF:-1  group-title="Cine" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TQ1.png",Taquilla Music
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/395222.ts
+#EXTINF:-1  group-title="Cine" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TQ1.png",Taquilla Netflix
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/289599.ts
+#EXTINF:-1  group-title="Cine" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TQ1.png",Taquilla Romance
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/395232.ts
+#EXTINF:-1  group-title="Cine" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TQ1.png",Taquilla Terror
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/395231.ts
+#EXTINF:-1  group-title="Cine" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TQ1.png",Taquilla Thriller
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/395211.ts
+#EXTINF:-1  group-title="Cine" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TQ1.png",Taquilla Western
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/395216.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TCM.png",TCM HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1875.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TCM.png",TCM HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1651.ts
+#EXTINF:-1  group-title="Pluto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Teen Stars HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412918.ts
+#EXTINF:-1  group-title="Islas Baleares" tvg-logo="http://grupoprensapitiusa.es/images/logo%20TEF.png",TEF
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420732.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/T5.png",Telecinco HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1911.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/T5.png",Telecinco HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1693.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TDEP.png",Teledeporte
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1831.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TDEP.png",Teledeporte
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1618.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Telegilena-en-directo-Online-324x235.png",Telegilena
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420729.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TELMAD.png",Telemadrid
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420728.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TELMAD.png",Telemadrid FHD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412515.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TELMAD.png",Telemadrid HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412514.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TELMAD.png",Telemadrid SD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412513.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TELMAD.png",Telemadrid SD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412512.ts
+#EXTINF:-1  group-title="Pluto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Telenovelas HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412917.ts
+#EXTINF:-1  group-title="C. Foral de Navarra" tvg-logo="https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_200x200.jpg",TeleRibera
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420727.ts
+#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://pbs.twimg.com/profile_banners/158296410/1475575149/600x200",Telesafor
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420726.ts
+#EXTINF:-1  group-title="Social" tvg-logo="https://ferugby.es/wp-content/uploads/2021/03/ten-535x420.jpg",Ten
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420723.ts
+#EXTINF:-1  group-title="Cataluña" tvg-logo="https://pbs.twimg.com/profile_images/1252212600923979776/Z8ANYZqX_400x400.jpg",teve.cat
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420722.ts
+#EXTINF:-1  group-title="Social" tvg-logo="https://mark.trademarkia.com/logo-images/the-pet-collective/the-pet-collective-86911490.jpg",The Pet Collective Europe
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/415370.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TNT.png",TNT HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1874.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TNT.png",TNT HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1650.ts
+#EXTINF:-1  group-title="Pluto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Toons Clasico HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412916.ts
+#EXTINF:-1  group-title="Pluto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",Top Gear HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412915.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CFERIA.png",Toros HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1849.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CFERIA.png",Toros HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1636.ts
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2021/04/Tuya-TV-La-Janda-en-directo-Online-324x235.png",Tuya TV La Janda
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420719.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CANAR.png",TV Canaria
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420716.ts
+#EXTINF:-1  group-title="Castilla-La Mancha" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/tv-hell%C3%ADn-324x235.png",TV Hellín
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420712.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TV3CAT.png",TV3
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412504.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVC.png",TV3 Cat
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420711.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="http://logok.org/wp-content/uploads/2014/11/TVE-logo-880x645.png",Tve internacional HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1916.ts
+#EXTINF:-1  group-title="Generalistas" tvg-logo="http://logok.org/wp-content/uploads/2014/11/TVE-logo-880x645.png",Tve internacional HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1698.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVGAL.png",TVG
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420706.ts
+#EXTINF:-1  group-title="Galicia" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/tvg-cultura-en-directo-324x235.png",Tvg cultura
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420709.ts
+#EXTINF:-1  group-title="Galicia" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/tvg-cultura-en-directo-324x235.png",Tvg cultura
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420708.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVGAL.png",TVG FHD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412518.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVGAL.png",TVG HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/1904.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVGAL.png",TVG HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412516.ts
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVGAL.png",TVG HEVC
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412517.ts
+#EXTINF:-1  group-title="Galicia" tvg-logo="https://tvendirecto.es/wp-content/uploads/tvg-xabarin-en-directo.png",Tvg infantil
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420707.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/UBEAT.png",Ubeat
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/412736.ts
+#EXTINF:-1  group-title="País Vasco" tvg-logo="https://diretele.com/wp-content/uploads/2019/03/urola-telebista-150x150.png",Urola TV
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420703.ts
+#EXTINF:-1  group-title="Cataluña" tvg-logo="https://pbs.twimg.com/profile_images/569157661963206656/EP7P6BdB_400x400.jpeg",Ventdelnord TV
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420702.ts
+#EXTINF:-1  group-title="Castilla-La Mancha" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/visi%C3%B3n-6-324x235.png",Vision 6 tv
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/420701.ts
+#EXTINF:-1  group-title="Weather" tvg-logo="https://v.fastcdn.co/u/ce0680fc/50673365-0-WEATHERSPY-LOGO-WHIT.png",WeatherSpy
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/415369.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/XTRM.png",XTRM HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/192239.ts
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/XTRM.png",XTRM HD
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/192238.ts
+#EXTINF:-1  group-title="24H" tvg-logo="https://occ-0-6475-358.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABXN8Q1Sse3v7ZmUiwLR1zIP_7G_thfMaIFYqOyBR8wKFnOZquPtM3iFqY-j777pZp0Sc2FIoT6ePzQTv5k5DbvlbEGkIa9-PBH80bEHd0Ugi.png?r=fa4",Zig and sharko
+http://line.ottspain.org:80/live/WQSXPHBCKZ/CRDMKIF05V&output=ts/253923.ts

@@ -335,3 +335,7 @@ http://untv.theworkpc.com:8080/live/gianlucaboschetti/jEsWp4C2nH/218873.ts
 http://untv.theworkpc.com:8080/live/gianlucaboschetti/jEsWp4C2nH/218930.ts
 #EXTINF:-1 group-title="Social" tvg-logo="https://ferugby.es/wp-content/uploads/2021/03/ten-535x420.jpg",Ten
 http://untv.theworkpc.com:8080/live/gianlucaboschetti/jEsWp4C2nH/261907.ts
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FDFIC.png",Factoría de Ficción
+http://untv.theworkpc.com:8080/live/gianlucaboschetti/jEsWp4C2nH/261888.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SOMOS.png",Somos
+http://untv.theworkpc.com:8080/live/gianlucaboschetti/jEsWp4C2nH/261905.ts
