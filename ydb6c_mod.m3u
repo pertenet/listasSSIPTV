@@ -79,6 +79,10 @@ http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/342.ts
 http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/771.ts
 #EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M2SD.png",DAZN 2 HD
 http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/774.ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZN3.png",DAZN 3 HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1184.ts
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZN4.png",DAZN 4 HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1185.ts
 #EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MVF1.png",DAZN F1 HD
 http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/43.ts
 #EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNL2.png",DAZN LaLiga 2
@@ -145,10 +149,12 @@ http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1449.ts
 http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/24.ts
 #EXTINF:-1  group-title="Música" tvg-logo="https://i0.wp.com/www.urbanrevolution.es/wp-content/uploads/2022/02/cropped-positivo-con-sombra.png?resize=1536%2C530&ssl=1",La urban tv
 http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1663.ts
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS.png",LaLiga SmartbankTV 2
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1751.ts
 #EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS.png",LaLiga SmartbankTV 2 HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1184.ts
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1750.ts
 #EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS.png",LaLiga SmartbankTV 2 HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1185.ts
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1749.ts
 #EXTINF:-1  group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/3jk5k9pcxrp9.jpg",Los 40 principales
 http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/306.ts
 #EXTINF:-1  group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/wjjjFDCWEd.jpg",Los 40 urban
