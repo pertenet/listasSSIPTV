@@ -1,5 +1,21 @@
 #EXTM3U
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS2.png",LaLiga SmartbankTV 1
-http://185.229.191.146.dramostimes.ablatv.me/live/c6.php?z=997&ui=5017&s=CT4AF4F4R8&id=26628&h=c809305056cb2f091b04fca85c5bc81943b153bd&n=1657135438&i=83.32.162.147
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS2.png",LaLiga SmartbankTV 1
-http://185.229.191.146.dramostimes.ablatv.me/live/c6.php?z=997&ui=5017&s=CT4AF4F4R8&id=26630&h=c809305056cb2f091b04fca85c5bc81943b153bd&n=1657135438&i=83.32.162.147
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GMUNDI.png",Gol Mundial
+http://skodesm.site:2082/P22010360/Z98jjVWzazrq/151637
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GMUNDI.png",Gol Mundial
+http://skodesm.site:2082/P22010360/Z98jjVWzazrq/151666
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GMUNDI.png",Gol Mundial
+http://skodesm.site:2082/P22010360/Z98jjVWzazrq/151667
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GMUNDI.png",Gol Mundial
+http://skodesm.site:2082/P22010360/Z98jjVWzazrq/151668
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",GOL MUNDIAL FHD
+http://skodesm.site:2082/P22010360/Z98jjVWzazrq/243743
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",GOL MUNDIAL HD
+http://skodesm.site:2082/P22010360/Z98jjVWzazrq/243744
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",GOL MUNDIAL SD
+http://skodesm.site:2082/P22010360/Z98jjVWzazrq/243745
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",GOL MUNDIAL 1 FHD
+http://skodesm.site:2082/P22010360/Z98jjVWzazrq/243746
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",GOL MUNDIAL 1 HD
+http://skodesm.site:2082/P22010360/Z98jjVWzazrq/243747
+#EXTINF:-1 group-title="N/A" tvg-logo="N/A",GOL MUNDIAL 1 SD
+http://skodesm.site:2082/P22010360/Z98jjVWzazrq/243748
