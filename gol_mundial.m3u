@@ -1,23 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="N/A" tvg-logo="N/A",ES: #VAMOS FHD
-http://luneson.ddns.net:8080/676221209/o1882MBZsN/515997
-#EXTINF:-1 group-title="N/A" tvg-logo="N/A",ES: #VAMOS HD
-http://luneson.ddns.net:8080/676221209/o1882MBZsN/513813
-#EXTINF:-1 group-title="N/A" tvg-logo="N/A",ES: #VAMOS SD
-http://luneson.ddns.net:8080/676221209/o1882MBZsN/513816
-#EXTINF:-1 group-title="N/A" tvg-logo="N/A",ES: #VAMOS FHD
+#EXTINF:-1 group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png",DAZN LaLiga FHD
 http://joelkilamiar.org:8080/X8c422kTjg/wNKwfnXuxa/262099
-#EXTINF:-1 group-title="N/A" tvg-logo="N/A",ES: #VAMOS HD
+#EXTINF:-1 group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png",DAZN LaLiga HD
 http://joelkilamiar.org:8080/X8c422kTjg/wNKwfnXuxa/262207
-#EXTINF:-1 group-title="N/A" tvg-logo="N/A",ES: #VAMOS SD
+#EXTINF:-1 group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png",DAZN LaLiga SD
 http://joelkilamiar.org:8080/X8c422kTjg/wNKwfnXuxa/262208
-#EXTINF:-1 group-title="N/A" tvg-logo="N/A",ES: #VAMOS SD
+#EXTINF:-1 group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png",DAZN LaLiga SD
 http://joelkilamiar.org:8080/X8c422kTjg/wNKwfnXuxa/262209
-#EXTINF:-1 group-title="N/A" tvg-logo="N/A",ES: #VAMOS SD
+#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png",M+ LaLiga 4K
 http://73d961cc007f8474d1998b78e70c1f5f.spa.iscaja.me:25461/oAK5I2ad4s/986881925256/26141?h=8870e112a9cbc321467fbc04bdc9a862c740c190&z=83.138.40.70&i=2951
-#EXTINF:-1 group-title="N/A" tvg-logo="N/A",ES: #VAMOS SD
+#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png",M+ LaLiga
 http://73d961cc007f8474d1998b78e70c1f5f.spa.iscaja.me:25461/oAK5I2ad4s/986881925256/26269?h=8870e112a9cbc321467fbc04bdc9a862c740c190&z=83.138.40.70&i=2951
-#EXTINF:-1 group-title="N/A" tvg-logo="N/A",ES: #VAMOS SD
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png",LaLiga SmartbankTV SD
 http://73d961cc007f8474d1998b78e70c1f5f.spa.iscaja.me:25461/oAK5I2ad4s/986881925256/27166?h=8870e112a9cbc321467fbc04bdc9a862c740c190&z=83.138.40.70&i=2951
-#EXTINF:-1 group-title="N/A" tvg-logo="N/A",ES: #VAMOS SD
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png",LaLiga SmartbankTV SD
 http://73d961cc007f8474d1998b78e70c1f5f.spa.iscaja.me:25461/oAK5I2ad4s/986881925256/27196?h=8870e112a9cbc321467fbc04bdc9a862c740c190&z=83.138.40.70&i=2951
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png",M+ #Vamos 4K
+http://73d961cc007f8474d1998b78e70c1f5f.spa.iscaja.me:25461/oAK5I2ad4s/986881925256/26267?h=8870e112a9cbc321467fbc04bdc9a862c740c190&z=83.138.40.70&i=2951
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png",M+ #Vamos
+http://73d961cc007f8474d1998b78e70c1f5f.spa.iscaja.me:25461/oAK5I2ad4s/986881925256/26268?h=8870e112a9cbc321467fbc04bdc9a862c740c190&z=83.138.40.70&i=2951
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f572%2flaliga-tv-bar-2.png",Laliga tv bar 4K
+http://73d961cc007f8474d1998b78e70c1f5f.spa.iscaja.me:25461/oAK5I2ad4s/986881925256/26269?h=8870e112a9cbc321467fbc04bdc9a862c740c190&z=83.138.40.70&i=2951
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png",M+ #Vamos 4K
+http://73d961cc007f8474d1998b78e70c1f5f.spa.iscaja.me:25461/oAK5I2ad4s/986881925256/26270?h=8870e112a9cbc321467fbc04bdc9a862c740c190&z=83.138.40.70&i=2951
