@@ -1,0 +1,421 @@
+#EXTM3U
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200",101 TV Málaga #
+http://37.49.225.197:8080/stadnik2/7082341272/146345
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://i.imgur.com/VnXBtjD.png",Bailén TV #
+http://37.49.225.197:8080/stadnik2/7082341272/285732
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://diretele.com/wp-content/uploads/2019/03/Canal-45-Ja%C3%A9n-en-directo-100x70.png",Canal 45 TV #
+http://37.49.225.197:8080/stadnik2/7082341272/285733
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniAZB2q-vXPojR8-s48qBkScsAsVmJBpZSs6ZkMwA=s200-c-k-c0x00ffffff-no-rj",Canal Doñana #
+http://37.49.225.197:8080/stadnik2/7082341272/285742
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://i.imgur.com/BXmmroM.jpg",Canal Málaga #
+http://37.49.225.197:8080/stadnik2/7082341272/12139
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://graph.facebook.com/condavision/picture?width=200&height=200",Condavisión #
+http://37.49.225.197:8080/stadnik2/7082341272/200662
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://graph.facebook.com/costadelsoltv/picture?width=200&height=200",Costadelsol TV #
+http://37.49.225.197:8080/stadnik2/7082341272/295246
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://diretele.com/wp-content/uploads/2019/03/diez-tv-en-directo-150x150.png",Diez TV #
+http://37.49.225.197:8080/stadnik2/7082341272/269929
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://diretele.com/wp-content/uploads/2019/03/fuengirola-tv-en-directo-150x150.png",Fuengirola TV #
+http://37.49.225.197:8080/stadnik2/7082341272/299530
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://diretele.com/wp-content/uploads/2019/03/interalmeria-tv-en-directo-150x150.png",InterAlmería #
+http://37.49.225.197:8080/stadnik2/7082341272/81640
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://graph.facebook.com/m95tvmarbella/picture?width=200&height=200",M95 Marbella #
+http://37.49.225.197:8080/stadnik2/7082341272/299508
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://graph.facebook.com/RTVMarbella/picture?width=200&height=200",Marbella TV #
+http://37.49.225.197:8080/stadnik2/7082341272/174751
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://graph.facebook.com/ondaalgecirastv/picture?width=320&height=320",Onda Algeciras TV #
+http://37.49.225.197:8080/stadnik2/7082341272/269932
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://ondacadiz.es/sites/default/files/programas-tv/imagenes/logo_onda_cadiz_0.png",Onda Cádiz #
+http://37.49.225.197:8080/stadnik2/7082341272/66953
+#EXTINF:-1  group-title="Andalucía" tvg-logo="https://diretele.com/wp-content/uploads/2019/03/teleonuba-en-directo-150x150.png",Teleonuba #
+http://37.49.225.197:8080/stadnik2/7082341272/145619
+#EXTINF:-1  group-title="Andorra" tvg-logo="https://i.imgur.com/kJCjeQ4.png",ATV Andorra #
+http://37.49.225.197:8080/stadnik2/7082341272/299404
+#EXTINF:-1  group-title="Aragón" tvg-logo="https://i.imgur.com/2BBGZ1H.png",Canal 25 Barbastro TV #
+http://37.49.225.197:8080/stadnik2/7082341272/146340
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/3_24.png",3 24 #
+http://37.49.225.197:8080/stadnik2/7082341272/165149
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/7TVMUR.png",7 TV Región Murcia #
+http://37.49.225.197:8080/stadnik2/7082341272/285723
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/APUNT.png",À Punt #
+http://37.49.225.197:8080/stadnik2/7082341272/146343
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARAGON.png",Aragón TV Int #
+http://37.49.225.197:8080/stadnik2/7082341272/2758
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BTV.png",Betevé #
+http://37.49.225.197:8080/stadnik2/7082341272/285834
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CANSUR.png",Canal Sur #
+http://37.49.225.197:8080/stadnik2/7082341272/11809
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ANTV.png",Canal Sur Andalucía #
+http://37.49.225.197:8080/stadnik2/7082341272/2191
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CASMAN.png",Castilla la Mancha TV #
+http://37.49.225.197:8080/stadnik2/7082341272/81353
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CASMAN.png",Castilla la Mancha TV #
+http://37.49.225.197:8080/stadnik2/7082341272/169000
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ETB1.png",ETB 1 #
+http://37.49.225.197:8080/stadnik2/7082341272/165969
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ETB2.png",ETB 2 #
+http://37.49.225.197:8080/stadnik2/7082341272/165970
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYLTV.png",La 7 #
+http://37.49.225.197:8080/stadnik2/7082341272/285768
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/OTRA.png",La Otra #
+http://37.49.225.197:8080/stadnik2/7082341272/145616
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TELMAD.png",Telemadrid #
+http://37.49.225.197:8080/stadnik2/7082341272/298747
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVC.png",TV3 Cat #
+http://37.49.225.197:8080/stadnik2/7082341272/9367
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVGAL.png",TVG #
+http://37.49.225.197:8080/stadnik2/7082341272/2192
+#EXTINF:-1  group-title="Autonómicos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVG2.png",TVG 2 #
+http://37.49.225.197:8080/stadnik2/7082341272/281802
+#EXTINF:-1  group-title="C. Foral de Navarra" tvg-logo="https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_200x200.jpg",Teleribera #
+http://37.49.225.197:8080/stadnik2/7082341272/285823
+#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://graph.facebook.com/alacantitv/picture?width=200&height=200",Alacantí TV #
+http://37.49.225.197:8080/stadnik2/7082341272/66947
+#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://graph.facebook.com/canal56televisio/picture?width=200&height=200",Canal 56 #
+http://37.49.225.197:8080/stadnik2/7082341272/270088
+#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://graph.facebook.com/Punt3Television/picture?width=200&height=200",Punt 3 Vall Uixó #
+http://37.49.225.197:8080/stadnik2/7082341272/269913
+#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://pbs.twimg.com/profile_banners/158296410/1475575149/600x200",Telesafor #
+http://37.49.225.197:8080/stadnik2/7082341272/50133
+#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://graph.facebook.com/TV4LaVall/picture?width=200&height=200",TV 4 Vall De Uxó #
+http://37.49.225.197:8080/stadnik2/7082341272/285753
+#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://graph.facebook.com/TV4LaVall/picture?width=200&height=200",TV 4 Vall De Uxó #
+http://37.49.225.197:8080/stadnik2/7082341272/270092
+#EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://graph.facebook.com/TVVegaBaja/picture?width=200&height=200",TV Vega Baja #
+http://37.49.225.197:8080/stadnik2/7082341272/269915
+#EXTINF:-1  group-title="Canarias" tvg-logo="https://i.imgur.com/05g9Qge.png",Costa Noroeste TV #
+http://37.49.225.197:8080/stadnik2/7082341272/285752
+#EXTINF:-1  group-title="Canarias" tvg-logo="https://pertenet.github.io/imagenes/autonomicos/lancelot.png",Lancelot TV #
+http://37.49.225.197:8080/stadnik2/7082341272/12159
+#EXTINF:-1  group-title="Canarias" tvg-logo="https://tvendirecto.es/wp-content/uploads/mirame-tv-en-directo.png",Mírame TV #
+http://37.49.225.197:8080/stadnik2/7082341272/285786
+#EXTINF:-1  group-title="Cantabria" tvg-logo="https://diretele.com/wp-content/uploads/2018/09/POPULAR-TV-CANTABRIA-1-150x150.png",Popular TV Cantabria #
+http://37.49.225.197:8080/stadnik2/7082341272/285794
+#EXTINF:-1  group-title="Castilla y León" tvg-logo="https://marchabedelalsasierradebejar.files.wordpress.com/2015/01/logo-junta-de-castilla-y-leon.jpg",Junta Castilla y León #
+http://37.49.225.197:8080/stadnik2/7082341272/285767
+#EXTINF:-1  group-title="Castilla-La Mancha" tvg-logo="https://i.imgur.com/pzJAYan.png",Alcarria TV #
+http://37.49.225.197:8080/stadnik2/7082341272/12153
+#EXTINF:-1  group-title="Castilla-La Mancha" tvg-logo="https://i.imgur.com/FykJUCH.png",Canal 2000 La Solana #
+http://37.49.225.197:8080/stadnik2/7082341272/294891
+#EXTINF:-1  group-title="Castilla-La Mancha" tvg-logo="http://imastv.es/wp-content/uploads/2017/10/Slide-imastv-250x250.png",Imás TV #
+http://37.49.225.197:8080/stadnik2/7082341272/269931
+#EXTINF:-1  group-title="Cataluña" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Bon_Dia_TV_2021.jpg",Bon Dia TV #
+http://37.49.225.197:8080/stadnik2/7082341272/165148
+#EXTINF:-1  group-title="Cataluña" tvg-logo="https://restaurantgrop.cat/wp-content/uploads/2020/10/logo-canal-10-emporda.png",Canal 10 Empordà #
+http://37.49.225.197:8080/stadnik2/7082341272/285737
+#EXTINF:-1  group-title="Cataluña" tvg-logo="https://www.canaltaronja.cat/osona/wp-content/uploads/2016/12/logo-nou.png",Canal Taronja Osona #
+http://37.49.225.197:8080/stadnik2/7082341272/285746
+#EXTINF:-1  group-title="Cataluña" tvg-logo="https://tvgirona.com/wp-content/uploads/2022/01/tvgirona_logo_HD-scaled.jpg",Girona TV #
+http://37.49.225.197:8080/stadnik2/7082341272/174484
+#EXTINF:-1  group-title="Cataluña" tvg-logo="https://diretele.com/wp-content/uploads/2019/03/MarTV-150x150.png",Mar TV #
+http://37.49.225.197:8080/stadnik2/7082341272/166347
+#EXTINF:-1  group-title="Cataluña" tvg-logo="https://pbs.twimg.com/profile_images/569157661963206656/EP7P6BdB_400x400.jpeg",Ventdelnord TV #
+http://37.49.225.197:8080/stadnik2/7082341272/285832
+#EXTINF:-1  group-title="Cine" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png",Alquiler #
+http://37.49.225.197:8080/stadnik2/7082341272/12109
+#EXTINF:-1  group-title="Cine" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png",Alquiler 1 #
+http://37.49.225.197:8080/stadnik2/7082341272/12107
+#EXTINF:-1  group-title="Cine" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png",Alquiler 2 #
+http://37.49.225.197:8080/stadnik2/7082341272/12108
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png",DAZN 1 #
+http://37.49.225.197:8080/stadnik2/7082341272/64711
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png",DAZN 2 #
+http://37.49.225.197:8080/stadnik2/7082341272/64712
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png",DAZN 2 #
+http://37.49.225.197:8080/stadnik2/7082341272/269911
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png",DAZN 2 #
+http://37.49.225.197:8080/stadnik2/7082341272/298745
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png",DAZN 3 #
+http://37.49.225.197:8080/stadnik2/7082341272/269912
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png",DAZN F1 #
+http://37.49.225.197:8080/stadnik2/7082341272/1672
+#EXTINF:-1  group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png",DAZN LaLiga #
+http://37.49.225.197:8080/stadnik2/7082341272/297787
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png/revision/latest/scale-to-width-down/1000?cb=20121007054435",Espn 2 #
+http://37.49.225.197:8080/stadnik2/7082341272/281480
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://library.kissclipart.com/20180924/bwq/kissclipart-espn-deportes-logo-clipart-espn-deportes-sports-93892b78a6709a4f.png",Espn deportes #
+http://37.49.225.197:8080/stadnik2/7082341272/281417
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP3.png",Esport 3 #
+http://37.49.225.197:8080/stadnik2/7082341272/7445
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png",GOL PLAY #
+http://37.49.225.197:8080/stadnik2/7082341272/297246
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://nuestropuntodevista.com/wp-content/uploads/2021/02/LaLigaTV-Bar-incorpora-opci%C3%B3n-en-ingl%C3%A9s-a-sus-canales-de-audio-780x405.jpg",Laliga tv bar #
+http://37.49.225.197:8080/stadnik2/7082341272/197711
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png",LaLiga TV Hypermotion #
+http://37.49.225.197:8080/stadnik2/7082341272/297788
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png",LaLiga TV Hypermotion #
+http://37.49.225.197:8080/stadnik2/7082341272/297791
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png",LaLiga TV Hypermotion #
+http://37.49.225.197:8080/stadnik2/7082341272/300830
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png",LaLiga TV Hypermotion 2 #
+http://37.49.225.197:8080/stadnik2/7082341272/297790
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png",LaLiga TV Hypermotion 2 #
+http://37.49.225.197:8080/stadnik2/7082341272/300831
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png",LaLiga TV Hypermotion 3 #
+http://37.49.225.197:8080/stadnik2/7082341272/297789
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png",LaLiga TV Hypermotion 3 #
+http://37.49.225.197:8080/stadnik2/7082341272/300832
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png",M+ Deportes #
+http://37.49.225.197:8080/stadnik2/7082341272/227121
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP11.png",M+ Deportes 5 #
+http://37.49.225.197:8080/stadnik2/7082341272/285690
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI8.png",M+ Deportes 6 #
+http://37.49.225.197:8080/stadnik2/7082341272/198066
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png",M+ Ellas V #
+http://37.49.225.197:8080/stadnik2/7082341272/297242
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png",M+ Golf #
+http://37.49.225.197:8080/stadnik2/7082341272/1142
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png",M+ Vamos #
+http://37.49.225.197:8080/stadnik2/7082341272/2148
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png",M+ Vamos #
+http://37.49.225.197:8080/stadnik2/7082341272/300836
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2019/08/mavtv-logo-678.png",Mavtv europe #
+http://37.49.225.197:8080/stadnik2/7082341272/285845
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar_es_multideporte.png",MULTIDEPORTE #
+http://37.49.225.197:8080/stadnik2/7082341272/8110
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://graph.facebook.com/Mundotoro/picture?width=200&height=200",Mundotoro #
+http://37.49.225.197:8080/stadnik2/7082341272/298810
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://graph.facebook.com/Mundotoro/picture?width=200&height=200",Mundotoro #
+http://37.49.225.197:8080/stadnik2/7082341272/300837
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://graph.facebook.com/Mundotoro/picture?width=200&height=200",Mundotoro #
+http://37.49.225.197:8080/stadnik2/7082341272/1132
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png",Real Madrid TV #
+http://37.49.225.197:8080/stadnik2/7082341272/1136
+#EXTINF:-1  group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png",Teledeporte #
+http://37.49.225.197:8080/stadnik2/7082341272/2774
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png",Canal Odisea #
+http://37.49.225.197:8080/stadnik2/7082341272/2194
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CAZPES.png",Caza y Pesca #
+http://37.49.225.197:8080/stadnik2/7082341272/1165
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://lh3.googleusercontent.com/RId_CBFt6aM5XNSM1KrqAz0YhFsgZ7lxeg4JwxKsEJe9zlGJoYuodfdrpn-lch-JVRY=w96",Cazavisión #
+http://37.49.225.197:8080/stadnik2/7082341272/286374
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCR.png",Discovery #
+http://37.49.225.197:8080/stadnik2/7082341272/1162
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png",Discovery Max #
+http://37.49.225.197:8080/stadnik2/7082341272/9356
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png",Discovery Max #
+http://37.49.225.197:8080/stadnik2/7082341272/2762
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png",Historia #
+http://37.49.225.197:8080/stadnik2/7082341272/1155
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/IBERAL.png",Iberalia TV #
+http://37.49.225.197:8080/stadnik2/7082341272/2793
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png",Nat Geo Wild #
+http://37.49.225.197:8080/stadnik2/7082341272/1137
+#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png",National Geographic #
+http://37.49.225.197:8080/stadnik2/7082341272/1138
+#EXTINF:-1  group-title="Eurosport" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png",Eurosport 1 #
+http://37.49.225.197:8080/stadnik2/7082341272/1160
+#EXTINF:-1  group-title="Eurosport" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png",Eurosport 2 #
+http://37.49.225.197:8080/stadnik2/7082341272/1159
+#EXTINF:-1  group-title="Eventuales" tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200",Canal Parlamento #
+http://37.49.225.197:8080/stadnik2/7082341272/12052
+#EXTINF:-1  group-title="Eventuales" tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200",Congreso de los Diputados 1 #
+http://37.49.225.197:8080/stadnik2/7082341272/285747
+#EXTINF:-1  group-title="Eventuales" tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200",Congreso de los Diputados 2 #
+http://37.49.225.197:8080/stadnik2/7082341272/285748
+#EXTINF:-1  group-title="Eventuales" tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200",Congreso de los Diputados 3 #
+http://37.49.225.197:8080/stadnik2/7082341272/285749
+#EXTINF:-1  group-title="Eventuales" tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200",Congreso de los Diputados 4 #
+http://37.49.225.197:8080/stadnik2/7082341272/285750
+#EXTINF:-1  group-title="Eventuales" tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200",Congreso de los Diputados 5 #
+http://37.49.225.197:8080/stadnik2/7082341272/285751
+#EXTINF:-1  group-title="Galicia" tvg-logo="https://graph.facebook.com/tvferrol/picture?width=200&height=200",TV Ferrol #
+http://37.49.225.197:8080/stadnik2/7082341272/299430
+#EXTINF:-1  group-title="Galicia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TVG_Cultura_%28Canle_online%29.jpg",TVG Cultura #
+http://37.49.225.197:8080/stadnik2/7082341272/71536
+#EXTINF:-1  group-title="Galicia" tvg-logo="https://tvendirecto.es/wp-content/uploads/tvg-xabarin-en-directo.png",TVG Infantil #
+http://37.49.225.197:8080/stadnik2/7082341272/281806
+#EXTINF:-1  group-title="Galicia" tvg-logo="https://diretele.com/wp-content/uploads/2018/09/MUSIGAL-150x150.png",TVG Musigal #
+http://37.49.225.197:8080/stadnik2/7082341272/281808
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png",24 Horas #
+http://37.49.225.197:8080/stadnik2/7082341272/2216
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png",Antena 3 #
+http://37.49.225.197:8080/stadnik2/7082341272/1173
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ATRESS.png",Atreseries #
+http://37.49.225.197:8080/stadnik2/7082341272/9102
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png",BE MAD #
+http://37.49.225.197:8080/stadnik2/7082341272/2213
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png",Cuatro #
+http://37.49.225.197:8080/stadnik2/7082341272/1163
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png",Divinity #
+http://37.49.225.197:8080/stadnik2/7082341272/2795
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/INTECO.png",El Toro TV #
+http://37.49.225.197:8080/stadnik2/7082341272/201928
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ENERGY.png",Energy #
+http://37.49.225.197:8080/stadnik2/7082341272/2217
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png",FDF #
+http://37.49.225.197:8080/stadnik2/7082341272/2207
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png",LA 1 #
+http://37.49.225.197:8080/stadnik2/7082341272/1151
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png",LA 2 #
+http://37.49.225.197:8080/stadnik2/7082341272/1150
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png",La Sexta #
+http://37.49.225.197:8080/stadnik2/7082341272/1152
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png",Mega #
+http://37.49.225.197:8080/stadnik2/7082341272/2190
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png",Neox #
+http://37.49.225.197:8080/stadnik2/7082341272/2208
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png",Nova #
+http://37.49.225.197:8080/stadnik2/7082341272/2189
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png",Telecinco #
+http://37.49.225.197:8080/stadnik2/7082341272/1133
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/13TV.png",TRECE TV #
+http://37.49.225.197:8080/stadnik2/7082341272/60943
+#EXTINF:-1  group-title="Generalistas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1200px-Logo_TVE-Internacional.svg.png",Tve internacional #
+http://37.49.225.197:8080/stadnik2/7082341272/5943
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BABY.png",Baby TV #
+http://37.49.225.197:8080/stadnik2/7082341272/5302
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOING.png",Boing #
+http://37.49.225.197:8080/stadnik2/7082341272/1169
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLANTV.png",Clan TVE #
+http://37.49.225.197:8080/stadnik2/7082341272/2214
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png",Disney Channel #
+http://37.49.225.197:8080/stadnik2/7082341272/1145
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PLAYDC.png",Disney Junior #
+http://37.49.225.197:8080/stadnik2/7082341272/5299
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png",Dreamworks #
+http://37.49.225.197:8080/stadnik2/7082341272/281787
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png",Enfamilia #
+http://37.49.225.197:8080/stadnik2/7082341272/300838
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICKJR.png",NICK JR #
+http://37.49.225.197:8080/stadnik2/7082341272/5296
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICK.png",Nickelodeon #
+http://37.49.225.197:8080/stadnik2/7082341272/2218
+#EXTINF:-1  group-title="Infantíl" tvg-logo="https://static.wixstatic.com/media/76b12f_c9171baf0d3145ea986102ebda0042e5~mv2.png",Pequeradio TV #
+http://37.49.225.197:8080/stadnik2/7082341272/285793
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MINDI.png",M+ Indie #
+http://37.49.225.197:8080/stadnik2/7082341272/300840
+#EXTINF:-1  group-title="M+ Cine" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MSUSP.png",M+ Suspense #
+http://37.49.225.197:8080/stadnik2/7082341272/300841
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png",M+ LaLiga 02 #
+http://37.49.225.197:8080/stadnik2/7082341272/1141
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png",M+ LaLiga 02 #
+http://37.49.225.197:8080/stadnik2/7082341272/5311
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png",M+ LaLiga 03 #
+http://37.49.225.197:8080/stadnik2/7082341272/281772
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png",M+ LaLiga 04 #
+http://37.49.225.197:8080/stadnik2/7082341272/269466
+#EXTINF:-1  group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG4.png",M+ LaLiga 05 #
+http://37.49.225.197:8080/stadnik2/7082341272/281792
+#EXTINF:-1  group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png",M+ Liga de Campeones #
+http://37.49.225.197:8080/stadnik2/7082341272/2800
+#EXTINF:-1  group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png",M+ Liga de Campeones 02 #
+http://37.49.225.197:8080/stadnik2/7082341272/197705
+#EXTINF:-1  group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png",M+ Liga de Campeones 02 #
+http://37.49.225.197:8080/stadnik2/7082341272/81096
+#EXTINF:-1  group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png",M+ Liga de Campeones 03 #
+http://37.49.225.197:8080/stadnik2/7082341272/298805
+#EXTINF:-1  group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png",M+ Liga de Campeones 04 #
+http://37.49.225.197:8080/stadnik2/7082341272/298806
+#EXTINF:-1  group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png",M+ Liga de Campeones 05 #
+http://37.49.225.197:8080/stadnik2/7082341272/298807
+#EXTINF:-1  group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP5.png",M+ Liga de Campeones 06 #
+http://37.49.225.197:8080/stadnik2/7082341272/298808
+#EXTINF:-1  group-title="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png",M+ Liga de Campeones 07 #
+http://37.49.225.197:8080/stadnik2/7082341272/146661
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png",M+ Acción #
+http://37.49.225.197:8080/stadnik2/7082341272/1148
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png",M+ Cine #
+http://37.49.225.197:8080/stadnik2/7082341272/1143
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png",M+ Cine Español #
+http://37.49.225.197:8080/stadnik2/7082341272/64788
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png",M+ Clásicos #
+http://37.49.225.197:8080/stadnik2/7082341272/281773
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png",M+ Comedia #
+http://37.49.225.197:8080/stadnik2/7082341272/1146
+#EXTINF:-1  group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png",M+ Drama #
+http://37.49.225.197:8080/stadnik2/7082341272/1144
+#EXTINF:-1  group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png",M+ Series #
+http://37.49.225.197:8080/stadnik2/7082341272/1140
+#EXTINF:-1  group-title="Melilla" tvg-logo="https://diretele.com/wp-content/uploads/2018/09/TV-Melilla-150x150.png",Melilla TV #
+http://37.49.225.197:8080/stadnik2/7082341272/270089
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png",AMC #
+http://37.49.225.197:8080/stadnik2/7082341272/1174
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png",AMC Break #
+http://37.49.225.197:8080/stadnik2/7082341272/297245
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png",AMC Crime #
+http://37.49.225.197:8080/stadnik2/7082341272/298744
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXN.png",AXN #
+http://37.49.225.197:8080/stadnik2/7082341272/1172
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png",AXN Movies #
+http://37.49.225.197:8080/stadnik2/7082341272/298734
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOMCIN.png",BOM Cine #
+http://37.49.225.197:8080/stadnik2/7082341272/75926
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png",Calle 13 #
+http://37.49.225.197:8080/stadnik2/7082341272/1168
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png",Canal Cocina #
+http://37.49.225.197:8080/stadnik2/7082341272/1167
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png",Comedy Central #
+http://37.49.225.197:8080/stadnik2/7082341272/1164
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png",COSMO #
+http://37.49.225.197:8080/stadnik2/7082341272/2215
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DARK.png",DARK #
+http://37.49.225.197:8080/stadnik2/7082341272/121514
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png",Fox #
+http://37.49.225.197:8080/stadnik2/7082341272/1158
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png",Hollywood #
+http://37.49.225.197:8080/stadnik2/7082341272/297243
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png",Hollywood HD #
+http://37.49.225.197:8080/stadnik2/7082341272/1154
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/RESIST.png",La Resistencia #
+http://37.49.225.197:8080/stadnik2/7082341272/286800
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png",M+ Documentales #
+http://37.49.225.197:8080/stadnik2/7082341272/300839
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MORIG.png",M+ Originales #
+http://37.49.225.197:8080/stadnik2/7082341272/300824
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png",Movistar Plus+ #
+http://37.49.225.197:8080/stadnik2/7082341272/8994
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SOMOS.png",Somos #
+http://37.49.225.197:8080/stadnik2/7082341272/16274
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png",SundanceTV #
+http://37.49.225.197:8080/stadnik2/7082341272/2757
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png",SYFY #
+http://37.49.225.197:8080/stadnik2/7082341272/1135
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png",TCM #
+http://37.49.225.197:8080/stadnik2/7082341272/1134
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/UBEAT.png",Ubeat #
+http://37.49.225.197:8080/stadnik2/7082341272/147368
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png",Warner bros #
+http://37.49.225.197:8080/stadnik2/7082341272/298814
+#EXTINF:-1  group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/XTRM.png",XTRM #
+http://37.49.225.197:8080/stadnik2/7082341272/11148
+#EXTINF:-1  group-title="Música" tvg-logo="https://pertenet.github.io/imagenes/int_musica/activatv.png",Activa tv #
+http://37.49.225.197:8080/stadnik2/7082341272/285727
+#EXTINF:-1  group-title="Música" tvg-logo="https://pbs.twimg.com/profile_images/1437729790296002567/SCHhYgkZ_400x400.jpg",Molahits tv #
+http://37.49.225.197:8080/stadnik2/7082341272/281793
+#EXTINF:-1  group-title="Música" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png",MTV #
+http://37.49.225.197:8080/stadnik2/7082341272/5308
+#EXTINF:-1  group-title="Música" tvg-logo="https://images.summitmedia-digital.com/esquiremagph/images/2022/09/07/mtv.png",MTV 90s #
+http://37.49.225.197:8080/stadnik2/7082341272/281795
+#EXTINF:-1  group-title="Noticias" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BL.png",Bloomberg #
+http://37.49.225.197:8080/stadnik2/7082341272/285720
+#EXTINF:-1  group-title="Noticias" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BL.png",Bloomberg TV Europe #
+http://37.49.225.197:8080/stadnik2/7082341272/285843
+#EXTINF:-1  group-title="Noticias" tvg-logo="https://3.bp.blogspot.com/-UAR2zTMUWVo/XVsKD9-071I/AAAAAAACJ10/YSSIkhiCHHkB_IUtrtBs7qfVYWnGt00WwCLcBGAs/s400/descarga.png",CNN en Español #
+http://37.49.225.197:8080/stadnik2/7082341272/31762
+#EXTINF:-1  group-title="Noticias" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ENW.png",Euronews #
+http://37.49.225.197:8080/stadnik2/7082341272/282292
+#EXTINF:-1  group-title="Noticias" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FRANCE.png",FRANCE24 #
+http://37.49.225.197:8080/stadnik2/7082341272/9148
+#EXTINF:-1  group-title="Noticias" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEGOTV.png",Negocios TV #
+http://37.49.225.197:8080/stadnik2/7082341272/298749
+#EXTINF:-1  group-title="País Vasco" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/ETB_Basque_2022.svg/revision/latest/scale-to-width-down/275?cb=20220106180200&path-prefix=es",Etb Basque #
+http://37.49.225.197:8080/stadnik2/7082341272/50135
+#EXTINF:-1  group-title="País Vasco" tvg-logo="https://graph.facebook.com/HamaikaTb/picture?width=200&height=200",Hamaika TV #
+http://37.49.225.197:8080/stadnik2/7082341272/285762
+#EXTINF:-1  group-title="Religión" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Esperanza-TV-NorteAm%C3%A9rica-en-directo-Online-324x235.png",Esperanza TV #
+http://37.49.225.197:8080/stadnik2/7082341272/11119
+#EXTINF:-1  group-title="Religión" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/logos-tv-324x235.png",Logos TV #
+http://37.49.225.197:8080/stadnik2/7082341272/281790
+#EXTINF:-1  group-title="Religión" tvg-logo="https://graph.facebook.com/solidariatv/picture?width=200&height=200",Solidaria TV #
+http://37.49.225.197:8080/stadnik2/7082341272/285810
+#EXTINF:-1  group-title="Religión" tvg-logo="https://cdn-profiles.tunein.com/s116672/images/logod.png?t=162377",Vida RTV #
+http://37.49.225.197:8080/stadnik2/7082341272/285797
+#EXTINF:-1  group-title="Social" tvg-logo="https://logocharts.com/wp-content/uploads/2021/12/Ae-Logo-1600x1031.png",A&E #
+http://37.49.225.197:8080/stadnik2/7082341272/7731
+#EXTINF:-1  group-title="Social" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/315db791195215.Y3JvcCwxMzQ4LDEwNTQsMjg2LDEz.jpg",Blaze #
+http://37.49.225.197:8080/stadnik2/7082341272/5303
+#EXTINF:-1  group-title="Social" tvg-logo="https://mma.prnewswire.com/media/645443/HOLA_TV_Logo.jpg?w=500",Hola tv #
+http://37.49.225.197:8080/stadnik2/7082341272/3061
+#EXTINF:-1  group-title="Social" tvg-logo="https://ferugby.es/wp-content/uploads/2021/03/ten-535x420.jpg",Ten #
+http://37.49.225.197:8080/stadnik2/7082341272/5306
