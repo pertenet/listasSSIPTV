@@ -184,7 +184,7 @@ https://streaming005.gestec-video.com/hls/canal24.m3u8
 #EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://aquitelevision.com/wp-content/uploads/2019/09/8-mediterr%C3%A1neo.png",8 Mediterráneo #
 https://streaming004.gestec-video.com/hls/8TV.m3u8
 #EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/APUNT.png",À Punt #
-https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
+https://bcovlive-a.akamaihd.net/a51c31c10f6e42b2bbb7c7649e9f305c/eu-west-1/6057955885001/playlist_dvr.m3u8
 #EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://graph.facebook.com/alacantitv/picture?width=200&height=200",Alacantí TV #
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 #EXTINF:-1  group-title="C. Valenciana" tvg-logo="https://graph.facebook.com/burrianateve/picture?width=200&height=200",Burriana TV #
